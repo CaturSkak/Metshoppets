@@ -1,0 +1,14 @@
+Version 1.2 – 26 July 2021
+===================
+1. Update: Bootstrap v5.0.0-beta1 update to Bootstrap v5.0.2
+2. Update: popper js core v2.5.4 update to popper js core v2.9.2
+3. Fixed: Minor CSS issues fixed.
+
+Version 1.1 – 27 June 2021
+===================
+1. Update: Update jQuery plugins latest version.
+2. Fixed: Minor CSS issues fixed.
+
+Version 1.0 – 19 April 21
+===================
+Initial Released
