@@ -1,337 +1,9 @@
+<?php include 'header.php'?>
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Amber - Pet Care Bootstrap 5 Template</title>
-
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-    <!-- Vendor CSS (Icon Font) -->
-
-
-    <link rel="stylesheet" href="assets/css/vendor/fontawesome.min.css" />
-    <link rel="stylesheet" href="assets/css/vendor/simple-line-icons.min.css" />
-    <link rel="stylesheet" href="assets/css/vendor/themify-icons-min.css" />
+<html lang="en"  >
 
 
 
-    <!-- Plugins CSS (All Plugins Files) -->
-
-
-
-    <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/animate.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/aos.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.min.css" />
-
-
-
-    <!-- Main Style CSS -->
-
-
-    <link rel="stylesheet" href="assets/css/style.css" />
-
-
-
-    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
-
-
-    <!-- 
-<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
-<link rel="stylesheet" href="assets/css/style.min.css">  
--->
-
-
-</head>
-
-<body>
-    <!-- Header Section Start -->
-    <div class="header section">
-
-        <!-- Header Top Start -->
-        <div class="header-top bg-primary">
-            <div class="container">
-                <div class="row align-items-center">
-
-                    <!-- Header Top Message Start -->
-                    <div class="col-12 col-lg-6">
-                        <div class="header-top-msg-wrapper">
-                            <p class="header-top-message">Welcome To our shop !</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                        <div class="header-top-settings">
-                            <ul class="nav">
-                                <li class="curreny-wrap">
-                                    <a href="#">USD</a>
-                                    <i class="fa fa-angle-down"></i>
-                                    <ul class="dropdown-list curreny-list">
-                                        <li><a href="#">$ USD</a></li>
-                                        <li><a href="#">€ EUR</a></li>
-                                        <li><a href="#">£ GBP</a></li>
-                                        <li><a href="#">₹ INR</a></li>
-                                        <li><a href="#">¥ JPY</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Header Top Message End -->
-
-                </div>
-            </div>
-        </div>
-        <!-- Header Top End -->
-
-        <!-- Header Bottom Start -->
-        <div class="header-bottom">
-            <div class="header-sticky">
-                <div class="container">
-                    <div class="row align-items-center position-relative">
-
-                        <!-- Header Logo Start -->
-                        <div class="col-lg-3 col-md-4 col-6">
-                            <div class="header-logo">
-                                <a href="index.html"><img src="assets/images/logo/logo.png" alt="Site Logo" /></a>
-                            </div>
-                        </div>
-                        <!-- Header Logo End -->
-
-                        <!-- Header Menu Start -->
-                        <div class="col-lg-6 d-none d-lg-block">
-                            <div class="main-menu">
-                                <ul>
-                                    <li class="has-children">
-                                        <a href="#">Home</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Home 1</a></li>
-                                            <li><a href="index-2.html">Home 2</a></li>
-                                            <li><a href="index-3.html">Home 3</a></li>
-                                            <li><a href="index-4.html">Home 4</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-children position-static">
-                                        <a href="#">Shop</a>
-                                        <ul class="mega-menu">
-                                            <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Shop Layout</h4>
-                                                <ul class="mb-n2">
-                                                    <li><a href="shop.html">Shop Grid</a></li>
-                                                    <li><a href="shop-left-sidebar.html">Left Sidebar</a></li>
-                                                    <li><a href="shop-right-sidebar.html">Right Sidebar</a></li>
-                                                    <li><a href="shop-list-fullwidth.html">List Fullwidth</a></li>
-                                                    <li><a href="shop-list-left-sidebar.html">List Left Sidebar</a></li>
-                                                    <li><a href="shop-list-right-sidebar.html">List Right Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Product Layout</h4>
-                                                <ul class="mb-n2">
-                                                    <li><a href="single-product.html">Single Product</a></li>
-                                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                                    <li><a href="single-product-variable.html">Single Product Variable</a></li>
-                                                    <li><a href="single-product-countdown.html">Single Product Countdown</a></li>
-                                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Other Pages</h4>
-                                                <ul class="mb-n2">
-                                                    <li><a href="my-account.html">My Account</a></li>
-                                                    <li><a href="login.html">Login | Register</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                    <li><a href="cart.html">Cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="compare.html">Compare</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="mega-menu-col">
-                                                <div class="megamenu-image">
-                                                    <a href="shop.html">
-                                                        <img class="fit-image" src="assets/images/header/mega-menu.png" alt="Megamenu Image">
-                                                    </a>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-children">
-                                        <a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
-                                            <li><a href="error-404.html">Error 404</a></li>
-                                            <li><a href="faq.html">FAQ</a></li>
-                                            <li><a href="login.html">Login</a></li>
-                                            <li><a href="register.html">Register</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-children">
-                                        <a href="#">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                            <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                            <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Header Menu End -->
-
-                        <!-- Header Action Start -->
-                        <div class="col-lg-3 col-md-8 col-6">
-                            <div class="header-actions">
-
-                                <!-- Header Action Search Button Start -->
-                                <div class="header-action-btn header-action-btn-search d-none d-md-flex">
-                                    <div class="action-execute">
-                                        <a class="action-search-open" href="javascript:void(0)"><i class="icon-magnifier icons"></i></a>
-                                        <a class="action-search-close" href="javascript:void(0)"><i class="ti-close"></i></a>
-                                    </div>
-                                    <!-- Search Form and Button Start -->
-                                    <form class="header-search-form" action="#">
-                                        <input type="text" class="header-search-input" placeholder="Search Our Store">
-                                        <button class="header-search-button"><i class="icon-magnifier icons"></i></button>
-                                    </form>
-                                    <!-- Search Form and Button End -->
-
-                                </div>
-                                <!-- Header Action Search Button End -->
-
-                                <!-- Header My Account Button Start -->
-                                <a href="my-account.html" class="header-action-btn header-action-btn-wishlist">
-                                    <i class="icon-user icons"></i>
-                                </a>
-                                <!-- Header My Account Button End -->
-
-                                <!-- Header Action Button Start -->
-                                <div class="header-action-btn header-action-btn-cart d-none d-sm-flex">
-                                    <a class="cart-visible" href="javascript:void(0)">
-                                        <i class="icon-handbag icons"></i>
-                                        <span class="header-action-num">3</span>
-                                    </a>
-
-                                    <!-- Header Cart Content Start -->
-                                    <div class="header-cart-content">
-
-                                        <!-- Cart Procut Wrapper Start  -->
-                                        <div class="cart-product-wrapper">
-
-                                            <!-- Cart Product/Price Start -->
-                                            <div class="cart-product-inner mb-4 pb-4 border-bottom">
-
-                                                <!-- Single Cart Product Start -->
-                                                <div class="single-cart-product">
-                                                    <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
-                                                    </div>
-                                                    <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Basic Dog Trainning</a></h3>
-                                                        <div class="product-quty-price">
-                                                            <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
-                                                            <span class="price">
-															<span class="new">$70.00</span>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- Single Cart Product End -->
-
-                                                <!-- Product Remove Start -->
-                                                <div class="cart-product-remove">
-                                                    <a href="#/"><i class="icon-close"></i></a>
-                                                </div>
-                                                <!-- Product Remove End -->
-
-                                            </div>
-                                            <!-- Cart Product/Price End -->
-
-                                            <!-- Cart Product/Price Start -->
-                                            <div class="cart-product-inner mb-4 pb-4 border-bottom">
-
-                                                <!-- Single Cart Product Start -->
-                                                <div class="single-cart-product">
-                                                    <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
-                                                    </div>
-                                                    <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Wait, You Need This</a></h3>
-                                                        <div class="product-quty-price">
-                                                            <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
-                                                            <span class="price">
-															<span class="new">$80.00</span>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- Single Cart Product End -->
-
-                                                <!-- Product Remove Start -->
-                                                <div class="cart-product-remove">
-                                                    <a href="#/"><i class="icon-close"></i></a>
-                                                </div>
-                                                <!-- Product Remove End -->
-
-                                            </div>
-                                            <!-- Cart Product/Price End -->
-
-                                        </div>
-                                        <!-- Cart Procut Wrapper -->
-
-                                        <!-- Cart Product Total Start -->
-                                        <div class="cart-product-total mb-4 pb-4 border-bottom">
-                                            <span class="value">Total</span>
-                                            <span class="price">200$</span>
-                                        </div>
-                                        <!-- Cart Product Total End -->
-
-                                        <!-- Cart Product Button Start -->
-                                        <div class="cart-product-btn mt-4">
-                                            <a href="cart.html" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
-                                            <a href="checkout.html" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
-                                        </div>
-                                        <!-- Cart Product Button End -->
-
-                                    </div>
-                                    <!-- Header Cart Content End -->
-
-                                </div>
-                                <div class="header-action-btn header-action-btn-cart d-flex d-sm-none">
-                                    <a href="cart.html">
-                                        <i class="icon-handbag icons"></i>
-                                        <span class="header-action-num">3</span>
-                                    </a>
-                                </div>
-                                <!-- Header Action Button End -->
-
-                                <!-- Mobile Menu Hambarger Action Button Start -->
-                                <a href="javascript:void(0)" class="header-action-btn header-action-btn-menu d-lg-none d-md-flex">
-                                    <i class="icon-menu"></i>
-                                </a>
-                                <!-- Mobile Menu Hambarger Action Button End -->
-
-                            </div>
-                        </div>
-                        <!-- Header Action End -->
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header Bottom End -->
-
-    </div>
-    <!-- Header Section End -->
 
     <!-- Hero/Intro Slider Start -->
     <div class="section">
@@ -344,9 +16,9 @@
                     </div>
                     <div class="container">
                         <div class="hero-slide-content text-start">
-                            <h5 class="sub-title">We keep pets for pleasure.</h5>
-                            <h2 class="title m-0">Vitamins For all Pets</h2>
-                            <p class="ms-0">We know your concerns when you are looking for a chewing treat for your dog.</p>
+                            <h5 class="sub-title">MetShop Pet's</h5>
+                            <h2 class="title m-0">Penjodohan Hewan Peliharaan</h2>
+                            <p class="ms-0">Temukan Pasangan untuk Hewan Peliharaan Anda.</p>
                             <a href="shop.html" class="btn btn-dark btn-hover-primary">Shop Now</a>
                         </div>
                     </div>
@@ -358,9 +30,9 @@
                     </div>
                     <div class="container">
                         <div class="hero-slide-content text-center text-md-end">
-                            <h5 class="sub-title">We keep pets for pleasure.</h5>
-                            <h2 class="title m-0">Vitamins For all Pets</h2>
-                            <p>We know your concerns when you are looking for a chewing treat for your dog.</p>
+                            <h5 class="sub-title">MetShop Pet's</h5>
+                            <h2 class="title m-0">Penjualan Hewan Peliharaan</h2>
+                            <p>Temani Hidup Anda dengan Hewan Peliharaan.</p>
                             <a href="shop.html" class="btn btn-dark btn-hover-primary">Shop Now</a>
                         </div>
                     </div>
@@ -379,41 +51,76 @@
     </div>
     <!-- Hero/Intro Slider End -->
 
-    <!-- Banner Section Start -->
-    <div class="section section-margin">
+    <div class="section section-padding">
         <div class="container">
-            <!-- Banners Start -->
-            <div class="row row-cols-md-3 row-cols-sm-2 row-cols-1 mb-n6">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 mb-n6">
 
-                <!-- Banner Start -->
                 <div class="col mb-6" data-aos="fade-up" data-aos-duration="1000">
-                    <a href="shop.html" class="banner hover-style">
-                        <img class="fit-image" src="assets/images/banner/3.png" alt="Banner Image" />
-                    </a>
-                </div>
-                <!-- Banner End -->
+                    <!-- Single CTA Wrapper Start -->
+                    <div class="single-cta-wrapper">
 
-                <!-- Banner Start -->
-                <div class="col mb-6" data-aos="fade-up" data-aos-duration="1300">
-                    <a href="shop.html" class="banner hover-style">
-                        <img class="fit-image" src="assets/images/banner/4.png" alt="Banner Image" />
-                    </a>
-                </div>
-                <!-- Banner End -->
+                        <!-- CTA Icon Start -->
+                        <div class="cta-icon">
+                            <i class="ti-truck"></i>
+                        </div>
+                        <!-- CTA Icon End -->
 
-                <!-- Banner Start -->
-                <div class="col mb-6" data-aos="fade-up" data-aos-duration="1600">
-                    <a href="shop.html" class="banner hover-style">
-                        <img class="fit-image" src="assets/images/banner/5.png" alt="Banner Image" />
-                    </a>
+                        <!-- CTA Content Start -->
+                        <div class="cta-content">
+                            <h4 class="title">Free Shipping</h4>
+                            <p>Free shipping on all order</p>
+                        </div>
+                        <!-- CTA Content End -->
+
+                    </div>
+                    <!-- Single CTA Wrapper End -->
                 </div>
-                <!-- Banner End -->
+
+                <div class="col mb-6" data-aos="fade-up" data-aos-duration="1100">
+                    <!-- Single CTA Wrapper Start -->
+                    <div class="single-cta-wrapper">
+
+                        <!-- CTA Icon Start -->
+                        <div class="cta-icon">
+                            <i class="ti-headphone-alt"></i>
+                        </div>
+                        <!-- CTA Icon End -->
+
+                        <!-- CTA Content Start -->
+                        <div class="cta-content">
+                            <h4 class="title">Online Support</h4>
+                            <p>Online live support 24/7</p>
+                        </div>
+                        <!-- CTA Content End -->
+
+                    </div>
+                    <!-- Single CTA Wrapper End -->
+                </div>
+
+                <div class="col mb-6" data-aos="fade-up" data-aos-duration="1200">
+                    <!-- Single CTA Wrapper Start -->
+                    <div class="single-cta-wrapper">
+
+                        <!-- CTA Icon Start -->
+                        <div class="cta-icon">
+                            <i class="ti-bar-chart"></i>
+                        </div>
+                        <!-- CTA Icon End -->
+
+                        <!-- CTA Content Start -->
+                        <div class="cta-content">
+                            <h4 class="title">Money Return</h4>
+                            <p>Back guarantee under 5 days</p>
+                        </div>
+                        <!-- CTA Content End -->
+
+                    </div>
+                    <!-- Single CTA Wrapper End -->
+                </div>
 
             </div>
-            <!-- Banners End -->
         </div>
     </div>
-    <!-- Banner Section End -->
 
     <!-- Product Section Start -->
     <div class="section position-relative">
@@ -1068,15 +775,15 @@
 
     <!-- Banner Section Start -->
     <div class="section section-margin">
-        <div class="container">
 
+        <div class="container">
             <!-- Banners Start -->
             <div class="row mb-n6">
 
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1000">
                     <a href="shop.html" class="banner">
-                        <img class="fit-image" src="assets/images/banner/6.png" alt="Banner Image" />
+                        <img class="fit-image" src="assets/images/banner/1.png" alt="Banner Image" />
                     </a>
                 </div>
                 <!-- Banner End -->
@@ -1084,15 +791,15 @@
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1400">
                     <a href="shop.html" class="banner">
-                        <img class="fit-image" src="assets/images/banner/7.png" alt="Banner Image" />
+                        <img class="fit-image" src="assets/images/banner/2.png" alt="Banner Image" />
                     </a>
                 </div>
                 <!-- Banner End -->
 
             </div>
             <!-- Banners End -->
-
         </div>
+
     </div>
     <!-- Banner Section End -->
 
@@ -1399,41 +1106,6 @@
     </div>
     <!-- Blog Section End -->
 
-    <!-- Newsletter Section Start -->
-    <div class="section section-padding bg-splashy">
-        <div class="container">
-            <div class="row align-items-center mb-n6">
-
-                <div class="col-12 col-md-6 mb-6" data-aos="fade-up" data-aos-duration="1000">
-                    <div class="newsletter-content">
-                        <h3 class="title">Sign Up for Newsletters</h3>
-                        <p>Be the First to Know. Sign up for newsletter today</p>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-6 mb-6" data-aos="fade-up" data-aos-duration="1400">
-                    <!-- Newsletter Form Start -->
-                    <div class="newsletter-form-wrap newsletter-inner">
-                        <form id="mc-form" class="mc-form">
-                            <input type="email" id="mc-email" class="form-control email-box" placeholder="demo@example.com" name="EMAIL">
-                            <button id="mc-submit" class="newsletter-btn" type="submit">Subscribe</button>
-                        </form>
-                        <!-- mailchimp-alerts Start -->
-                        <div class="mailchimp-alerts text-centre">
-                            <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                            <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
-                            <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
-                        </div>
-                        <!-- mailchimp-alerts end -->
-                    </div>
-                    <!-- Newsletter Form End -->
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- Newsletter Section End -->
-
     <!-- Footer Section Start -->
     <footer class="section footer-section">
         <!-- Footer Top Start -->
@@ -1478,14 +1150,26 @@
                         </div>
                     </div>
                     <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1600">
-                        <div class="single-footer-widget aos-init aos-animate">
-                            <h2 class="widget-title">Quick Menu</h2>
-                            <ul class="widget-list">
-                                <li><a href="login.html">Login</a></li>
-                                <li><a href="my-account.html">My-Account</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                            </ul>
+                        <div class="single-footer-widget">
+                            <h2 class="widget-title">Send newsletter</h2>
+                            <div class="widget-body">
+                                <p class="desc-content mb-4">Subscribe to our newsletter and get 10% off your first purchase..</p>
+                                <!-- Newsletter Form Start -->
+                                <div class="newsletter-form-wrap pt-1">
+                                    <form id="mc-form" class="mc-form">
+                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="demo@example.com" name="EMAIL">
+                                        <button id="mc-submit" class="newsletter-btn" type="submit">Send</button>
+                                    </form>
+                                    <!-- mailchimp-alerts Start -->
+                                    <div class="mailchimp-alerts text-centre">
+                                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
+                                        <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
+                                        <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
+                                    </div>
+                                    <!-- mailchimp-alerts end -->
+                                </div>
+                                <!-- Newsletter Form End -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1505,7 +1189,7 @@
                     <div class="col-md-6 text-center text-md-end order-1 order-md-2 mb-4">
                         <div class="payment">
                             <a href="#/">
-                                <img src="assets/images/payment/payment_large.png" alt="Payment">
+                                <img class="fit-image" src="assets/images/payment/payment_large.png" alt="Payment">
                             </a>
                         </div>
                     </div>
@@ -1847,5 +1531,6 @@
     <!--Main JS-->
     <script src="assets/js/main.js"></script>
 </body>
-
+<?php  ?>
 </html>
+
