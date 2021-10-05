@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Shop Sidebar</h2>
+                        <h2 class="breadcrumb-title">Ikan</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li>Shop Sidebar</li>
