@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Create Account</h2>
+                        <h2 class="breadcrumb-title">Daftar Sekarang</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Create Account</li>
+                            <li><a href="index.html">Beranda</a></li>
+                            <li>Daftar</li>
                         </ul>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
 
                         <!-- Register Title & Content Start -->
                         <div class="section-content text-center mb-6">
-                            <h2 class="title mb-2">Create Account</h2>
+                            <h2 class="title mb-2">Daftar</h2>
                         </div>
                         <!-- Register Title & Content End -->
 
@@ -40,13 +40,13 @@
 
                             <!-- Input First Name Start -->
                             <div class="single-input-item mb-2">
-                                <input type="text" placeholder="First Name">
+                                <input type="text" placeholder="Nama Depan">
                             </div>
                             <!-- Input First Name End -->
 
                             <!-- Input Last Name Start -->
                             <div class="single-input-item mb-2">
-                                <input type="text" placeholder="Last Name">
+                                <input type="text" placeholder="Nama Belakang">
                             </div>
                             <!-- Input Last Name End -->
 
@@ -65,7 +65,7 @@
                             <!-- Button/Forget Password Start -->
                             <div class="single-input-item">
                                 <div class="login-reg-form-meta mb-n3">
-                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3">Create</button>
+                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3">Daftar</button>
                                 </div>
                             </div>
                             <!-- Button/Forget Password End -->

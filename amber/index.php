@@ -18,7 +18,7 @@
                             <h5 class="sub-title">MetShop Pet's</h5>
                             <h2 class="title m-0">Penjodohan Hewan Peliharaan</h2>
                             <p class="ms-0">Temukan Pasangan untuk Hewan Peliharaan Anda.</p>
-                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
+                            <a href="shop.php" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                             <h5 class="sub-title">MetShop Pet's</h5>
                             <h2 class="title m-0">Penjualan Hewan Peliharaan</h2>
                             <p>Temani Hidup Anda dengan Hewan Peliharaan.</p>
-                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
+                            <a href="shop.php" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -971,7 +971,7 @@
                                 <div class="swiper-slide">
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
-                                        <img src="assets/images/testimonial/2.png" alt="Testimonial Image">
+                                        <img src="assets/images/testimonial/kucing.png" alt="Testimonial Image">
                                         <h3 class="thumb-title">Fira</h3>
                                         <h6 class="thumb-subtitle">Customer</h6>
                                     </div>
@@ -1297,7 +1297,7 @@
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
                                     <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
                                     <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
                                     <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>

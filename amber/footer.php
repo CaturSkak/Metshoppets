@@ -7,7 +7,7 @@
                     <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1000">
                         <div class="single-footer-widget">
                             <h1 class="widget-title">Tentang Kami</h1>
-                            <p class="desc-content">MetShopPet's Ini Membeli dan menjual Hewan Piliharaan anda. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
+                            <p class="desc-content">MetShopPet's Ini Membeli dan menjual Hewan Peliharaan anda. MetShopPet's juga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, Melainkan hewan ternak seperti unggas dan lain sebagainya.</p>
                             <!-- Soclial Link Start -->
                             <div class="widget-social justify-content-start mb-n2">
                                 <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>
@@ -21,7 +21,7 @@
                     </div>
                     <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1200">
                         <div class="single-footer-widget">
-                            <h2 class="widget-title">Link Bermanfaat</h2>
+                            <h2 class="widget-title">Link</h2>
                             <ul class="widget-list">
                                 <li><a href="contact.php">Bantuan & Kontak Kami</a></li>
                                 <li><a href="contact.php">Pengembalian Barang dan Dana</a></li>
@@ -36,7 +36,7 @@
                             <ul class="widget-list">
                                 <li><a href="wishlist.php">Keranjang</a></li>
                                 <li><a href="contact.php">Pelacakan Pesanan</a></li>
-                                <li><a href="contact.php">Pngembalian</a></li>
+                                <li><a href="contact.php">Pengembalian</a></li>
                             </ul>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                                 <!-- Newsletter Form Start -->
                                 <div class="newsletter-form-wrap pt-1">
                                     <form id="mc-form" class="mc-form">
-                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="demo@example.com" name="EMAIL">
+                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="contoh@gmail.com" name="EMAIL">
                                         <button id="mc-submit" class="newsletter-btn" type="submit">Kirim</button>
                                     </form>
                                     <!-- mailchimp-alerts Start -->
@@ -74,7 +74,7 @@
                 <div class="row align-items-center mb-n4">
                     <div class="col-md-6 text-center text-md-start order-2 order-md-1 mb-4">
                         <div class="copyright-content">
-                            <p class="mb-0">© 2021 <strong>Amber </strong> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/">HasThemes.</a></p>
+                            <p class="mb-0">© 2021 <strong>MetShop </strong> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/">Jagoan Ibu.</a></p>
                         </div>
                     </div>
                     <div class="col-md-6 text-center text-md-end order-1 order-md-2 mb-4">

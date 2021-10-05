@@ -147,6 +147,10 @@
                                         <div class="myaccount-content">
                                             <h3 class="title">Metode Pembayaran</h3>
                                             <p class="saved-message">You Can't Saved Your Payment Method yet.</p>
+                                            <div class="thumb">
+                                            <a href="single-product.php" class="image">
+                                                <img class="fit-image" src="assets/images/logo/ovo.jpg" alt="Product" />
+                                            </a>
                                         </div>
                                     </div>
                                     <!-- Single Tab Content End -->
