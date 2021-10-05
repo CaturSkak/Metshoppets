@@ -2,56 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Amber - Pet Care Bootstrap 5 Template</title>
 
-    <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-    <!-- Vendor CSS (Icon Font) -->
-
-
-    <link rel="stylesheet" href="assets/css/vendor/fontawesome.min.css" />
-    <link rel="stylesheet" href="assets/css/vendor/simple-line-icons.min.css" />
-    <link rel="stylesheet" href="assets/css/vendor/themify-icons-min.css" />
-
-
-
-    <!-- Plugins CSS (All Plugins Files) -->
-
-
-
-    <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/animate.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/aos.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.min.css" />
-
-
-
-    <!-- Main Style CSS -->
-
-
-    <link rel="stylesheet" href="assets/css/style.css" />
-
-
-
-    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
-
-
-    <!-- 
-<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
-<link rel="stylesheet" href="assets/css/style.min.css">  
--->
-
-
-</head>
-
-<body>
- 
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
