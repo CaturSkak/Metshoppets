@@ -60,7 +60,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Akun Saya</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Beranda</a></li>
                             <li>Akun Saya</li>
                         </ul>
                     </div>
