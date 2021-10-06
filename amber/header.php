@@ -82,7 +82,7 @@
                         <!-- Header Logo Start -->
                         <div class="col-lg-3 col-md-4 col-6">
                             <div class="header-logo">
-                                <a href="index.html"><img src="assets/images/logo/logoo.png" alt="Site Logo" /></a>
+                                <a href="index.php"><img src="assets/images/logo/logoo.png" alt="Site Logo" /></a>
                             </div>
                         </div>
                         <!-- Header Logo End -->
@@ -101,10 +101,10 @@
                                             <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Katagori</h4>
                                                 <ul class="mb-n2">
-                                                    <li><a href="shop.html">Hewan Peliharaan</a></li>
-                                                    <li><a href="shop-left-sidebar.html">Hewan Ternak</a></li>
-                                                    <li><a href="shop-right-sidebar.html">Ikan</a></li>
-                                                    <li><a href="shop-list-fullwidth.html">Burung</a></li>
+                                                    <li><a href="shop.php">Hewan Peliharaan</a></li>
+                                                    <li><a href="shop-left-sidebar.php">Hewan Ternak</a></li>
+                                                    <li><a href="shop-right-sidebar.php">Ikan</a></li>
+                                                    <li><a href="shop-list-fullwidth.php">Burung</a></li>
                                                 </ul>
                                                 <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Lainya</h4>
@@ -119,7 +119,7 @@
                                             </li>
                                             <li class="mega-menu-col">
                                                 <div class="megamenu-image">
-                                                    <a href="shop.html">
+                                                    <a href="shop.php">
                                                         <img class="fit-image" src="assets/images/header/mega-menu.png" alt="Megamenu Image">
                                                     </a>
                                                 </div>
@@ -137,7 +137,7 @@
                                     <li class="has-children">
                                         <a href="#">Mate</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.html">Hewan Peliharaan</a></li>
+                                            <li><a href="blog.php">Hewan Peliharaan</a></li>
                                             <li><a href="blog-left-sidebar.php">Hewan Ternak</a></li>
                                             <li><a href="blog-right-sidebar.php">Ikan</a></li>
                                             <li><a href="blog-details.php">Burung</a></li>
@@ -171,7 +171,7 @@
                                 <!-- Header Action Search Button End -->
 
                                 <!-- Header My Account Button Start -->
-                                <a href="my-account.html" class="header-action-btn header-action-btn-wishlist">
+                                <a href="my-account.php" class="header-action-btn header-action-btn-wishlist">
                                     <i class="icon-user icons"></i>
                                 </a>
                                 <!-- Header My Account Button End -->
@@ -195,10 +195,10 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Basic Dog Trainning</a></h3>
+                                                        <h3 class="title"><a href="single-product.php">Basic Dog Trainning</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
@@ -224,10 +224,10 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Wait, You Need This</a></h3>
+                                                        <h3 class="title"><a href="single-product.php">Wait, You Need This</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
@@ -259,8 +259,8 @@
 
                                         <!-- Cart Product Button Start -->
                                         <div class="cart-product-btn mt-4">
-                                            <a href="cart.html" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
-                                            <a href="checkout.html" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
+                                            <a href="cart.php" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
+                                            <a href="checkout.php" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
                                         </div>
                                         <!-- Cart Product Button End -->
 
@@ -269,7 +269,7 @@
 
                                 </div>
                                 <div class="header-action-btn header-action-btn-cart d-flex d-sm-none">
-                                    <a href="cart.html">
+                                    <a href="cart.php">
                                         <i class="icon-handbag icons"></i>
                                         <span class="header-action-num">3</span>
                                     </a>
