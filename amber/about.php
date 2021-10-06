@@ -10,7 +10,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Tentang Kami</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Tentang Kami</li>
                         </ul>
                     </div>
@@ -36,13 +36,13 @@
                     <!-- About Content Start -->
                     <div class="about-content">
                         <h2 class="title">Tentang Kami</h2>
-                        <p>MetShopPet's Ini Membeli dan menjual Hewan Piliharaan anda seandainya tidak diizinkan lagi untuk menempati di rumah anda bisa di jual di MetShopPet's ini dari pada di telantarkan begitu saja. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
+                        <p>MetShopPet's Ini melayani pembelian dan penjualan Hewan Peliharaan untuk anda. anda bisa di jual di MetShopPet's ini dari pada di telantarkan begitu saja. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
                         <ul class="about-content-list">
                             <li><span><i class="ti-angle-double-right"></i></span> Ada Banyak variasi Hewan Lucu dan Imut</li>
                             <li><span><i class="ti-angle-double-right"></i></span> Bisa Menjodohkan Hewan Peliharaan DLL.</li>
                             <li><span><i class="ti-angle-double-right"></i></span> Pelayanannya sangat memuaskan pelanggan</li>
                         </ul>
-                        <a href="contact.html" class="btn btn-primary btn-hover-dark">Hubungi Kami</a>
+                        <a href="contact.php" class="btn btn-primary btn-hover-dark">Hubungi Kami</a>
                     </div>
                     <!-- About Content End -->
                 </div>
@@ -100,9 +100,9 @@
                                 <div class="swiper-slide">
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
-                                        <img src="assets/images/testimonial/1.png" alt="Testimonial Image">
+                                        <img src="assets/images/testimonial/doni.png" alt="Testimonial Image">
                                         <h3 class="thumb-title">Doni</h3>
-                                        <h6 class="thumb-subtitle">Pelanggan</h6>
+                                        <h6 class="thumb-subtitle">Customer</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -112,9 +112,9 @@
                                 <div class="swiper-slide">
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
-                                        <img src="assets/images/testimonial/2.png" alt="Testimonial Image">
-                                        <h3 class="thumb-title">Udin</h3>
-                                        <h6 class="thumb-subtitle">Pelanggan</h6>
+                                        <img src="assets/images/testimonial/kucing.png" alt="Testimonial Image">
+                                        <h3 class="thumb-title">Fira</h3>
+                                        <h6 class="thumb-subtitle">Customer</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -145,7 +145,7 @@
                     <!-- Single Team Wrapper Start -->
                     <div class="single-team-wrapper">
                         <div class="thumb">
-                            <a href="contact.html">
+                            <a href="contact.php">
                                 <img class="fit-image" src="assets/images/team/1.jpg" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
@@ -158,8 +158,8 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Udin</h4>
-                            <h4 class="subtitle">Pelanggan</h4>
+                            <h4 class="title">Catur</h4>
+                            <h4 class="subtitle">Admin</h4>
                         </div>
                     </div>
                     <!-- Single Team Wrapper End -->
@@ -169,7 +169,7 @@
                     <!-- Single Team Wrapper Start -->
                     <div class="single-team-wrapper">
                         <div class="thumb">
-                            <a href="contact.html">
+                            <a href="contact.php">
                                 <img class="fit-image" src="assets/images/team/2.jpg" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
@@ -182,7 +182,31 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Abdul S.</h4>
+                            <h4 class="title">Dedi</h4>
+                            <h4 class="subtitle">Admin</h4>
+                        </div>
+                    </div>
+                    <!-- Single Team Wrapper End -->
+                </div>
+
+                <div class="col mb-6" data-aos="fade-up" data-aos-duration="1500">
+                    <!-- Single Team Wrapper Start -->
+                    <div class="single-team-wrapper">
+                        <div class="thumb">
+                            <a href="contact.php">
+                                <img class="fit-image" src="assets/images/team/2.jpg" alt="Team Image">
+                            </a>
+                            <!-- Social Shear Start -->
+                            <div class="social-share">
+                                <a title="Twitter" href="#/"><i class="ti-facebook"></i></a>
+                                <a title="Instagram" href="#/"><i class="ti-pinterest"></i></a>
+                                <a title="Linkedin" href="#/"><i class="ti-twitter-alt"></i></a>
+                                <a title="Skype" href="#/"><i class="ti-instagram"></i></a>
+                            </div>
+                            <!-- Social Shear End -->
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Alif</h4>
                             <h4 class="subtitle">Admin</h4>
                         </div>
                     </div>
@@ -193,7 +217,7 @@
                     <!-- Single Team Wrapper Start -->
                     <div class="single-team-wrapper">
                         <div class="thumb">
-                            <a href="contact.html">
+                            <a href="contact.php">
                                 <img class="fit-image" src="assets/images/team/3.jpg" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
@@ -206,8 +230,8 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Joko</h4>
-                            <h4 class="subtitle">Pelanggan</h4>
+                            <h4 class="title">Farhan</h4>
+                            <h4 class="subtitle">Admin</h4>
                         </div>
                     </div>
                     <!-- Single Team Wrapper End -->
@@ -326,9 +350,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -402,61 +426,61 @@
                             <li class="has-children">
                                 <a href="#">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                    <li><a href="index-3.html">Home Three</a></li>
-                                    <li><a href="index-4.html">Home Four</a></li>
+                                    <li><a href="index.php">Home One</a></li>
+                                    <li><a href="index-2.php">Home Two</a></li>
+                                    <li><a href="index-3.php">Home Three</a></li>
+                                    <li><a href="index-4.php">Home Four</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
-                                    <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
-                                    <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
+                                    <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
+                                    <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
+                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="compare.php">Compare</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                    <li><a href="single-product-group.html">Single Product Group</a></li>
-                                    <li><a href="single-product-normal.html">Single Product Normal</a></li>
-                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
+                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="single-product-sale.php">Single Product Sale</a></li>
+                                    <li><a href="single-product-group.php">Single Product Group</a></li>
+                                    <li><a href="single-product-normal.php">Single Product Normal</a></li>
+                                    <li><a href="single-product-affiliate.php">Single Product Affiliate</a></li>
+                                    <li><a href="single-product-slider.php">Single Product Slider</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login | Register</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="faq.php">Faq</a></li>
+                                    <li><a href="error-404.php">Error 404</a></li>
+                                    <li><a href="my-account.php">My Account</a></li>
+                                    <li><a href="login.php">Login | Register</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                    <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                    <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

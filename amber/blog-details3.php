@@ -36,55 +36,37 @@
 
                             <!-- Blog Image Start -->
                             <div class="blog-image">
-                                <img src="assets/images/blog/kucing.jpg" alt="Blog Image" class="fit-image">
+                                <img src="assets/images/blog/anjing.jpg" alt="Blog Image" class="fit-image">
                             </div>
                             <!-- Blog Image End -->
 
                             <!-- Blog details title & Meta Start -->
                             <div class="blog-details-title-meta">
-                                <h2 class="title">Cara Menangani Kucing Kesayangan yang Terkena Diare</h2>
+                                <h2 class="title">Tips merawat anjing peliharaan untuk pemula</h2>
                                 <ul class="blog-meta">
-                                    <li>By: <a href="#/">Admin</a> <span>27 June 2021</span></li>
+                                    <li>By: <a href="#/">Admin</a> <span>20 Mar 2021</span></li>
                                     <li>03 Comments</li>
                                 </ul>
                             </div>
                             <!-- Blog details title & Meta End -->
 
                             <!-- Content Start -->
-                            <p>Halodoc, Jakarta - Diare termasuk masalah kesehatan yang jarang terjadi pada kucing. Namun, jika ini terjadi pada kucing peliharaan kamu, tandanya ia sedang mengalami masalah kesehatan pada pencernaannya. Apabila diare terbilang singkat, kamu tidak perlu khawatir karena biasanya ini terjadi akibat adanya zat pemicu dalam makanan atau minumannya.
+                            <p>Selain dikenal sebagai hewan peliharaan yang setia, anjing juga bisa menjadi penjaga rumah yang baik. Banyak yang percaya kalo memelihara anjing bisa meredakan stress dan mengurangi rasa kesepian. Memiliki anjing sebagai hewan peliharaan pun bahkan bisa dijadikan sebagai kebanggaan karena selain lucu, hewan yang satu ini pun juga cerdas lho!
 
-                            Sebagian besar kucing domestik mengalami diare karena diberikan susu yang seharusnya dikonsumsi oleh manusia. Jadi, jika kamu mendapati kucingmu suka minum susu, sebaiknya berikan susu yang memang dibuat untuk kucing. Harganya mungkin sedikit mahal, tetapi setidaknya tidak membuat kucingmu mengalami diare. .</p>
+                            Jenisnya pun bermacam-macam. Bentuk tubuhnya bervariasi dari yang terkecil seukuran tas jinjing sampai dengan terbesar, seukuran manusia! Selain itu ada anjing yang berbulu tebal dan ada juga yang berbulu tipis. 
+
+                            Tapi sebagai pecinta anjing yang belum pernah memelihara hewan ini sebelumnya mungkin bingung tentang bagaimana cara merawat anjing yang baik dan benar. 
+
+                            Tapi jangan khawatir, berikut ini adalah beberapa cara untuk merawat hewan peliharaan kesayanganmu ini dengan baik dan benar:. .</p>
                             <!-- Blogquote Start -->
-                            <blockquote>Bagaimana Mengetahui Bahwa Kucing Mengalami Diare?.</blockquote>
+                            <blockquote>Makanan pantangan anjing.</blockquote>
                             <!-- Blogquote End -->
-                            <p>Kotor pada buli bagian belakang, terlebih pada area yang dekat dengan anus pada kucing ras berbulu panjang sering dikaitkan dengan kondisi diare. Meski begitu, kamu juga perlu tahu bahwa perubahan pola makan bisa menjadi penyebab perubahan pada feses kucing.</p>
+                            <p>Untuk merawat anjing peliharaan, kamu perlu tau makanan pantangan anjing seperti: makanan yang asin, cokelat dan telur. Jangan sampai kamu memberikan anjing peliharaanmu makanan-makanan itu karena hal itu akan berpengaruh terhadap bulunya. Kalau kamu ingin memberikan daging atau sumber protein hewani lainnya, berikanlah tanpa tambahan bumbu. </p>
                             <!-- Content End -->
                             <!-- Blogquote Start -->
-                            <blockquote>Penanganan Diare pada Kucing.</blockquote>
+                            <blockquote>Mandikan sebulan minimal dua kali.</blockquote>
                             <!-- Blogquote End -->
-                            <p>Segera setelah mengetahui bahwa kucing kamu mengalami diare, berikan penanganan segera agar tidak terjadi komplikasi yang lebih serius. Beberapa penanganan rumahan yang bisa kamu coba di antaranya:
-
-                            Ganti Pakan dengan Perlahan
-                            Nyatanya pergantian pakan baru dengan tiba-tiba justru merupakan penyebab diare yang sering tidak diketahui pemilik. Terkadang justru ketika diare kucing akan dipuasakan sementara atau pemberian hanya makanan basah. Biasanya nafsu makan juga berkurang.
-
-                            Untuk memberikan pakan baru, harus dimulai dengan memberi makanan dengan 1/3 sebagian pakan baru dan 2/3 sisanya lagi pakan baru, selama 1-2 hari. Kemudian semakin meningkat jumlah pakan baru selama beberapa hari kemudian. Baru bisa diberikan sepenuhnya pakan yang baru. Tidak kalah pentingnya adalah air karena kucing biasanya susah minum air dan diare bisa menyebabkan dehidrasi. 
-
-                            Pakan yang Mudah Dicerna
-                            Beberapa jenis diare pada kucing biasanya membaik dengan pemberian pakan rendah serat karena lebih mudah dicerna. Ini juga berlaku pada kucing yang tidak sering diare tetapi buang air besar dengan feses yang terbilang banyak. Carilah pakan dengan kadar serat kasar sekitar 3 persen atau dibuat khusus untuk kucing dengan perut sensitif.
-
-                            Berikan Minum dan Larutan Elektrolit
-                            Tidak berbeda dengan manusia, kucing yang mengalami diare perlu mendapatkan asupan cairan yang cukup agar terhindar dari dehidrasi. Kamu bisa memberikan air biasa atau pertimbangkan memberikan kaldu ayam atau sapi sebagai pengganti cairan tubuhnya. 
-
-                            Pertimbangan lainnya adalah memberikan makanan basah. Makanan basah memang memiliki kandungan air lebih banyak dan terkadang lebih disukai kucing ketika sedang merasa kurang sehat. Jika memang diperlukan, kamu bisa menambahkan satu atau dua sendok air putih atau kaldu dalam pakannya. 
-
-
-                            Pertimbangkan Probiotik
-                            Saluran usus kucing juga perlu bakteri yang sehat untuk membuat pencernaannya kembali normal. Terkadang, ketika terjadi gangguan pada saluran ususnya, diare tetap akan berlanjut meski penyebabnya telah ditangani. Pemberian suplemen probiotik bisa membantu mengembalikan populasi bakteri baik pada saluran usus kucing. Jangan lupa, pilih produk yang memang dibuat khusus kucing, ya. Sebelum memberikannya, kamu harus tanya dokter hewan lebih dulu.
-
-                            Berikan Obat Antidiare
-                            Sebagian besar obat antidiare tidak boleh diberikan pada kucing tanpa anjuran dari dokter hewan. Jadi, jika kamu ingin mengatasi diare pada kucing dengan obat, pastikan kamu sudah mendapatkan resep dosis dari dokter. 
-
-                            Selalu amati perubahan yang terjadi pada kucingmu. Jadi, adanya gejala yang tidak biasa bisa segera mendapatkan penanganan. </p>
+                            <p>Untuk memandikan anjing peliharaanmu, kamu bisa menggunakan shampo anjing yang banyak dijual di supermarket atau di pet shop. Tapi jangan gunakan sembarang shampo ya, karena sembarang shampo nggak bagus buat kulit dan bulu mereka. Mandikanlah anjingmu dengan air hangat. Setelah dimandikan, keringkanlah anjingmu menggunakan hairdryer dan handuk. </p>
                             <!-- Content End -->
 
                             <!-- Blog Details Tags & Social Shear Start -->
@@ -126,7 +108,7 @@
                                     <img class="fit-image" src="assets/images/blog/small-size/95x95.jpg" alt="Blog Review">
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Julianto</h4>
+                                    <h4 class="title">Agustine</h4>
                                     <ul class="meta">
                                         <li>27 Oct 2021</li>
                                     </ul>
@@ -139,7 +121,7 @@
                                     <img class="fit-image" src="assets/images/blog/small-size/95x95-2.jpg" alt="Blog Review">
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Fira</h4>
+                                    <h4 class="title">Farhan</h4>
                                     <ul class="meta">
                                         <li>27 Oct 2021</li>
                                     </ul>
@@ -305,9 +287,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -382,60 +364,60 @@
                                 <a href="#">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
                                     <li><a href="index.php">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                    <li><a href="index-3.html">Home Three</a></li>
-                                    <li><a href="index-4.html">Home Four</a></li>
+                                    <li><a href="index-2.php">Home Two</a></li>
+                                    <li><a href="index-3.php">Home Three</a></li>
+                                    <li><a href="index-4.php">Home Four</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
-                                    <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
-                                    <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
+                                    <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
+                                    <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
+                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="compare.php">Compare</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                    <li><a href="single-product-group.html">Single Product Group</a></li>
-                                    <li><a href="single-product-normal.html">Single Product Normal</a></li>
-                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
+                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="single-product-sale.php">Single Product Sale</a></li>
+                                    <li><a href="single-product-group.php">Single Product Group</a></li>
+                                    <li><a href="single-product-normal.php">Single Product Normal</a></li>
+                                    <li><a href="single-product-affiliate.php">Single Product Affiliate</a></li>
+                                    <li><a href="single-product-slider.php">Single Product Slider</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login | Register</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="faq.php">Faq</a></li>
+                                    <li><a href="error-404.php">Error 404</a></li>
+                                    <li><a href="my-account.php">My Account</a></li>
+                                    <li><a href="login.php">Login | Register</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                    <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                    <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

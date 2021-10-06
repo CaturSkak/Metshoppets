@@ -10,7 +10,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Hubungi Kami</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.html">Beranda</a></li>
                             <li>Hubungi Kami</li>
                         </ul>
                     </div>
@@ -88,9 +88,9 @@
                         <p>Jika Anda kebingungan Bisa langsung datang ke toko kami, tlp atau kirim melalui email yang ada dibawah ini.</p>
                         <address class="contact-block">
                             <ul>
-                                <li><i class="fa fa-fax"></i> JL.Pb Sudirman No.54-Dusun Timur kec banyuwangi.</li>
-                                <li><i class="fa fa-phone"></i> <a href="tel:123-123-456-789">123 123 456 789</a></li>
-                                <li><i class="fa fa-envelope-o"></i> <a href="mailto:demo@example.com">demo@example.com </a></li>
+                                <li><i class="fa fa-fax"></i> Perum Permata Regency 1 Blok 10/28, Perun Gpa, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</li>
+                                <li><i class="fa fa-phone"></i> <a href="tel:123-123-456-789">082229434533</a></li>
+                                <li><i class="fa fa-envelope-o"></i> <a href="mailto:demo@example.com">metshopcare@gmail.com </a></li>
                             </ul>
                         </address>
 

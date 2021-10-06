@@ -122,7 +122,7 @@
                                             <li class="mega-menu-col">
                                                 <div class="megamenu-image">
                                                     <a href="shop.php">
-                                                        <img class="fit-image" src="assets/images/header/mega-menu.png" alt="Megamenu Image">
+                                                        <img class="fit-image" src="assets/images/about/Logooo.png" alt="Megamenu Image">
                                                     </a>
                                                 </div>
                                             </li>

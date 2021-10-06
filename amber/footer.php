@@ -7,7 +7,7 @@
                     <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1000">
                         <div class="single-footer-widget">
                             <h1 class="widget-title">Tentang Kami</h1>
-                            <p class="desc-content">MetShopPet's Ini Membeli dan menjual Hewan Peliharaan anda. MetShopPet's juga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, Melainkan hewan ternak seperti unggas dan lain sebagainya.</p>
+                            <p class="desc-content">MetShopPet's Ini melayani pembelian dan penjualan Hewan Peliharaan untuk anda. MetShopPet's ini juga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, Melainkan hewan reptile dan berbagai macam burung dan lain sebagainya.</p>
                             <!-- Soclial Link Start -->
                             <div class="widget-social justify-content-start mb-n2">
                                 <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>

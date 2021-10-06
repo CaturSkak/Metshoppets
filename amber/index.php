@@ -844,7 +844,7 @@
                                                     <span class="new">Rp.5.740.000</span>
                                             <span class="old">Rp.7.000.000</span>
                                             </span>
-                                            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+                                            <p>harga mmbawa rupa karna di toko kami slalu rutin vitamin dan pakan royal canin 70% 20 meo 10% proplan ...jadi jangan di samakan dengan yg murah ya kak makasih ..</p>
                                             <div class="countdown-area">
                                                 <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
                                             </div>
@@ -959,7 +959,7 @@
                                 <div class="swiper-slide">
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
-                                        <img src="assets/images/testimonial/1.png" alt="Testimonial Image">
+                                        <img src="assets/images/testimonial/agustina.jpg" alt="Testimonial Image">
                                         <h3 class="thumb-title">Agustina</h3>
                                         <h6 class="thumb-subtitle">Customer</h6>
                                     </div>
@@ -1016,7 +1016,7 @@
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
                             <a class="image" href="blog-details.php">
-                                <img class="fit-image" src="assets/images/blog/medium-size/1.jpg" alt="Blog Image">
+                                <img class="fit-image" src="assets/images/blog/kucing.jpg" alt="Blog Image">
                             </a>
                         </div>
                         <!-- Blog Thumb End -->
@@ -1046,7 +1046,7 @@
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
                             <a class="image" href="blog-details.php">
-                                <img class="fit-image" src="assets/images/blog/medium-size/2.jpg" alt="Blog Image">
+                                <img class="fit-image" src="assets/images/blog/ikancupang.jpeg" alt="Blog Image">
                             </a>
                         </div>
                         <!-- Blog Thumb End -->
@@ -1059,9 +1059,9 @@
                                     <li><span>12, Feb, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.php">Read More</a>
+                            <h2 class="blog-title"><a href="blog-details2.php">Cara Membedakan Ikan Cupang Jantan dan Betina</a></h2>
+                            <p>Jakarta - Ikan cupang mempunyai tampilan yang indah yang membuat banyak orang kecanduan memeliharanya. Namun penampilan ikan ini juga tergantung jenis kelaminnya, apakah ikan cupang jantan atau ikan cupang betina. Perbedaan ikan cupang jantan dengan betina secara penampilan adalah secara penampilan tubuhnya lebih langsing. Ut...</p>
+                            <a class="more-link" href="blog-details2.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1076,7 +1076,7 @@
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
                             <a class="image" href="blog-details.php">
-                                <img class="fit-image" src="assets/images/blog/medium-size/3.jpg" alt="Blog Image">
+                                <img class="fit-image" src="assets/images/blog/anjing.jpg" alt="Blog Image">
                             </a>
                         </div>
                         <!-- Blog Thumb End -->
@@ -1089,9 +1089,9 @@
                                     <li><span>20, March, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of dogs</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.php">Read More</a>
+                            <h2 class="blog-title"><a href="blog-details3.php">Tips merawat anjing peliharaan untuk pemula</a></h2>
+                            <p>Selain dikenal sebagai hewan peliharaan yang setia, anjing juga bisa menjadi penjaga rumah yang baik. Banyak yang percaya kalo memelihara anjing bisa meredakan stress dan mengurangi rasa kesepian. Memiliki anjing sebagai hewan peliharaan pun bahkan bisa dijadikan sebagai kebanggaan karena selain lucu, hewan yang satu ini pun juga cerdas lho! Ut...</p>
+                            <a class="more-link" href="blog-details3.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
