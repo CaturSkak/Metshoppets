@@ -8,10 +8,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Contact Us</h2>
+                        <h2 class="breadcrumb-title">Hubungi Kami</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Contact Us</li>
+                            <li>Hubungi Kami</li>
                         </ul>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
 
                     <!-- Section Title Start -->
                     <div class="contact-title pb-3">
-                        <h2 class="title">Get in Touch</h2>
+                        <h2 class="title">Data Diri</h2>
                     </div>
                     <!-- Section Title End -->
 
@@ -42,7 +42,7 @@
 
                                         <div class="col-md-6">
                                             <div class="input-area mb-4">
-                                                <input class="input-item" type="text" placeholder="Your Name *" name="name">
+                                                <input class="input-item" type="text" placeholder="Nama *" name="name">
                                             </div>
                                         </div>
 
@@ -54,18 +54,18 @@
 
                                         <div class="col-12">
                                             <div class="input-area mb-4">
-                                                <input class="input-item" type="text" placeholder="Subject *" name="subject">
+                                                <input class="input-item" type="text" placeholder="Keterangan *" name="subject">
                                             </div>
                                         </div>
 
                                         <div class="col-12">
                                             <div class="input-area mb-8">
-                                                <textarea cols="30" rows="5" class="textarea-item" name="message" placeholder="Message"></textarea>
+                                                <textarea cols="30" rows="5" class="textarea-item" name="message" placeholder="Pesan"></textarea>
                                             </div>
                                         </div>
 
                                         <div class="col-12">
-                                            <button type="submit" id="submit" name="submit" class="btn btn-primary btn-hover-dark">Send Message</button>
+                                            <button type="submit" id="submit" name="submit" class="btn btn-primary btn-hover-dark">Kirim</button>
                                         </div>
                                         <p class="col-8 form-message mb-0"></p>
 
@@ -81,22 +81,22 @@
                 <div class="col-12 col-lg-6 mb-10 order-1 order-lg-2" data-aos="fade-up" data-aos-duration="1500">
                     <!-- Section Title Start -->
                     <div class="contact-title pb-3">
-                        <h2 class="title">Contact Us</h2>
+                        <h2 class="title">Hubungi Kami</h2>
                     </div>
                     <!-- Section Title End -->
                     <div class="contact-content">
-                        <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human.</p>
+                        <p>Jika Anda kebingungan Bisa langsung datang ke toko kami, tlp atau kirim melalui email yang ada dibawah ini.</p>
                         <address class="contact-block">
                             <ul>
-                                <li><i class="fa fa-fax"></i> Your address goes here</li>
+                                <li><i class="fa fa-fax"></i> JL.Pb Sudirman No.54-Dusun Timur kec banyuwangi.</li>
                                 <li><i class="fa fa-phone"></i> <a href="tel:123-123-456-789">123 123 456 789</a></li>
                                 <li><i class="fa fa-envelope-o"></i> <a href="mailto:demo@example.com">demo@example.com </a></li>
                             </ul>
                         </address>
 
                         <div class="working-time">
-                            <h6 class="title">Working Hours</h6>
-                            <p>Monday – Saturday:08AM – 22PM</p>
+                            <h6 class="title">Jam Kerja Toko</h6>
+                            <p>Senin – Sabtu : 08.00 – 22.00 WIB</p>
                         </div>
 
                     </div>
@@ -112,7 +112,7 @@
 
         <!-- Google Map Area Start -->
         <div class="google-map-area w-100" data-aos="fade-up" data-aos-duration="1000">
-            <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2136.986005919501!2d-73.9685579655238!3d40.75862446708152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258e4a1c884e5%3A0x24fe1071086b36d5!2sThe%20Atrium!5e0!3m2!1sen!2sbd!4v1585132512970!5m2!1sen!2sbd"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15807.808378572216!2d112.606886!3d-7.900074!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10433eaf1fb2fb4c!2sHummasoft%20Technology!5e0!3m2!1sid!2sid!4v1633495929730!5m2!1sid!2sid" width="1400" height="670" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
         <!-- Google Map Area Start -->
 
