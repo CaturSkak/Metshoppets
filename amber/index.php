@@ -152,7 +152,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -168,7 +168,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Kucing Anggora 3 Bulan</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -207,7 +207,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Kucing Anggora Mix Persia 3 Bulan</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Anggora Mix Persia</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -216,7 +216,7 @@
                                             <i class="fa fa-star-half-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">Rp.4.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -242,16 +242,16 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Persia Asli</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$105.00</span>
+                                            <span class="new">Rp.5.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -277,24 +277,24 @@
                                             </div>
 
                                             <div class="countdown-area">
-                                                <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
+                                                <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Mainecoon</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$47.50</span>
-                                            <span class="old">$50.00</span>
+                                            <span class="new">Rp.14.760.000</span>
+                                            <span class="old">Rp.18.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -323,17 +323,17 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Anjing Chihuahua</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$58.50</span>
-                                            <span class="old">$62.85</span>
+                                            <span class="new">Rp.12.800.000</span>
+                                            <span class="old">Rp.16.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -362,16 +362,16 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">This is the testing</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Anjing Shiba Inu</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$78.50</span>
+                                            <span class="new">Rp.6.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -397,16 +397,16 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Anjing Alaskan Malamute</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$55.00</span>
+                                            <span class="new">Rp.15.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -435,17 +435,17 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Animal For Life</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Anjing Siberian Husky</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$75.50</span>
-                                            <span class="old">$82.85</span>
+                                            <span class="new">Rp.3.200.000</span>
+                                            <span class="old">Rp.4.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
