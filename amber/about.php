@@ -1,8 +1,6 @@
 <?php include 'header.php'?>
-<!DOCTYPE html>
+
 <html lang="en">
-
-
 
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
@@ -33,6 +31,7 @@
                     </div>
                     <!-- About Thumb End -->
                 </div>
+    
                 <div class="col-md-6 align-self-center mb-6" data-aos="fade-up" data-aos-duration="1500">
                     <!-- About Content Start -->
                     <div class="about-content">
