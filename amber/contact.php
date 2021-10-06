@@ -119,7 +119,7 @@
     </div>
     <!-- Contact Map End -->
 
-
+<?php include 'footer.php'?>
 
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
