@@ -1,5 +1,7 @@
+<?php include 'koneksi.php'; 
+       include 'header.php'?>
 <!DOCTYPE html>
-<html lang="en" include file="header.php" >
+<html lang="en"  >
 
 
 
