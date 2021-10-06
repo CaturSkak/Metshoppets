@@ -139,14 +139,14 @@
     <!-- Team section Start -->
     <div class="section section-margin">
         <div class="container">
-            <div class="row row-cols-md-3 row-cols-sm-2 row-cols-1 mb-n6">
+            <div class="row row-cols-md-4 row-cols-sm-3 row-cols-2 mb-n6">
 
                 <div class="col mb-6" data-aos="fade-up" data-aos-duration="1000">
                     <!-- Single Team Wrapper Start -->
                     <div class="single-team-wrapper">
                         <div class="thumb">
                             <a href="contact.php">
-                                <img class="fit-image" src="assets/images/team/1.jpg" alt="Team Image">
+                                <img class="fit-image" src="assets/images/team/Catur.png" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
                             <div class="social-share">
@@ -170,7 +170,7 @@
                     <div class="single-team-wrapper">
                         <div class="thumb">
                             <a href="contact.php">
-                                <img class="fit-image" src="assets/images/team/2.jpg" alt="Team Image">
+                                <img class="fit-image" src="assets/images/team/Dedi.png" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
                             <div class="social-share">
@@ -194,7 +194,7 @@
                     <div class="single-team-wrapper">
                         <div class="thumb">
                             <a href="contact.php">
-                                <img class="fit-image" src="assets/images/team/2.jpg" alt="Team Image">
+                                <img class="fit-image" src="assets/images/team/Alif.png" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
                             <div class="social-share">
@@ -218,7 +218,7 @@
                     <div class="single-team-wrapper">
                         <div class="thumb">
                             <a href="contact.php">
-                                <img class="fit-image" src="assets/images/team/3.jpg" alt="Team Image">
+                                <img class="fit-image" src="assets/images/team/Farhan.png" alt="Team Image">
                             </a>
                             <!-- Social Shear Start -->
                             <div class="social-share">
