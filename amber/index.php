@@ -153,7 +153,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-18%</span>
@@ -265,7 +265,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-18%</span>
