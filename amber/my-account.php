@@ -3,17 +3,16 @@
 <html lang="en">
 
 
-
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">My Account</h2>
+                        <h2 class="breadcrumb-title">Akun Saya</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>My Account</li>
+                            <li>Akun Saya</li>
                         </ul>
                     </div>
                 </div>
@@ -38,11 +37,11 @@
                                 <div class="myaccount-tab-menu nav" role="tablist">
                                     <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>
                                         Dashboard</a>
-                                    <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Orders</a>
+                                    <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pembelian</a>
                                     <a href="#download" data-bs-toggle="tab"><i class="fa fa-cloud-download"></i> Download</a>
-                                    <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Payment Method</a>
-                                    <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> address</a>
-                                    <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i> Account Details</a>
+                                    <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
+                                    <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
+                                    <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i>Detail Akun</a>
                                     <a href="login.html"><i class="fa fa-sign-out"></i> Logout</a>
                                 </div>
                             </div>
@@ -67,7 +66,7 @@
                                     <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="orders" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Orders</h3>
+                                            <h3 class="title">Pembelian</h3>
                                             <div class="myaccount-table table-responsive text-center">
                                                 <table class="table table-bordered">
                                                     <thead class="thead-light">
@@ -145,7 +144,7 @@
                                     <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="payment-method" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Payment Method</h3>
+                                            <h3 class="title">Metode Pembayaran</h3>
                                             <p class="saved-message">You Can't Saved Your Payment Method yet.</p>
                                         </div>
                                     </div>
@@ -154,7 +153,7 @@
                                     <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="address-edit" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Billing Address</h3>
+                                            <h3 class="title">Alamat</h3>
                                             <address>
                                                 <p><strong>Alex Aya</strong></p>
                                                 <p>1234 Market ##, Suite 900 <br>Lorem Ipsum, ## 12345</p>
@@ -168,7 +167,7 @@
                                     <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="account-info" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Account Details</h3>
+                                            <h3 class="title">Detail akun</h3>
                                             <div class="account-details-form">
                                                 <form action="#">
                                                     <div class="row">
