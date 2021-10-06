@@ -384,12 +384,12 @@
                                 <!-- Table Body Start -->
                                 <tbody>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Najing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.000.000</span></td>
+                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
                                     </tr>
                                     <tr class="cart_item">
                                         <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.10.740.000</span></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
                                     </tr>
                                 </tbody>
                                 <!-- Table Body End -->
@@ -398,11 +398,11 @@
                                 <tfoot>
                                     <tr class="cart-subtotal">
                                         <th class="text-start ps-0">Subtotal</th>
-                                        <td class="text-end pe-0"><span class="amount">Rp.10.740.000</span></td>
+                                        <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
                                     </tr>
                                     <tr class="order-total">
                                         <th class="text-start ps-0">Order Total</th>
-                                        <td class="text-end pe-0"><strong><span class="amount">Rp.10.740.000</span></strong></td>
+                                        <td class="text-end pe-0"><strong><span class="amount">Rp.11.740.000</span></strong></td>
                                     </tr>
                                 </tfoot>
                                 <!-- Table Footer End -->

@@ -204,7 +204,7 @@
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Jumlah: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
-                                                            <span class="new">Rp.5.000.000</span>
+                                                            <span class="new">Rp.6.000.000</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -255,7 +255,7 @@
                                         <!-- Cart Product Total Start -->
                                         <div class="cart-product-total mb-4 pb-4 border-bottom">
                                             <span class="value">Total</span>
-                                            <span class="price">Rp.10.740.000</span>
+                                            <span class="price">Rp.11.740.000</span>
                                         </div>
                                         <!-- Cart Product Total End -->
 
