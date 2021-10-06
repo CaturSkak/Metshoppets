@@ -59,11 +59,11 @@
                 <div class="row align-items-center">
 
                     <!-- Header Top Message Start -->
-                    <center>
+                     <center>
                     <div class="col-12 col-lg-6">
                         <div class="header-top-msg-wrapper">
                             
-                            <p class="header-top-message">Selamat Datang di MetShop Pets</p>
+                            <p class="header-top-message">Selamat Datang di MetShopPets</p>
                             
                         </div>
                     </center>
@@ -91,15 +91,17 @@
                         <!-- Header Logo End -->
 
                         <!-- Header Menu Start -->
-                        <div class="col-lg-6 d-none d-lg-block">
+                       <div class="col-lg-6 d-none d-lg-block">
                             <div class="main-menu">
                                 <ul>
                                     <li class="has-children">
-                                        <a href="index.php">Home</a>
-                                        
+                                        <a href="#">Beranda</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="index.html">Beranda</a></li>
+                                        </ul>
                                     </li>
                                     <li class="has-children position-relative">
-                                        <a href="#">Shop</a>
+                                        <a href="#">Belanja</a>
                                         <ul class="mega-menu">
                                             <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Katagori</h4>
@@ -112,12 +114,12 @@
                                                 <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Lainya</h4>
                                                 <ul class="mb-n2">
-                                                    <li><a href="my-account.php">My Account</a></li>
-                                                    <li><a href="login.php">Login | Register</a></li>
-                                                    <li><a href="wishlist.php">Wishlist</a></li>
-                                                    <li><a href="cart.php">Cart</a></li>
-                                                    <li><a href="checkout.php">Checkout</a></li>
-                                                    <li><a href="compare.php">Compare</a></li>
+                                                    <li><a href="my-account.html">Akun saya</a></li>
+                                                    <li><a href="login.html">Masuk | Daftar</a></li>
+                                                    <li><a href="wishlist.html">Daftar Keinginan</a></li>
+                                                    <li><a href="cart.html">Keranjang</a></li>
+                                                    <li><a href="checkout.html">Checkout</a></li>
+                                                    <li><a href="compare.html">Perbanding</a></li>
                                                 </ul>
                                             </li>
                                             <li class="mega-menu-col">
@@ -130,24 +132,24 @@
                                         </ul>
                                     </li>
                                     <li class="has-children">
-                                        <a href="#">Pages</a>
+                                        <a href="#">Halaman</a>
                                         <ul class="sub-menu">
-                                            <li><a href="faq.php">FAQ</a></li>
-                                            <li><a href="login.php">Login</a></li>
-                                            <li><a href="register.php">Register</a></li>
+                                            <li><a href="faq.html">FAQ</a></li>
+                                            <li><a href="login.html">Masuk</a></li>
+                                            <li><a href="register.html">Daftar</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-children">
                                         <a href="#">Mate</a>
                                         <ul class="sub-menu">
                                             <li><a href="blog.html">Hewan Peliharaan</a></li>
-                                            <li><a href="blog-left-sidebar.php">Hewan Ternak</a></li>
-                                            <li><a href="blog-right-sidebar.php">Ikan</a></li>
-                                            <li><a href="blog-details.php">Burung</a></li>
+                                            <li><a href="blog-left-sidebar.html">Hewan Ternak</a></li>
+                                            <li><a href="blog-right-sidebar.html">Ikan</a></li>
+                                            <li><a href="blog-details.html">Burung</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.php">About</a></li>
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="about.html">Tentang</a></li>
+                                    <li><a href="contact.html">Kontak</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -299,7 +301,7 @@
 
 
     <!-- Hero/Intro Slider Start -->
-    <div class="section">
+    div class="section">
         <div class="hero-slider swiper-container">
             <div class="swiper-wrapper">
 
@@ -312,7 +314,7 @@
                             <h5 class="sub-title">MetShop Pet's</h5>
                             <h2 class="title m-0">Penjodohan Hewan Peliharaan</h2>
                             <p class="ms-0">Temukan Pasangan untuk Hewan Peliharaan Anda.</p>
-                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Shop Now</a>
+                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
                         </div>
                     </div>
                 </div>
@@ -326,7 +328,7 @@
                             <h5 class="sub-title">MetShop Pet's</h5>
                             <h2 class="title m-0">Penjualan Hewan Peliharaan</h2>
                             <p>Temani Hidup Anda dengan Hewan Peliharaan.</p>
-                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Shop Now</a>
+                            <a href="shop.html" class="btn btn-dark btn-hover-primary">Belanja Sekarang</a>
                         </div>
                     </div>
                 </div>
