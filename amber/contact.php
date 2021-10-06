@@ -8,10 +8,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Contact Us</h2>
+                        <h2 class="breadcrumb-title">Hubungi Kami</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Contact Us</li>
+                            <li>Hubungi Kami</li>
                         </ul>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
 
                     <!-- Section Title Start -->
                     <div class="contact-title pb-3">
-                        <h2 class="title">Get in Touch</h2>
+                        <h2 class="title">Data Diri</h2>
                     </div>
                     <!-- Section Title End -->
 
@@ -42,7 +42,7 @@
 
                                         <div class="col-md-6">
                                             <div class="input-area mb-4">
-                                                <input class="input-item" type="text" placeholder="Your Name *" name="name">
+                                                <input class="input-item" type="text" placeholder="Nama *" name="name">
                                             </div>
                                         </div>
 
@@ -54,18 +54,18 @@
 
                                         <div class="col-12">
                                             <div class="input-area mb-4">
-                                                <input class="input-item" type="text" placeholder="Subject *" name="subject">
+                                                <input class="input-item" type="text" placeholder="Keterangan *" name="subject">
                                             </div>
                                         </div>
 
                                         <div class="col-12">
                                             <div class="input-area mb-8">
-                                                <textarea cols="30" rows="5" class="textarea-item" name="message" placeholder="Message"></textarea>
+                                                <textarea cols="30" rows="5" class="textarea-item" name="message" placeholder="Pesan"></textarea>
                                             </div>
                                         </div>
 
                                         <div class="col-12">
-                                            <button type="submit" id="submit" name="submit" class="btn btn-primary btn-hover-dark">Send Message</button>
+                                            <button type="submit" id="submit" name="submit" class="btn btn-primary btn-hover-dark">Kirim</button>
                                         </div>
                                         <p class="col-8 form-message mb-0"></p>
 
@@ -81,22 +81,22 @@
                 <div class="col-12 col-lg-6 mb-10 order-1 order-lg-2" data-aos="fade-up" data-aos-duration="1500">
                     <!-- Section Title Start -->
                     <div class="contact-title pb-3">
-                        <h2 class="title">Contact Us</h2>
+                        <h2 class="title">Hubungi Kami</h2>
                     </div>
                     <!-- Section Title End -->
                     <div class="contact-content">
-                        <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human.</p>
+                        <p>Jika Anda kebingungan Bisa langsung datang ke toko kami, tlp atau kirim melalui email yang ada dibawah ini.</p>
                         <address class="contact-block">
                             <ul>
-                                <li><i class="fa fa-fax"></i> Your address goes here</li>
+                                <li><i class="fa fa-fax"></i> JL.Pb Sudirman No.54-Dusun Timur kec banyuwangi.</li>
                                 <li><i class="fa fa-phone"></i> <a href="tel:123-123-456-789">123 123 456 789</a></li>
                                 <li><i class="fa fa-envelope-o"></i> <a href="mailto:demo@example.com">demo@example.com </a></li>
                             </ul>
                         </address>
 
                         <div class="working-time">
-                            <h6 class="title">Working Hours</h6>
-                            <p>Monday – Saturday:08AM – 22PM</p>
+                            <h6 class="title">Jam Kerja Toko</h6>
+                            <p>Senin – Sabtu : 08.00 – 22.00 WIB</p>
                         </div>
 
                     </div>
@@ -112,106 +112,14 @@
 
         <!-- Google Map Area Start -->
         <div class="google-map-area w-100" data-aos="fade-up" data-aos-duration="1000">
-            <iframe class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2136.986005919501!2d-73.9685579655238!3d40.75862446708152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258e4a1c884e5%3A0x24fe1071086b36d5!2sThe%20Atrium!5e0!3m2!1sen!2sbd!4v1585132512970!5m2!1sen!2sbd"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15807.808378572216!2d112.606886!3d-7.900074!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10433eaf1fb2fb4c!2sHummasoft%20Technology!5e0!3m2!1sid!2sid!4v1633495929730!5m2!1sid!2sid" width="1400" height="670" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
         <!-- Google Map Area Start -->
 
     </div>
     <!-- Contact Map End -->
 
-    <!-- Footer Section Start -->
-    <footer class="section footer-section">
-        <!-- Footer Top Start -->
-        <div class="footer-top bg-bright section-padding">
-            <div class="container">
-                <div class="row mb-n8">
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="single-footer-widget">
-                            <h1 class="widget-title">About Us</h1>
-                            <p class="desc-content">Lorem ipsum dolor sit amet, co adipisi elit, sed eiusmod tempor incididunt ut labore et dolore</p>
-                            <!-- Soclial Link Start -->
-                            <div class="widget-social justify-content-start mb-n2">
-                                <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>
-                                <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
-                                <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
-                                <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                <a title="Dribble" href="#/"><i class="icon-social-dribbble"></i></a>
-                            </div>
-                            <!-- Social Link End -->
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1200">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Useful Links</h2>
-                            <ul class="widget-list">
-                                <li><a href="wishlist.html">Help & Contact Us</a></li>
-                                <li><a href="contact.html">Returns & Refunds</a></li>
-                                <li><a href="contact.html">Online Stores</a></li>
-                                <li><a href="contact.html">Terms & Conditions</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1400">
-                        <div class="single-footer-widget aos-init aos-animate">
-                            <h2 class="widget-title">Help</h2>
-                            <ul class="widget-list">
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="contact.html">Pricing Plans</a></li>
-                                <li><a href="contact.html">Order Traking</a></li>
-                                <li><a href="contact.html">Returns</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1600">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Send newsletter</h2>
-                            <div class="widget-body">
-                                <p class="desc-content mb-4">Subscribe to our newsletter and get 10% off your first purchase..</p>
-                                <!-- Newsletter Form Start -->
-                                <div class="newsletter-form-wrap pt-1">
-                                    <form id="mc-form" class="mc-form">
-                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="demo@example.com" name="EMAIL">
-                                        <button id="mc-submit" class="newsletter-btn" type="submit">Send</button>
-                                    </form>
-                                    <!-- mailchimp-alerts Start -->
-                                    <div class="mailchimp-alerts text-centre">
-                                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                        <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
-                                        <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
-                                    </div>
-                                    <!-- mailchimp-alerts end -->
-                                </div>
-                                <!-- Newsletter Form End -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Top End -->
-
-        <!-- Footer Bottom Start -->
-        <div class="footer-bottom bg-light pt-4 pb-4">
-            <div class="container">
-                <div class="row align-items-center mb-n4">
-                    <div class="col-md-6 text-center text-md-start order-2 order-md-1 mb-4">
-                        <div class="copyright-content">
-                            <p class="mb-0">© 2021 <strong>Amber </strong> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/">HasThemes.</a></p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 text-center text-md-end order-1 order-md-2 mb-4">
-                        <div class="payment">
-                            <a href="#/">
-                                <img class="fit-image" src="assets/images/payment/payment_large.png" alt="Payment">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Bottom End -->
-    </footer>
-    <!-- Footer Section End -->
+<?php include 'footer.php'?>
 
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">

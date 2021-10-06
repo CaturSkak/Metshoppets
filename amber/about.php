@@ -8,10 +8,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">About Us</h2>
+                        <h2 class="breadcrumb-title">Tentang Kami</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>About Us</li>
+                            <li>Tentang Kami</li>
                         </ul>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                 <div class="col-md-6 pe-lg-9 pe-3 mb-6" data-aos="fade-up" data-aos-duration="1000">
                     <!-- About Thumb Start -->
                     <div class="about-thumb">
-                        <img class="fit-image" src="assets/images/about/1.png" alt="About Image">
+                        <img class="fit-image" src="assets/images/about/Logooo.png" alt="About Image">
                     </div>
                     <!-- About Thumb End -->
                 </div>
@@ -35,14 +35,14 @@
                 <div class="col-md-6 align-self-center mb-6" data-aos="fade-up" data-aos-duration="1500">
                     <!-- About Content Start -->
                     <div class="about-content">
-                        <h2 class="title">About Amber</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipis elit, sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim quis nostrud exercitat ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h2 class="title">Tentang Kami</h2>
+                        <p>MetShopPet's Ini Membeli dan menjual Hewan Piliharaan anda seandainya tidak diizinkan lagi untuk menempati di rumah anda bisa di jual di MetShopPet's ini dari pada di telantarkan begitu saja. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
                         <ul class="about-content-list">
-                            <li><span><i class="ti-angle-double-right"></i></span> There are many variation passages</li>
-                            <li><span><i class="ti-angle-double-right"></i></span> Contrary to popular belief not simply</li>
-                            <li><span><i class="ti-angle-double-right"></i></span> But I must explain to you how all this</li>
+                            <li><span><i class="ti-angle-double-right"></i></span> Ada Banyak variasi Hewan Lucu dan Imut</li>
+                            <li><span><i class="ti-angle-double-right"></i></span> Bisa Menjodohkan Hewan Peliharaan DLL.</li>
+                            <li><span><i class="ti-angle-double-right"></i></span> Pelayanannya sangat memuaskan pelanggan</li>
                         </ul>
-                        <a href="contact.html" class="btn btn-primary btn-hover-dark">Contact Us</a>
+                        <a href="contact.html" class="btn btn-primary btn-hover-dark">Hubungi Kami</a>
                     </div>
                     <!-- About Content End -->
                 </div>
@@ -69,7 +69,7 @@
 
                                     <!-- Testimonial Content Start -->
                                     <div class="testimonial-content text-center">
-                                        <p>Lorem ipsum dolor sit amet, co adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita ullamco laboris nisi ut aliquip ex ea commodo</p>
+                                        <p>Tempat MetShopPet's ini memberikan pelayanan yang bagus dan memuaskan</p>
                                     </div>
                                     <!-- Testimonial Content End -->
 
@@ -81,7 +81,7 @@
 
                                     <!-- Testimonial Content Start -->
                                     <div class="testimonial-content text-center">
-                                        <p>Vivamus a lobortis ipsum, vel condimentum magna. Etiam id turpis tortor. Nunc scelerisque, nisi a blandit varius, nunc purus venenatis ligula, sed venenatis orci augue nec sapien. Cum sociis natoque</p>
+                                        <p>pelayanan-nya ramah dan juga hewan hewan disana sangat lucu</p>
                                     </div>
                                     <!-- Testimonial Content End -->
 
@@ -101,8 +101,8 @@
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
                                         <img src="assets/images/testimonial/1.png" alt="Testimonial Image">
-                                        <h3 class="thumb-title">Jonathon Jhon</h3>
-                                        <h6 class="thumb-subtitle">Customer</h6>
+                                        <h3 class="thumb-title">Doni</h3>
+                                        <h6 class="thumb-subtitle">Pelanggan</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -113,8 +113,8 @@
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
                                         <img src="assets/images/testimonial/2.png" alt="Testimonial Image">
-                                        <h3 class="thumb-title">Cristal Jerry</h3>
-                                        <h6 class="thumb-subtitle">Customer</h6>
+                                        <h3 class="thumb-title">Udin</h3>
+                                        <h6 class="thumb-subtitle">Pelanggan</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -158,8 +158,8 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Cristal Mile</h4>
-                            <h4 class="subtitle">Customer</h4>
+                            <h4 class="title">Udin</h4>
+                            <h4 class="subtitle">Pelanggan</h4>
                         </div>
                     </div>
                     <!-- Single Team Wrapper End -->
@@ -182,8 +182,8 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Jems Prince</h4>
-                            <h4 class="subtitle">CEO</h4>
+                            <h4 class="title">Abdul S.</h4>
+                            <h4 class="subtitle">Admin</h4>
                         </div>
                     </div>
                     <!-- Single Team Wrapper End -->
@@ -206,8 +206,8 @@
                             <!-- Social Shear End -->
                         </div>
                         <div class="content">
-                            <h4 class="title">Prety Pairy</h4>
-                            <h4 class="subtitle">Customer</h4>
+                            <h4 class="title">Joko</h4>
+                            <h4 class="subtitle">Pelanggan</h4>
                         </div>
                     </div>
                     <!-- Single Team Wrapper End -->
@@ -218,99 +218,7 @@
     </div>
     <!-- Team section End -->
 
-    <!-- Footer Section Start -->
-    <footer class="section footer-section">
-        <!-- Footer Top Start -->
-        <div class="footer-top bg-bright section-padding">
-            <div class="container">
-                <div class="row mb-n8">
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="single-footer-widget">
-                            <h1 class="widget-title">About Us</h1>
-                            <p class="desc-content">Lorem ipsum dolor sit amet, co adipisi elit, sed eiusmod tempor incididunt ut labore et dolore</p>
-                            <!-- Soclial Link Start -->
-                            <div class="widget-social justify-content-start mb-n2">
-                                <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>
-                                <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
-                                <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
-                                <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                <a title="Dribble" href="#/"><i class="icon-social-dribbble"></i></a>
-                            </div>
-                            <!-- Social Link End -->
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1200">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Useful Links</h2>
-                            <ul class="widget-list">
-                                <li><a href="wishlist.html">Help & Contact Us</a></li>
-                                <li><a href="contact.html">Returns & Refunds</a></li>
-                                <li><a href="contact.html">Online Stores</a></li>
-                                <li><a href="contact.html">Terms & Conditions</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1400">
-                        <div class="single-footer-widget aos-init aos-animate">
-                            <h2 class="widget-title">Help</h2>
-                            <ul class="widget-list">
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="contact.html">Pricing Plans</a></li>
-                                <li><a href="contact.html">Order Traking</a></li>
-                                <li><a href="contact.html">Returns</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6 col-lg-3 mb-8" data-aos="fade-up" data-aos-duration="1600">
-                        <div class="single-footer-widget">
-                            <h2 class="widget-title">Send newsletter</h2>
-                            <div class="widget-body">
-                                <p class="desc-content mb-4">Subscribe to our newsletter and get 10% off your first purchase..</p>
-                                <!-- Newsletter Form Start -->
-                                <div class="newsletter-form-wrap pt-1">
-                                    <form id="mc-form" class="mc-form">
-                                        <input type="email" id="mc-email" class="form-control email-box" placeholder="demo@example.com" name="EMAIL">
-                                        <button id="mc-submit" class="newsletter-btn" type="submit">Send</button>
-                                    </form>
-                                    <!-- mailchimp-alerts Start -->
-                                    <div class="mailchimp-alerts text-centre">
-                                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                        <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
-                                        <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
-                                    </div>
-                                    <!-- mailchimp-alerts end -->
-                                </div>
-                                <!-- Newsletter Form End -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Top End -->
-
-        <!-- Footer Bottom Start -->
-        <div class="footer-bottom bg-light pt-4 pb-4">
-            <div class="container">
-                <div class="row align-items-center mb-n4">
-                    <div class="col-md-6 text-center text-md-start order-2 order-md-1 mb-4">
-                        <div class="copyright-content">
-                            <p class="mb-0">© 2021 <strong>Amber </strong> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/">HasThemes.</a></p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 text-center text-md-end order-1 order-md-2 mb-4">
-                        <div class="payment">
-                            <a href="#/">
-                                <img class="fit-image" src="assets/images/payment/payment_large.png" alt="Payment">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Bottom End -->
-    </footer>
-    <!-- Footer Section End -->
+<?php include 'footer.php'?>
 
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
