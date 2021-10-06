@@ -218,6 +218,7 @@
     </div>
     <!-- Team section End -->
 
+<<<<<<< HEAD
     <!-- Footer Section Start -->
     <footer class="section footer-section">
         <!-- Footer Top Start -->
