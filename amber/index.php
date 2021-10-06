@@ -168,17 +168,17 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
+                                            <h5 class="title"><a href="single-product.html">Kucing Anggora 3 Bulan</a></h5>
                                             <span class="rating">
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$80.50</span>
-                                            <span class="old">$85.80</span>
+                                            <span class="new">Rp.5.740.000</span>
+                                            <span class="old">Rp.7.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -191,7 +191,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -207,16 +207,16 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Wait, You Need This</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Anggora Mix Persia 3 Bulan</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$90.00</span>
+                                            <span class="new">Rp.2.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
