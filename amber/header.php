@@ -92,10 +92,8 @@
                             <div class="main-menu">
                                 <ul>
                                     <li class="has-children">
-                                        <a href="#">Beranda</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.php">Beranda</a></li>
-                                        </ul>
+                                        <a href="index.php">Beranda</a>
+                                      
                                     </li>
                                     <li class="has-children position-relative">
                                         <a href="#">Belanja</a>
