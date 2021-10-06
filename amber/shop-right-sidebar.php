@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Shop Sidebar</h2>
+                        <h2 class="breadcrumb-title">Ikan</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Shop Sidebar</li>
+                            <li><a href="index.php">Beranda</a></li>
+                            <li>Ikan</li>
                         </ul>
                     </div>
                 </div>
@@ -641,7 +641,7 @@
                             <div class="widget-list mb-10">
                                 <h3 class="widget-title mb-6">Search</h3>
                                 <div class="search-box">
-                                    <input type="text" class="form-control" placeholder="Search Our Store" aria-label="Search Our Store">
+                                    <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
                                         <i class="icon-magnifier"></i>
                                     </button>
@@ -651,45 +651,45 @@
                                 <h3 class="widget-title mb-6">Categories</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
-                                        <li><a href="#/">All Product</a></li>
-                                        <li><a href="#/">Best Seller (5)</a></li>
-                                        <li><a href="#/">Featured (4)</a></li>
-                                        <li><a href="#/">New Products (6)</a></li>
+                                        <li><a href="#/">Semua Produk</a></li>
+                                        <li><a href="#/">Produk Terlaris (5)</a></li>
+                                        <li><a href="#/">Terlaris (4)</a></li>
+                                        <li><a href="#/">Produk Terbaru (6)</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Color</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="checkbox-container categories-list">
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">black (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Cupang (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">red (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Arwana (6)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">blue (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Platax Pinnatus (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">green (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Zebra (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">pink (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Gurami Kerdil (4)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -699,13 +699,13 @@
                                 <h3 class="widget-title mb-6">Tags</h3>
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
-                                        <li><a href="#/">Pet Food</a></li>
-                                        <li><a href="#/">Animals</a></li>
-                                        <li><a href="#/">Domestic</a></li>
-                                        <li><a href="#/">Wild</a></li>
-                                        <li><a href="#/">Dogs</a></li>
-                                        <li><a href="#/">Cats</a></li>
-                                        <li><a href="#/">Hubby</a></li>
+                                        <li><a href="#/">Kucing</a></li>
+                                        <li><a href="#/">Hewan Peliharaan</a></li>
+                                        <li><a href="#/">Persia</a></li>
+                                        <li><a href="#/">Burung</a></li>
+                                        <li><a href="#/">Anjing</a></li>
+                                        <li><a href="#/">Hewan Ternak</a></li>
+                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
                             </div>

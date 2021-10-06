@@ -43,7 +43,7 @@
                                     <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
                                     <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
                                     <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i>Detail Akun</a>
-                                    <a href="login.html"><i class="fa fa-sign-out"></i> Logout</a>
+                                    <a href="login.php"><i class="fa fa-sign-out"></i> Logout</a>
                                 </div>
                             </div>
                             <!-- My Account Tab Menu End -->
@@ -57,9 +57,9 @@
                                         <div class="myaccount-content">
                                             <h3 class="title">Dashboard</h3>
                                             <div class="welcome">
-                                                <p>Hello, <strong>Alex Aya</strong> (If Not <strong>Aya !</strong><a href="login.html" class="logout"> Logout</a>)</p>
+                                                <p>Halo, <strong>Alex Aya</strong> (Jika Bukan <strong>Aya !</strong><a href="login.php" class="logout"> Logout</a>)</p>
                                             </div>
-                                            <p class="mb-0">From your account dashboard. you can easily check & view your recent orders, manage your shipping and billing addresses and edit your password and account details.</p>
+                                            <p class="mb-0">Dari Akun dashboard anda. Anda dapat dengan mudah memeriksa & melihat pesanan terbaru Anda, mengelola alamat pengiriman dan penagihan Anda, serta mengedit kata sandi dan detail akun Anda.</p>
                                         </div>
                                     </div>
                                     <!-- Single Tab Content End -->
@@ -73,32 +73,32 @@
                                                     <thead class="thead-light">
                                                         <tr>
                                                             <th>Order</th>
-                                                            <th>Date</th>
+                                                            <th>Tanggal</th>
                                                             <th>Status</th>
                                                             <th>Total</th>
-                                                            <th>Action</th>
+                                                            <th>Detail</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>Aug 22, 2018</td>
+                                                            <td>21 Feb, 2021</td>
                                                             <td>Pending</td>
-                                                            <td>$3000</td>
+                                                            <td>Rp.1.500.000</td>
                                                             <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>July 22, 2018</td>
+                                                            <td>22 Juli, 2021</td>
                                                             <td>Approved</td>
-                                                            <td>$200</td>
+                                                            <td>Rp.2.000.000</td>
                                                             <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>June 12, 2019</td>
+                                                            <td>12 Juni, 2019</td>
                                                             <td>On Hold</td>
-                                                            <td>$990</td>
+                                                            <td>Rp.1.000.000</td>
                                                             <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
                                                         </tr>
                                                     </tbody>
@@ -157,10 +157,10 @@
                                             <h3 class="title">Alamat</h3>
                                             <address>
                                                 <p><strong>Alex Aya</strong></p>
-                                                <p>1234 Market ##, Suite 900 <br>Lorem Ipsum, ## 12345</p>
-                                                <p>Mobile: (123) 123-456789</p>
+                                                <p>Jl.Diponegoro No.65A Karang Ploso Malang</p>
+                                                <p>Telepon: 082229434533</p>
                                             </address>
-                                            <a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-edit me-2"></i>Edit Address</a>
+                                            <a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-edit me-2"></i>Edit Alamat</a>
                                         </div>
                                     </div>
                                     <!-- Single Tab Content End -->
@@ -174,20 +174,20 @@
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
-                                                                <label for="first-name" class="required mb-2">First Name</label>
-                                                                <input type="text" id="first-name" placeholder="First Name" />
+                                                                <label for="first-name" class="required mb-2">Nama Depan</label>
+                                                                <input type="text" id="first-name" placeholder="Nama Depan" />
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
-                                                                <label for="last-name" class="required mb-2">Last Name</label>
-                                                                <input type="text" id="last-name" placeholder="Last Name" />
+                                                                <label for="last-name" class="required mb-2">Nama Belakang</label>
+                                                                <input type="text" id="last-name" placeholder="Nama Belakang" />
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="single-input-item mb-3">
-                                                        <label for="display-name" class="required mb-2">Display Name</label>
-                                                        <input type="text" id="display-name" placeholder="Display Name" />
+                                                        <label for="display-name" class="required mb-2">Nama Tampilan</label>
+                                                        <input type="text" id="display-name" placeholder="Nama Tampilan" />
                                                     </div>
                                                     <div class="single-input-item mb-3">
                                                         <label for="email" class="required mb-1">Email Addres</label>
@@ -215,7 +215,7 @@
                                                         </div>
                                                     </fieldset>
                                                     <div class="single-input-item single-item-button mt-6">
-                                                        <button class="btn btn btn-primary btn-hover-dark rounded-0">Save Changes</button>
+                                                        <button class="btn btn btn-primary btn-hover-dark rounded-0">Simpan</button>
                                                     </div>
                                                 </form>
                                             </div>

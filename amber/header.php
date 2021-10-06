@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MetShopPets - Welcome To Petshop</title>
+    <title>MetShopPets -Selamat Datang di MetShop Pets</title>
 
     <!-- Favicons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <link rel="shortcut icon" href="assets/images/logo.png">
 
     <!-- Vendor CSS (Icon Font) -->
 
@@ -98,7 +98,7 @@
                                       
                                     </li>
                                     <li class="has-children position-relative">
-                                        <a href="#">Belanja</a>
+                                        <a href="hewanumum.php">Belanja</a>
                                         <ul class="mega-menu">
                                             <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Katagori</h4>
@@ -164,7 +164,7 @@
                                     </div>
                                     <!-- Search Form and Button Start -->
                                     <form class="header-search-form" action="#">
-                                        <input type="text" class="header-search-input" placeholder="Search Our Store">
+                                        <input type="text" class="header-search-input" placeholder="Cari">
                                         <button class="header-search-button"><i class="icon-magnifier icons"></i></button>
                                     </form>
                                     <!-- Search Form and Button End -->
