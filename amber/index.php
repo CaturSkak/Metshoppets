@@ -846,9 +846,9 @@
                                             </span>
                                             <p>harga mmbawa rupa karna di toko kami slalu rutin vitamin dan pakan royal canin 70% 20 meo 10% proplan ...jadi jangan di samakan dengan yg murah ya kak makasih ..</p>
                                             <div class="countdown-area">
-                                                <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
+                                                <div class="countdown-wrapper" data-countdown="2021/10/31"></div>
                                             </div>
-                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
+                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Beli Sekarang</a>
                                         </div>
                                         <!-- Deal Content End -->
                                     </div>
@@ -879,11 +879,23 @@
                                                     <span class="new">Rp.5.450.000</span>
                                             <span class="old">Rp.6.000.000</span>
                                             </span>
-                                            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+                                            <p>Shiba Inu jantan bulan berjalan
+                                                Dob jan
+                                                Stamboom
+                                                Microchip
+                                                Sehat, anatomi good
+                                                Pup pee sudah rutin di luar
+                                                Vaksin lengkap
+                                                Bloodline Rusia
+                                                Bloodline Iki Haici Delta kennel
+
+                                                Lokasi bandar lampung
+                                                Harga pasti pas
+                                                Ga pake mahal.</p>
                                             <div class="countdown-area">
-                                                <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
+                                                <div class="countdown-wrapper" data-countdown="2021/10/31"></div>
                                             </div>
-                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
+                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Beli Sekarang</a>
                                         </div>
                                         <!-- Deal Content End -->
                                     </div>
