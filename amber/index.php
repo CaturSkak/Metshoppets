@@ -147,11 +147,11 @@
         </div>
         <!-- Header Bottom End -->
 
-   <div w3-include-html="Header.html"></div>
+
 
 
     <!-- Hero/Intro Slider Start -->
-    div class="section">
+    <div class="section">
         <div class="hero-slider swiper-container">
             <div class="swiper-wrapper">
 
