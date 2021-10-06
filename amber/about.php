@@ -36,7 +36,7 @@
                     <!-- About Content Start -->
                     <div class="about-content">
                         <h2 class="title">Tentang Kami</h2>
-                        <p>MetShopPet's Ini melayani pembelian dan penjualan Hewan Peliharaan untuk anda. anda bisa di jual di MetShopPet's ini dari pada di telantarkan begitu saja. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
+                        <p>MetShopPet's Ini melayani pembelian dan penjualan Hewan Peliharaan untuk anda. hewan anda bisa di jual di MetShopPet's ini dari pada di telantarkan begitu saja. MetShopPet'sjuga bisa menjodohkan dan tidak hanya hewan peliharaan anda saja, hewan ternak seperti unggas dan lain sebagainya.</p>
                         <ul class="about-content-list">
                             <li><span><i class="ti-angle-double-right"></i></span> Ada Banyak variasi Hewan Lucu dan Imut</li>
                             <li><span><i class="ti-angle-double-right"></i></span> Bisa Menjodohkan Hewan Peliharaan DLL.</li>

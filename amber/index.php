@@ -958,6 +958,17 @@
 
                                 </div>
                                 <!-- Single Swiper Slide End -->
+
+                                 <div class="swiper-slide">
+
+                                    <!-- Testimonial Content Start -->
+                                    <div class="testimonial-content text-center">
+                                        <p>Terima kasih banyak kak, gemes banget kucingnya, sehat, bulunya halus banget, sesuai ekspektasi. </p>
+                                    </div>
+                                    <!-- Testimonial Content End -->
+
+                                </div>
+                                <!-- Single Swiper Slide End -->
                             </div>
 
                         </div>
@@ -971,8 +982,8 @@
                                 <div class="swiper-slide">
                                     <!-- Testimonial Thumb Start -->
                                     <div class="testimonial-thumb text-center">
-                                        <img src="assets/images/testimonial/agustina.jpg" alt="Testimonial Image">
-                                        <h3 class="thumb-title">Agustina</h3>
+                                        <img src="assets/images/testimonial/kayes.jpg" alt="Testimonial Image">
+                                        <h3 class="thumb-title">Kayess</h3>
                                         <h6 class="thumb-subtitle">Customer</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
@@ -990,6 +1001,17 @@
                                     <!-- Testimonial Thumb End -->
                                 </div>
                                 <!-- Single Swiper Slide End -->
+
+                                <!-- Single Swiper Slide Start -->
+                                <div class="swiper-slide">
+                                    <!-- Testimonial Thumb Start -->
+                                    <div class="testimonial-thumb text-center">
+                                        <img src="assets/images/testimonial/agustina.jpg" alt="Testimonial Image">
+                                        <h3 class="thumb-title">Agustina</h3>
+                                        <h6 class="thumb-subtitle">Customer</h6>
+                                    </div>
+                                    <!-- Testimonial Thumb End -->
+                                </div>
 
                             </div>
 
