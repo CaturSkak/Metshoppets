@@ -182,7 +182,7 @@
                                 <div class="header-action-btn header-action-btn-cart d-none d-sm-flex">
                                     <a class="cart-visible" href="javascript:void(0)">
                                         <i class="icon-handbag icons"></i>
-                                        <span class="header-action-num">3</span>
+                                        <span class="header-action-num">2</span>
                                     </a>
 
                                     <!-- Header Cart Content Start -->
@@ -197,14 +197,14 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets\images\products\large-product/shiba inu.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.php">Basic Dog Trainning</a></h3>
+                                                        <h3 class="title"><a href="single-product.php">Anjing Shiba Inu</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
-                                                            <span class="new">$70.00</span>
+                                                            <span class="new">Rp.6.000.000</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -226,14 +226,14 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets\images\products\large-product/kucing anggora1.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.php">Wait, You Need This</a></h3>
+                                                        <h3 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
-                                                            <span class="new">$80.00</span>
+                                                            <span class="new">Rp.5.740.000</span>
                                                             </span>
                                                         </div>
                                                     </div>
@@ -255,13 +255,13 @@
                                         <!-- Cart Product Total Start -->
                                         <div class="cart-product-total mb-4 pb-4 border-bottom">
                                             <span class="value">Total</span>
-                                            <span class="price">200$</span>
+                                            <span class="price">Rp.11.740.000</span>
                                         </div>
                                         <!-- Cart Product Total End -->
 
                                         <!-- Cart Product Button Start -->
                                         <div class="cart-product-btn mt-4">
-                                            <a href="cart.php" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
+                                            <a href="cart.php" class="btn btn-outline-light btn-hover-primary w-100">Liat Keranjang</a>
                                             <a href="checkout.php" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
                                         </div>
                                         <!-- Cart Product Button End -->
