@@ -17,7 +17,7 @@
                                     </div>
                                     <!-- Search Form and Button Start -->
                                     <form class="header-search-form" action="#">
-                                        <input type="text" class="header-search-input" placeholder="Search Our Store">
+                                        <input type="text" class="header-search-input" placeholder="Cari di Toko Kami">
                                         <button class="header-search-button"><i class="icon-magnifier icons"></i></button>
                                     </form>
                                     <!-- Search Form and Button End -->
@@ -26,7 +26,7 @@
                                 <!-- Header Action Search Button End -->
 
                                 <!-- Header My Account Button Start -->
-                                <a href="my-account.html" class="header-action-btn header-action-btn-wishlist">
+                                <a href="my-account.php" class="header-action-btn header-action-btn-wishlist">
                                     <i class="icon-user icons"></i>
                                 </a>
                                 <!-- Header My Account Button End -->
@@ -50,10 +50,10 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Basic Dog Trainning</a></h3>
+                                                        <h3 class="title"><a href="single-product.php">Basic Dog Trainning</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
@@ -79,7 +79,7 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
+                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
                                                         <h3 class="title"><a href="single-product.html">Wait, You Need This</a></h3>
@@ -114,8 +114,8 @@
 
                                         <!-- Cart Product Button Start -->
                                         <div class="cart-product-btn mt-4">
-                                            <a href="cart.html" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
-                                            <a href="checkout.html" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
+                                            <a href="cart.php" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
+                                            <a href="checkout.php" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
                                         </div>
                                         <!-- Cart Product Button End -->
 
@@ -124,7 +124,7 @@
 
                                 </div>
                                 <div class="header-action-btn header-action-btn-cart d-flex d-sm-none">
-                                    <a href="cart.html">
+                                    <a href="cart.php">
                                         <i class="icon-handbag icons"></i>
                                         <span class="header-action-num">3</span>
                                     </a>
@@ -306,8 +306,8 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
@@ -345,8 +345,8 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
@@ -375,13 +375,13 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
@@ -410,7 +410,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -418,8 +418,8 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
 
                                             <div class="countdown-area">
@@ -430,7 +430,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -453,7 +453,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -461,7 +461,7 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                                 <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
@@ -469,7 +469,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -492,7 +492,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/7.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -500,15 +500,15 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist." class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">This is the testing</a></h5>
+                                            <h5 class="title"><a href="single-product.php">This is the testing</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -530,20 +530,20 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Basic Dog Trainning</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -565,7 +565,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/2.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -573,15 +573,15 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" title="Quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Animal For Life</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Animal For Life</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -610,7 +610,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -618,15 +618,15 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -649,7 +649,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -665,7 +665,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -688,7 +688,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -704,7 +704,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Wait, You Need This</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Wait, You Need This</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -726,7 +726,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/7.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -734,7 +734,7 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                                 <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
@@ -742,7 +742,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">This is the testing</a></h5>
+                                            <h5 class="title"><a href="single-product.php">This is the testing</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -764,20 +764,20 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Basic Dog Trainning</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -799,7 +799,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -807,8 +807,8 @@
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
@@ -838,7 +838,7 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/2.png" alt="Product" />
                                             </a>
                                             <span class="badges">
@@ -854,7 +854,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Animal For Life</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Animal For Life</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -877,20 +877,20 @@
                                     <div class="product">
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
-                                            <a href="single-product.html" class="image">
+                                            <a href="single-product.php" class="image">
                                                 <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                             </div>
                                         </div>
                                         <!-- Thumb End  -->
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Pet Food Corner</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -927,7 +927,7 @@
 
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1000">
-                    <a href="shop.html" class="banner">
+                    <a href="shop.php" class="banner">
                         <img class="fit-image" src="assets/images/banner/1.png" alt="Banner Image" />
                     </a>
                 </div>
@@ -935,7 +935,7 @@
 
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1400">
-                    <a href="shop.html" class="banner">
+                    <a href="shop.php" class="banner">
                         <img class="fit-image" src="assets/images/banner/2.png" alt="Banner Image" />
                     </a>
                 </div>
@@ -994,7 +994,7 @@
                                             <div class="countdown-area">
                                                 <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
                                             </div>
-                                            <a href="shop.html" class="btn btn-primary btn-hover-dark">Shop Now</a>
+                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
                                         </div>
                                         <!-- Deal Content End -->
                                     </div>
@@ -1006,7 +1006,7 @@
                                     <div class="single-deal-product row mb-n6">
                                         <!-- Deal Thumb Start -->
                                         <div class="deal-thumb col-md-6 mb-6">
-                                            <a href="single-product.html">
+                                            <a href="single-product.php">
                                                 <img class="fit-image" src="assets/images/products/large-product/10.png" alt="Product Image">
                                             </a>
                                         </div>
@@ -1029,7 +1029,7 @@
                                             <div class="countdown-area">
                                                 <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
                                             </div>
-                                            <a href="shop.html" class="btn btn-primary btn-hover-dark">Shop Now</a>
+                                            <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
                                         </div>
                                         <!-- Deal Content End -->
                                     </div>
@@ -1175,7 +1175,7 @@
                                     <li><span>27, Jan, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">How to take care of your fish</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">How to take care of your fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
                             <a class="more-link" href="blog-details.html">Read More</a>
                         </div>
@@ -1191,7 +1191,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/2.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -1205,7 +1205,7 @@
                                     <li><span>12, Feb, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Find the male and female fish</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
                             <a class="more-link" href="blog-details.html">Read More</a>
                         </div>
