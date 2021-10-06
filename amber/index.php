@@ -1015,7 +1015,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/1.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -1029,9 +1029,9 @@
                                     <li><span>27, Jan, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.php">How to take care of your fish</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <h2 class="blog-title"><a href="blog-details.php">Cara Menangani Kucing Kesayangan yang Terkena Diare</a></h2>
+                            <p>Halodoc, Jakarta - Diare termasuk masalah kesehatan yang jarang terjadi pada kucing. Namun, jika ini terjadi pada kucing peliharaan kamu, tandanya ia sedang mengalami masalah kesehatan pada pencernaannya. Apabila diare terbilang singkat, kamu tidak perlu khawatir karena biasanya ini terjadi akibat adanya zat pemicu dalam makanan atau minumannya. Ut...</p>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1061,7 +1061,7 @@
                             </div>
                             <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1075,7 +1075,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/3.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -1089,9 +1089,9 @@
                                     <li><span>20, March, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Tips for taking care of dogs</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of dogs</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1337,7 +1337,7 @@
                                     <li><a href="blog.html">Blog</a></li>
                                     <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
                                     <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                     <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>

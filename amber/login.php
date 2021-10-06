@@ -13,7 +13,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Login</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.html">Beranda</a></li>
                             <li>Login</li>
                         </ul>
                     </div>
@@ -41,13 +41,13 @@
 
                             <!-- Input Email Start -->
                             <div class="single-input-item mb-2">
-                                <input type="email" placeholder="Email or Username">
+                                <input type="email" placeholder="Email atau Username">
                             </div>
                             <!-- Input Email End -->
 
                             <!-- Input Password Start -->
                             <div class="single-input-item mb-2">
-                                <input type="password" placeholder="Enter your Password">
+                                <input type="password" placeholder="Masukkan Password Anda">
                             </div>
                             <!-- Input Password End -->
 
@@ -56,7 +56,7 @@
                                 <div class="login-reg-form-meta mb-n3">
 
                                     <button class="btn btn btn-gray-deep btn-hover-primary mb-3">Sign In</button>
-                                    <a href="#" class="forget-pwd mb-3">Forget Password?</a>
+                                    <a href="#" class="forget-pwd mb-3">Lupa Password?</a>
 
                                 </div>
                             </div>
@@ -64,7 +64,7 @@
 
                             <!-- Lost Password & Creat New Account Start -->
                             <div class="lost-password">
-                                <a href="register.html">Creat Account</a>
+                                <a href="register.html">Daftar Sekarang</a>
                             </div>
                             <!-- Lost Password & Creat New Account End -->
 
@@ -297,22 +297,22 @@
                             <li class="has-children">
                                 <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login | Register</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="faq.php">Faq</a></li>
+                                    <li><a href="error-404.php">Error 404</a></li>
+                                    <li><a href="my-account.php">My Account</a></li>
+                                    <li><a href="login.php">Login | Register</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                    <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                    <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
                             <li><a href="about.html">About</a></li>
