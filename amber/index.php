@@ -192,7 +192,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="new">New</span>
@@ -230,7 +230,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/persia.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -308,7 +308,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/Chihuahua.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-20%</span>
@@ -347,7 +347,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/7.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="new">New</span>
@@ -385,7 +385,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -420,7 +420,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/2.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-20%</span>
@@ -825,14 +825,14 @@
                                     <div class="single-deal-product row mb-n6">
                                         <!-- Deal Thumb Start -->
                                         <div class="deal-thumb col-md-6 mb-6" data-aos="fade-up" data-aos-duration="1200">
-                                            <a href="single-product.html">
-                                                <img class="fit-image" src="assets/images/products/large-product/9.png" alt="Product Image">
+                                            <a href="single-product.php">
+                                                <img class="fit-image" src="assets/images/products/large-product/kucing anggora1.png" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Deal Thumb End -->
                                         <!-- Deal Content Start -->
                                         <div class="product-deal-content col-md-6 mb-6" data-aos="fade-up" data-aos-duration="1400">
-                                            <h5 class="title mb-3"><a href="single-product.html">An Animal Album</a></h5>
+                                            <h5 class="title mb-3"><a href="single-product.php">Kucing Anggora Asli</a></h5>
                                             <span class="rating mb-3">
                                                     <i class="fa fa-star"></i>
                                                     <i class="fa fa-star"></i>
@@ -841,12 +841,12 @@
                                                     <i class="fa fa-star-o"></i>
                                                 </span>
                                             <span class="price">
-                                                    <span class="new">$80.50</span>
-                                            <span class="old">$85.80</span>
+                                                    <span class="new">Rp.5.740.000</span>
+                                            <span class="old">Rp.7.000.000</span>
                                             </span>
                                             <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                             <div class="countdown-area">
-                                                <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
+                                                <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
                                             </div>
                                             <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
                                         </div>
@@ -861,13 +861,13 @@
                                         <!-- Deal Thumb Start -->
                                         <div class="deal-thumb col-md-6 mb-6">
                                             <a href="single-product.php">
-                                                <img class="fit-image" src="assets/images/products/large-product/10.png" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/products/large-product/shiba inu.png" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Deal Thumb End -->
                                         <!-- Deal Content Start -->
                                         <div class="product-deal-content col-md-6 mb-6">
-                                            <h5 class="title mb-3"><a href="single-product.html">Animal For Life</a></h5>
+                                            <h5 class="title mb-3"><a href="single-product.html">Anjing Shiba Inu</a></h5>
                                             <span class="rating mb-3">
                                                     <i class="fa fa-star"></i>
                                                     <i class="fa fa-star"></i>
@@ -876,12 +876,12 @@
                                                     <i class="fa fa-star-o"></i>
                                                 </span>
                                             <span class="price">
-                                                    <span class="new">$60.00</span>
-                                            <span class="old">$66.00</span>
+                                                    <span class="new">Rp.5.450.000</span>
+                                            <span class="old">Rp.6.000.000</span>
                                             </span>
                                             <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                             <div class="countdown-area">
-                                                <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
+                                                <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
                                             </div>
                                             <a href="shop.php" class="btn btn-primary btn-hover-dark">Shop Now</a>
                                         </div>
