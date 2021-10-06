@@ -1104,8 +1104,7 @@
         </div>
     </div>
     <!-- Blog Section End -->
-
-    <?php include 'footer.php'?>
+<?php include 'footer.php'?>
 
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
@@ -1129,7 +1128,7 @@
                                     </a>
                                     <a class="swiper-slide" href="#">
                                         <img class="w-100" src="assets/images/products/large-product/3.png" alt="Product">
-                                    </a><?php include 'header.php'?>
+                                    </a>
                                     <a class="swiper-slide" href="#">
                                         <img class="w-100" src="assets/images/products/large-product/4.png" alt="Product">
                                     </a>
@@ -1230,7 +1229,7 @@
                                     <a title="Dribble" href="#/"><i class="icon-social-dribbble"></i></a>
                                 </div>
                             </div>
-                            <!-- Social Shear End -->
+                            <!-- Social Shear End -->f
 
                             <!-- Payment Option Start -->
                             <div class="payment-option mt-4 d-flex justify-content-start">
