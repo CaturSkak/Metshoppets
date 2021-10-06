@@ -3,152 +3,6 @@
 <html lang="en">
 
 
-
-                        <!-- Header Action Start -->
-                        <div class="col-lg-3 col-md-8 col-6">
-                            <div class="header-actions">
-
-                                <!-- Header Action Search Button Start -->
-                                <div class="header-action-btn header-action-btn-search d-none d-md-flex">
-                                    <div class="action-execute">
-                                        <a class="action-search-open" href="javascript:void(0)"><i class="icon-magnifier icons"></i></a>
-                                        <a class="action-search-close" href="javascript:void(0)"><i class="ti-close"></i></a>
-                                    </div>
-                                    <!-- Search Form and Button Start -->
-                                    <form class="header-search-form" action="#">
-                                        <input type="text" class="header-search-input" placeholder="Search Our Store">
-                                        <button class="header-search-button"><i class="icon-magnifier icons"></i></button>
-                                    </form>
-                                    <!-- Search Form and Button End -->
-
-                                </div>
-                                <!-- Header Action Search Button End -->
-
-                                <!-- Header My Account Button Start -->
-                                <a href="my-account.html" class="header-action-btn header-action-btn-wishlist">
-                                    <i class="icon-user icons"></i>
-                                </a>
-                                <!-- Header My Account Button End -->
-
-                                <!-- Header Action Button Start -->
-                                <div class="header-action-btn header-action-btn-cart d-none d-sm-flex">
-                                    <a class="cart-visible" href="javascript:void(0)">
-                                        <i class="icon-handbag icons"></i>
-                                        <span class="header-action-num">3</span>
-                                    </a>
-
-                                    <!-- Header Cart Content Start -->
-                                    <div class="header-cart-content">
-
-                                        <!-- Cart Procut Wrapper Start  -->
-                                        <div class="cart-product-wrapper">
-
-                                            <!-- Cart Product/Price Start -->
-                                            <div class="cart-product-inner mb-4 pb-4 border-bottom">
-
-                                                <!-- Single Cart Product Start -->
-                                                <div class="single-cart-product">
-                                                    <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
-                                                    </div>
-                                                    <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Basic Dog Trainning</a></h3>
-                                                        <div class="product-quty-price">
-                                                            <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
-                                                            <span class="price">
-															<span class="new">$70.00</span>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- Single Cart Product End -->
-
-                                                <!-- Product Remove Start -->
-                                                <div class="cart-product-remove">
-                                                    <a href="#/"><i class="icon-close"></i></a>
-                                                </div>
-                                                <!-- Product Remove End -->
-
-                                            </div>
-                                            <!-- Cart Product/Price End -->
-
-                                            <!-- Cart Product/Price Start -->
-                                            <div class="cart-product-inner mb-4 pb-4 border-bottom">
-
-                                                <!-- Single Cart Product Start -->
-                                                <div class="single-cart-product">
-                                                    <div class="cart-product-thumb">
-                                                        <a href="single-product.html"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
-                                                    </div>
-                                                    <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.html">Wait, You Need This</a></h3>
-                                                        <div class="product-quty-price">
-                                                            <span class="cart-quantity">Qty: <strong class="text-primary"> 1 </strong></span>
-                                                            <span class="price">
-															<span class="new">$80.00</span>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- Single Cart Product End -->
-
-                                                <!-- Product Remove Start -->
-                                                <div class="cart-product-remove">
-                                                    <a href="#/"><i class="icon-close"></i></a>
-                                                </div>
-                                                <!-- Product Remove End -->
-
-                                            </div>
-                                            <!-- Cart Product/Price End -->
-
-                                        </div>
-                                        <!-- Cart Procut Wrapper -->
-
-                                        <!-- Cart Product Total Start -->
-                                        <div class="cart-product-total mb-4 pb-4 border-bottom">
-                                            <span class="value">Total</span>
-                                            <span class="price">200$</span>
-                                        </div>
-                                        <!-- Cart Product Total End -->
-
-                                        <!-- Cart Product Button Start -->
-                                        <div class="cart-product-btn mt-4">
-                                            <a href="cart.html" class="btn btn-outline-light btn-hover-primary w-100">View cart</a>
-                                            <a href="checkout.html" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Checkout</a>
-                                        </div>
-                                        <!-- Cart Product Button End -->
-
-                                    </div>
-                                    <!-- Header Cart Content End -->
-
-                                </div>
-                                <div class="header-action-btn header-action-btn-cart d-flex d-sm-none">
-                                    <a href="cart.html">
-                                        <i class="icon-handbag icons"></i>
-                                        <span class="header-action-num">3</span>
-                                    </a>
-                                </div>
-                                <!-- Header Action Button End -->
-
-                                <!-- Mobile Menu Hambarger Action Button Start -->
-                                <a href="javascript:void(0)" class="header-action-btn header-action-btn-menu d-lg-none d-md-flex">
-                                    <i class="icon-menu"></i>
-                                </a>
-                                <!-- Mobile Menu Hambarger Action Button End -->
-
-                            </div>
-                        </div>
-                        <!-- Header Action End -->
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header Bottom End -->
-
-    </div>
-    <!-- Header Section End -->
-
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
@@ -157,7 +11,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Single Product</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Single Product</li>
                         </ul>
                     </div>
@@ -312,9 +166,9 @@
                         <div class="cart-btn action-btn mb-6">
                             <div class="action-cart-btn-wrapper d-flex">
                                 <div class="add-to_cart">
-                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                 </div>
-                                <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>
                         </div>
                         <!-- Cart Button End -->
@@ -326,7 +180,7 @@
                                 <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
                                 <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
                                 <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                <a title="Dribble" href="#/"><i class="icon-social-dribbble"></i></a>
+                                <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=6282264144712&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <!-- Social Shear End -->
@@ -590,7 +444,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.html" class="image">
+                                                <a href="single-product.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -598,8 +452,8 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
 
                                                 <div class="countdown-area">
@@ -610,7 +464,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -635,20 +489,20 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.html" class="image">
+                                                <a href="single-product.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
                                                 </a>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.html">Basic Dog Trainning</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -672,7 +526,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.html" class="image">
+                                                <a href="single-product.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -680,15 +534,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -713,7 +567,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.html" class="image">
+                                                <a href="single-product.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -721,15 +575,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
+                                                <h5 class="title"><a href="single-product.php">An Animal Album</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star-o"></i>
                                                         <i class="fa fa-star-o"></i>
@@ -754,7 +608,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.html" class="image">
+                                                <a href="single-product.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -762,15 +616,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.html">Wait, You Need This</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Wait, You Need This</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -911,9 +765,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -925,7 +779,7 @@
                                     <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
                                     <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
                                     <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                    <a title="Dribble" href="#/"><i class="icon-social-dribbble"></i></a>
+                                    <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=6282264144712&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
                                 </div>
                             </div>
                             <!-- Social Shear End -->
@@ -987,61 +841,61 @@
                             <li class="has-children">
                                 <a href="#">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                    <li><a href="index-3.html">Home Three</a></li>
-                                    <li><a href="index-4.html">Home Four</a></li>
+                                    <li><a href="index.php">Home One</a></li>
+                                    <li><a href="index-2.php">Home Two</a></li>
+                                    <li><a href="index-3.php">Home Three</a></li>
+                                    <li><a href="index-4.php">Home Four</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
-                                    <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
-                                    <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
+                                    <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
+                                    <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
+                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="compare.php">Compare</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                    <li><a href="single-product-group.html">Single Product Group</a></li>
-                                    <li><a href="single-product-normal.html">Single Product Normal</a></li>
-                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
+                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="single-product-sale.php">Single Product Sale</a></li>
+                                    <li><a href="single-product-group.php">Single Product Group</a></li>
+                                    <li><a href="single-product-normal.php">Single Product Normal</a></li>
+                                    <li><a href="single-product-affiliate.php">Single Product Affiliate</a></li>
+                                    <li><a href="single-product-slider.php">Single Product Slider</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login | Register</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="faq.php">Faq</a></li>
+                                    <li><a href="error-404.php">Error 404</a></li>
+                                    <li><a href="my-account.php">My Account</a></li>
+                                    <li><a href="login.php">Login | Register</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                    <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                    <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
