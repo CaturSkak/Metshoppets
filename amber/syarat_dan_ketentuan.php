@@ -9,10 +9,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">FAQ</h2>
+                        <h2 class="breadcrumb-title">Syarat & Ketentuan</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>FAQ</li>
+                            <li>Syarat & Ketentuan</li>
                         </ul>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
 
                         <!-- Faq Content Start  -->
                         <div class="faq_content_area">
-                            <h4 class="title">Pertanyaan Jual/Beli atau Perjodohan Hewan MetShopPet's</h4>
+                            <h4 class="title">Syarat MetShopPet's</h4>
                         </div>
                         <!-- Faq Content End -->
 
@@ -40,41 +40,41 @@
                         <div id="accordionExample" class="accordion">
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingfive">
-                                    <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive"><i class="ti-plus"></i><i class="ti-minus"></i>Apakah MetShopPet's menyediakan Vaksinasi ?</button>
+                                    <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive"><i class="ti-plus"></i><i class="ti-minus"></i>Syarat Melakukan Jual/Beli di MetShopPet's</button>
                                 </div>
                                 <div id="collapseFive" class="collapse accordion-collapse show border-0" aria-labelledby="headingfive" data-bs-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Tentu saja kita memberikan vaksinasi kepada hewan yang ingin dijual belikan.</p>
+                                        <p>Pada Saat Melakukan pembelian atau penjualan dilakukan pengecekan terlebih dahulu ke hewan yang ingin dijual belikan kemudian, jika sudah membeli atau menjual Hewan pada MetShopPet's diharapkan mengisi surat perjanjian yang sudah tertera.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingsix">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix"><i class="ti-plus"></i><i class="ti-minus"></i>Saya menemukan Anak Anjing/Kucing umurnya sekitar 3 bulan, tapi belum di vaksin apakah boleh untuk merawatnya?</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix"><i class="ti-plus"></i><i class="ti-minus"></i>Syarat Untuk Merawat Hewan Di Beli di MetShopPet's</button>
                                 </div>
                                 <div id="collapseSix" class="collapse accordion-collapse border-0" aria-labelledby="headingsix" data-bs-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Tidak boleh, seharusnya umur 3 bulan pada anak anjing/kucing itu harus divaksin terlebih dahulu sebelum anda merawatnya.</p>
+                                        <p>Untuk Syaratnya yaitu sanggup merawat dan memberi makan Hewan peliharaan yang ingin di beli di MetShopPet's.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingseven">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven"><i class="ti-plus"></i><i class="ti-minus"></i>Apakah MetShopPet's Menjual/Membeli Hewan Peliharaan saja ?</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven"><i class="ti-plus"></i><i class="ti-minus"></i>Syarat Untuk Perjodohan Hewan Peliharaan</button>
                                 </div>
                                 <div id="collapseSeven" class="collapse accordion-collapse border-0" aria-labelledby="headingseven" data-bs-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Tidak hanya hewan peliharaan saja, di MetShopPet's ini juga menjual/membeli Hewan ternak, DLL.</p>
+                                        <p>Untuk Persyaratannya yaitu kedua belah pihak harus setuju dan hewan peliharaaan nya juga harus sehat dan sudah di vaksin.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingeight">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight"><i class="ti-plus"></i><i class="ti-minus"></i>Apakah Perjodohan Hewan Hanya Hewan Peliharaan saja ?</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight"><i class="ti-plus"></i><i class="ti-minus"></i>Syarat Umur Pada hewan yang ingin dijodohkan</button>
                                 </div>
                                 <div id="collapseEight" class="collapse accordion-collapse border-0" aria-labelledby="headingeight" data-bs-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Tidak, Untuk Perjodohan ada untuk perjodohan burung, ikan, DLL.</p>
+                                        <p>Untuk syarat Umur pada hewan yang ingin di jodohkan harus pada umur siap kawin</p>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@
 
                         <!-- Faq Content Start  -->
                         <div class="faq_content_area">
-                            <h4 class="title">Penggunaan Platform website MetShopPet's</h4>
+                            <h4 class="title">Ketentuan MetShopPet's</h4>
                         </div>
                         <!-- Faq Content End -->
 
@@ -94,42 +94,34 @@
                         <div id="accordionExample2" class="accordion">
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingOne">
-                                    <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><i class="ti-plus"></i><i class="ti-minus"></i>Sebelum Kamu Memulai</button>
+                                    <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><i class="ti-plus"></i><i class="ti-minus"></i>Pembelian Hewan Peliharaan</button>
                                 </div>
                                 <div id="collapseOne" class="collapse accordion-collapse show border-0" aria-labelledby="headingOne" data-bs-parent="#accordionExample2">
                                     <div class="card-body">
-                                        <p>Anda Diharuskan Login Terlebih dahulu jika memliki akun, dan jika tidak Anda diharuskan untuk Register/Daftar terlebih dahulu untuk menjual, membeli atau menjodohkan hewan anda.</p>
+                                        <p>Ketentuan pembelian hewan peliharaan tidak boleh kembalikan dikarenakan sudah menandatanganni surat perjanjian.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingTwo">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Menjodohkan Hewan Di MetShopPet's</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="ti-plus"></i><i class="ti-minus"></i>Tentang Penjualan Hewan Jika Sakit</button>
                                 </div>
                                 <div id="collapseTwo" class="collapse accordion-collapse border-0" aria-labelledby="headingTwo" data-bs-parent="#accordionExample2">
                                     <div class="card-body">
-                                        <p>Kamu tinggal klik pada Mate, kemudian pilih hewan yang ingin di jodohkan.</p>
+                                        <p>Jika hewan peliharaan anda yang ingin dijual itu ada kendala sakit maka diharuskan untuk tinggal di MetShopPet's kami selama 1 minggu dan paling lama 2 minggu.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingThree">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Login/Register</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="ti-plus"></i><i class="ti-minus"></i>Hasil Pembagian Perjodohan</button>
                                 </div>
                                 <div id="collapseThree" class="collapse accordion-collapse border-0" aria-labelledby="headingThree" data-bs-parent="#accordionExample2">
                                     <div class="card-body">
-                                        <p>Untuk Login/Register Kamu tinggal menu Halaman atau ke menu Belanja lalu klik login/Register.</p>
+                                        <p>Untuk Hasil Pembagiannya yaitu dibagi menjadi 50:50 sama rata.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="card_dipult accordion-item">
-                                <div class="card-header card_accor" id="headingfour">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Hubungi atau melihat lokasi toko kami</button>
-                                </div>
-                                <div id="collapseFour" class="collapse accordion-collapse border-0" aria-labelledby="headingfour" data-bs-parent="#accordionExample2">
-                                    <div class="card-body">
-                                        <p>Tinggal Klik Kontak disitu ada email, TLP, Alamat, Peta letak toko kami disitu ada juga jika anda kebingungan masalah terkait hewan bisa ngisi data diri.</p>
-                                    </div>
                                 </div>
                             </div>
                         </div>
