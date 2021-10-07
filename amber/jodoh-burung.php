@@ -4,17 +4,16 @@
 
 
 
-
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Reptil</h2>
+                        <h2 class="breadcrumb-title">Burung</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Reptil</li>
+                            <li>Perjodohan Hewan Burung</li>
                         </ul>
                     </div>
                 </div>
@@ -26,7 +25,7 @@
     <!-- Shop Section Start -->
     <div class="section section-margin">
         <div class="container">
-            <div class="row flex-row-reverse">
+            <div class="row">
                 <div class="col-lg-9 col-12">
 
                     <!--shop toolbar start-->
@@ -74,37 +73,37 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau Albino.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Iguana Hijau Albino</a></h5>
+                                    <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
                                     <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.4.800.000</span>
-                                    <span class="old">Rp.6.000.000</span>
+                                            <span class="new">$80.50</span>
+                                    <span class="old">$85.80</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
                                             <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
@@ -120,38 +119,38 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Tokek.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="new">New</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Tokek </a></h5>
+                                    <h5 class="title"><a href="single-product.html">Wait, You Need This</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.800.000</span>
+                                            <span class="new">$90.00</span>
                                     </span>
                                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -165,26 +164,26 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Iguana Hijau</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.500.000</span>
+                                            <span class="new">$105.00</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
@@ -207,34 +206,34 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
 
                                     <div class="countdown-area">
-                                        <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
+                                        <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Chameleon Veiled</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.3.280.000</span>
-                                    <span class="old">Rp.4.000.000</span>
+                                            <span class="new">$47.50</span>
+                                    <span class="old">$50.00</span>
                                     </span>
                                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
                                     <!-- Cart Button Start -->
@@ -257,20 +256,20 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Ular Albino.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ular Retic Tiger Albino</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -279,8 +278,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
-                                    <span class="old">Rp.2.400.000</span>
+                                            <span class="new">$58.50</span>
+                                    <span class="old">$62.85</span>
                                     </span>
                                     <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
@@ -570,17 +569,17 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/red bearded.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Bearded Dragon Super Red</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -589,14 +588,14 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">$105.00</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
                                             <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
@@ -655,7 +654,7 @@
                                         <li><a href="#/">Semua Produk</a></li>
                                         <li><a href="#/">Produk Terlaris (5)</a></li>
                                         <li><a href="#/">Terlaris (4)</a></li>
-                                        <li><a href="#/">Product Terbaru (6)</a></li>
+                                        <li><a href="#/">Produk Terbaru (6)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -666,31 +665,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Cupang (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Arwana (6)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Platax Pinnatus (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Zebra (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Gurami Kerdil (4)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -705,13 +704,13 @@
                                         <li><a href="#/">Persia</a></li>
                                         <li><a href="#/">Burung</a></li>
                                         <li><a href="#/">Anjing</a></li>
-                                        <li><a href="#/">Reptil</a></li>
+                                        <li><a href="#/">Hewan Ternak</a></li>
                                         <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list">
-                                <h3 class="widget-title mb-6">Produk Terkini</h3>
+                                <h3 class="widget-title mb-6">Recent Products</h3>
                                 <div class="sidebar-body product-list-wrapper mb-n6">
 
                                     <!-- Single Product List Start -->
@@ -721,7 +720,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/small-product/1.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -730,10 +729,11 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Chameleon Veiled</a>
+                                                <a href="single-product.html">Pet Leaving House</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.3.280.000</span>
+                                                    <span class="new">$12.50</span>
+                                            <span class="old">$15.85</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -748,7 +748,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/small-product/2.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -757,10 +757,11 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Iguana Hijau</a>
+                                                <a href="single-product.html">This is the testing</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.500.000</span>
+                                                    <span class="new">$10.50</span>
+                                            <span class="old">$12.85</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -775,7 +776,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/small-product/3.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -784,11 +785,11 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Bearded Dragon Super Red</a>
+                                                <a href="single-product.html">Animals for life</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.2.000.000</span>
-                                            
+                                                    <span class="new">$22.50</span>
+                                            <span class="old">$25.85</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -807,8 +808,7 @@
     </div>
     <!-- Shop Section End -->
 
-   <?php include 'footer.php'?>
-
+ <?php include 'footer.php'?>
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">

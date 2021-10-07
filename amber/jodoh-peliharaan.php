@@ -3,18 +3,15 @@
 <html lang="en">
 
 
-
-
-    <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Reptil</h2>
+                        <h2 class="breadcrumb-title">Hewan Peliharaan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Reptil</li>
+                            <li>Hewan Peliharan</li>
                         </ul>
                     </div>
                 </div>
@@ -26,8 +23,8 @@
     <!-- Shop Section Start -->
     <div class="section section-margin">
         <div class="container">
-            <div class="row flex-row-reverse">
-                <div class="col-lg-9 col-12">
+            <div class="row">
+                <div class="col-12">
 
                     <!--shop toolbar start-->
                     <div class="shop_toolbar_wrapper flex-column flex-md-row p-2 mb-8 border">
@@ -36,7 +33,7 @@
                         <div class="shop-top-bar-left">
 
                             <div class="shop_toolbar_btn">
-                                <button data-role="grid_3" type="button" class="active btn-grid-3" title="Grid"><i class="ti-layout-grid4-alt"></i></button>
+                                <button data-role="grid_4" type="button" class="active btn-grid-4" title="Grid"><i class="ti-layout-grid4-alt"></i></button>
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
@@ -68,43 +65,43 @@
                     <!--shop toolbar end-->
 
                     <!-- Shop Wrapper Start -->
-                    <div class="row shop_wrapper grid_3">
+                    <div class="row shop_wrapper grid_4">
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau Albino.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Iguana Hijau Albino</a></h5>
+                                    <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
                                     <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.4.800.000</span>
-                                    <span class="old">Rp.6.000.000</span>
+                                            <span class="new">$80.50</span>
+                                    <span class="old">$85.80</span>
                                     </span>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
                                             <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
@@ -117,160 +114,23 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Tokek.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="new">New</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Tokek </a></h5>
-                                    <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </span>
-                                    <span class="price">
-                                            <span class="new">Rp.800.000</span>
-                                    </span>
-                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
-                                    <!-- Cart Button Start -->
-                                    <div class="cart-btn action-btn">
-                                        <div class="action-cart-btn-wrapper d-flex">
-                                            <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
-                                            </div>
-                                            <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
-                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        </div>
-                                    </div>
-                                    <!-- Cart Button End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Product End -->
-
-                        <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
-                            <div class="product-inner">
-                                <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" />
-                                    </a>
-                                    <div class="action-wrapper">
-                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Iguana Hijau</a></h5>
-                                    <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                        </span>
-                                    <span class="price">
-                                            <span class="new">Rp.500.000</span>
-                                    </span>
-                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
-                                    <!-- Cart Button Start -->
-                                    <div class="cart-btn action-btn">
-                                        <div class="action-cart-btn-wrapper d-flex">
-                                            <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
-                                            </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
-                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        </div>
-                                    </div>
-                                    <!-- Cart Button End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Product End -->
-
-                        <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
-                            <div class="product-inner">
-                                <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product" />
-                                    </a>
-                                    <span class="badges">
-                                            <span class="sale">-18%</span>
-                                    </span>
-                                    <div class="action-wrapper">
-                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
-                                    </div>
-
-                                    <div class="countdown-area">
-                                        <div class="countdown-wrapper" data-countdown="2021/12/31"></div>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Chameleon Veiled</a></h5>
-                                    <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
-                                        </span>
-                                    <span class="price">
-                                            <span class="new">Rp.3.280.000</span>
-                                    <span class="old">Rp.4.000.000</span>
-                                    </span>
-                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
-                                    <!-- Cart Button Start -->
-                                    <div class="cart-btn action-btn">
-                                        <div class="action-cart-btn-wrapper d-flex">
-                                            <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
-                                            </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
-                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        </div>
-                                    </div>
-                                    <!-- Cart Button End -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Product End -->
-
-                        <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
-                            <div class="product-inner">
-                                <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Ular Albino.png" alt="Product" />
-                                    </a>
-                                    <span class="badges">
-                                            <span class="sale">-20%</span>
-                                    </span>
-                                    <div class="action-wrapper">
-                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ular Retic Tiger Albino</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Wait, You Need This</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -279,8 +139,145 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
-                                    <span class="old">Rp.2.400.000</span>
+                                            <span class="new">$90.00</span>
+                                    </span>
+                                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+                                    <!-- Cart Button Start -->
+                                    <div class="cart-btn action-btn">
+                                        <div class="action-cart-btn-wrapper d-flex">
+                                            <div class="add-to_cart">
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                            </div>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Cart Button End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single Product End -->
+
+                        <!-- Single Product Start -->
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
+                            <div class="product-inner">
+                                <div class="thumb">
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
+                                    </a>
+                                    <div class="action-wrapper">
+                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
+                                    <span class="rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                        </span>
+                                    <span class="price">
+                                            <span class="new">$105.00</span>
+                                    </span>
+                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
+                                    <!-- Cart Button Start -->
+                                    <div class="cart-btn action-btn">
+                                        <div class="action-cart-btn-wrapper d-flex">
+                                            <div class="add-to_cart">
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                            </div>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Cart Button End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single Product End -->
+
+                        <!-- Single Product Start -->
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
+                            <div class="product-inner">
+                                <div class="thumb">
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
+                                    </a>
+                                    <span class="badges">
+                                            <span class="sale">-18%</span>
+                                    </span>
+                                    <div class="action-wrapper">
+                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                    </div>
+
+                                    <div class="countdown-area">
+                                        <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                    <span class="rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                        </span>
+                                    <span class="price">
+                                            <span class="new">$47.50</span>
+                                    <span class="old">$50.00</span>
+                                    </span>
+                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,</p>
+                                    <!-- Cart Button Start -->
+                                    <div class="cart-btn action-btn">
+                                        <div class="action-cart-btn-wrapper d-flex">
+                                            <div class="add-to_cart">
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                            </div>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Cart Button End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single Product End -->
+
+                        <!-- Single Product Start -->
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
+                            <div class="product-inner">
+                                <div class="thumb">
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
+                                    </a>
+                                    <span class="badges">
+                                            <span class="sale">-20%</span>
+                                    </span>
+                                    <div class="action-wrapper">
+                                        <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                    <span class="rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                        </span>
+                                    <span class="price">
+                                            <span class="new">$58.50</span>
+                                    <span class="old">$62.85</span>
                                     </span>
                                     <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
@@ -300,7 +297,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -345,7 +342,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -369,7 +366,7 @@
                                     <span class="price">
                                             <span class="new">$55.00</span>
                                     </span>
-                                    <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                                    <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
@@ -387,7 +384,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -415,7 +412,7 @@
                                             <span class="new">$75.50</span>
                                     <span class="old">$82.85</span>
                                     </span>
-                                    <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                                    <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
@@ -433,7 +430,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -457,7 +454,7 @@
                                     <span class="price">
                                             <span class="new">$55.00</span>
                                     </span>
-                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.</p>
+                                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
@@ -475,7 +472,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -503,7 +500,7 @@
                                             <span class="new">$80.50</span>
                                     <span class="old">$85.80</span>
                                     </span>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
@@ -521,7 +518,7 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
@@ -567,20 +564,20 @@
                         <!-- Single Product End -->
 
                         <!-- Single Product Start -->
-                        <div class="col-lg-4 col-md-4 col-sm-6 product">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/red bearded.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Bearded Dragon Super Red</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Pet Food Corner</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -589,14 +586,14 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">$105.00</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
-                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                                <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
                                             <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
@@ -635,180 +632,12 @@
                     <!--shop toolbar end-->
 
                 </div>
-                <div class="col-lg-3 col-12">
-                    <!-- Sidebar Widget Start -->
-                    <aside class="sidebar_widget mt-10 mt-lg-0">
-                        <div class="widget_inner">
-                            <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
-                                <div class="search-box">
-                                    <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
-                                    <button class="search-icon" type="button">
-                                        <i class="icon-magnifier"></i>
-                                    </button>
-                                </div>
-                            </div>
-                            <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
-                                <div class="sidebar-body">
-                                    <ul class="sidebar-list">
-                                        <li><a href="#/">Semua Produk</a></li>
-                                        <li><a href="#/">Produk Terlaris (5)</a></li>
-                                        <li><a href="#/">Terlaris (4)</a></li>
-                                        <li><a href="#/">Product Terbaru (6)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Kategori</h3>
-                                <div class="sidebar-body">
-                                    <ul class="checkbox-container categories-list">
-                                        <li>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Tags</h3>
-                                <div class="sidebar-body">
-                                    <ul class="tags mb-n2">
-                                        <li><a href="#/">Kucing</a></li>
-                                        <li><a href="#/">Hewan Peliharaan</a></li>
-                                        <li><a href="#/">Persia</a></li>
-                                        <li><a href="#/">Burung</a></li>
-                                        <li><a href="#/">Anjing</a></li>
-                                        <li><a href="#/">Reptil</a></li>
-                                        <li><a href="#/">Husky</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget-list">
-                                <h3 class="widget-title mb-6">Produk Terkini</h3>
-                                <div class="sidebar-body product-list-wrapper mb-n6">
-
-                                    <!-- Single Product List Start -->
-                                    <div class="single-product-list mb-6">
-
-                                        <!-- Product List Thumb Start -->
-                                        <div class="product">
-                                            <div class="thumb">
-                                                <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <!-- Product List Thumb End -->
-
-                                        <!-- Product List Content Start -->
-                                        <div class="product-list-content">
-                                            <h6 class="product-name">
-                                                <a href="single-product.html">Chameleon Veiled</a>
-                                            </h6>
-                                            <span class="price">
-                                                    <span class="new">Rp.3.280.000</span>
-                                            </span>
-                                        </div>
-                                        <!-- Product List Content End -->
-
-                                    </div>
-                                    <!-- Single Product List End -->
-
-                                    <!-- Single Product List Start -->
-                                    <div class="single-product-list mb-6">
-
-                                        <!-- Product List Thumb Start -->
-                                        <div class="product">
-                                            <div class="thumb">
-                                                <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <!-- Product List Thumb End -->
-
-                                        <!-- Product List Content Start -->
-                                        <div class="product-list-content">
-                                            <h6 class="product-name">
-                                                <a href="single-product.html">Iguana Hijau</a>
-                                            </h6>
-                                            <span class="price">
-                                                    <span class="new">Rp.500.000</span>
-                                            </span>
-                                        </div>
-                                        <!-- Product List Content End -->
-
-                                    </div>
-                                    <!-- Single Product List End -->
-
-                                    <!-- Single Product List Start -->
-                                    <div class="single-product-list mb-6">
-
-                                        <!-- Product List Thumb Start -->
-                                        <div class="product">
-                                            <div class="thumb">
-                                                <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <!-- Product List Thumb End -->
-
-                                        <!-- Product List Content Start -->
-                                        <div class="product-list-content">
-                                            <h6 class="product-name">
-                                                <a href="single-product.html">Bearded Dragon Super Red</a>
-                                            </h6>
-                                            <span class="price">
-                                                    <span class="new">Rp.2.000.000</span>
-                                            
-                                            </span>
-                                        </div>
-                                        <!-- Product List Content End -->
-
-                                    </div>
-                                    <!-- Single Product List End -->
-
-                                </div>
-                            </div>
-                        </div>
-                    </aside>
-                    <!-- Sidebar Widget End -->
-                </div>
             </div>
         </div>
     </div>
     <!-- Shop Section End -->
 
    <?php include 'footer.php'?>
-
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">

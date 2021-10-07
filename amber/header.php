@@ -139,10 +139,10 @@
                                     <li class="has-children">
                                         <a href="#">Mate</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.php">Hewan Peliharaan</a></li>
-                                            <li><a href="blog-left-sidebar.php">Reptil</a></li>
-                                            <li><a href="blog-right-sidebar.php">Ikan</a></li>
-                                            <li><a href="shop-list-fullwidth.php">Burung</a></li>
+                                            <li><a href="jodoh-peliharaan.php">Hewan Peliharaan</a></li>
+                                            <li><a href="jodoh-reptil.php">Reptil</a></li>
+                                            <li><a href="jodoh-ikan.php">Ikan</a></li>
+                                            <li><a href="jodoh-burung.php">Burung</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="about.php">Tentang</a></li>

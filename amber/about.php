@@ -10,7 +10,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Tentang Kami</h2>
                         <ul>
-                            <li><a href="index.php">Home</a></li>
+                            <li><a href="index.php">Beranda</a></li>
                             <li>Tentang Kami</li>
                         </ul>
                     </div>
