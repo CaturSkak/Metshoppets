@@ -4,17 +4,16 @@
 
 
 
-
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Reptil</h2>
+                        <h2 class="breadcrumb-title">Ikan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Shop Sidebar</li>
+                            <li>Ikan</li>
                         </ul>
                     </div>
                 </div>
@@ -26,7 +25,7 @@
     <!-- Shop Section Start -->
     <div class="section section-margin">
         <div class="container">
-            <div class="row flex-row-reverse">
+            <div class="row">
                 <div class="col-lg-9 col-12">
 
                     <!--shop toolbar start-->
@@ -655,7 +654,7 @@
                                         <li><a href="#/">Semua Produk</a></li>
                                         <li><a href="#/">Produk Terlaris (5)</a></li>
                                         <li><a href="#/">Terlaris (4)</a></li>
-                                        <li><a href="#/">Product Terbaru (6)</a></li>
+                                        <li><a href="#/">Produk Terbaru (6)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -666,31 +665,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Cupang (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Arwana (6)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Platax Pinnatus (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Zebra (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Gurami Kerdil (4)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -711,7 +710,7 @@
                                 </div>
                             </div>
                             <div class="widget-list">
-                                <h3 class="widget-title mb-6">Produk Terkini</h3>
+                                <h3 class="widget-title mb-6">Recent Products</h3>
                                 <div class="sidebar-body product-list-wrapper mb-n6">
 
                                     <!-- Single Product List Start -->
@@ -809,8 +808,7 @@
     </div>
     <!-- Shop Section End -->
 
-   <?php include 'footer.php'?>
-
+ <?php include 'footer.php'?>
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
