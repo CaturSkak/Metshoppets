@@ -104,7 +104,7 @@
                                                 <h4 class="mega-menu-title">Katagori</h4>
                                                 <ul class="mb-n2">
                                                     <li><a href="shop.php">Hewan Peliharaan</a></li>
-                                                    <li><a href="shop-left-sidebar.php">Hewan Ternak</a></li>
+                                                    <li><a href="shop-left-sidebar.php">Reptil</a></li>
                                                     <li><a href="shop-right-sidebar.php">Ikan</a></li>
                                                     <li><a href="shop-list-fullwidth.php">Burung</a></li>
                                                 </ul>
@@ -140,9 +140,9 @@
                                         <a href="#">Mate</a>
                                         <ul class="sub-menu">
                                             <li><a href="blog.php">Hewan Peliharaan</a></li>
-                                            <li><a href="blog-left-sidebar.php">Hewan Ternak</a></li>
+                                            <li><a href="blog-left-sidebar.php">Reptil</a></li>
                                             <li><a href="blog-right-sidebar.php">Ikan</a></li>
-                                            <li><a href="blog-details.php">Burung</a></li>
+                                            <li><a href="shop-list-fullwidth.php">Burung</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="about.php">Tentang</a></li>
