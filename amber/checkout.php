@@ -10,7 +10,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Checkout</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.html">Beranda</a></li>
                             <li>Checkout</li>
                         </ul>
                     </div>
