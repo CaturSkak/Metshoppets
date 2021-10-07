@@ -1,4 +1,5 @@
     <!-- Footer Section Start -->
+    
     <footer class="section footer-section">
         <!-- Footer Top Start -->
         <div class="footer-top bg-bright section-padding">
