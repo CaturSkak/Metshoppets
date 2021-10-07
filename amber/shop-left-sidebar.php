@@ -257,20 +257,20 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Ular Albino.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                        <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.html">Pet Leaving House</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Ular Retic Tiger Albino</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -279,8 +279,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">$58.50</span>
-                                    <span class="old">$62.85</span>
+                                            <span class="new">Rp.2.000.000</span>
+                                    <span class="old">Rp.2.400.000</span>
                                     </span>
                                     <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
