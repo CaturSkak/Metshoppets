@@ -197,10 +197,10 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/1.png" alt="Cart Product"></a>
+                                                       <a href="single-product.php"><img src="assets\images\products\large-product/shiba inu.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
-                                                        <h3 class="title"><a href="single-product.php">Kucing Persia Asli</a></h3>
+                                                       <h3 class="title"><a href="single-product.php">Anjing Shiba Inu</a></h3>
                                                         <div class="product-quty-price">
                                                             <span class="cart-quantity">Jumlah: <strong class="text-primary"> 1 </strong></span>
                                                             <span class="price">
@@ -226,7 +226,7 @@
                                                 <!-- Single Cart Product Start -->
                                                 <div class="single-cart-product">
                                                     <div class="cart-product-thumb">
-                                                        <a href="single-product.php"><img src="assets/images/header/header-cart/2.png" alt="Cart Product"></a>
+                                                       <a href="single-product.php"><img src="assets\images\products\large-product/kucing anggora1.png" alt="Cart Product"></a>
                                                     </div>
                                                     <div class="cart-product-content">
                                                         <h3 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h3>
