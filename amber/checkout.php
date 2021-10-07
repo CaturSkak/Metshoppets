@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Checkout</h2>
+                        <h2 class="breadcrumb-title">Pesan</h2>
                         <ul>
                             <li><a href="index.html">Beranda</a></li>
                             <li>Checkout</li>
@@ -29,19 +29,19 @@
                     <div class="coupon-accordion">
 
                         <!-- Title Start -->
-                        <h3 class="title">Returning customer? <span id="showlogin">Click here to login</span></h3>
+                        <h3 class="title">Sudah Punya Akun? <span id="showlogin">Klik disini untuk Login</span></h3>
                         <!-- Title End -->
 
                         <!-- Checkout Login Start -->
                         <div id="checkout-login" class="coupon-content">
                             <div class="coupon-info">
-                                <p class="coupon-text mb-2">Quisque gravida turpis sit amet nulla posuere lacinia. Cras sed est sit amet ipsum luctus.</p>
+                                <p class="coupon-text mb-2">Login dengan akun untuk memproses pesanan.</p>
 
                                 <!-- Form Start -->
                                 <form action="#">
                                     <!-- Input Email Start -->
                                     <p class="form-row-first">
-                                        <label>Username or email <span class="required">*</span></label>
+                                        <label>Username atau email <span class="required">*</span></label>
                                         <input type="text">
                                     </p>
                                     <!-- Input Email End -->
@@ -56,12 +56,12 @@
                                     <!-- Remember Password Start -->
                                     <p class="form-row mb-2">
                                         <input type="checkbox" id="remember_me">
-                                        <label for="remember_me" class="checkbox-label">Remember me</label>
+                                        <label for="remember_me" class="checkbox-label">Ingat saya</label>
                                     </p>
                                     <!-- Remember Password End -->
 
                                     <!-- Lost Password Start -->
-                                    <p class="lost-password"><a href="#">Lost your password?</a></p>
+                                    <p class="lost-password"><a href="#">Lupa Password?</a></p>
                                     <!-- Lost Password End -->
 
                                 </form>
@@ -72,7 +72,7 @@
                         <!-- Checkout Login End -->
 
                         <!-- Title Start -->
-                        <h3 class="title">Have a coupon? <span id="showcoupon">Click here to enter your code</span></h3>
+                        <h3 class="title">Punya Voucher Kupon? <span id="showcoupon">Klik Disini untuk Memakai Kupon</span></h3>
                         <!-- Title End -->
 
                         <!-- Checkout Coupon Start -->
@@ -80,8 +80,8 @@
                             <div class="coupon-info">
                                 <form action="#">
                                     <p class="checkout-coupon d-flex">
-                                        <input placeholder="Coupon code" type="text">
-                                        <input class="btn btn-primary btn-hover-dark rounded-0" value="Apply Coupon" type="submit">
+                                        <input placeholder="Kode Voucher" type="text">
+                                        <input class="btn btn-primary btn-hover-dark rounded-0" value="Pakai Voucher" type="submit">
                                     </p>
                                 </form>
                             </div>
@@ -100,7 +100,7 @@
                         <div class="checkbox-form">
 
                             <!-- Checkbox Form Title Start -->
-                            <h3 class="title">Billing Details</h3>
+                            <h3 class="title">Detail Pesanan</h3>
                             <!-- Checkbox Form Title End -->
 
                             <div class="row">
@@ -108,14 +108,11 @@
                                 <!-- Select Country Name Start -->
                                 <div class="col-md-12 mb-6">
                                     <div class="country-select">
-                                        <label>Country <span class="required">*</span></label>
+                                        <label>Provinsi <span class="required">*</span></label>
                                         <select class="myniceselect nice-select wide rounded-0">
-                                            <option data-display="Bangladesh">Bangladesh</option>
-                                            <option value="uk">London</option>
-                                            <option value="rou">Romania</option>
-                                            <option value="fr">French</option>
-                                            <option value="de">Germany</option>
-                                            <option value="aus">Australia</option>
+                                            <option data-display="Bangladesh">Jawa Timur</option>
+                                            <option value="uk">Jawa Tengah</option>
+                                            <option value="rou">Jawa Barat</option>
                                         </select>
                                     </div>
                                 </div>
@@ -124,7 +121,7 @@
                                 <!-- First Name Input Start -->
                                 <div class="col-md-6">
                                     <div class="checkout-form-list">
-                                        <label>First Name <span class="required">*</span></label>
+                                        <label>Nama Depan <span class="required">*</span></label>
                                         <input placeholder="" type="text">
                                     </div>
                                 </div>
@@ -133,7 +130,7 @@
                                 <!-- Last Name Input Start -->
                                 <div class="col-md-6">
                                     <div class="checkout-form-list">
-                                        <label>Last Name <span class="required">*</span></label>
+                                        <label>Nama Belakang <span class="required">*</span></label>
                                         <input placeholder="" type="text">
                                     </div>
                                 </div>
@@ -142,7 +139,7 @@
                                 <!-- Company Name Input Start -->
                                 <div class="col-md-12">
                                     <div class="checkout-form-list">
-                                        <label>Company Name</label>
+                                        <label>Nama Panggilan</label>
                                         <input placeholder="" type="text">
                                     </div>
                                 </div>
@@ -151,8 +148,8 @@
                                 <!-- Address Input Start -->
                                 <div class="col-md-12">
                                     <div class="checkout-form-list">
-                                        <label>Address <span class="required">*</span></label>
-                                        <input placeholder="Street address" type="text">
+                                        <label>Alamat <span class="required">*</span></label>
+                                        <input placeholder="Alamat Rumah" type="text">
                                     </div>
                                 </div>
                                 <!-- Address Input End -->
@@ -160,7 +157,7 @@
                                 <!-- Optional Text Input Start -->
                                 <div class="col-md-12">
                                     <div class="checkout-form-list">
-                                        <input placeholder="Apartment, suite, unit etc. (optional)" type="text">
+                                        <input placeholder="" type="text">
                                     </div>
                                 </div>
                                 <!-- Optional Text Input End -->
@@ -168,7 +165,7 @@
                                 <!-- Town or City Name Input Start -->
                                 <div class="col-md-12">
                                     <div class="checkout-form-list">
-                                        <label>Town / City <span class="required">*</span></label>
+                                        <label>Kota / Kabupaten <span class="required">*</span></label>
                                         <input type="text">
                                     </div>
                                 </div>
@@ -177,7 +174,7 @@
                                 <!-- State or Country Input Start -->
                                 <div class="col-md-6">
                                     <div class="checkout-form-list">
-                                        <label>State / County <span class="required">*</span></label>
+                                        <label>Provinsi <span class="required">*</span></label>
                                         <input placeholder="" type="text">
                                     </div>
                                 </div>
@@ -186,7 +183,7 @@
                                 <!-- Postcode or Zip Input Start -->
                                 <div class="col-md-6">
                                     <div class="checkout-form-list">
-                                        <label>Postcode / Zip <span class="required">*</span></label>
+                                        <label>Kode Pos <span class="required">*</span></label>
                                         <input placeholder="" type="text">
                                     </div>
                                 </div>
@@ -204,7 +201,7 @@
                                 <!-- Phone Number Input Start -->
                                 <div class="col-md-6">
                                     <div class="checkout-form-list">
-                                        <label>Phone <span class="required">*</span></label>
+                                        <label>Telephone <span class="required">*</span></label>
                                         <input type="text">
                                     </div>
                                 </div>
@@ -214,11 +211,11 @@
                                 <div class="col-md-12">
                                     <div class="checkout-form-list create-acc">
                                         <input id="cbox" type="checkbox">
-                                        <label for="cbox" class="checkbox-label">Create an account?</label>
+                                        <label for="cbox" class="checkbox-label">Daftar Sekarang?</label>
                                     </div>
                                     <div id="cbox-info" class="checkout-form-list create-account">
-                                        <p class="mb-2">Create an account by entering the information below. If you are a returning customer please login at the top of the page.</p>
-                                        <label>Account password <span class="required">*</span></label>
+                                        <p class="mb-2">Buat akun dengan memasukkan informasi di bawah ini. Jika Anda adalah Customer yang sudah punya akun, silakan login di bagian atas halaman.</p>
+                                        <label>Password Akun <span class="required">*</span></label>
                                         <input placeholder="Password" type="password">
                                     </div>
                                 </div>
@@ -232,7 +229,7 @@
                                 <div class="ship-different-title">
                                     <div>
                                         <input id="ship-box" type="checkbox">
-                                        <label for="ship-box" class="checkbox-label">Ship to a different address?</label>
+                                        <label for="ship-box" class="checkbox-label">Kirim Ke Alamat lain?</label>
                                     </div>
                                 </div>
                                 <!-- Ship Different Title Checkbox End -->
@@ -243,14 +240,11 @@
                                     <!-- Select Country Name Start -->
                                     <div class="col-md-12">
                                         <div class="myniceselect country-select clearfix">
-                                            <label>Country <span class="required">*</span></label>
+                                            <label>Provinsi <span class="required">*</span></label>
                                             <select class="myniceselect nice-select wide rounded-0">
-                                                <option data-display="Bangladesh">Bangladesh</option>
-                                                <option value="uk">London</option>
-                                                <option value="rou">Romania</option>
-                                                <option value="fr">French</option>
-                                                <option value="de">Germany</option>
-                                                <option value="aus">Australia</option>
+                                                <option data-display="Bangladesh">Jawa Timur</option>
+                                                <option value="uk">Jawa Tengah</option>
+                                                <option value="rou">Jawa Barat</option>
                                             </select>
                                         </div>
                                     </div>
@@ -259,7 +253,7 @@
                                     <!-- First Name Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>First Name <span class="required">*</span></label>
+                                            <label>Nama Depan <span class="required">*</span></label>
                                             <input placeholder="" type="text">
                                         </div>
                                     </div>
@@ -268,7 +262,7 @@
                                     <!-- Last Name Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Last Name <span class="required">*</span></label>
+                                            <label>Nama Belakang <span class="required">*</span></label>
                                             <input placeholder="" type="text">
                                         </div>
                                     </div>
@@ -277,7 +271,7 @@
                                     <!-- Company Name Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Company Name</label>
+                                            <label>Nama Panggilan</label>
                                             <input placeholder="" type="text">
                                         </div>
                                     </div>
@@ -286,8 +280,8 @@
                                     <!-- Address Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Address <span class="required">*</span></label>
-                                            <input placeholder="Street address" type="text">
+                                            <label>Alamat <span class="required">*</span></label>
+                                            <input placeholder="Alamat rumah" type="text">
                                         </div>
                                     </div>
                                     <!-- Address Input End -->
@@ -295,7 +289,7 @@
                                     <!-- Optional Text Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <input placeholder="Apartment, suite, unit etc. (optional)" type="text">
+                                            <input placeholder="" type="text">
                                         </div>
                                     </div>
                                     <!-- Optional Text End -->
@@ -303,7 +297,7 @@
                                     <!-- Town or City Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Town / City <span class="required">*</span></label>
+                                            <label>Kota / Kabupaten <span class="required">*</span></label>
                                             <input type="text">
                                         </div>
                                     </div>
@@ -312,7 +306,7 @@
                                     <!-- State or Country Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>State / County <span class="required">*</span></label>
+                                            <label>Provinsi <span class="required">*</span></label>
                                             <input placeholder="" type="text">
                                         </div>
                                     </div>
@@ -321,7 +315,7 @@
                                     <!-- Postcode or Zip Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Postcode / Zip <span class="required">*</span></label>
+                                            <label>Kode Pos <span class="required">*</span></label>
                                             <input placeholder="" type="text">
                                         </div>
                                     </div>
@@ -339,7 +333,7 @@
                                     <!-- Phone Number Input Start -->
                                     <div class="col-md-12">
                                         <div class="checkout-form-list">
-                                            <label>Phone <span class="required">*</span></label>
+                                            <label>Telephone <span class="required">*</span></label>
                                             <input type="text">
                                         </div>
                                     </div>
@@ -351,8 +345,8 @@
                                 <!-- Order Notes Textarea Start -->
                                 <div class="order-notes mt-3 mb-n2">
                                     <div class="checkout-form-list checkout-form-list-2">
-                                        <label>Order Notes</label>
-                                        <textarea id="checkout-mess" cols="30" rows="10" placeholder="Notes about your order, e.g. special notes for delivery."></textarea>
+                                        <label>Catatan</label>
+                                        <textarea id="checkout-mess" cols="30" rows="10" placeholder="Catatan Pesanananmu."></textarea>
                                     </div>
                                 </div>
                                 <!-- Order Notes Textarea End -->
@@ -371,7 +365,7 @@
                     <div class="your-order-area border">
 
                         <!-- Title Start -->
-                        <h3 class="title">Your order</h3>
+                        <h3 class="title">Pesanan Anda</h3>
                         <!-- Title End -->
 
                         <!-- Your Order Table Start -->
@@ -381,7 +375,7 @@
                                 <!-- Table Head Start -->
                                 <thead>
                                     <tr class="cart-product-head">
-                                        <th class="cart-product-name text-start">Product</th>
+                                        <th class="cart-product-name text-start">Produk</th>
                                         <th class="cart-product-total text-end">Total</th>
                                     </tr>
                                 </thead>
@@ -390,12 +384,12 @@
                                 <!-- Table Body Start -->
                                 <tbody>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Some Winter Collections<strong class="product-quantity"> × 2</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">£145.00</span></td>
+                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
                                     </tr>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Small Scale Style<strong class="product-quantity"> × 4</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">£204.00</span></td>
+                                        <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
                                     </tr>
                                 </tbody>
                                 <!-- Table Body End -->
@@ -403,12 +397,12 @@
                                 <!-- Table Footer Start -->
                                 <tfoot>
                                     <tr class="cart-subtotal">
-                                        <th class="text-start ps-0">Cart Subtotal</th>
-                                        <td class="text-end pe-0"><span class="amount">£349.00</span></td>
+                                        <th class="text-start ps-0">Subtotal</th>
+                                        <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
                                     </tr>
                                     <tr class="order-total">
                                         <th class="text-start ps-0">Order Total</th>
-                                        <td class="text-end pe-0"><strong><span class="amount">£349.00</span></strong></td>
+                                        <td class="text-end pe-0"><strong><span class="amount">Rp.11.740.000</span></strong></td>
                                     </tr>
                                 </tfoot>
                                 <!-- Table Footer End -->
@@ -423,42 +417,42 @@
                                 <div class="single-payment">
                                     <h5 class="panel-title mb-3">
                                         <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                            Direct Bank Transfer.
+                                            Bank Transfer
                                         </a>
                                     </h5>
                                     <div class="collapse show" id="collapseExample">
                                         <div class="card card-body rounded-0">
-                                            <p>Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have cleared in our account.</p>
+                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="single-payment">
                                     <h5 class="panel-title mb-3">
                                         <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample-2" aria-expanded="false" aria-controls="collapseExample-2">
-                                            Cheque Payment.
+                                            Uang Digital
                                         </a>
                                     </h5>
                                     <div class="collapse" id="collapseExample-2">
                                         <div class="card card-body rounded-0">
-                                            <p>Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have cleared in our account.</p>
+                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="single-payment">
                                     <h5 class="panel-title mb-3">
                                         <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample-3" aria-expanded="false" aria-controls="collapseExample-3">
-                                            Paypal.
+                                            Paypal
                                         </a>
                                     </h5>
                                     <div class="collapse" id="collapseExample-3">
                                         <div class="card card-body rounded-0">
-                                            <p>Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have cleared in our account.</p>
+                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="order-button-payment">
-                                <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Place Order</button>
+                                <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</button>
                             </div>
                         </div>
                         <!-- Payment Accordion Order Button End -->
