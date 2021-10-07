@@ -25,7 +25,7 @@
                             <ul class="widget-list">
                                 <li><a href="contact.php">Bantuan & Kontak Kami</a></li>
                                 <li><a href="contact.php">Pengembalian Barang dan Dana</a></li>
-                                <li><a href="hewanumum.php">Toko Online</a></li>
+                                <li><a href="index.php">Toko Online</a></li>
                                 <li><a href="syarat_dan_ketentuan.php">Syarat & Ketentuan</a></li>
                             </ul>
                         </div> 
