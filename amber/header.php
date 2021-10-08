@@ -137,24 +137,14 @@
                                         </ul>
                                     </li>
                                     <li class="has-children">
-                                        <a href="#">Jodoh</a>
-                                      <ul class="mega-menu">
-                                            <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Kategori</h4>
-                                                <ul class="mb-n2">
-                                                    <li><a href="shop.php">Hewan Peliharaan</a></li>
-                                                    <li><a href="shop-left-sidebar.php">Reptil</a></li>
-                                                    <li><a href="shop-right-sidebar.php">Ikan</a></li>
-                                                    <li><a href="shop-list-fullwidth.php">Burung</a></li>
-                                                </ul>
-                                              
-                                            <li class="mega-menu-col">
-                                                <div class="megamenu-image">
-                                                    <a href="shop.php">
-                                                        <img class="fit-image" src="assets/images/about/Logooo.png" alt="Megamenu Image">
-                                                    </a>
-                                                </div>
-                                            </li>
+
+                                        <a href="#">Mate</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="jodoh-peliharaan.php">Hewan Peliharaan</a></li>
+                                            <li><a href="jodoh-reptil.php">Reptil</a></li>
+                                            <li><a href="jodoh-ikan.php">Ikan</a></li>
+                                            <li><a href="jodoh-burung.php">Burung</a></li>
+
                                         </ul>
                                     </li>
                                     </li>

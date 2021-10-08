@@ -12,7 +12,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Blog Sidebar</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Blog Sidebar</li>
                         </ul>
                     </div>
@@ -36,7 +36,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/1.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -50,9 +50,9 @@
                                             <li><span>27, Jan, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">How to take care of your fish</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">How to take care of your fish</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -66,7 +66,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/2.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -80,9 +80,9 @@
                                             <li><span>12, Feb, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Find the male and female fish</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -96,7 +96,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/3.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -110,9 +110,9 @@
                                             <li><span>20, March, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Tips for taking care of dogs</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of dogs</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -126,7 +126,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/4.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -140,9 +140,9 @@
                                             <li><span>24, Jul, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Beginning a Birding Blog</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Beginning a Birding Blog</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -156,7 +156,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/5.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -170,9 +170,9 @@
                                             <li><span>02, Dec, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Start Fish Farming Blog</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Start Fish Farming Blog</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -186,7 +186,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/6.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -200,9 +200,9 @@
                                             <li><span>14, April, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Freshwater Aquarium Fish</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Freshwater Aquarium Fish</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -216,7 +216,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/7.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -230,9 +230,9 @@
                                             <li><span>21, Feb, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">Cat Blogs That Help Cats</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">Cat Blogs That Help Cats</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -246,7 +246,7 @@
 
                                 <!-- Blog Thumb Start -->
                                 <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.html">
+                                    <a class="image" href="blog-details.php">
                                         <img class="fit-image" src="assets/images/blog/medium-size/8.jpg" alt="Blog Image">
                                     </a>
                                 </div>
@@ -260,9 +260,9 @@
                                             <li><span>14, Feb, 2021</span></li>
                                         </ul>
                                     </div>
-                                    <h2 class="blog-title"><a href="blog-details.html">The legendary cat behavior</a></h2>
+                                    <h2 class="blog-title"><a href="blog-details.php">The legendary cat behavior</a></h2>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.html">Read More</a>
+                                    <a class="more-link" href="blog-details.php">Read More</a>
                                 </div>
                                 <!-- Blog Content End -->
 
@@ -342,7 +342,7 @@
 
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
-                                            <a href="blog-details.html" class="image">
+                                            <a href="blog-details.php" class="image">
                                                 <img class="fit-image" src="assets/images/blog/small-size/1.jpg" alt="Product Image">
                                             </a>
                                         </div>
@@ -351,7 +351,7 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="How to take care of your fish">How to take care...</a>
+                                                <a href="blog-details.php" title="How to take care of your fish">How to take care...</a>
                                             </h6>
                                             <div class="blog-meta">
                                                 <p>03/11/2021</p>
@@ -367,7 +367,7 @@
 
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
-                                            <a href="blog-details.html" class="image">
+                                            <a href="blog-details.php" class="image">
                                                 <img class="fit-image" src="assets/images/blog/small-size/2.jpg" alt="Product Image">
                                             </a>
                                         </div>
@@ -376,7 +376,7 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="Tips for taking care of dogs">Tips for taking care...</a>
+                                                <a href="blog-details.php" title="Tips for taking care of dogs">Tips for taking care...</a>
                                             </h6>
                                             <div class="blog-meta">
                                                 <p>03/11/2021</p>
@@ -392,7 +392,7 @@
 
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
-                                            <a href="blog-details.html" class="image">
+                                            <a href="blog-details.php" class="image">
                                                 <img class="fit-image" src="assets/images/blog/small-size/3.jpg" alt="Product Image">
                                             </a>
                                         </div>
@@ -401,7 +401,7 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="Beginning a Birding Blog">Beginning a Birding...</a>
+                                                <a href="blog-details.php" title="Beginning a Birding Blog">Beginning a Birding...</a>
                                             </h6>
                                             <div class="blog-meta">
                                                 <p>12/06/2021</p>
@@ -545,9 +545,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -621,61 +621,61 @@
                             <li class="has-children">
                                 <a href="#">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                    <li><a href="index-3.html">Home Three</a></li>
-                                    <li><a href="index-4.html">Home Four</a></li>
+                                    <li><a href="index.php">Home One</a></li>
+                                    <li><a href="index-2.php">Home Two</a></li>
+                                    <li><a href="index-3.php">Home Three</a></li>
+                                    <li><a href="index-4.php">Home Four</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
-                                    <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
-                                    <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
+                                    <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
+                                    <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
+                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="compare.php">Compare</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                    <li><a href="single-product-group.html">Single Product Group</a></li>
-                                    <li><a href="single-product-normal.html">Single Product Normal</a></li>
-                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
+                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="single-product-sale.php">Single Product Sale</a></li>
+                                    <li><a href="single-product-group.php">Single Product Group</a></li>
+                                    <li><a href="single-product-normal.php">Single Product Normal</a></li>
+                                    <li><a href="single-product-affiliate.php">Single Product Affiliate</a></li>
+                                    <li><a href="single-product-slider.php">Single Product Slider</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                    <li><a href="my-account.html">My Account</a></li>
-                                    <li><a href="login.html">Login | Register</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="faq.php">Faq</a></li>
+                                    <li><a href="error-404.php">Error 404</a></li>
+                                    <li><a href="my-account.php">My Account</a></li>
+                                    <li><a href="login.php">Login | Register</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Blog <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                    <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
+                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                    <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
+                                    <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

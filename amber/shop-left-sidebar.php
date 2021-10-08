@@ -14,7 +14,7 @@
                         <h2 class="breadcrumb-title">Reptil</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Shop Sidebar</li>
+                            <li>Reptil</li>
                         </ul>
                     </div>
                 </div>
@@ -721,7 +721,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/small-product/1.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -730,11 +730,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Pet Leaving House</a>
+                                                <a href="single-product.html">Chameleon Veiled</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">$12.50</span>
-                                            <span class="old">$15.85</span>
+                                                    <span class="new">Rp.3.280.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -749,7 +748,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/small-product/2.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -758,11 +757,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">This is the testing</a>
+                                                <a href="single-product.html">Iguana Hijau</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">$10.50</span>
-                                            <span class="old">$12.85</span>
+                                                    <span class="new">Rp.500.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -777,7 +775,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/small-product/3.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -786,11 +784,11 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Animals for life</a>
+                                                <a href="single-product.html">Bearded Dragon Super Red</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">$22.50</span>
-                                            <span class="old">$25.85</span>
+                                                    <span class="new">Rp.2.000.000</span>
+                                            
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
