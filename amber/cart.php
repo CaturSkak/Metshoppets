@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Wishlist</h2>
+                        <h2 class="breadcrumb-title">Keranjang</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Wishlist</li>
+                            <li><a href="index.html">Beranda</a></li>
+                            <li>Keranjang</li>
                         </ul>
                     </div>
                 </div>

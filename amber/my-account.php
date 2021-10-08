@@ -143,15 +143,93 @@
                                     <!-- Single Tab Content End -->
 
                                     <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="payment-method" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Metode Pembayaran</h3>
-                                            <p class="saved-message">You Can't Saved Your Payment Method yet.</p>
-                                            <div class="thumb">
-                                            <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/logo/ovo.jpg" alt="Product" />
-                                            </a>
+                                    <div class="card rounded shadow" id="payment-method" role="tabpanel">
+                         <div class="myaccount-content" class="card-header">
+                             <div class="myaccount-content">
+                                            <h3 class="title">Pembelian</h3>
+                                            <div class="myaccount-table table-responsive text-center">
+                                                <table class="table table-bordered">
+                                                    <thead class="thead-light">
+                                                        <tr>
+                                                            <th>Order</th>
+                                                            <th>Tanggal</th>
+                                                            <th>Status</th>
+                                                            <th>Total</th>
+                                                            <th>Detail</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>1</td>
+                                                            <td>21 Feb, 2021</td>
+                                                            <td>Pending</td>
+                                                            <td>Rp.1.500.000</td>
+                                                            <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>2</td>
+                                                            <td>22 Juli, 2021</td>
+                                                            <td>Approved</td>
+                                                            <td>Rp.2.000.000</td>
+                                                            <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>3</td>
+                                                            <td>12 Juni, 2019</td>
+                                                            <td>On Hold</td>
+                                                            <td>Rp.1.000.000</td>
+                                                            <td><a href="cart.html" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
                                         </div>
+                                            <h3 class="title">Metode Pembayaran</h3>
+
+                       
+                        
+
+                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio">
+                                    
+                                </input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
+                                
+                            </div>
+
+                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
+                                
+                            </div>
+
+                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
+                                
+                            </div>
+
+                              <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
+                                
+                            </div>
+                            <div class="cart-bottom">
+                            <div class="row w-100">
+                                <div class="col-6 pl-4">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <p>Total Harga</p>
+                                        </div>
+                                        <div class="col-12">
+                                            <h5>Rp <span id="text_total">10.000.000</span></h5>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-6 align-self-center d-inline-flex p-0">
+                                   
+                                        <input type="hidden" value="0" name="ongkir" id="ongkir">
+                                        <input type="hidden" value="" name="nama_kurir" id="nama_kurir">
+                                        <button type="submit"  name="jumlah" id="jumlah" class="btn btn-primary rounded-pill ml-auto text-uppercase "><i class="fa fa-shopping-bag mr-2 pt-1"></i> Bayar</button>
+                           
+
                                     </div>
                                     <!-- Single Tab Content End -->
 
