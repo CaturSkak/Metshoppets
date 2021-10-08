@@ -98,10 +98,10 @@
                                       
                                     </li>
                                     <li class="has-children position-relative">
-                                        <a href="hewanumum.php">Belanja</a>
+                                        <a href="hewanumum.php">Beli</a>
                                         <ul class="mega-menu">
                                             <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Katagori</h4>
+                                                <h4 class="mega-menu-title">Kategori</h4>
                                                 <ul class="mb-n2">
                                                     <li><a href="shop.php">Hewan Peliharaan</a></li>
                                                     <li><a href="shop-left-sidebar.php">Reptil</a></li>
@@ -109,7 +109,7 @@
                                                     <li><a href="shop-list-fullwidth.php">Burung</a></li>
                                                 </ul>
                                                 <li class="mega-menu-col">
-                                                <h4 class="mega-menu-title">Lainya</h4>
+                                                <h4 class="mega-menu-title">Lainnya</h4>
                                                 <ul class="mb-n2">
                                                     <li><a href="my-account.php">Akun saya</a></li>
                                                     <li><a href="login.php">Masuk | Daftar</a></li>
@@ -137,13 +137,26 @@
                                         </ul>
                                     </li>
                                     <li class="has-children">
-                                        <a href="#">Mate</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog.php">Hewan Peliharaan</a></li>
-                                            <li><a href="blog-left-sidebar.php">Reptil</a></li>
-                                            <li><a href="blog-right-sidebar.php">Ikan</a></li>
-                                            <li><a href="shop-list-fullwidth.php">Burung</a></li>
+                                        <a href="#">Jodoh</a>
+                                      <ul class="mega-menu">
+                                            <li class="mega-menu-col">
+                                                <h4 class="mega-menu-title">Kategori</h4>
+                                                <ul class="mb-n2">
+                                                    <li><a href="shop.php">Hewan Peliharaan</a></li>
+                                                    <li><a href="shop-left-sidebar.php">Reptil</a></li>
+                                                    <li><a href="shop-right-sidebar.php">Ikan</a></li>
+                                                    <li><a href="shop-list-fullwidth.php">Burung</a></li>
+                                                </ul>
+                                              
+                                            <li class="mega-menu-col">
+                                                <div class="megamenu-image">
+                                                    <a href="shop.php">
+                                                        <img class="fit-image" src="assets/images/about/Logooo.png" alt="Megamenu Image">
+                                                    </a>
+                                                </div>
+                                            </li>
                                         </ul>
+                                    </li>
                                     </li>
                                     <li><a href="about.php">Tentang</a></li>
                                     <li><a href="contact.php">Kontak</a></li>
