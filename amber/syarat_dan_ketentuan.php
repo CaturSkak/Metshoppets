@@ -11,7 +11,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Syarat & Ketentuan</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.html">Beranda</a></li>
                             <li>Syarat & Ketentuan</li>
                         </ul>
                     </div>

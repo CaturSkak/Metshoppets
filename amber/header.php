@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MetShopPets -Selamat Datang di MetShop Pets</title>
+    <title>MetShop Pets -Selamat Datang di MetShop Pets</title>
+
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="assets/images/logo.png">
@@ -62,7 +63,7 @@
                     <div class="col-12 col-lg-6">
                         <div class="header-top-msg-wrapper">
                             
-                            <p class="header-top-message">Selamat Datang di MetShopPets</p>
+                            <p class="header-top-message">Selamat Datang di MetShop Pets</p>
                             
                         </div>
                     </center>
@@ -73,6 +74,7 @@
                 </div>
             </div>
         </div>
+        
         <!-- Header Top End -->
 
         <!-- Header Bottom Start -->
