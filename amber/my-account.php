@@ -39,7 +39,7 @@
                                     <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>
                                         Dashboard</a>
                                     <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pembelian</a>
-                                    <a href="#download" data-bs-toggle="tab"><i class="fa fa-cloud-download"></i> Download</a>
+                                   
                                     <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
                                     <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
                                     <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i>Detail Akun</a>
@@ -108,66 +108,34 @@
                                     </div>
                                     <!-- Single Tab Content End -->
 
-                                    <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="download" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Downloads</h3>
-                                            <div class="myaccount-table table-responsive text-center">
-                                                <table class="table table-bordered">
-                                                    <thead class="thead-light">
-                                                        <tr>
-                                                            <th>Product</th>
-                                                            <th>Date</th>
-                                                            <th>Expire</th>
-                                                            <th>Download</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>Haven - Free Real Estate PSD Template</td>
-                                                            <td>Aug 22, 2018</td>
-                                                            <td>Yes</td>
-                                                            <td><a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-cloud-download me-1"></i> Download File</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>TechWorld - Profolio Business Template</td>
-                                                            <td>Sep 12, 2018</td>
-                                                            <td>Never</td>
-                                                            <td><a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-cloud-download me-1"></i> Download File</a></td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Tab Content End -->
+                                   
 
    --
 
 <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="payment-method" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Payment Method</h3>
+                                            <h3 class="title">Metode Pembayaran</h3>
                                             
                                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio">
+                                <label class="fit-image ms-1">
                                     
-                                </input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
+                                <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
                                 
                             </div>
 
                              <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
+                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
                                 
                             </div>
 
                              <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
+                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
                                 
                             </div>
 
                               <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
+                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
                                 
                             </div>
                                         </div>
