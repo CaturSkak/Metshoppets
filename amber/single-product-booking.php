@@ -9,10 +9,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Lihat Produk</h2>
+                        <h2 class="breadcrumb-title">Single Product</h2>
                         <ul>
-                            <li><a href="index.php">Beranda</a></li>
-                            <li>Hewan Peliharaan</li>
+                            <li><a href="index.php">Home</a></li>
+                            <li>Single Product</li>
                         </ul>
                     </div>
                 </div>
@@ -35,17 +35,17 @@
                         <div class="single-product-img swiper-container product-gallery-top">
                             <div class="swiper-wrapper popup-gallery">
 
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/persia.png">
-                                    <img class="w-100" src="assets/images/products/medium-product/persia.png" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/large-product/1.png">
+                                    <img class="w-100" src="assets/images/products/large-product/1.png" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/large-product/2.png">
+                                    <img class="w-100" src="assets/images/products/large-product/2.png" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/735_5.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/large-product/3.png">
+                                    <img class="w-100" src="assets/images/products/large-product/3.png" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/large-product/4.png">
+                                    <img class="w-100" src="assets/images/products/large-product/4.png" alt="Product">
                                 </a>
                                 <a class="swiper-slide w-100" href="assets/images/products/large-product/5.png">
                                     <img class="w-100" src="assets/images/products/large-product/5.png" alt="Product">
@@ -68,13 +68,13 @@
                         <div class="single-product-thumb swiper-container product-gallery-thumbs">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                    <img src="assets/images/products/medium-plus-product/1.png" alt="Product">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                    <img src="assets/images/products/medium-plus-product/2.png" alt="Product">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/putih.jpg" alt="Product">
+                                    <img src="assets/images/products/medium-plus-product/3.png" alt="Product">
                                 </div>
                                 <div class="swiper-slide">
                                     <img src="assets/images/products/medium-plus-product/4.png" alt="Product">
@@ -113,7 +113,7 @@
 
                         <!-- Product Head Start -->
                         <div class="product-head mb-3">
-                            <h2 class="product-title">Kucing Persia Asli</h2>
+                            <h2 class="product-title">Single product title</h2>
                         </div>
                         <!-- Product Head End -->
 
@@ -122,48 +122,38 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
                                 <i class="fa fa-star-half-o"></i>
+                                <i class="fa fa-star-o"></i>
                             </span>
                         <!-- Rating End -->
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.5.000.000</span>
+                            <span class="regular-price">$70.00</span>
+                            <span class="old-price"><del>$85.00</del></span>
                         </div>
                         <!-- Price Box End -->
 
                         <!-- SKU Start -->
                         <div class="sku mb-3">
-                            <span>Hewan Peliharaan</span>
+                            <span>SKU: 12345</span>
                         </div>
                         <!-- SKU End -->
 
                         <!-- Product Inventory Start -->
                         <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
+                            <span class="inventroy-title"> <strong>Availability:</strong></span>
+                            <span class="inventory-varient">12 Left in Stock</span>
                         </div>
                         <!-- Product Inventory End -->
 
                         <!-- Description Start -->
-                        <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
-                        <p>Jantan Dan Betina Ada</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-
-                        <p>Untuk melihat video bisa chat via WhatsApp 0852-1411-4448</p>
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                        <p class="desc-content mb-5">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
                         <!-- Description End -->
 
                         <!-- Quantity Start -->
                         <div class="quantity d-flex align-items-center mb-5">
-                            <span class="me-2"><strong>Jumlah : </strong></span>
+                            <span class="me-2"><strong>Qty: </strong></span>
                             <div class="cart-plus-minus">
                                 <input class="cart-plus-minus-box" value="1" type="text">
                                 <div class="dec qtybutton"></div>
@@ -176,7 +166,7 @@
                         <div class="cart-btn action-btn mb-6">
                             <div class="action-cart-btn-wrapper d-flex">
                                 <div class="add-to_cart">
-                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Masukkan Keranjang</a>
+                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                 </div>
                                 <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>
@@ -223,34 +213,24 @@
                 <div class="col-lg-12 single-product-tab">
                     <ul class="nav nav-tabs mb-n3" id="myTab" role="tablist">
                         <li class="nav-item mb-3">
-                            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#connect-1" role="tab" aria-selected="true">Deskripsi</a>
+                            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#connect-1" role="tab" aria-selected="true">Description</a>
                         </li>
                         <li class="nav-item mb-3">
-                            <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#connect-2" role="tab" aria-selected="false">Ulasan</a>
+                            <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#connect-2" role="tab" aria-selected="false">Reviews</a>
                         </li>
                         <li class="nav-item mb-3">
-                            <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#connect-3" role="tab" aria-selected="false">Aturan Pengiriman</a>
+                            <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#connect-3" role="tab" aria-selected="false">Shipping Policy</a>
                         </li>
                         <li class="nav-item mb-3">
-                            <a class="nav-link" id="review-tab" data-bs-toggle="tab" href="#connect-4" role="tab" aria-selected="false">Opsi</a>
+                            <a class="nav-link" id="review-tab" data-bs-toggle="tab" href="#connect-4" role="tab" aria-selected="false">Size Chart</a>
                         </li>
                     </ul>
 
                     <div class="tab-content mb-text" id="myTabContent">
                         <div class="tab-pane fade show active" id="connect-1" role="tabpanel" aria-labelledby="home-tab">
                             <div class="desc-content">
-                                <p class="mb-3"><p>Kucing Persia Peaknose</p>
-                                <p>Jantan Dan Betina Ada</p>
-                                <p>Umur 3-4 Bulan</p>
-                                <p>No Kutu No Jamur</p>
-                                <p>No Cacat</p>
-                                <p>Obat Cacing Rutin</p>
-                                <p>Linca Dan Pinter</p>
-                                <p>Di Jamin Sehat, Sudah Vaksin</p>
-
-                                <p>Untuk melihat video bisa chat via WhatsApp 0852-1411-4448</p>
-
-                                <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                                <p class="mb-3">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.</p>
+                                <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="connect-2" role="tabpanel" aria-labelledby="profile-tab">
@@ -262,7 +242,7 @@
 
                                     <!-- Review Thumb Start -->
                                     <div class="review_thumb">
-                                        <img alt="review images" src="assets/images/testimonial/kayes.jpg">
+                                        <img alt="review images" src="assets/images/review/1.jpg">
                                     </div>
                                     <!-- Review Thumb End -->
 
@@ -275,19 +255,19 @@
                                                     <i class="fa fa-star"></i>
                                                     <i class="fa fa-star"></i>
                                                     <i class="fa fa-star"></i>
-                                                    <i class="fa fa-star"></i>
+                                                    <i class="fa fa-star-half-o"></i>
                                                     <i class="fa fa-star-o"></i>
                                                 </span>
                                             <!-- Rating End -->
 
                                             <!-- Review Title & Date Start -->
                                             <div class="review-title-date d-flex">
-                                                <h5 class="title">Kayess - </h5><span> 21 Januari, 2020</span>
+                                                <h5 class="title">Admin - </h5><span> January 19, 2021</span>
                                             </div>
                                             <!-- Review Title & Date End -->
 
                                         </div>
-                                        <p>kittennya bagus, bersih gaada kutu, bagus banget beli disini!!</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in viverra ex, vitae vestibulum arcu. Duis sollicitudin metus sed lorem commodo, eu dapibus libero interdum. Morbi convallis viverra erat, et aliquet orci congue vel. Integer in odio enim. Pellentesque in dignissim leo. Vivamus varius ex sit amet quam tincidunt iaculis.</p>
                                     </div>
                                     <!-- Review Details End -->
 
@@ -296,9 +276,9 @@
 
                                 <!-- Rating Wrap Start -->
                                 <div class="rating_wrap">
-                                    <h5 class="rating-title mb-2">Tambah Ulasan </h5>
-                                    <p class="mb-2">Alamat email Anda tidak akan dipublikasikan. Bidang yang harus diisi ditandai *</p>
-                                    <h6 class="rating-sub-title mb-2">Rating</h6>
+                                    <h5 class="rating-title mb-2">Add a review </h5>
+                                    <p class="mb-2">Your email address will not be published. Required fields are marked *</p>
+                                    <h6 class="rating-sub-title mb-2">Your Rating</h6>
 
                                     <!-- Rating Start -->
                                     <span class="rating justify-content-start mb-3">
@@ -324,7 +304,7 @@
 
                                                     <!-- Input Name Start -->
                                                     <div class="col-md-6 comment-form-author mb-3">
-                                                        <label>Nama</label>
+                                                        <label>Name</label>
                                                         <input type="text" required="required" name="Name">
                                                     </div>
                                                     <!-- Input Name End -->
@@ -339,14 +319,14 @@
                                                 </div>
                                                 <!-- Comment Texarea Start -->
                                                 <div class="comment-form-comment mb-3">
-                                                    <label>Komentar</label>
+                                                    <label>Comment</label>
                                                     <textarea class="comment-notes" required="required"></textarea>
                                                 </div>
                                                 <!-- Comment Texarea End -->
 
                                                 <!-- Comment Submit Button Start -->
                                                 <div class="comment-form-submit">
-                                                    <button class="btn btn-primary btn-hover-dark border-0">Kirim</button>
+                                                    <button class="btn btn-primary btn-hover-dark border-0">Submit</button>
                                                 </div>
                                                 <!-- Comment Submit Button End -->
 
@@ -364,28 +344,25 @@
                         <div class="tab-pane fade" id="connect-3" role="tabpanel" aria-labelledby="contact-tab">
                             <!-- Shipping Policy Start -->
                             <div class="shipping-policy mt-8 mb-n3">
-                                <h4 class="title mb-4">ATURAN PENGIRIMAN</h4>
-                                <p class="mb-3">Kami melayani pengiriman hewan kesayangan anda mulai dari penjemputan di tempat anda sampai ke pelabuhan / stasiun / airport atau penjemputan hewan kesayangan anda dari pelabuhan / stasiun /airport, proses administrasi, keperluan dokumen-dokumen, karantina hingga hewan kesayangan anda tiba di rumah anda.
-                                Didukung dengan pengalaman kami di bidang ini maka kami dapat menjamin suatu pelayanan yang cepat, efisien dan aman.</p>
+                                <h4 class="title mb-4">Shipping policy for our store</h4>
+                                <p class="mb-3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate</p>
                                 <ul class="policy-list mb-3">
-                                    <li>Menyediakan Kandang / Kennel Box</li>
-                                    <li><a href="#">Free Tempat Makan & Minum</a></li>
-                                    <li>Free Makanan, Snack & Vitamin Selama Perjalanan</li>
-                                    <li>Free Survey & Konsultasi (Jakarta, Bandung, Surabaya, Jogjakarta, Bali, Medan)</li>
-                                    <li>Harga Sudah Termasuk Pengurusan Dokumen Karantina, Cek Darah & Kesehatan, Perawatan & Pengiriman Cargo</li>
-                                    <li>pilihan Pengiriman via Udara, Pengiriman via Laut, Pengiriman via Kereta Api, Pengiriman via Mobil </li>
+                                    <li>1-2 business days (Typically by end of day)</li>
+                                    <li><a href="#">30 days money back guaranty</a></li>
+                                    <li>24/7 live support</li>
+                                    <li>odio dignissim qui blandit praesent</li>
+                                    <li>luptatum zzril delenit augue duis dolore</li>
+                                    <li>te feugait nulla facilisi.</li>
                                 </ul>
-                                <p class="mb-3">Catatan :
-                                Booking Fee tidak dapat dibatalkan / dikembalikan / digantikan dengan alasan apapun
-                                Perubahan waktu / hari keberangkatan minimal 7 hari sebelum hari H dan akan dikenakan biaya tambahan apabila proses sudah berjalan
-                                Tidak ada pembayaran langsung melalui kurir / pegawai saat penjemputan atau pengantaran hewan.
-                                Customer sudah setuju & mengerti dengan segala ketentuan diatas.</p>
+                                <p class="mb-3">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum</p>
+                                <p class="mb-3">claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per</p>
+                                <p class="mb-3">seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
                             </div>
                             <!-- Shipping Policy End -->
                         </div>
                         <div class="tab-pane fade" id="connect-4" role="tabpanel" aria-labelledby="review-tab">
                             <div class="size-tab table-responsive-lg mt-8">
-                                <h4 class="title-3 mb-4">Opsi</h4>
+                                <h4 class="title-3 mb-4">Size Chart</h4>
                                 <table class="table border mb-0">
                                     <tbody>
                                         <tr>
@@ -448,7 +425,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-title text-center">
-                        <h2 class="title">Produk Lainnya</h2>
+                        <h2 class="title">Related Products</h2>
                     </div>
                 </div>
             </div>
@@ -468,7 +445,7 @@
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
                                                 <a href="single-product.php" class="image">
-                                                    <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
+                                                    <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
                                                         <span class="sale">-18%</span>
@@ -478,22 +455,26 @@
                                                     <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                                     <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
+
+                                                <div class="countdown-area">
+                                                    <div class="countdown-wrapper" data-countdown="2028/12/28"></div>
+                                                </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-half-o"></i>
+                                                        <i class="fa fa-star-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.5.740.000</span>
-                                                <span class="old">Rp.7.000.000</span>
+                                                        <span class="new">$47.50</span>
+                                                <span class="old">$50.00</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -509,7 +490,7 @@
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
                                                 <a href="single-product.php" class="image">
-                                                    <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
+                                                    <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
                                                 </a>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -521,16 +502,16 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora mix Persia</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
                                                         <i class="fa fa-star-half-o"></i>
+                                                        <i class="fa fa-star-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.4.000.000</span>
+                                                        <span class="new">$55.00</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -546,7 +527,7 @@
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
                                                 <a href="single-product.php" class="image">
-                                                    <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
+                                                    <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
                                                         <span class="sale">-20%</span>
@@ -561,17 +542,17 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Mainecoon</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
                                                 <span class="rating">
-                                                         <i class="fa fa-star"></i>
-                                                         <i class="fa fa-star"></i>
-                                                         <i class="fa fa-star"></i>
-                                                         <i class="fa fa-star"></i>
-                                                         <i class="fa fa-star"></i>             
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-half-o"></i>
+                                                        <i class="fa fa-star-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.14.760.000</span>
-                                            <span class="old">Rp.18.000.000</span>
+                                                        <span class="new">$58.50</span>
+                                                <span class="old">$62.85</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -587,7 +568,7 @@
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
                                                 <a href="single-product.php" class="image">
-                                                    <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
+                                                    <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
                                                         <span class="sale">-18%</span>
@@ -602,17 +583,17 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Alasakan Malamute</a></h5>
+                                                <h5 class="title"><a href="single-product.php">An Animal Album</a></h5>
                                                 <span class="rating">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star-o"></i>            
+                                                        <i class="fa fa-star-o"></i>
+                                                        <i class="fa fa-star-o"></i>
+                                                        <i class="fa fa-star-o"></i>
+                                                        <i class="fa fa-star-o"></i>
+                                                        <i class="fa fa-star-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.15.000.000</span>
-                                                
+                                                        <span class="new">$80.50</span>
+                                                <span class="old">$85.80</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -628,7 +609,7 @@
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
                                                 <a href="single-product.php" class="image">
-                                                    <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
+                                                    <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
                                                         <span class="new">New</span>
@@ -643,17 +624,16 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Siberian Husky</a></h5>
+                                                <h5 class="title"><a href="single-product.php">Wait, You Need This</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
                                                         <i class="fa fa-star-half-o"></i>
+                                                        <i class="fa fa-star-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.3.200.000</span>
-                                            <span class="old">Rp.4.000.000</span>
+                                                        <span class="new">$90.00</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->

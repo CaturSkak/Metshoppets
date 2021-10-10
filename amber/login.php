@@ -13,7 +13,7 @@
                     <div class="breadcrumb-wrapper">
                         <h2 class="breadcrumb-title">Login</h2>
                         <ul>
-                            <li><a href="index.html">Beranda</a></li>
+                            <li><a href="index.php">Beranda</a></li>
                             <li>Login</li>
                         </ul>
                     </div>
@@ -32,7 +32,7 @@
 
                         <!-- Login Title & Content Start -->
                         <div class="section-content text-center mb-6">
-                            <h2 class="title mb-2">Login</h2>
+                            <h2 class="title mb-2">LOGIN</h2>
                         </div>
                         <!-- Login Title & Content End -->
 
@@ -64,7 +64,7 @@
 
                             <!-- Lost Password & Creat New Account Start -->
                             <div class="lost-password">
-                                <a href="register.html">Daftar Sekarang</a>
+                                <a href="register.php">Daftar Sekarang</a>
                             </div>
                             <!-- Lost Password & Creat New Account End -->
 
@@ -186,9 +186,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -262,36 +262,36 @@
                             <li class="has-children">
                                 <a href="#">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="index.html">Home One</a></li>
-                                    <li><a href="index-2.html">Home Two</a></li>
-                                    <li><a href="index-3.html">Home Three</a></li>
-                                    <li><a href="index-4.html">Home Four</a></li>
+                                    <li><a href="index.php">Home One</a></li>
+                                    <li><a href="index-2.php">Home Two</a></li>
+                                    <li><a href="index-3.php">Home Three</a></li>
+                                    <li><a href="index-4.php">Home Four</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Shop <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="shop.html">Shop Grid</a></li>
-                                    <li><a href="shop-left-sidebar.html">Shop Left Sidebar</a></li>
-                                    <li><a href="shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                                    <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
-                                    <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
-                                    <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="compare.html">Compare</a></li>
+                                    <li><a href="shop.php">Shop Grid</a></li>
+                                    <li><a href="shop-left-sidebar.php">Shop Left Sidebar</a></li>
+                                    <li><a href="shop-right-sidebar.php">Shop Right Sidebar</a></li>
+                                    <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
+                                    <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
+                                    <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
+                                    <li><a href="wishlist.php">Wishlist</a></li>
+                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="checkout.php">Checkout</a></li>
+                                    <li><a href="compare.php">Compare</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="single-product-sale.html">Single Product Sale</a></li>
-                                    <li><a href="single-product-group.html">Single Product Group</a></li>
-                                    <li><a href="single-product-normal.html">Single Product Normal</a></li>
-                                    <li><a href="single-product-affiliate.html">Single Product Affiliate</a></li>
-                                    <li><a href="single-product-slider.html">Single Product Slider</a></li>
+                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="single-product-sale.php">Single Product Sale</a></li>
+                                    <li><a href="single-product-group.php">Single Product Group</a></li>
+                                    <li><a href="single-product-normal.php">Single Product Normal</a></li>
+                                    <li><a href="single-product-affiliate.php">Single Product Affiliate</a></li>
+                                    <li><a href="single-product-slider.php">Single Product Slider</a></li>
                                 </ul>
                             </li>
                             <li class="has-children">
@@ -315,8 +315,8 @@
                                     <li><a href="blog-details-sidebar.php">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="about.php">About</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
