@@ -145,10 +145,10 @@
                                             <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Kategori</h4>
                                                 <ul class="mb-n2">
-                                                    <li><a href="shop.php">Hewan Peliharaan</a></li>
-                                                    <li><a href="shop-left-sidebar.php">Reptil</a></li>
-                                                    <li><a href="shop-right-sidebar.php">Ikan</a></li>
-                                                    <li><a href="shop-list-fullwidth.php">Burung</a></li>
+                                                    <li><a href="jodoh-peliharaan.php">Hewan Peliharaan</a></li>
+                                                    <li><a href="jodoh-reptil.php">Reptil</a></li>
+                                                    <li><a href="jodoh-ikan.php">Ikan</a></li>
+                                                    <li><a href="jodoh-burung.php">Burung</a></li>
                                                 </ul>
                                               
                                             <li class="mega-menu-col">

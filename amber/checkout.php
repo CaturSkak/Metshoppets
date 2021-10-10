@@ -422,7 +422,17 @@
                                     </h5>
                                     <div class="collapse show" id="collapseExample">
                                         <div class="card card-body rounded-0">
-                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
+                            
+
+                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
+                                
+                            </div>
+
+                              <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
+                                
+                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -434,23 +444,21 @@
                                     </h5>
                                     <div class="collapse" id="collapseExample-2">
                                         <div class="card card-body rounded-0">
-                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-payment">
-                                    <h5 class="panel-title mb-3">
-                                        <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample-3" aria-expanded="false" aria-controls="collapseExample-3">
-                                            Paypal
-                                        </a>
-                                    </h5>
-                                    <div class="collapse" id="collapseExample-3">
-                                        <div class="card card-body rounded-0">
-                                            <p>Lakukan pembayaran langsung ke rekening bank kami. Silakan gunakan ID Pesanan Anda sebagai referensi pembayaran. Pesanan Anda tidak akan dikirim sampai dana dicairkan di rekening kami.</p>
-                                        </div>
-                                    </div>
-                                </div>
+                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio">
+                                    
+                                </input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
+                                
                             </div>
+
+                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
+                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
+                                
+                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
                             <div class="order-button-payment">
                                 <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</button>
                             </div>
