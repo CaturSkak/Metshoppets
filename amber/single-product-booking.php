@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Lihat Produk</h2>
+                        <h2 class="breadcrumb-title">Temukan Jodoh</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Hewan Peliharaan</li>

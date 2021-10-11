@@ -36,12 +36,12 @@
                             <!-- Table Head Start -->
                             <thead>
                                 <tr>
-                                    <th class="pro-thumbnail">Image</th>
-                                    <th class="pro-title">Product</th>
-                                    <th class="pro-price">Price</th>
-                                    <th class="pro-quantity">Quantity</th>
+                                    <th class="pro-thumbnail">preview</th>
+                                    <th class="pro-title">Produk</th>
+                                    <th class="pro-price">Harga</th>
+                                    <th class="pro-quantity">Jumlah</th>
                                     <th class="pro-subtotal">Total</th>
-                                    <th class="pro-remove">Remove</th>
+                                    <th class="pro-remove">Hapus</th>
                                 </tr>
                             </thead>
                             <!-- Table Head End -->
@@ -49,9 +49,9 @@
                             <!-- Table Body Start -->
                             <tbody>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/small-product/6.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Learn About Fish Farming</a></td>
-                                    <td class="pro-price"><span>$95.00</span></td>
+                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="#">Anjing Shiba Inu</a></td>
+                                    <td class="pro-price"><span>Rp.6.000.000</span></td>
                                     <td class="pro-quantity">
                                         <div class="quantity">
                                             <div class="cart-plus-minus">
@@ -61,13 +61,13 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="pro-subtotal"><span>$95.00</span></td>
+                                    <td class="pro-subtotal"><span>Rp.6.000.000</span></td>
                                     <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/small-product/5.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Basic Birds Food</a></td>
-                                    <td class="pro-price"><span>$75.00</span></td>
+                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="#">Kucing Anggora Asli</a></td>
+                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
                                     <td class="pro-quantity">
                                         <div class="quantity">
                                             <div class="cart-plus-minus">
@@ -77,41 +77,10 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td class="pro-subtotal"><span>$75.00</span></td>
+                                    <td class="pro-subtotal"><span>Rp.5.740.000</span></td>
                                     <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
                                 </tr>
-                                <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/small-product/3.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Dog Trainning Center</a></td>
-                                    <td class="pro-price"><span>$28.00</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="1" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>$56.00</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
-                                </tr>
-                                <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/small-product/4.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Animal Rescue Center</a></td>
-                                    <td class="pro-price"><span>$20.00</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="1" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>$40.00</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
-                                </tr>
+                            
                             </tbody>
                             <!-- Table Body End -->
 
@@ -124,14 +93,14 @@
 
                         <!-- Cart Button left Side Start -->
                         <div class="cart-btn-lef-side mb-4">
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Continue Shopping</a>
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Update Shopping Cart</a>
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Belanja Lagi</a>
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Perbarui daftar Keranjang</a>
                         </div>
                         <!-- Cart Button left Side End -->
 
                         <!-- Cart Button Right Side Start -->
                         <div class="cart-btn-right-right mb-4">
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Clear Shopping Cart</a>
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Hapus Daftar Keranjang</a>
                         </div>
                         <!-- Cart Button Right Side End -->
 
@@ -151,7 +120,7 @@
                         <div class="cart-calculate-items">
 
                             <!-- Cart Calculate Items Title Start -->
-                            <h3 class="title">Cart Totals</h3>
+                            <h3 class="title">Total </h3>
                             <!-- Cart Calculate Items Title End -->
 
                             <!-- Responsive Table Start -->
@@ -159,15 +128,19 @@
                                 <table class="table">
                                     <tr>
                                         <td>Sub Total</td>
-                                        <td>$230</td>
+                                        <td>Rp.11.740.000</td>
                                     </tr>
                                     <tr>
-                                        <td>Shipping</td>
-                                        <td>$70</td>
+                                        <td>Pengiriman</td>
+                                        <td>Rp.90.000</td>
+                                    </tr>
+                                     <tr>
+                                        <td>Pembayaran</td>
+                                        
                                     </tr>
                                     <tr class="total">
                                         <td>Total</td>
-                                        <td class="total-amount">$300</td>
+                                        <td class="total-amount">Rp.11.830.000</td>
                                     </tr>
                                 </table>
                             </div>
@@ -177,7 +150,7 @@
                         <!-- Cart Calculate Items End -->
 
                         <!-- Cart Checktout Button Start -->
-                        <a href="checkout.php" class="btn btn btn-gray-deep btn-hover-primary mt-6">Proceed To Checkout</a>
+                        <a href="checkout.php" class="btn btn btn-gray-deep btn-hover-primary mt-6">Proses Pembelian</a>
                         <!-- Cart Checktout Button End -->
 
                     </div>
