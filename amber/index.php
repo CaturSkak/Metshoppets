@@ -781,7 +781,7 @@
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1000">
                     <a href="shop.php" class="banner">
-                        <img class="fit-image" src="assets/images/banner/1.png" alt="Banner Image" />
+                        <img class="fit-image" src="assets/images/banner/Promo1.png" alt="Banner Image" />
                     </a>
                 </div>
                 <!-- Banner End -->
