@@ -46,7 +46,7 @@
                                     <td class="pro-title"><a href="single-product.html">Anjing Shiba Inu</a></td>
                                     <td class="pro-price"><span>Rp.6.000.000</span></td>
                                     <td class="pro-stock"><span>Sudah di pesan</span></td>
-                                    <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark">Tambah ke Keranjang Perjodohan</a></td>
+                                    <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark disabled">Tambah ke Keranjang Perjodohan</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
@@ -70,8 +70,8 @@
                                     <td class="pro-title"><a href="single-product.html">Kucing Muckin Kitten</a></td>
                                     <td class="pro-price"><span>Rp.900.000</span></td>
                                     <td class="pro-stock"><span>Tersedia</span></td>
-                                    <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark disabled">Tambah ke Keranjang Perjodohan</a></td>
-                                    <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
+                                    <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark">Tambah ke Keranjang Perjodohan</a></td>
+                                    <td class="pro-stock"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                             </tbody>
                         </table>
