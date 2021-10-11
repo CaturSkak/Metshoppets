@@ -490,8 +490,7 @@
                                                         <i class="fa fa-star"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.5.740.000</span>
-                                                <span class="old">Rp.7.000.000</span>
+                                                        <span class="new">Rp.45.000/Hari</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -528,7 +527,7 @@
                                                         <i class="fa fa-star-half-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.4.000.000</span>
+                                                        <span class="new">Rp.30.000/Hari</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -568,8 +567,8 @@
                                                          <i class="fa fa-star"></i>             
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.14.760.000</span>
-                                            <span class="old">Rp.18.000.000</span>
+                                                        <span class="new">Rp.55.000/Hari</span>
+                                            
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -609,7 +608,7 @@
                                                         <i class="fa fa-star-o"></i>            
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.15.000.000</span>
+                                                        <span class="new">Rp.305.000/Hari</span>
                                                 
                                                 </span>
                                             </div>
@@ -650,8 +649,8 @@
                                                         <i class="fa fa-star-half-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.3.200.000</span>
-                                            <span class="old">Rp.4.000.000</span>
+                                                        <span class="new">Rp.405.000/Hari</span>
+                                            
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
