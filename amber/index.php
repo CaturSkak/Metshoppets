@@ -771,8 +771,7 @@
         </div>
     </div>
     <!-- Product Section End -->
-
-    <!-- Banner Section Start -->
+   <!-- Banner Section Start -->
     <div class="section section-margin">
 
         <div class="container">
@@ -801,6 +800,7 @@
 
     </div>
     <!-- Banner Section End -->
+ 
 
     <!-- Product Deal Section Start -->
     <div class="section">
