@@ -104,7 +104,7 @@
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingTwo">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Menjodohkan Hewan Di MetShopPet's</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="ti-plus"></i><i class="ti-minus"></i>Apa ketentuan untuk Menjodohkan Hewan Di MetShopPet's</button>
                                 </div>
                                 <div id="collapseTwo" class="collapse accordion-collapse border-0" aria-labelledby="headingTwo" data-bs-parent="#accordionExample2">
                                     <div class="card-body">
@@ -114,17 +114,17 @@
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingThree">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Login/Register</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="ti-plus"></i><i class="ti-minus"></i>Ketentuan Login/Register</button>
                                 </div>
                                 <div id="collapseThree" class="collapse accordion-collapse border-0" aria-labelledby="headingThree" data-bs-parent="#accordionExample2">
                                     <div class="card-body">
-                                        <p>Untuk Login/Register Kamu tinggal menu Halaman atau ke menu Belanja lalu klik login/Register.</p>
+                                        <p>Apa Ketentuan untuk Login/Register Kamu tinggal menu Halaman atau ke menu Belanja lalu klik login/Register.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card_dipult accordion-item">
                                 <div class="card-header card_accor" id="headingfour">
-                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"><i class="ti-plus"></i><i class="ti-minus"></i>Untuk Hubungi atau melihat lokasi toko kami</button>
+                                    <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"><i class="ti-plus"></i><i class="ti-minus"></i>Bagaimana Hubungi atau melihat lokasi toko kami</button>
                                 </div>
                                 <div id="collapseFour" class="collapse accordion-collapse border-0" aria-labelledby="headingfour" data-bs-parent="#accordionExample2">
                                     <div class="card-body">

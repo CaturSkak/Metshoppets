@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Compare</h2>
+                        <h2 class="breadcrumb-title">Perbanding</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Compare</li>
+                            <li><a href="index.html">Beranda</a></li>
+                            <li>Perbanding</li>
                         </ul>
                     </div>
                 </div>
@@ -35,31 +35,31 @@
                             <table class="table table-bordered mb-0">
                                 <tbody>
                                     <tr>
-                                        <td class="first-column">Product</td>
+                                        <td class="first-column">Produk</td>
                                         <td class="product-image-title">
                                             <a href="single-product.html" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Compare Product">
+                                                <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Compare Product">
                                             </a>
-                                            <a href="#/" class="category mb-1">Rabbit</a>
-                                            <a href="single-product.html" class="title">Rabbits are small mammals</a>
+                                            <a href="#/" class="category mb-1">Reptil</a>
+                                            <a href="single-product.html" class="title">Iguana Hijau</a>
                                         </td>
                                         <td class="product-image-title">
                                             <a href="single-product.html" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Compare Product">
+                                                <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau Albino.png" alt="Compare Product">
                                             </a>
-                                            <a href="#/" class="category mb-1">Popinjay</a>
-                                            <a href="single-product.html" class="title">A Wooden Parrot</a>
+                                            <a href="#/" class="category mb-1">Reptil</a>
+                                            <a href="single-product.html" class="title">Iguana Hijau Albino</a>
                                         </td>
                                         <td class="product-image-title">
                                             <a href="single-product.htmll" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Compare Product">
+                                                <img class="fit-image" src="assets/images/products/medium-product/red bearded.png" alt="Compare Product">
                                             </a>
-                                            <a href="#/" class="category mb-1">Dog</a>
-                                            <a href="single-product.html" class="title">Variable Belgian Sheepdog</a>
+                                            <a href="#/" class="category mb-1">Reptil</a>
+                                            <a href="single-product.html" class="title">Bearded Dragon Super Red</a>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td class="first-column">Description</td>
+                                        <td class="first-column">Deskripsi</td>
                                         <td class="pro-desc">
                                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident nulla, explicabo iste a rerum pariatur.</p>
                                         </td>
@@ -71,28 +71,28 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td class="first-column">Price</td>
-                                        <td class="pro-price">$95</td>
-                                        <td class="pro-price">$75</td>
-                                        <td class="pro-price">$60</td>
+                                        <td class="first-column">Harga</td>
+                                        <td class="pro-price">Rp.500.000</td>
+                                        <td class="pro-price">Rp.4.800.000</td>
+                                        <td class="pro-price">Rp.2.000.000</td>
                                     </tr>
                                     <tr>
-                                        <td class="first-column">Size</td>
+                                        <td class="first-column">Ukuran</td>
                                         <td class="pro-color">Medium</td>
-                                        <td class="pro-color">Small</td>
-                                        <td class="pro-color">Large</td>
+                                        <td class="pro-color">Medium</td>
+                                        <td class="pro-color">Kecil</td>
                                     </tr>
                                     <tr>
                                         <td class="first-column">Stock</td>
-                                        <td class="pro-stock">In Stock</td>
-                                        <td class="pro-stock">Stock Out</td>
-                                        <td class="pro-stock">In Stock</td>
+                                        <td class="pro-stock">Tersedia</td>
+                                        <td class="pro-stock">Habis</td>
+                                        <td class="pro-stock">Pre Order</td>
                                     </tr>
                                     <tr>
-                                        <td class="first-column">Add to cart</td>
-                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0">Add to Cart</a></td>
-                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0 disabled">Add to Cart</a></td>
-                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0">Add to Cart</a></td>
+                                        <td class="first-column">Tambah ke keranjang</td>
+                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0">Tambah ke keranjang</a></td>
+                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0 disabled">Tambah ke keranjang</a></td>
+                                        <td><a href="cart.html" class="btn btn-dark btn-hover-primary rounded-0">Tambah ke keranjang</a></td>
                                     </tr>
                                     <tr>
                                         <td class="first-column">Rating</td>
@@ -125,7 +125,7 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td class="first-column">Remove</td>
+                                        <td class="first-column">Hapus</td>
                                         <td class="pro-remove">
                                             <button><i class="ti-trash"></i></button>
                                         </td>

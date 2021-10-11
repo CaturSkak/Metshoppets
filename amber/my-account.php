@@ -150,7 +150,7 @@
                                             <h3 class="title">Alamat</h3>
                                             <address>
                                                 <p><strong>Alex Aya</strong></p>
-                                                <p>Jl.Diponegoro No.65A Karang Ploso Malang</p>
+                                                <p>Perum Permata Regency 1 Blok 10/28, Perun Gpa, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</p>
                                                 <p>Telepon: 082229434533</p>
                                             </address>
                                             <a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-edit me-2"></i>Edit Alamat</a>
@@ -187,16 +187,16 @@
                                                         <input type="email" id="email" placeholder="Email Address" />
                                                     </div>
                                                     <fieldset>
-                                                        <legend>Password change</legend>
+                                                        <legend>Ubah Password</legend>
                                                         <div class="single-input-item mb-3">
-                                                            <label for="current-pwd" class="required mb-2">Current Password</label>
-                                                            <input type="password" id="current-pwd" placeholder="Current Password" />
+                                                            <label for="current-pwd" class="required mb-2">Password Lama</label>
+                                                            <input type="password" id="current-pwd" placeholder="password lama" />
                                                         </div>
                                                         <div class="row mb-n3">
                                                             <div class="col-lg-6">
                                                                 <div class="single-input-item mb-3">
-                                                                    <label for="new-pwd" class="required mb-2">New Password</label>
-                                                                    <input type="password" id="new-pwd" placeholder="New Password" />
+                                                                    <label for="new-pwd" class="required mb-2">Password Baru</label>
+                                                                    <input type="password" id="new-pwd" placeholder="password baru" />
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-6">
