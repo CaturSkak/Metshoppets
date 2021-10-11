@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Showing 1–12 of 39 results</span>
+                                <span>Terlihat 1–12 of 36 Hasil</span>
                             </div>
 
                         </div>
@@ -124,7 +124,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/Tokek.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -307,7 +307,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/caiman.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -615,11 +615,11 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item"><a class="page-link active" href="#/">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">3</a></li>
+                                    <li class="page-item"><a class="page-link active" href="shop-left-sidebar.php">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop-left-sidebar2.php">2</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop-left-sidebar3.php">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="#/" aria-label="Next">
+                                        <a class="page-link rounded-0" href="shop-left-sidebar2.php" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
                                     </li>
