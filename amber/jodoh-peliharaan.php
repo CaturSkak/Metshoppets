@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Hewan Peliharaan</h2>
+                        <h2 class="breadcrumb-title">Penginapan Red Dors</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Hewan Peliharan</li>
@@ -84,7 +84,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Kucing Persia Jantan</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star-o"></i>
                                             <i class="fa fa-star-o"></i>
