@@ -277,13 +277,50 @@
                                         </div>
                                         <!-- Cart Product Total End -->
 
-                                        <!-- Cart Product Button Start -->
-                                        <div class="cart-product-btn mt-4">
-                                            
-                                            <a href="cart.php" class="btn btn-outline-light btn-hover-primary w-100">Lihat Keranjang</a>
-                                            <a href="checkout.php" class="btn btn-outline-light btn-hover-primary w-100 mt-4">Pesan</a>
-                                        </div>
-                                        <!-- Cart Product Button End -->
+
+
+<!-- Payment Accordion Order Button Start -->
+                        <div class="payment-accordion-order-button">
+                            <div class="payment-accordion">
+                                 <div class="single-payment">
+                                    <h5 class="panel-title mb-3">
+                                        <a class=" btn btn-outline-light btn-hover-primary w-100 collapse-off" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample-2">
+                                            Liat Keranjang
+                                        </a>
+                                    </h5>
+                                    <div class="collapse" id="collapseExample">
+                        <div  >
+
+                                <div class="card-body shadow-sm rounded d-flex mb-3" >
+                              
+                                <a href="cart.php" class=" btn btn-outline-light btn-hover-primary w-100 "> Keranjang Pembelian</a> 
+                                
+                                
+                            </div>
+
+                                            <div class="card-body shadow-sm rounded d-flex mb-3" >
+                              
+                                    
+                              <a href= "keranjangjodoh.php" class=" btn btn-outline-light btn-hover-primary w-100 "> Keranjang Jodoh</a> 
+                                
+                            </div>
+                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-payment">
+                                    <h5 class="panel-title mb-3">
+                                        <a class="btn btn-outline-light btn-hover-primary w-100 collapse-off"  href="checkout.php" >
+                                            Pesan
+                                        </a>
+                                    </h5>
+                                    
+                                       
+                                </div>
+                                
+
+                        </div>
+                        <!-- Payment Accordion Order Button End -->
+
 
                                     </div>
                                     <!-- Header Cart Content End -->

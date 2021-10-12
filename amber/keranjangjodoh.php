@@ -109,7 +109,7 @@
 
                         <!-- Cart Button left Side Start -->
                         <div class="cart-btn-lef-side mb-4">
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Belanja Lagi</a>
+                            <a href="jodoh-peliharaan.php" class="btn btn btn-gray-deep btn-hover-primary">Cari Lagi</a>
                             <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Perbarui daftar Keranjang</a>
                         </div>
                         <!-- Cart Button left Side End -->
@@ -166,7 +166,7 @@
                         <!-- Cart Calculate Items End -->
 
                         <!-- Cart Checktout Button Start -->
-                        <a href="checkout.php" class="btn btn btn-gray-deep btn-hover-primary mt-6">Proses Pembelian</a>
+                        <a href="checkoutjodoh.php" class="btn btn btn-gray-deep btn-hover-primary mt-6">Proses Pemesanan</a>
                         <!-- Cart Checktout Button End -->
 
                     </div>
