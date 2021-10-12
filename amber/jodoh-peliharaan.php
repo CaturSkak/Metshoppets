@@ -187,7 +187,7 @@
                                             <i class="fa fa-star-half-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.45.000/Hari</span>
+                                            <span class="new">Rp.35.000/Hari</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
