@@ -613,13 +613,13 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item"><a class="page-link active" href="shop-right-sidebar.php">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="shop-right-sidebar2.php">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="shop-right-sidebar3.php">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="#/" aria-label="Next">
-                                            <span aria-hidden="true">&raquo;</span>
+                                            <a class="page-link rounded-0" href="shop-right-sidebar2.php" aria-label="Previous">
+                                            <span aria-hidden="true">&laquo;</span>
                                         </a>
+                                    <li class="page-item"><a class="page-link" href="shop-right-sidebar.php">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop-right-sidebar2.php">2</a></li>
+                                    <li class="page-item"><a class="page-link active" href="shop-right-sidebar3.php">3</a></li>
                                     </li>
                                 </ul>
                             </nav>
