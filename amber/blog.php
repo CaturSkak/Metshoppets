@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Blog Grid</h2>
+                        <h2 class="breadcrumb-title">Artikel</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Blog Grid</li>
+                            <li>Artikel</li>
                         </ul>
                     </div>
                 </div>
