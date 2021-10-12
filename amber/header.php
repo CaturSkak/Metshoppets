@@ -117,7 +117,7 @@
                                                     <li><a href="login.php">Masuk | Daftar</a></li>
                                                     <li><a href="wishlist.php">Daftar Keinginan</a></li>
                                                     <li><a href="cart.php">Keranjang</a></li>
-                                                    <li><a href="checkout.php">Checkout</a></li>
+                                                    <li><a href="checkout.php">Pesan</a></li>
                                                     <li><a href="compare.php">Perbanding</a></li>
                                                 </ul>
                                             </li>

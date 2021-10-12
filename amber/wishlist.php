@@ -32,45 +32,45 @@
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
-                                    <th class="pro-thumbnail">Image</th>
-                                    <th class="pro-title">Product</th>
-                                    <th class="pro-price">Price</th>
-                                    <th class="pro-stock">Stock Status</th>
-                                    <th class="pro-cart">Add to Cart</th>
-                                    <th class="pro-remove">Remove</th>
+                                    <th class="pro-thumbnail">Preview</th>
+                                    <th class="pro-title">Produk</th>
+                                    <th class="pro-price">Harga</th>
+                                    <th class="pro-stock">Status Stok</th>
+                                    <th class="pro-cart">Tambah ke keranjang</th>
+                                    <th class="pro-remove">Hapus</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/small-product/6.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Learn About Fish Farming</a></td>
-                                    <td class="pro-price"><span>$95.00</span></td>
-                                    <td class="pro-stock"><span>In Stock</span></td>
-                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Add to Cart</a></td>
+                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="single-product.html">Anjing Shiba Inu</a></td>
+                                    <td class="pro-price"><span>Rp.6.000.000</span></td>
+                                    <td class="pro-stock"><span>Tersedia</span></td>
+                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Tambah ke keranjang</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/small-product/5.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Basic Birds Food</a></td>
-                                    <td class="pro-price"><span>$75.00</span></td>
-                                    <td class="pro-stock"><span>In Stock</span></td>
-                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Add to Cart</a></td>
+                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="single-product.html">Kucing Persia Asli</a></td>
+                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
+                                    <td class="pro-stock"><span>Tersedia</span></td>
+                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Tambah ke keranjang</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/small-product/3.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Dog Trainning Center</a></td>
-                                    <td class="pro-price"><span>$95.00</span></td>
-                                    <td class="pro-stock"><span>In Stock</span></td>
-                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Add to Cart</a></td>
+                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="single-product.html">Iguana Hijau</a></td>
+                                    <td class="pro-price"><span>Rp.500.000</span></td>
+                                    <td class="pro-stock"><span>Tersedia</span></td>
+                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark">Tambah ke keranjang</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/small-product/4.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Animal Rescue Center</a></td>
-                                    <td class="pro-price"><span>$30.00</span></td>
-                                    <td class="pro-stock"><span>Stock Out</span></td>
-                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark disabled">Add to Cart</a></td>
+                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/medium-product/muckin.jpeg" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="single-product.html">Kucing Muckin Kitten</a></td>
+                                    <td class="pro-price"><span>Rp.900.000</span></td>
+                                    <td class="pro-stock"><span>Habis</span></td>
+                                    <td class="pro-cart"><a href="cart.html" class="btn btn-primary btn-hover-dark disabled">Tambah ke keranjang</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                             </tbody>

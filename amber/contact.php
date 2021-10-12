@@ -85,7 +85,7 @@
                     </div>
                     <!-- Section Title End -->
                     <div class="contact-content">
-                        <p>Jika Anda kebingungan Bisa langsung datang ke toko kami, tlp atau kirim melalui email yang ada dibawah ini.</p>
+                        <p>Jika Anda kebingungan Bisa langsung datang ke toko kami, Hubungi Customer Service kami atau kirim melalui email yang ada dibawah ini.</p>
                         <address class="contact-block">
                             <ul>
                                 <li><i class="fa fa-fax"></i> Perum Permata Regency 1 Blok 10/28, Perun Gpa, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</li>
