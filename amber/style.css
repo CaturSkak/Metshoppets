@@ -159,13 +159,13 @@ img {
     padding: 36px 0px;
 }
 .logo-title {
-  background: rgba(0, 0, 0, 0) url("images/logo-invert.png") no-repeat scroll center center;
+  background: rgba(0, 0, 0, 0) url("assets/images/logo/loogooo.png") no-repeat scroll center center;
   color: #ffffff;
   font-size: 45px;
   font-weight: bold;
   margin: 0 auto;
   text-indent: -999em;
-  width: 200px;
+  width: 300px;
 }
 .logo-caption {
     font-size: 13px;

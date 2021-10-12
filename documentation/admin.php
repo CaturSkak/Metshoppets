@@ -4,9 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>MetShop Pet's - Administrator</title>
+  <title>Amber - Pet Care Bootstrap 5 Template</title>
   <!-- Favicon icon -->
-  <link rel="icon" type="image/x-icon" href="assets/images/logo.png" />
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
   <link rel="stylesheet" href="assets/jquery.fancybox.min.css" />
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="assets/bootstrap.min.css" />
