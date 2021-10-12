@@ -84,7 +84,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -131,7 +131,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -154,7 +154,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -173,7 +173,7 @@
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -196,7 +196,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -218,7 +218,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
 
@@ -245,7 +245,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -267,7 +267,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -290,7 +290,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -312,7 +312,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -335,7 +335,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -354,7 +354,7 @@
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -377,7 +377,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -399,7 +399,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" title="Quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -422,7 +422,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -441,7 +441,7 @@
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -464,7 +464,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -486,7 +486,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -509,7 +509,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -531,7 +531,7 @@
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" title="Quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -554,7 +554,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -573,7 +573,7 @@
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
@@ -596,7 +596,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -1013,7 +1013,7 @@
                                     <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
                                     <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
                                     <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
+                                    <li><a href="wishlistjodoh.php">Wishlist</a></li>
                                     <li><a href="cart.html">Shopping Cart</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
                                     <li><a href="compare.html">Compare</a></li>
