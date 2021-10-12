@@ -47,18 +47,7 @@
                                 <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
                                     <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/5.png">
-                                    <img class="w-100" src="assets/images/products/large-product/5.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/6.png">
-                                    <img class="w-100" src="assets/images/products/large-product/6.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/7.png">
-                                    <img class="w-100" src="assets/images/products/large-product/7.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/8.png">
-                                    <img class="w-100" src="assets/images/products/large-product/8.png" alt="Product">
-                                </a>
+                             
 
                             </div>
                         </div>
@@ -130,6 +119,7 @@
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
                             <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
+                             <span class="old-price"><del>Rp.45.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
 
@@ -148,7 +138,7 @@
 
                         <!-- Description Start -->
                         <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
-                        <p>Jantan Dan Betina Ada</p>
+                        <p>Jantan</p>
                         <p>Umur 3-4 Bulan</p>
                         <p>No Kutu No Jamur</p>
                         <p>No Cacat</p>
@@ -156,7 +146,6 @@
                         <p>Linca Dan Pinter</p>
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
 
-                        <p>Untuk melihat video bisa chat via WhatsApp 0852-1411-4448</p>
 
                         <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
                         <!-- Description End -->
@@ -465,7 +454,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -481,7 +470,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora Asli</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -506,7 +495,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                                 </a>
                                                 <div class="action-wrapper">
@@ -519,7 +508,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora mix Persia</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora mix Persia</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -543,7 +532,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -559,7 +548,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Mainecoon</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Mainecoon</a></h5>
                                                 <span class="rating">
                                                          <i class="fa fa-star"></i>
                                                          <i class="fa fa-star"></i>
@@ -584,7 +573,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -600,7 +589,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Alasakan Malamute</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Anjing Alasakan Malamute</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -625,7 +614,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -641,7 +630,7 @@
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Siberian Husky</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Anjing Siberian Husky</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -883,7 +872,7 @@
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="liathewanjodoh.php">Single Product</a></li>
                                     <li><a href="single-product-sale.php">Single Product Sale</a></li>
                                     <li><a href="single-product-group.php">Single Product Group</a></li>
                                     <li><a href="single-product-normal.php">Single Product Normal</a></li>

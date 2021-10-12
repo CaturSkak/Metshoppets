@@ -826,21 +826,20 @@
                             <!-- Single Product Image Start -->
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
-                                    <a class="swiper-slide" href="#">
-                                        <img class="w-100" src="assets/images/products/large-product/1.png" alt="Product">
-                                    </a>
-                                    <a class="swiper-slide" href="#">
-                                        <img class="w-100" src="assets/images/products/large-product/2.png" alt="Product">
-                                    </a>
-                                    <a class="swiper-slide" href="#">
-                                        <img class="w-100" src="assets/images/products/large-product/3.png" alt="Product">
-                                    </a>
-                                    <a class="swiper-slide" href="#">
-                                        <img class="w-100" src="assets/images/products/large-product/4.png" alt="Product">
-                                    </a>
-                                    <a class="swiper-slide" href="#">
-                                        <img class="w-100" src="assets/images/products/large-product/5.png" alt="Product">
-                                    </a>
+                                    
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/persia.png">
+                                    <img class="w-100" src="assets/images/products/medium-product/persia.png" alt="Product">
+                                 <a class="swiper-slide w-100" href="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                </a>
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/735_5.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                </a>
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
+                                </a>
+
+                                
                                 </div>
 
                                 <!-- Swiper Pagination Start -->
@@ -882,48 +881,58 @@
                             <!-- Price Box Start -->
                             <div class="price-box mb-2">
                                 <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>&nbsp;&nbsp;
-                                <span class="old-price"><del>Rp.45.000 Hari</span>
+                                <span class="old-price"><del>Rp.45.000 / Hari</span>
                             </div>
                             <!-- Price Box End -->
 
                             <!-- SKU Start -->
                             <div class="sku mb-3">
-                                <span>SKU: 12345</span>
+                                <span>Hewan Peliharaan</span>
                             </div>
                             <!-- SKU End -->
 
                             <!-- Product Inventory Start -->
-                            <div class="product-inventroy mb-3">
-                                <span class="inventroy-title"> <strong>Availability:</strong></span>
-                                <span class="inventory-varient">12 Left in Stock</span>
-                            </div>
-                            <!-- Product Inventory End -->
+                        <div class="product-inventroy mb-3">
+                            <span class="inventroy-title"> <strong>Info :</strong></span>
+                            <span class="inventory-varient">Tersedia</span>
+                        </div>
+                        <!-- Product Inventory End -->
 
-                            <!-- Description Start -->
-                            <p class="desc-content mb-5">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-                            <!-- Description End -->
+                        <!-- Description Start -->
+                        <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
+                        <p>Jantan</p>
+                        <p>Umur 3-4 Bulan</p>
+                        <p>No Kutu No Jamur</p>
+                        <p>No Cacat</p>
+                        <p>Obat Cacing Rutin</p>
+                        <p>Linca Dan Pinter</p>
+                        <p>Di Jamin Sehat, Sudah Vaksin</p>
+
+
+                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                        <!-- Description End -->
 
                             <!-- Quantity Start -->
-                            <div class="quantity d-flex align-items-center justify-content-start mb-5">
-                                <span class="me-2"><strong>Qty: </strong></span>
-                                <div class="cart-plus-minus">
-                                    <input class="cart-plus-minus-box" value="1" type="text">
-                                    <div class="dec qtybutton"></div>
-                                    <div class="inc qtybutton"></div>
-                                </div>
-                            </div>
-                            <!-- Quantity End -->
+                        <div class="quantity d-flex align-items-center mb-5">
+                            <span class="me-2"><strong>Jumlah : </strong></span>
+                            <div class="cart-plus-minus">
+                                <input class="cart-plus-minus-box" value="1" type="text">
+                                <div class="dec qtybutton"></div>
+                                <div class="inc qtybutton"></div>
+                            </div><strong>&nbsp;&nbsp;Hari</strong>
+                        </div>
+                        <!-- Quantity End -->
 
-                            <!-- Cart Button Start -->
-                            <div class="cart-btn action-btn mb-6">
-                                <div class="action-cart-btn-wrapper d-flex justify-content-start">
-                                    <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
-                                    </div>
-                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                        <!-- Cart Button Start -->
+                        <div class="cart-btn action-btn mb-6">
+                            <div class="action-cart-btn-wrapper d-flex">
+                                <div class="add-to_cart">
+                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="keranjangjodoh.php">Tambah ke  Perjodohan</a>
                                 </div>
+                                <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>
-                            <!-- Cart Button End -->
+                        </div>
+                        <!-- Cart Button End -->
 
                             <!-- Social Shear Start -->
                             <div class="social-share">
@@ -940,9 +949,9 @@
                             <!-- Payment Option Start -->
                             <div class="payment-option mt-4 d-flex justify-content-start">
                                 <span><strong>Payment: </strong></span>
-                                <a href="#">
-                                    <img class="fit-image ms-1" src="assets/images/payment/payment_large.png" alt="Payment Option Image">
-                                </a>
+                                  <a href="#">
+                                <img class="fit-image ms-1" src="assets/images/payment/payment.png" alt="Payment Option Image">
+                            </a>
                             </div>
                             <!-- Payment Option End -->
 
