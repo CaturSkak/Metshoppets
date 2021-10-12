@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Reptil</h2>
+                        <h2 class="breadcrumb-title">Perjodohan Reptil</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Perjodohan Reptil</li>
@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Showing 1–12 of 39 results</span>
+                                <span>Menampilkan 1–12 dari 39 hasil</span>
                             </div>
 
                         </div>
@@ -49,16 +49,16 @@
                         <!-- Shopt Top Bar Right Start -->
                         <div class="shop-top-bar-right">
 
-                            <h4 class="title me-2">Short By: </h4>
+                            <h4 class="title me-2">Urutkan Dari: </h4>
 
                             <div class="shop-short-by">
                                 <select class="nice-select" aria-label=".form-select-sm example">
-                                    <option selected>Short by Default</option>
-                                    <option value="1">Short by Popularity</option>
-                                    <option value="2">Short by Rated</option>
-                                    <option value="3">Short by Latest</option>
-                                    <option value="3">Short by Price</option>
-                                    <option value="3">Short by Price</option>
+                                    <option selected>Urutkan Dari Default</option>
+                                    <option value="1">Urutkan Dari Populeritas</option>
+                                    <option value="2">Urutkan Dari Rating</option>
+                                    <option value="3">Urutkan Dari Terakhir</option>
+                                    <option value="3">Urutkan Dari Harga</option>
+                                    <option value="3">Urutkan Dari Harga</option>
                                 </select>
                             </div>
                         </div>
@@ -96,8 +96,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.4.800.000</span>
-                                    <span class="old">Rp.6.000.000</span>
+                                            <span class="new">Rp.150.000/Hari</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -124,7 +123,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/Tokek.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -142,7 +141,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.800.000</span>
+                                            <span class="new">Rp.15.000/Hari</span>
                                     </span>
                                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
                                     <!-- Cart Button Start -->
@@ -184,7 +183,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.500.000</span>
+                                            <span class="new">Rp.100.000/Hari</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
@@ -233,8 +232,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.3.280.000</span>
-                                    <span class="old">Rp.4.000.000</span>
+                                            <span class="new">Rp.170.000/Hari</span>
+                                    
                                     </span>
                                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
                                     <!-- Cart Button Start -->
@@ -279,8 +278,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
-                                    <span class="old">Rp.2.400.000</span>
+                                            <span class="new">Rp.120.000/Hari</span>
+                                    
                                     </span>
                                     <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
@@ -325,7 +324,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.23.500.000</span>
+                                            <span class="new">Rp.550.000/Hari</span>
                                     </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
@@ -367,7 +366,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.200.000</span>
+                                            <span class="new">Rp.40.000/Hari</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -412,7 +411,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.200.000</span>
+                                            <span class="new">Rp.50.000/Hari</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -454,7 +453,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.300.000</span>
+                                            <span class="new">Rp.60.000/Hari</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.</p>
                                     <!-- Cart Button Start -->
@@ -499,7 +498,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.100.000</span>
+                                            <span class="new">Rp.10.000/Hari</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -544,7 +543,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.800.000</span>
+                                            <span class="new">Rp.70.000/Hari</span>
                                     </span>
                                     <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
                                     <!-- Cart Button Start -->
@@ -586,7 +585,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">Rp.150.000/Hari</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
@@ -637,7 +636,7 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">Cari</h3>
                                 <div class="search-box">
                                     <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
@@ -646,7 +645,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>
@@ -663,31 +662,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Anjing (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Kucing (40)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Kelinci (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Kelinci (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Ular (4)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -730,7 +729,7 @@
                                                 <a href="single-product.html">Chameleon Veiled</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.3.280.000</span>
+                                                    <span class="new">Rp.170.000/Hari</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -757,7 +756,7 @@
                                                 <a href="single-product.html">Iguana Hijau</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.500.000</span>
+                                                    <span class="new">Rp.100.000/Hari</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -784,7 +783,7 @@
                                                 <a href="single-product.html">Bearded Dragon Super Red</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.2.000.000</span>
+                                                    <span class="new">Rp.150.000/Hari</span>
                                             
                                             </span>
                                         </div>
