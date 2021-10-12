@@ -620,7 +620,7 @@
                                 <li class="page-item">
                                         <a class="page-link rounded-0" href="shop.php" aria-label="Previous">
 
-                                        <span aria-hidden="false">&raquo;</span>
+                                        <span aria-hidden="false">&laquo;</span>
                                     </a>
                                     <li class="page-item"><a class="page-link" href="shop.php">1</a></li>
                                     <li class="page-item"><a class="page-link active" href="shop2.php">2</a></li>
