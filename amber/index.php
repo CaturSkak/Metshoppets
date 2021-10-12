@@ -131,7 +131,7 @@
                 <div class="col-12">
                     <ul class="product-tab-nav nav justify-content-center mb-n3 pb-8 title-border-bottom">
                         <li class="nav-item mb-3"><a class="nav-link active" data-bs-toggle="tab" href="#tab-product-all">Produk Terlaris</a></li>
-                        <li class="nav-item mb-3"><a class="nav-link" data-bs-toggle="tab" href="#tab-product-featured">Penjualan</a></li>
+                        <li class="nav-item mb-3"><a class="nav-link" data-bs-toggle="tab" href="#tab-product-all">Penjualan</a></li>
                         <li class="nav-item mb-3"><a class="nav-link" data-bs-toggle="tab" href="#tab-product-all">Favorit Teratas</a></li>
                     </ul>
                 </div>

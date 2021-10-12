@@ -33,7 +33,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/1.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -47,9 +47,9 @@
                                     <li><span>27, Jan, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">How to take care of your fish</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">How to take care of your fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -63,7 +63,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/2.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -77,9 +77,9 @@
                                     <li><span>12, Feb, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Find the male and female fish</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -93,7 +93,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/3.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -107,9 +107,9 @@
                                     <li><span>20, March, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Tips for taking care of dogs</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of dogs</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -123,7 +123,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/4.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -137,9 +137,9 @@
                                     <li><span>24, Jul, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Beginning a Birding Blog</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Beginning a Birding Blog</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -153,7 +153,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/5.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -167,9 +167,9 @@
                                     <li><span>02, Dec, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Start Fish Farming Blog</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Start Fish Farming Blog</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -183,7 +183,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/6.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -197,9 +197,9 @@
                                     <li><span>14, April, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Freshwater Aquarium Fish</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Freshwater Aquarium Fish</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -213,7 +213,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/7.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -227,9 +227,9 @@
                                     <li><span>21, Feb, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Cat Blogs That Help Cats</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Cat Blogs That Help Cats</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -243,7 +243,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/8.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -257,9 +257,9 @@
                                     <li><span>14, Feb, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">The legendary cat behavior</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">The legendary cat behavior</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -273,7 +273,7 @@
 
                         <!-- Blog Thumb Start -->
                         <div class="blog-thumb thumb-effect">
-                            <a class="image" href="blog-details.html">
+                            <a class="image" href="blog-details.php">
                                 <img class="fit-image" src="assets/images/blog/medium-size/9.jpg" alt="Blog Image">
                             </a>
                         </div>
@@ -287,9 +287,9 @@
                                     <li><span>20, March, 2021</span></li>
                                 </ul>
                             </div>
-                            <h2 class="blog-title"><a href="blog-details.html">Tips for taking care of pets</a></h2>
+                            <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of pets</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut...</p>
-                            <a class="more-link" href="blog-details.html">Read More</a>
+                            <a class="more-link" href="blog-details.php">Read More</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -551,7 +551,7 @@
                                     <li><a href="blog.html">Blog</a></li>
                                     <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
                                     <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                    <li><a href="blog-details.php">Blog Details</a></li>
                                     <li><a href="blog-details-sidebar.html">Blog Details Sidebar</a></li>
                                 </ul>
                             </li>
