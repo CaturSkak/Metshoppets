@@ -11,12 +11,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-
-                        <h2 class="breadcrumb-title">Perjodohan Hewan Peliharaan</h2>
-
+                        <h2 class="breadcrumb-title">Reptil</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Perjodohan Hewan Peliharaan</li>
+                            <li>Reptil</li>
                         </ul>
                     </div>
                 </div>
@@ -42,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Menampilkan 1–12 dari 39 hasil</span>
+                                <span>Terlihat 1–12 of 36 Hasil</span>
                             </div>
 
                         </div>
@@ -76,22 +74,20 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau Albino.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
-
-                                <<div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora Asli</a></h5>
-
+                                <div class="content">
+                                    <h5 class="title"><a href="single-product.php">Iguana Hijau Albino</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -100,7 +96,8 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.35.000/Hari</span>
+                                            <span class="new">Rp.4.800.000</span>
+                                    <span class="old">Rp.6.000.000</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -109,7 +106,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -123,29 +120,29 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Tokek.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora mix Persia</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Tokek </a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.30.000/Hari</span>
+                                            <span class="new">Rp.800.000</span>
                                     </span>
                                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
                                     <!-- Cart Button Start -->
@@ -154,7 +151,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -168,26 +165,26 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Persia.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
-                               <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Persia Asli</a></h5>
+                                <div class="content">
+                                    <h5 class="title"><a href="single-product.php">Iguana Hijau</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.35.000/Hari</span>
+                                            <span class="new">Rp.500.000</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
@@ -196,7 +193,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -210,15 +207,15 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
 
@@ -227,16 +224,17 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Mainecoon</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Chameleon Veiled</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.55.000/Hari</span>
+                                            <span class="new">Rp.3.280.000</span>
+                                    <span class="old">Rp.4.000.000</span>
                                     </span>
                                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
                                     <!-- Cart Button Start -->
@@ -245,7 +243,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -259,38 +257,39 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/Chihuahua.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/Ular Albino.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Chihuahua</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Ular Retic Tiger Albino</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.75.000/Hari</span>
+                                            <span class="new">Rp.2.000.000</span>
+                                    <span class="old">Rp.2.400.000</span>
                                     </span>
-                                    <p> as A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
+                                    <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -304,29 +303,29 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/caiman.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Shiba Inu</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Buaya Caiman</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.105.000/Hari</span>
+                                            <span class="new">Rp.23.500.000</span>
                                     </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
@@ -335,7 +334,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -349,17 +348,17 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/kurapan.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Alaskan Malamute</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kura Kura Leher Panjang</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -368,7 +367,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.305.000/Hari</span>
+                                            <span class="new">Rp.200.000</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -377,7 +376,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -391,29 +390,29 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/kurabraz.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" title="Quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Siberian Husky</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kura Kura Brazil</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                        <span class="new">Rp.405.000/Hari</span>
+                                            <span class="new">Rp.200.000</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -422,7 +421,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -436,26 +435,26 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/himalaya.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/rebelson.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Himalaya</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kura Kura Red Belly Nelsoni</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.85.000/Hari</span>
+                                            <span class="new">Rp.300.000</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.</p>
                                     <!-- Cart Button Start -->
@@ -464,7 +463,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -478,29 +477,29 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/rusian blue.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/mabelo.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Kucing Russian Blue</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Ular Mata Belo </a></h5>
                                     <span class="rating">
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">RRp.95.000/Hari</span>
+                                            <span class="new">Rp.100.000</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -509,7 +508,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -523,20 +522,20 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/poddle.png" alt="Product" />
+                                    <a href="single-product.html" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/pitonijo.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" title="Quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.html" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.html" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Poddle</a></h5>
+                                    <h5 class="title"><a href="single-product.html">Ular Python Pohon Hijau</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -545,7 +544,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.155.000/Hari</span>
+                                            <span class="new">Rp.800.000</span>
                                     </span>
                                     <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
                                     <!-- Cart Button Start -->
@@ -554,7 +553,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -568,26 +567,26 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/beagle.png" alt="Product" />
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/red bearded.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                        <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                        <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Beagle</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Bearded Dragon Super Red</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
+                                            <i class="fa fa-star-o"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.150.000/Hari</span>
+                                            <span class="new">Rp.2.000.000</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
@@ -596,7 +595,7 @@
                                             <div class="add-to_cart">
                                                 <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
                                             </div>
-                                            <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                            <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                             <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
                                         </div>
                                     </div>
@@ -616,13 +615,14 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item"><a class="page-link active" href="#/">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="#/" aria-label="Next">
-                                            <span aria-hidden="true">&raquo;</span>
+                                        <a class="page-link rounded-0" href="shop-list-fullwidth2.php" aria-label="Previous">
+                                            <span aria-hidden="true">&laquo;</span>
                                         </a>
+                                    <li class="page-item"><a class="page-link" href="shop-list-fullwidth.php">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop-list-fullwidth2.php">2</a></li>
+                                    <li class="page-item"><a class="page-link active" href="shop-list-fullwidth3.php">3</a></li>
+                                    <li class="page-item">
                                     </li>
                                 </ul>
                             </nav>
@@ -638,7 +638,7 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Cari</h3>
+                                <h3 class="widget-title mb-6">Search</h3>
                                 <div class="search-box">
                                     <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
@@ -647,7 +647,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Kategori</h3>
+                                <h3 class="widget-title mb-6">Categories</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>
@@ -664,31 +664,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Kucing Anggora (2)</label>
+                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Kucing Persia (1)</label>
+                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Kucing Mainecoon (1)</label>
+                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Anjing Shiba inu (1)</label>
+                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Anjing Siberian Husky (1)</label>
+                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -718,8 +718,8 @@
                                         <!-- Product List Thumb Start -->
                                         <div class="product">
                                             <div class="thumb">
-                                                <a href="liathewanjodoh.php" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/kucing.png" alt="Product Image">
+                                                <a href="single-product.html" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -728,10 +728,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="liathewanjodoh.php">Kucing Anggora Asli</a>
+                                                <a href="single-product.html">Chameleon Veiled</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.35.000/Hari</span>
+                                                    <span class="new">Rp.3.280.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -745,8 +745,8 @@
                                         <!-- Product List Thumb Start -->
                                         <div class="product">
                                             <div class="thumb">
-                                                <a href="liathewanjodoh.php" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product Image">
+                                                <a href="single-product.html" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -755,10 +755,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="liathewanjodoh.php">Anjing Shiba Inu</a>
+                                                <a href="single-product.html">Iguana Hijau</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.105.000/Hari</span>
+                                                    <span class="new">Rp.500.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -772,8 +772,8 @@
                                         <!-- Product List Thumb Start -->
                                         <div class="product">
                                             <div class="thumb">
-                                                <a href="liathewanjodoh.php" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/koren.png" alt="Product Image">
+                                                <a href="single-product.html" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -782,10 +782,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="liathewanjodoh.php">Kucing Mainecoon</a>
+                                                <a href="single-product.html">Bearded Dragon Super Red</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.55.000/Hari</span>
+                                                    <span class="new">Rp.2.000.000</span>
                                             
                                             </span>
                                         </div>
@@ -821,20 +821,21 @@
                             <!-- Single Product Image Start -->
                             <div class="swiper-container">
                                 <div class="swiper-wrapper">
-                                    
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/persia.png">
-                                    <img class="w-100" src="assets/images/products/medium-product/persia.png" alt="Product">
-                                 <a class="swiper-slide w-100" href="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/735_5.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/735_5.jpg" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
-                                </a>
-
-                                
+                                    <a class="swiper-slide" href="#">
+                                        <img class="w-100" src="assets/images/products/large-product/1.png" alt="Product">
+                                    </a>
+                                    <a class="swiper-slide" href="#">
+                                        <img class="w-100" src="assets/images/products/large-product/2.png" alt="Product">
+                                    </a>
+                                    <a class="swiper-slide" href="#">
+                                        <img class="w-100" src="assets/images/products/large-product/3.png" alt="Product">
+                                    </a>
+                                    <a class="swiper-slide" href="#">
+                                        <img class="w-100" src="assets/images/products/large-product/4.png" alt="Product">
+                                    </a>
+                                    <a class="swiper-slide" href="#">
+                                        <img class="w-100" src="assets/images/products/large-product/5.png" alt="Product">
+                                    </a>
                                 </div>
 
                                 <!-- Swiper Pagination Start -->
@@ -859,7 +860,7 @@
 
                             <!-- Product Head Start -->
                             <div class="product-head mb-3">
-                                <h2 class="product-title">Kucing Persia Peaknose</h2>
+                                <h2 class="product-title">Single Product Slider</h2>
                             </div>
                             <!-- Product Head End -->
 
@@ -875,59 +876,49 @@
 
                             <!-- Price Box Start -->
                             <div class="price-box mb-2">
-                                <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>&nbsp;&nbsp;
-                                <span class="old-price"><del>Rp.45.000 / Hari</span>
+                                <span class="regular-price">$70.00</span>
+                                <span class="old-price"><del>$85.00</del></span>
                             </div>
                             <!-- Price Box End -->
 
                             <!-- SKU Start -->
                             <div class="sku mb-3">
-                                <span>Hewan Peliharaan</span>
+                                <span>SKU: 12345</span>
                             </div>
                             <!-- SKU End -->
 
                             <!-- Product Inventory Start -->
-                        <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
-                        </div>
-                        <!-- Product Inventory End -->
+                            <div class="product-inventroy mb-3">
+                                <span class="inventroy-title"> <strong>Availability:</strong></span>
+                                <span class="inventory-varient">12 Left in Stock</span>
+                            </div>
+                            <!-- Product Inventory End -->
 
-                        <!-- Description Start -->
-                        <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
-                        <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
-                        <!-- Description End -->
+                            <!-- Description Start -->
+                            <p class="desc-content mb-5">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            <!-- Description End -->
 
                             <!-- Quantity Start -->
-                        <div class="quantity d-flex align-items-center mb-5">
-                            <span class="me-2"><strong>Jumlah : </strong></span>
-                            <div class="cart-plus-minus">
-                                <input class="cart-plus-minus-box" value="1" type="text">
-                                <div class="dec qtybutton"></div>
-                                <div class="inc qtybutton"></div>
-                            </div><strong>&nbsp;&nbsp;Hari</strong>
-                        </div>
-                        <!-- Quantity End -->
-
-                        <!-- Cart Button Start -->
-                        <div class="cart-btn action-btn mb-6">
-                            <div class="action-cart-btn-wrapper d-flex">
-                                <div class="add-to_cart">
-                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="keranjangjodoh.php">Tambah ke  Perjodohan</a>
+                            <div class="quantity d-flex align-items-center justify-content-start mb-5">
+                                <span class="me-2"><strong>Qty: </strong></span>
+                                <div class="cart-plus-minus">
+                                    <input class="cart-plus-minus-box" value="1" type="text">
+                                    <div class="dec qtybutton"></div>
+                                    <div class="inc qtybutton"></div>
                                 </div>
-                                <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>
-                        </div>
-                        <!-- Cart Button End -->
+                            <!-- Quantity End -->
+
+                            <!-- Cart Button Start -->
+                            <div class="cart-btn action-btn mb-6">
+                                <div class="action-cart-btn-wrapper d-flex justify-content-start">
+                                    <div class="add-to_cart">
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.html">Add to cart</a>
+                                    </div>
+                                    <a href="wishlist.html" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                </div>
+                            </div>
+                            <!-- Cart Button End -->
 
                             <!-- Social Shear Start -->
                             <div class="social-share">
@@ -944,9 +935,9 @@
                             <!-- Payment Option Start -->
                             <div class="payment-option mt-4 d-flex justify-content-start">
                                 <span><strong>Payment: </strong></span>
-                                  <a href="#">
-                                <img class="fit-image ms-1" src="assets/images/payment/payment.png" alt="Payment Option Image">
-                            </a>
+                                <a href="#">
+                                    <img class="fit-image ms-1" src="assets/images/payment/payment_large.png" alt="Payment Option Image">
+                                </a>
                             </div>
                             <!-- Payment Option End -->
 
@@ -1013,7 +1004,7 @@
                                     <li><a href="shop-list-fullwidth.html">Shop List Fullwidth</a></li>
                                     <li><a href="shop-list-left-sidebar.html">Shop List Left Sidebar</a></li>
                                     <li><a href="shop-list-right-sidebar.html">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlistjodoh.php">Wishlist</a></li>
+                                    <li><a href="wishlist.html">Wishlist</a></li>
                                     <li><a href="cart.html">Shopping Cart</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
                                     <li><a href="compare.html">Compare</a></li>
@@ -1022,7 +1013,7 @@
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="liathewanjodoh.php">Single Product</a></li>
+                                    <li><a href="single-product.html">Single Product</a></li>
                                     <li><a href="single-product-sale.html">Single Product Sale</a></li>
                                     <li><a href="single-product-group.html">Single Product Group</a></li>
                                     <li><a href="single-product-normal.html">Single Product Normal</a></li>

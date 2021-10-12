@@ -9,10 +9,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Lihat Produk</h2>
+                        <h2 class="breadcrumb-title">Lihat Hewan Perjodohan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Hewan Peliharaan</li>
+                            <li>Lihat Hewan Perjodohan</li>
                         </ul>
                     </div>
                 </div>
@@ -47,18 +47,7 @@
                                 <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
                                     <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/5.png">
-                                    <img class="w-100" src="assets/images/products/large-product/5.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/6.png">
-                                    <img class="w-100" src="assets/images/products/large-product/6.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/7.png">
-                                    <img class="w-100" src="assets/images/products/large-product/7.png" alt="Product">
-                                </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/large-product/8.png">
-                                    <img class="w-100" src="assets/images/products/large-product/8.png" alt="Product">
-                                </a>
+                             
 
                             </div>
                         </div>
@@ -129,7 +118,8 @@
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.5.000.000</span>
+                            <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
+                             <span class="old-price"><del>Rp.45.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
 
@@ -148,7 +138,7 @@
 
                         <!-- Description Start -->
                         <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
-                        <p>Jantan Dan Betina Ada</p>
+                        <p>Jantan</p>
                         <p>Umur 3-4 Bulan</p>
                         <p>No Kutu No Jamur</p>
                         <p>No Cacat</p>
@@ -156,7 +146,6 @@
                         <p>Linca Dan Pinter</p>
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
 
-                        <p>Untuk melihat video bisa chat via WhatsApp 0852-1411-4448</p>
 
                         <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
                         <!-- Description End -->
@@ -168,7 +157,7 @@
                                 <input class="cart-plus-minus-box" value="1" type="text">
                                 <div class="dec qtybutton"></div>
                                 <div class="inc qtybutton"></div>
-                            </div>
+                            </div><strong>&nbsp;&nbsp;Hari</strong>
                         </div>
                         <!-- Quantity End -->
 
@@ -176,9 +165,9 @@
                         <div class="cart-btn action-btn mb-6">
                             <div class="action-cart-btn-wrapper d-flex">
                                 <div class="add-to_cart">
-                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Masukkan Keranjang</a>
+                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="keranjangjodoh.php">Tambah ke  Perjodohan</a>
                                 </div>
-                                <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>
                         </div>
                         <!-- Cart Button End -->
@@ -231,9 +220,7 @@
                         <li class="nav-item mb-3">
                             <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#connect-3" role="tab" aria-selected="false">Aturan Pengiriman</a>
                         </li>
-                        <li class="nav-item mb-3">
-                            <a class="nav-link" id="review-tab" data-bs-toggle="tab" href="#connect-4" role="tab" aria-selected="false">Opsi</a>
-                        </li>
+                       
                     </ul>
 
                     <div class="tab-content mb-text" id="myTabContent">
@@ -467,7 +454,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -475,15 +462,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="keranjangjodoh.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora Asli</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -492,8 +479,7 @@
                                                         <i class="fa fa-star"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.5.740.000</span>
-                                                <span class="old">Rp.7.000.000</span>
+                                                        <span class="new">Rp.45.000/Hari</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -508,20 +494,20 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                                 </a>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="keranjangjodoh.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Anggora mix Persia</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora mix Persia</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -530,7 +516,7 @@
                                                         <i class="fa fa-star-half-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.4.000.000</span>
+                                                        <span class="new">Rp.30.000/Hari</span>
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -545,7 +531,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -553,15 +539,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="keranjangjodoh.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Kucing Mainecoon</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Kucing Mainecoon</a></h5>
                                                 <span class="rating">
                                                          <i class="fa fa-star"></i>
                                                          <i class="fa fa-star"></i>
@@ -570,8 +556,8 @@
                                                          <i class="fa fa-star"></i>             
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.14.760.000</span>
-                                            <span class="old">Rp.18.000.000</span>
+                                                        <span class="new">Rp.55.000/Hari</span>
+                                            
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -586,7 +572,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -594,15 +580,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="keranjangjodoh.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Alasakan Malamute</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Anjing Alasakan Malamute</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -611,7 +597,7 @@
                                                         <i class="fa fa-star-o"></i>            
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.15.000.000</span>
+                                                        <span class="new">Rp.305.000/Hari</span>
                                                 
                                                 </span>
                                             </div>
@@ -627,7 +613,7 @@
                                         <div class="product">
                                             <!-- Thumb Start  -->
                                             <div class="thumb">
-                                                <a href="single-product.php" class="image">
+                                                <a href="liathewanjodoh.php" class="image">
                                                     <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
                                                 </a>
                                                 <span class="badges">
@@ -635,15 +621,15 @@
                                                 </span>
                                                 <div class="action-wrapper">
                                                     <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
-                                                    <a href="wishlist.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
-                                                    <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
+                                                    <a href="wishlistjodoh.php" class="action wishlist" title="Wishlist"><i class="ti-heart"></i></a>
+                                                    <a href="keranjangjodoh.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                                 </div>
                                             </div>
                                             <!-- Thumb End  -->
 
                                             <!-- Content Start  -->
                                             <div class="content">
-                                                <h5 class="title"><a href="single-product.php">Anjing Siberian Husky</a></h5>
+                                                <h5 class="title"><a href="liathewanjodoh.php">Anjing Siberian Husky</a></h5>
                                                 <span class="rating">
                                                         <i class="fa fa-star"></i>
                                                         <i class="fa fa-star"></i>
@@ -652,8 +638,8 @@
                                                         <i class="fa fa-star-half-o"></i>
                                                     </span>
                                                 <span class="price">
-                                                        <span class="new">Rp.3.200.000</span>
-                                            <span class="old">Rp.4.000.000</span>
+                                                        <span class="new">Rp.405.000/Hari</span>
+                                            
                                                 </span>
                                             </div>
                                             <!-- Content End  -->
@@ -785,9 +771,9 @@
                             <div class="cart-btn action-btn mb-6">
                                 <div class="action-cart-btn-wrapper d-flex justify-content-start">
                                     <div class="add-to_cart">
-                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="cart.php">Add to cart</a>
+                                        <a class="btn btn-primary btn-hover-dark rounded-0" href="keranjangjodoh.php">Add to cart</a>
                                     </div>
-                                    <a href="wishlist.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
+                                    <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                                 </div>
                             </div>
                             <!-- Cart Button End -->
@@ -876,8 +862,8 @@
                                     <li><a href="shop-list-fullwidth.php">Shop List Fullwidth</a></li>
                                     <li><a href="shop-list-left-sidebar.php">Shop List Left Sidebar</a></li>
                                     <li><a href="shop-list-right-sidebar.php">Shop List Right Sidebar</a></li>
-                                    <li><a href="wishlist.php">Wishlist</a></li>
-                                    <li><a href="cart.php">Shopping Cart</a></li>
+                                    <li><a href="wishlistjodoh.php">Wishlist</a></li>
+                                    <li><a href="keranjangjodoh.php">Shopping Cart</a></li>
                                     <li><a href="checkout.php">Checkout</a></li>
                                     <li><a href="compare.php">Compare</a></li>
                                 </ul>
@@ -885,7 +871,7 @@
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="liathewanjodoh.php">Single Product</a></li>
                                     <li><a href="single-product-sale.php">Single Product Sale</a></li>
                                     <li><a href="single-product-group.php">Single Product Group</a></li>
                                     <li><a href="single-product-normal.php">Single Product Normal</a></li>
