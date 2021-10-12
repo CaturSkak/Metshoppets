@@ -11,10 +11,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Ikan Hias</h2>
+                        <h2 class="breadcrumb-title">Hewan Peliharaan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Ikan Hias</li>
+                            <li>Hewan Peliharaan</li>
                         </ul>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/koi4.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" /
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
@@ -86,8 +86,8 @@
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Koi Soragoi Ginrin</a></h5>
+                                <<div class="content">
+                                    <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -96,7 +96,8 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.900.000</span>
+                                            <span class="new">Rp.5.740.000</span>
+                                    <span class="old">Rp.7.000.000</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -120,7 +121,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/koi3.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="new">New</span>
@@ -132,16 +133,16 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Koi Chagoi Ginrin </a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kucing Anggora mix Persia</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.600.000</span>
+                                            <span class="new">Rp.4.000.000</span>
                                     </span>
                                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
                                     <!-- Cart Button Start -->
@@ -165,7 +166,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/koi2.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/Persia.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -173,17 +174,17 @@
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Koi Shiro Utsuri</a></h5>
+                               <div class="content">
+                                    <h5 class="title"><a href="single-product.php">Kucing Persia Asli</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.9.500.000</span>
+                                            <span class="new">Rp.5.000.000</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
@@ -207,7 +208,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/koi1.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/koren.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
@@ -223,17 +224,17 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Koi Kohaku</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kucing Mainecoon</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.10.000.000</span>
-                                    <span class="old">Rp.13.000.000</span>
+                                            <span class="new">Rp.14.760.000</span>
+                                    <span class="old">Rp.18.000.000</span>
                                     </span>
                                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
                                     <!-- Cart Button Start -->
@@ -257,7 +258,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/arwana1.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/Chihuahua.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
@@ -269,7 +270,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Arwana Golden Green Pino</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Chihuahua</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -278,10 +279,10 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.3.725.000</span>
-                                    <span class="old">Rp.4.550.000</span>
+                                            <span class="new">Rp.12.800.000</span>
+                                    <span class="old">Rp.16.000.000</span>
                                     </span>
-                                    <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
+                                    <p> as A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
                                         <div class="action-cart-btn-wrapper d-flex">
@@ -303,7 +304,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/manfish.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="new">New</span>
@@ -315,16 +316,16 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Angelfish</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Shiba Inu</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.50.000</span>
+                                            <span class="new">$78.50</span>
                                     </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
@@ -348,7 +349,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/pari1.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/alaskan malamute.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -357,7 +358,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Pari Motoro </a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Alaskan Malamute</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -366,7 +367,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.1.870.000</span>
+                                            <span class="new">Rp.15.000.000</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -390,7 +391,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/pari2.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/siberia husky.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
@@ -402,16 +403,16 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ikan Pari Pearl Albino</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Siberian Husky</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.10.000.000</span>
+                                        <span class="new">Rp.4.000.000</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -435,7 +436,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/rebelson.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/himalaya.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -444,16 +445,16 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Kura Kura Red Belly Nelsoni</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Kucing Himalaya</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.300.000</span>
+                                            <span class="new">Rp.8.000.000</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.</p>
                                     <!-- Cart Button Start -->
@@ -477,7 +478,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/mabelo.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/rusian blue.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-18%</span>
@@ -489,16 +490,17 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Ular Mata Belo </a></h5>
+                                    <h5 class="title"><a href="single-product.html">Kucing Russian Blue</a></h5>
                                     <span class="rating">
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-half-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.100.000</span>
+                                            <span class="new">Rp.9.840.000</span>
+                                    <span class="old">Rp.12.000.000</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -522,7 +524,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.html" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/pitonijo.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/poddle.png" alt="Product" />
                                     </a>
                                     <span class="badges">
                                             <span class="sale">-20%</span>
@@ -534,7 +536,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.html">Ular Python Pohon Hijau</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Poddle</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -543,7 +545,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.800.000</span>
+                                            <span class="new">Rp.6.400.000</span>
+                                    <span class="old">Rp.8.000.000</span>
                                     </span>
                                     <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
                                     <!-- Cart Button Start -->
@@ -567,7 +570,7 @@
                             <div class="product-inner">
                                 <div class="thumb">
                                     <a href="single-product.php" class="image">
-                                        <img class="fit-image" src="assets/images/products/medium-product/red bearded.png" alt="Product" />
+                                        <img class="fit-image" src="assets/images/products/medium-product/beagle.png" alt="Product" />
                                     </a>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -576,16 +579,16 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.php">Bearded Dragon Super Red</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Beagle</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">Rp.5.000.000</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
@@ -614,11 +617,16 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item"><a class="page-link active" href="#/">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">2</a></li>
+                                <li class="page-item">
+                                        <a class="page-link rounded-0" href="shop.php" aria-label="Previous">
+
+                                        <span aria-hidden="false">&laquo;</span>
+                                    </a>
+                                    <li class="page-item"><a class="page-link" href="shop.php">1</a></li>
+                                    <li class="page-item"><a class="page-link active" href="shop2.php">2</a></li>
                                     <li class="page-item"><a class="page-link" href="#/">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="#/" aria-label="Next">
+                                        <a class="page-link rounded-0" href="shop3.php" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
                                     </li>
@@ -662,31 +670,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Kucing Anggora (2)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Kucing Persia (1)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Kucing Mainecoon (1)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Anjing Shiba inu (1)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Anjing Siberian Husky (1)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -717,7 +725,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/kucing.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -726,10 +734,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Chameleon Veiled</a>
+                                                <a href="single-product.html">Kucing Anggora Asli</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.3.280.000</span>
+                                                    <span class="new">Rp.5.740.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -744,7 +752,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -753,10 +761,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Iguana Hijau</a>
+                                                <a href="single-product.html">Anjing Shiba Inu</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.500.000</span>
+                                                    <span class="new">Rp.6.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -771,7 +779,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/koren.png" alt="Product Image">
                                                 </a>
                                             </div>
                                         </div>
@@ -780,10 +788,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Bearded Dragon Super Red</a>
+                                                <a href="single-product.html">Kucing Mainecoon</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.2.000.000</span>
+                                                    <span class="new">Rp.14.760.000</span>
                                             
                                             </span>
                                         </div>

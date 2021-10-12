@@ -11,7 +11,9 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
+
                         <h2 class="breadcrumb-title">Perjodohan Hewan Peliharaan</h2>
+
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Perjodohan Hewan Peliharaan</li>
@@ -86,8 +88,10 @@
                                         <a href="cart.php" class="action cart" title="Cart"><i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
+
                                 <<div class="content">
                                     <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora Asli</a></h5>
+
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>

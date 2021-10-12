@@ -11,10 +11,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Kucing & Anjing</h2>
+                        <h2 class="breadcrumb-title">Hewan Peliharaan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Kucing & Anjing</li>
+                            <li>Hewan Peliharaan</li>
                         </ul>
                     </div>
                 </div>
@@ -536,7 +536,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="single-product.html">Anjing Poddle</a></h5>
+                                    <h5 class="title"><a href="single-product.php">Anjing Poddle</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -617,11 +617,13 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item"><a class="page-link active" href="#/">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="#/" aria-label="Next">
+                                    <li class="page-item"><a class="page-link active" href="shop.php">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop2.php">2</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop3.php">3</a></li>
+                                    <li class="page-item">
+                                        <a class="page-link rounded-0" href="shop2.php" aria-label="Next">
+                                    
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
                                     </li>
