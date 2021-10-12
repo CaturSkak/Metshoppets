@@ -304,7 +304,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 product">
                             <div class="product-inner">
                                 <div class="thumb">
-                                    <a href="liathewanjodoh.php" class="image">
+                                    <a href="liathewanjodohku.php" class="image">
                                         <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                     </a>
                                     <span class="badges">

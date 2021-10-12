@@ -102,7 +102,7 @@
 
                         <!-- Product Head Start -->
                         <div class="product-head mb-3">
-                            <h2 class="product-title">>Anjing Shiba Inu</h2>
+                            <h2 class="product-title">Anjing Shiba Inu</h2>
                         </div>
                         <!-- Product Head End -->
 
