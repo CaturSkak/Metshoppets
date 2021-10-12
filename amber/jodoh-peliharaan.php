@@ -317,7 +317,7 @@
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <h5 class="title"><a href="liathewanjodoh.php">Anjing Shiba Inu</a></h5>
+                                    <h5 class="title"><a href="liathewanjodohku.php">Anjing Shiba Inu</a></h5>
                                     <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>

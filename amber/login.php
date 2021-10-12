@@ -55,7 +55,7 @@
                             <div class="single-input-item mb-3">
                                 <div class="login-reg-form-meta mb-n3">
 
-                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3">Sign In</button>
+                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3"><a href="index.php" >Sign In</a></button>
                                     <a href="#" class="forget-pwd mb-3">Lupa Password?</a>
 
                                 </div>

@@ -65,7 +65,7 @@
                             <!-- Button/Forget Password Start -->
                             <div class="single-input-item">
                                 <div class="login-reg-form-meta mb-n3">
-                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3">Daftar</button>
+                                    <button href="login.php" class="btn btn btn-gray-deep btn-hover-primary mb-3"><a href="login.php" >Daftar</a></button>
                                 </div>
                             </div>
                             <!-- Button/Forget Password End -->
