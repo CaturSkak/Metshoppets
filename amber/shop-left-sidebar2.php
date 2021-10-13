@@ -621,7 +621,7 @@
                                         </a>
                                     <li class="page-item"><a class="page-link" href="shop-left-sidebar.php">1</a></li>
                                     <li class="page-item"><a class="page-link active" href="shop-left-sidebar2.php">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#/">3</a></li>
+                                    <li class="page-item"><a class="page-link" href="shop-left-sidebar3.php">3</a></li>
                                     <li class="page-item">
                                     <a class="page-link rounded-0" href="shop-left-sidebar3.php" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
@@ -667,31 +667,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12"> Iguana (2)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Kura Kura (3)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14"> Ular (3)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Tokek (1)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15"> Buaya (1)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -707,10 +707,8 @@
                                         <li><a href="#/">Burung</a></li>
                                         <li><a href="#/">Anjing</a></li>
                                         <li><a href="#/">Reptil</a></li>
-                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
-                            </div>
                             <div class="widget-list">
                                 <h3 class="widget-title mb-6">Produk Terkini</h3>
                                 <div class="sidebar-body product-list-wrapper mb-n6">

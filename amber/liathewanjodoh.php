@@ -65,21 +65,6 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/products/medium-product/putih.jpg" alt="Product">
                                 </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/4.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/5.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/6.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/7.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/8.png" alt="Product">
-                                </div>
                             </div>
 
                             <!-- Next Previous Button Start -->
@@ -118,8 +103,8 @@
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
-                             <span class="old-price"><del>Rp.45.000 / Hari</span>
+                            <span class="regular-price">Rp.135.000</span><strong>/Hari</strong>
+                             <span class="old-price"><del>Rp.145.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
 
@@ -139,7 +124,7 @@
                         <!-- Description Start -->
                         <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
                         <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
+                        <p>Umur 2-3 Tahun</p>
                         <p>No Kutu No Jamur</p>
                         <p>No Cacat</p>
                         <p>Obat Cacing Rutin</p>
@@ -147,7 +132,7 @@
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
 
 
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                        <p>Melayani Pengiriman Dalam Kota</p>
                         <!-- Description End -->
 
                         <!-- Quantity Start -->
