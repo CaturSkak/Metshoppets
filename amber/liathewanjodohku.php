@@ -116,8 +116,8 @@
 
                         <!-- Product Inventory Start -->
                         <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
+                            <span class="inventroy-title"> <strong>Status &nbsp; : &nbsp; </strong></span>
+                            <span class="btn btn-primary">Sudah dipesan</span>
                         </div>
                         <!-- Product Inventory End -->
 
@@ -145,12 +145,14 @@
                             </div><strong>&nbsp;&nbsp;Hari</strong>
                         </div>
                         <!-- Quantity End -->
+                       
+                         
 
                         <!-- Cart Button Start -->
                         <div class="cart-btn action-btn mb-6">
                             <div class="action-cart-btn-wrapper d-flex">
                                 <div class="add-to_cart">
-                                    <a class="btn btn-primary btn-hover-dark rounded-0" href="keranjangjodoh.php">Tambah ke  Perjodohan</a>
+                                    <a class="btn btn-primary btn-hover-dark rounded-0 disabled" href="keranjangjodoh.php" >Tambah ke  Perjodohan</a>
                                 </div>
                                 <a href="wishlistjodoh.php" title="Wishlist" class="action"><i class="ti-heart"></i></a>
                             </div>

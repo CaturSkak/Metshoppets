@@ -27,9 +27,11 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-13">
-                    <div class="myaccount-tab-menu" role="tablist">
-                        <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>Detail Pesanan</a>
+
+
+                <div class="col-12">
+                <div class="myaccount-tab-menu " >
+
 
                     <div class="cart-table table-responsive">
                         <table class="table table-bordered">
@@ -47,14 +49,19 @@
                                             <p class="mb-1">Total Harga&ensp;&ensp;&ensp;&ensp;&ensp;: Rp.6.000.000</p>
                                             <p class="mb-1">Tanggal &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; : 21 Februari 2021</p>
                                             <p class="mb-1">Status&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: Pending</p>
+                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp;: Belum Lunas</p>
                                             </div>
+
                                         </div>
                                     </div>
                                
                             <!-- Table Head Start -->
 
                             <thead>
-                                <tr><th class="pro-price">Nomor</th>
+
+                                <tr>
+                                    <th class="pro-thumbnails">Nomor</th>
+
                                     <th class="pro-thumbnail">preview</th>
                                     <th class="pro-title">Produk</th>
                                     <th class="pro-price">Harga</th>
@@ -68,7 +75,7 @@
                             <!-- Table Body Start -->
                             <tbody>
                                 <tr>
-                                    <td class="pro-price"><span>1</span></td>
+
                                     <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
                                     <td class="pro-title"><span>Anjing Shiba Inu</span></td>
                                     <td class="pro-price"><span>Rp.6.000.000</span></td>
@@ -76,19 +83,6 @@
                                     <td class="pro-subtotal"><span>Rp.6.000.000</span></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-price"><span>2</span></td>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><span>Kucing Anggora Asli</span></td>
-                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
-                                    <td class="pro-quantity"><span>1</span></td>
-                                    <td class="pro-subtotal"><span>Rp.5.740.000</span></td>
-                                </tr>
-                            
-                            </tbody>
-                            <!-- Table Body End -->
-
-                        </table>
-                    </div>
 
                     <div class="col-lg-6 col-12 mb-4">
 
@@ -140,9 +134,18 @@
 
                             </table>
                        
-                            <div class="order-button-payment">
-                                <button href="pembayaran.php" class="btn btn-primary btn-hover-secondary rounded-50 w-100">Konfirmasi Pesanan</button>
-                            </div>
+                            
+
+                        <!-- Cart Button left Side Start -->
+                        <div class="overflow-hidden">
+                         
+                        </div>
+                        <!-- Cart Button left Side End -->
+
+                        <!-- Cart Button Right Side Start -->
+                        <div class="cart-btn-right-right mb-4">
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a>
+
                         </div>
                         <!-- Payment Accordion Order Button End -->
                     </div>
@@ -166,6 +169,7 @@
 
         </div>
     </div>
+
     <!-- Shopping Cart Section End -->
 
    <?php include 'footer.php'?>
