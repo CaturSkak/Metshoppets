@@ -35,17 +35,17 @@
                         <div class="single-product-img swiper-container product-gallery-top">
                             <div class="swiper-wrapper popup-gallery">
 
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/persia.png">
-                                    <img class="w-100" src="assets/images/products/medium-product/persia.png" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/shiba inu.png">
+                                    <img class="w-100" src="assets/images/products/medium-product/shiba inu.png" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/shiba inu4.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/shiba inu4.jpg" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/735_5.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/shiba inu3.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/shiba inu3.jpg" alt="Product">
                                 </a>
-                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
-                                    <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/shiba inu2.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/shiba inu2.jpg" alt="Product">
                                 </a>
                              
 
@@ -57,28 +57,13 @@
                         <div class="single-product-thumb swiper-container product-gallery-thumbs">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                    <img src="assets/images/products/medium-product/shiba inu2.jpg" alt="Product">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                    <img src="assets/images/products/medium-product/shiba inu3.jpg" alt="Product">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-product/putih.jpg" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/4.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/5.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/6.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/7.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/8.png" alt="Product">
+                                    <img src="assets/images/products/medium-product/shiba inu4.jpg" alt="Product">
                                 </div>
                             </div>
 
@@ -118,8 +103,8 @@
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
-                             <span class="old-price"><del>Rp.45.000 / Hari</span>
+                            <span class="regular-price">Rp.275.000</span><strong>/Hari</strong>
+                             <span class="old-price"><del>Rp.155.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
 
@@ -139,7 +124,7 @@
                         <!-- Description Start -->
                         <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
                         <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
+                        <p>Umur 1-2 Tahun</p>
                         <p>No Kutu No Jamur</p>
                         <p>No Cacat</p>
                         <p>Obat Cacing Rutin</p>
@@ -147,7 +132,7 @@
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
 
 
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                        <p>Melayani Pengiriman Dalam Kota</p>
                         <!-- Description End -->
 
                         <!-- Quantity Start -->
