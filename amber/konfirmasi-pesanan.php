@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Akun Saya</h2>
+                        <h2 class="breadcrumb-title">Daftar Pesanan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Akun Saya</li>
+                            <li>Daftar Pesanan</li>
                         </ul>
                     </div>
                 </div>
@@ -22,222 +22,88 @@
     </div>
     <!-- Breadcrumb Area End -->
 
-    <!-- My Account Section Start -->
+    <!-- Shopping Cart Section Start -->
     <div class="section section-margin">
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-12">
 
-                    <!-- My Account Page Start -->
-                    <div class="myaccount-page-wrapper">
-                        <div class="row">
+                    <!-- Cart Table Start -->
+                    <div class="cart-table table-responsive">
+                        <table class="table table-bordered">
 
-                            <!-- My Account Tab Menu Start -->
-                            <div class="col-lg-3 col-md-4">
-                                <div class="myaccount-tab-menu nav" role="tablist">
-                                    <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>
-                                        Dashboard</a>
-                                    <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pesanan</a>
-                                   
-                                    <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
-                                    <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
-                                    <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i>Detail Akun</a>
-                                    <a href="login.php"><i class="fa fa-sign-out"></i> Logout</a>
-                                </div>
-                            </div>
-                            <!-- My Account Tab Menu End -->
-
-                            <!-- My Account Tab Content Start -->
-                            <div class="col-lg-9 col-md-8">
-                                <div class="tab-content" id="myaccountContent">
-
-                                    <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade show active" id="dashboad" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Dashboard</h3>
-                                            <div class="welcome">
-                                                <p>Halo, <strong>Alex Aya</strong> (Jika Bukan <strong>Aya !</strong><a href="login.php" class="logout"> Logout</a>)</p>
-                                            </div>
-                                            <p class="mb-0">Dari Akun dashboard anda. Anda dapat dengan mudah memeriksa & melihat pesanan terbaru Anda, mengelola alamat pengiriman dan penagihan Anda, serta mengedit kata sandi dan detail akun Anda.</p>
-                                        </div>
-                                    </div>
-                                    <!-- Single Tab Content End -->
-
-                                    <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="orders" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Pesanan</h3>
-                                            <div class="myaccount-table table-responsive text-center">
-                                                <table class="table table-bordered">
-                                                    <thead class="thead-light">
-                                                        <tr>
-                                                            <th>Order</th>
-                                                            <th>Tanggal</th>
-                                                            <th>Status</th>
-                                                            <th>Total</th>
-                                                            <th>Detail</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>21 Feb 2021</td>
-                                                            <td>Pending</td>
-                                                            <td>Rp.6.000.000</td>
-                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>12 Maret 2021</td>
-                                                            <td>Pending</td>
-                                                            <td>Rp.5.740.000</td>
-                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>22 Juli, 2021</td>
-                                                            <td>Approved</td>
-                                                            <td>Rp.2.000.000</td>
-                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>12 Juni, 2019</td>
-                                                            <td>On Hold</td>
-                                                            <td>Rp.1.000.000</td>
-                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Tab Content End -->
-
-                                   
-
-   --
-
-<!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="payment-method" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Metode Pembayaran</h3>
-                                            
-                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1">
+                            <!-- Table Head Start -->
+                            <thead>
+                                <tr>
+                                    <th class="pro-thumbnail">Nomor Faktur</th>
+                                    <th class="pro-title">Nomor Pemesanan</th>
+                                    <th class="pro-price">Harga</th>
+                                    <th class="pro-quantity">Tanggal</th>
+                                    <th class="pro-subtotal">Status</th>
+                                    <th class="pro-remove">Konfirmasi</th>
                                     
-                                <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
-                                
-                            </div>
+                                </tr>
+                            </thead>
+                            <!-- Table Head End -->
 
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
-                                
-                            </div>
+                            <!-- Table Body Start -->
+                            <tbody>
+                                <tr>
+                                    <td class="pro-thumbnail"><a href="#">INV-13241131778</a></td>
+                                    <td class="pro-title"><a href="#">ORDER-11981982998</a></td>
+                                    <td class="pro-price"><span>Rp.6.000.000</span></td>
+                                    <td class="pro-quantity"><span>21 Februari 2021</span></td>
+                                    <td class="pro-subtotal"><span>Pending</span></td>
+                                    <td class="pro-remove"><a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="pro-thumbnail"><a href="#">INV-13241131778</a></td>
+                                    <td class="pro-title"><a href="#">ORDER-11981982998</a></td>
+                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
+                                    <td class="pro-quantity"><span>12 Maret 2021</span></td>
+                                    <td class="pro-subtotal"><span>Pending</span></td>
+                                    <td class="pro-remove"><a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a></td>
+                                </tr>
+                            
+                            </tbody>
+                            <!-- Table Body End -->
 
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
-                                
-                            </div>
-
-                              <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
-                                
-                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Tab Content End -->
-
-                              
-
-                                    <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="address-edit" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Alamat</h3>
-                                            <address>
-                                                <p><strong>Alex Aya</strong></p>
-                                                <p>Perum Permata Regency 1 Blok 10/28, Perun Gpa, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</p>
-                                                <p>Telepon: 082229434533</p>
-                                            </address>
-                                            <a href="#" class="btn btn btn-dark btn-hover-primary rounded-0"><i class="fa fa-edit me-2"></i>Edit Alamat</a>
-                                        </div>
-                                    </div>
-                                    <!-- Single Tab Content End -->
-
-                                    <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade" id="account-info" role="tabpanel">
-                                        <div class="myaccount-content">
-                                            <h3 class="title">Detail akun</h3>
-                                            <div class="account-details-form">
-                                                <form action="#">
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="single-input-item mb-3">
-                                                                <label for="first-name" class="required mb-2">Nama Depan</label>
-                                                                <input type="text" id="first-name" placeholder="Syamsul" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="single-input-item mb-3">
-                                                                <label for="last-name" class="required mb-2">Nama Belakang</label>
-                                                                <input type="text" id="last-name" placeholder="Arifin" />
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="single-input-item mb-3">
-                                                        <label for="display-name" class="required mb-2">Nama Tampilan</label>
-                                                        <input type="text" id="display-name" placeholder="Syamsul" />
-                                                    </div>
-                                                    <div class="single-input-item mb-3">
-                                                        <label for="email" class="required mb-1">Email Addres</label>
-                                                        <input type="email" id="email" placeholder="syamsularifin@gmail.com" />
-                                                    </div>
-                                                    <fieldset>
-                                                        <legend>Ubah Password</legend>
-                                                        <div class="single-input-item mb-3">
-                                                            <label for="current-pwd" class="required mb-2">Password Lama</label>
-                                                            <input type="password" id="current-pwd" placeholder="asadsdadasdad" readonly/>
-                                                        </div>
-                                                        <div class="row mb-n3">
-                                                            <div class="col-lg-6">
-                                                                <div class="single-input-item mb-3">
-                                                                    <label for="new-pwd" class="required mb-2">Password Baru</label>
-                                                                    <input type="password" id="new-pwd" placeholder="password baru" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-lg-6">
-                                                                <div class="single-input-item mb-3">
-                                                                    <label for="confirm-pwd" class="required mb-2">Confirm Password</label>
-                                                                    <input type="password" id="confirm-pwd" placeholder="Confirm Password" />
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </fieldset>
-                                                    <div class="single-input-item single-item-button mt-6">
-                                                        <button class="btn btn btn-primary btn-hover-dark rounded-0">Simpan</button>
-                                                    </div>
-                                                </form>
-                                            </div>
-                                        </div>
-                                    </div> <!-- Single Tab Content End -->
-
-                                </div>
-                            </div>
-                            <!-- My Account Tab Content End -->
-
-                        </div>
+                        </table>
                     </div>
-                    <!-- My Account Page End -->
+                    <!-- Cart Table End -->
+
+                    <!-- Cart Button Start -->
+                    <div class="cart-button-section mb-n4">
+
+                        <!-- Cart Button left Side Start -->
+                        <div class="cart-btn-lef-side mb-4">
+                            <a href="index.php" class="btn btn btn-gray-deep btn-hover-primary">Belanja Lagi</a>
+                        </div>
+                        <!-- Cart Button left Side End -->
+
+                        <!-- Cart Button Right Side Start -->
+                        <div class="cart-btn-right-right mb-4">
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Perbarui daftar Pesanan</a>
+                        </div>
+                        <!-- Cart Button Right Side End -->
+
+                    </div>
+                    <!-- Cart Button End -->
+
+                </div>
+            </div>
+
+            
 
                 </div>
             </div>
 
         </div>
     </div>
-    <!-- My Account Section End -->
+    <!-- Shopping Cart Section End -->
 
-<?php include 'footer.php'?>
+   <?php include 'footer.php'?>
     <!-- Modal Start  -->
     <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">

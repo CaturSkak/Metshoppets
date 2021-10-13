@@ -51,16 +51,16 @@
                         <!-- Shopt Top Bar Right Start -->
                         <div class="shop-top-bar-right">
 
-                            <h4 class="title me-2">Short By: </h4>
+                            <h4 class="title me-2">Urutkan Dari: </h4>
 
                             <div class="shop-short-by">
                                 <select class="nice-select" aria-label=".form-select-sm example">
-                                    <option selected>Short by Default</option>
-                                    <option value="1">Short by Popularity</option>
-                                    <option value="2">Short by Rated</option>
-                                    <option value="3">Short by Latest</option>
-                                    <option value="3">Short by Price</option>
-                                    <option value="3">Short by Price</option>
+                                     <option selected>Urutkan Dari Default</option>
+                                    <option value="1">Urutkan Dari Populeritas</option>
+                                    <option value="2">Urutkan Dari Rating</option>
+                                    <option value="3">Urutkan Dari Terakhir</option>
+                                    <option value="3">Urutkan Dari Harga</option>
+                                    <option value="3">Urutkan Dari Harga</option>
                                 </select>
                             </div>
                         </div>
