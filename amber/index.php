@@ -88,7 +88,7 @@
                         <!-- CTA Content Start -->
                         <div class="cta-content">
                             <h4 class="title">Hubungi Kami</h4>
-                            <p>Customer Support 24 Jam</p>
+                            <p>Pelayanan Pelanggan 24 Jam</p>
                         </div>
                         <!-- CTA Content End -->
 
@@ -984,7 +984,7 @@
                                     <div class="testimonial-thumb text-center">
                                         <img src="assets/images/testimonial/kayes.jpg" alt="Testimonial Image">
                                         <h3 class="thumb-title">Kayess</h3>
-                                        <h6 class="thumb-subtitle">Customer</h6>
+                                        <h6 class="thumb-subtitle">Pelanggan</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -996,7 +996,7 @@
                                     <div class="testimonial-thumb text-center">
                                         <img src="assets/images/testimonial/kucing.png" alt="Testimonial Image">
                                         <h3 class="thumb-title">Fira</h3>
-                                        <h6 class="thumb-subtitle">Customer</h6>
+                                        <h6 class="thumb-subtitle">Pelanggan</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -1008,7 +1008,7 @@
                                     <div class="testimonial-thumb text-center">
                                         <img src="assets/images/testimonial/agustina.jpg" alt="Testimonial Image">
                                         <h3 class="thumb-title">Agustina</h3>
-                                        <h6 class="thumb-subtitle">Customer</h6>
+                                        <h6 class="thumb-subtitle">Pelanggan</h6>
                                     </div>
                                     <!-- Testimonial Thumb End -->
                                 </div>
@@ -1059,13 +1059,13 @@
                         <div class="blog-content">
                             <div class="blog-meta">
                                 <ul>
-                                    <li><span>By</span><a href="#/">Admin</a></li>
-                                    <li><span>27, Jan, 2021</span></li>
+                                    <li><span>Oleh</span><a href="#/">Admin</a></li>
+                                    <li><span>27, Januari, 2021</span></li>
                                 </ul>
                             </div>
                             <h2 class="blog-title"><a href="blog-details.php">Cara Menangani Kucing Kesayangan yang Terkena Diare</a></h2>
                             <p>Halodoc, Jakarta - Diare termasuk masalah kesehatan yang jarang terjadi pada kucing. Namun, jika ini terjadi pada kucing peliharaan kamu, tandanya ia sedang mengalami masalah kesehatan pada pencernaannya. Apabila diare terbilang singkat, kamu tidak perlu khawatir karena biasanya ini terjadi akibat adanya zat pemicu dalam makanan atau minumannya. Ut...</p>
-                            <a class="more-link" href="blog-details.php">Read More</a>
+                            <a class="more-link" href="blog-details.php">Baca Selengkapnya</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1089,13 +1089,13 @@
                         <div class="blog-content">
                             <div class="blog-meta">
                                 <ul>
-                                    <li><span>By</span><a href="#/">Admin</a></li>
-                                    <li><span>12, Feb, 2021</span></li>
+                                    <li><span>Oleh</span><a href="#/">Admin</a></li>
+                                    <li><span>12, Februari, 2021</span></li>
                                 </ul>
                             </div>
                             <h2 class="blog-title"><a href="blog-details2.php">Cara Membedakan Ikan Cupang Jantan dan Betina</a></h2>
                             <p>Jakarta - Ikan cupang mempunyai tampilan yang indah yang membuat banyak orang kecanduan memeliharanya. Namun penampilan ikan ini juga tergantung jenis kelaminnya, apakah ikan cupang jantan atau ikan cupang betina. Perbedaan ikan cupang jantan dengan betina secara penampilan adalah secara penampilan tubuhnya lebih langsing. Ut...</p>
-                            <a class="more-link" href="blog-details2.php">Read More</a>
+                            <a class="more-link" href="blog-details2.php">Baca Selengkapnya</a>
                         </div>
                         <!-- Blog Content End -->
 
@@ -1119,13 +1119,13 @@
                         <div class="blog-content">
                             <div class="blog-meta">
                                 <ul>
-                                    <li><span>By</span><a href="#/">Admin</a></li>
-                                    <li><span>20, March, 2021</span></li>
+                                    <li><span>Oleh</span><a href="#/">Admin</a></li>
+                                    <li><span>20, Maret, 2021</span></li>
                                 </ul>
                             </div>
                             <h2 class="blog-title"><a href="blog-details3.php">Tips merawat anjing peliharaan untuk pemula</a></h2>
                             <p>Selain dikenal sebagai hewan peliharaan yang setia, anjing juga bisa menjadi penjaga rumah yang baik. Banyak yang percaya kalo memelihara anjing bisa meredakan stress dan mengurangi rasa kesepian. Memiliki anjing sebagai hewan peliharaan pun bahkan bisa dijadikan sebagai kebanggaan karena selain lucu, hewan yang satu ini pun juga cerdas lho! Ut...</p>
-                            <a class="more-link" href="blog-details3.php">Read More</a>
+                            <a class="more-link" href="blog-details3.php">Baca Selengkapnya</a>
                         </div>
                         <!-- Blog Content End -->
 
