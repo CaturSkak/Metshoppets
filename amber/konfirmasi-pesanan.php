@@ -139,58 +139,7 @@
                                 <!-- Table Footer End -->
 
                             </table>
-                        </div>
-                        <!-- Your Order Table End -->
-                         <span ><strong>Pilih Opsi Pembayaran</strong></span>
-
-                        <!-- Payment Accordion Order Button Start -->
-                        <div class="payment-accordion-order-button">
-                            <div class="payment-accordion">
-                              
-                        <div class="single-payment">
-                                    <h5 class="panel-title mb-2">
-                                        <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                            Bank Tranfer
-                                        </a>
-                                    </h5>
-                                    <div class="collapse" id="collapseExample">
-                                        <div class="card card-body rounded-0">
-                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                               <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
-                                
-                            </div>
-
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                               <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
-                                
-                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="single-payment">
-                                    <h5 class="panel-title mb-6">
-                                        <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample-2" aria-expanded="false" aria-controls="collapseExample-2">
-                                            Uang Digital
-                                        </a>
-                                    </h5>
-                                    <div class="collapse" id="collapseExample-2">
-                                        <div class="card card-body rounded-0">
-                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio">
-                                    
-                                </input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
-                                
-                            </div>
-
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
-                                
-                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                       
                             <div class="order-button-payment">
                                 <button href="pembayaran.php" class="btn btn-primary btn-hover-secondary rounded-50 w-100">Konfirmasi Pesanan</button>
                             </div>
