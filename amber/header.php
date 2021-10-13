@@ -133,7 +133,7 @@
                                     <li class="has-children">
                                         <a href="#">Halaman</a>
                                         <ul class="sub-menu">
-                                             <li><a href="blog.php">Artikel</a></li>
+                                             <li><a href="blog-left-sidebar.php">Artikel</a></li>
                                             <li><a href="faq.php">FAQ</a></li>
                                             <li><a href="login.php">Masuk</a></li>
                                             <li><a href="register.php">Daftar</a></li>
