@@ -648,48 +648,37 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
-                                <div class="sidebar-body">
-                                    <ul class="sidebar-list">
-                                        <li><a href="#/">Semua Produk</a></li>
-                                        <li><a href="#/">Produk Terlaris (5)</a></li>
-                                        <li><a href="#/">Terlaris (4)</a></li>
-                                        <li><a href="#/">Product Terbaru (6)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="widget-list mb-10">
                                 <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="checkbox-container categories-list">
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Domba (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Ikan Koi  (4)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Sapi (6)</label>
+                                                <label class="custom-control-label" for="customCheck13">Ikan Arwana (2)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Ayam (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Ikan Louhan (1)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Bebek (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Ikan Pari (2)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Angsa (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Ikan Mas (2)</label>
                                             </div>
                                         </li>
                                     </ul>
@@ -701,13 +690,12 @@
                                     <ul class="tags mb-n2">
                                         <li><a href="#/">Kucing</a></li>
                                         <li><a href="#/">Hewan Peliharaan</a></li>
-                                        <li><a href="#/">Persia</a></li>
                                         <li><a href="#/">Burung</a></li>
                                         <li><a href="#/">Anjing</a></li>
                                         <li><a href="#/">Reptil</a></li>
-                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
+
                             </div>
                             <div class="widget-list">
                                 <h3 class="widget-title mb-6">Produk Terkini</h3>
@@ -718,9 +706,9 @@
 
                                         <!-- Product List Thumb Start -->
                                         <div class="product">
-                                            <div class="thumb">
-                                                <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product Image">
+                                        <div class="thumb">
+                                    <a href="single-product.php" class="image">
+                                        <img class="fit-image" src="assets/images/products/medium-product/koi4.png" alt="Product" />
                                                 </a>
                                             </div>
                                         </div>
@@ -729,10 +717,37 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Chameleon Veiled</a>
+                                                <a href="single-product.php">Ikan Koi Soragoi Ginrin</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.3.280.000</span>
+                                                    <span class="new">Rp.900.000</span>
+                                            </span>
+                                        </div>
+                                        <!-- Product List Content End -->
+
+                                    </div>
+                                    <!-- Single Product List End -->
+
+                                    <!-- Single Product List Start -->
+                                    <div class="single-product-list mb-6">
+
+                                        <!-- Product List Thumb Start -->
+                                        <div class="product">
+                                            <div class="thumb">
+                                                <a href="single-product.php" class="image">
+                                                    <img class="fit-image" src="assets/images/products/medium-product/arwana1.png" alt="Product" />
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!-- Product List Thumb End -->
+
+                                        <!-- Product List Content Start -->
+                                        <div class="product-list-content">
+                                            <h6 class="product-name">
+                                                <a href="single-product.html">Ikan Arwana Golden Pino</a>
+                                            </h6>
+                                            <span class="price">
+                                                    <span class="new">Rp.3.725.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -747,7 +762,7 @@
                                         <div class="product">
                                             <div class="thumb">
                                                 <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product Image">
+                                                    <img class="fit-image" src="assets/images/products/medium-product/pari1.png" alt="Product" />
                                                 </a>
                                             </div>
                                         </div>
@@ -756,37 +771,10 @@
                                         <!-- Product List Content Start -->
                                         <div class="product-list-content">
                                             <h6 class="product-name">
-                                                <a href="single-product.html">Iguana Hijau</a>
+                                                <a href="single-product.html">Ikan Pari Motoro</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.500.000</span>
-                                            </span>
-                                        </div>
-                                        <!-- Product List Content End -->
-
-                                    </div>
-                                    <!-- Single Product List End -->
-
-                                    <!-- Single Product List Start -->
-                                    <div class="single-product-list mb-6">
-
-                                        <!-- Product List Thumb Start -->
-                                        <div class="product">
-                                            <div class="thumb">
-                                                <a href="single-product.html" class="image">
-                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/red bearded.png" alt="Product Image">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <!-- Product List Thumb End -->
-
-                                        <!-- Product List Content Start -->
-                                        <div class="product-list-content">
-                                            <h6 class="product-name">
-                                                <a href="single-product.html">Bearded Dragon Super Red</a>
-                                            </h6>
-                                            <span class="price">
-                                                    <span class="new">Rp.2.000.000</span>
+                                                    <span class="new">Rp.1.870.000</span>
                                             
                                             </span>
                                         </div>
