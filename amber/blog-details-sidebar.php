@@ -34,13 +34,13 @@
 
                             <!-- Blog Image Start -->
                             <div class="blog-image">
-                                <img src="assets/images/blog/large-size/1.jpg" alt="Blog Image" class="fit-image">
+                                <img src="assets/images/blog/kucing.jpg" alt="Blog Image" class="fit-image">
                             </div>
                             <!-- Blog Image End -->
 
                             <!-- Blog details title & Meta Start -->
                             <div class="blog-details-title-meta">
-                                <h2 class="title">Temporibus Autem Quibusdam</h2>
+                                <h2 class="title">Cara Menangani Kucing Kesayangan yang Terkena Diare</h2>
                                 <ul class="blog-meta">
                                     <li>By: <a href="#/">Admin</a> <span>27 June 2021</span></li>
                                     <li>03 Comments</li>
@@ -49,11 +49,40 @@
                             <!-- Blog details title & Meta End -->
 
                             <!-- Content Start -->
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Halodoc, Jakarta - Diare termasuk masalah kesehatan yang jarang terjadi pada kucing. Namun, jika ini terjadi pada kucing peliharaan kamu, tandanya ia sedang mengalami masalah kesehatan pada pencernaannya. Apabila diare terbilang singkat, kamu tidak perlu khawatir karena biasanya ini terjadi akibat adanya zat pemicu dalam makanan atau minumannya.
+
+                            Sebagian besar kucing domestik mengalami diare karena diberikan susu yang seharusnya dikonsumsi oleh manusia. Jadi, jika kamu mendapati kucingmu suka minum susu, sebaiknya berikan susu yang memang dibuat untuk kucing. Harganya mungkin sedikit mahal, tetapi setidaknya tidak membuat kucingmu mengalami diare. .</p>
                             <!-- Blogquote Start -->
-                            <blockquote>Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.</blockquote>
+                            <blockquote>Bagaimana Mengetahui Bahwa Kucing Mengalami Diare?.</blockquote>
                             <!-- Blogquote End -->
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+                            <p>Kotor pada buli bagian belakang, terlebih pada area yang dekat dengan anus pada kucing ras berbulu panjang sering dikaitkan dengan kondisi diare. Meski begitu, kamu juga perlu tahu bahwa perubahan pola makan bisa menjadi penyebab perubahan pada feses kucing.</p>
+                            <!-- Content End -->
+                            <!-- Blogquote Start -->
+                            <blockquote>Penanganan Diare pada Kucing.</blockquote>
+                            <!-- Blogquote End -->
+                            <p>Segera setelah mengetahui bahwa kucing kamu mengalami diare, berikan penanganan segera agar tidak terjadi komplikasi yang lebih serius. Beberapa penanganan rumahan yang bisa kamu coba di antaranya:
+
+                            Ganti Pakan dengan Perlahan
+                            Nyatanya pergantian pakan baru dengan tiba-tiba justru merupakan penyebab diare yang sering tidak diketahui pemilik. Terkadang justru ketika diare kucing akan dipuasakan sementara atau pemberian hanya makanan basah. Biasanya nafsu makan juga berkurang.
+
+                            Untuk memberikan pakan baru, harus dimulai dengan memberi makanan dengan 1/3 sebagian pakan baru dan 2/3 sisanya lagi pakan baru, selama 1-2 hari. Kemudian semakin meningkat jumlah pakan baru selama beberapa hari kemudian. Baru bisa diberikan sepenuhnya pakan yang baru. Tidak kalah pentingnya adalah air karena kucing biasanya susah minum air dan diare bisa menyebabkan dehidrasi. 
+
+                            Pakan yang Mudah Dicerna
+                            Beberapa jenis diare pada kucing biasanya membaik dengan pemberian pakan rendah serat karena lebih mudah dicerna. Ini juga berlaku pada kucing yang tidak sering diare tetapi buang air besar dengan feses yang terbilang banyak. Carilah pakan dengan kadar serat kasar sekitar 3 persen atau dibuat khusus untuk kucing dengan perut sensitif.
+
+                            Berikan Minum dan Larutan Elektrolit
+                            Tidak berbeda dengan manusia, kucing yang mengalami diare perlu mendapatkan asupan cairan yang cukup agar terhindar dari dehidrasi. Kamu bisa memberikan air biasa atau pertimbangkan memberikan kaldu ayam atau sapi sebagai pengganti cairan tubuhnya. 
+
+                            Pertimbangan lainnya adalah memberikan makanan basah. Makanan basah memang memiliki kandungan air lebih banyak dan terkadang lebih disukai kucing ketika sedang merasa kurang sehat. Jika memang diperlukan, kamu bisa menambahkan satu atau dua sendok air putih atau kaldu dalam pakannya. 
+
+
+                            Pertimbangkan Probiotik
+                            Saluran usus kucing juga perlu bakteri yang sehat untuk membuat pencernaannya kembali normal. Terkadang, ketika terjadi gangguan pada saluran ususnya, diare tetap akan berlanjut meski penyebabnya telah ditangani. Pemberian suplemen probiotik bisa membantu mengembalikan populasi bakteri baik pada saluran usus kucing. Jangan lupa, pilih produk yang memang dibuat khusus kucing, ya. Sebelum memberikannya, kamu harus tanya dokter hewan lebih dulu.
+
+                            Berikan Obat Antidiare
+                            Sebagian besar obat antidiare tidak boleh diberikan pada kucing tanpa anjuran dari dokter hewan. Jadi, jika kamu ingin mengatasi diare pada kucing dengan obat, pastikan kamu sudah mendapatkan resep dosis dari dokter. 
+
+                            Selalu amati perubahan yang terjadi pada kucingmu. Jadi, adanya gejala yang tidak biasa bisa segera mendapatkan penanganan. </p>
                             <!-- Content End -->
 
                             <!-- Blog Details Tags & Social Shear Start -->
@@ -62,9 +91,9 @@
                                 <!-- Blog Details Tags Start -->
                                 <div class="blog-details-tag mb-4">
                                     <ul>
-                                        <li><a href="#/">Cat</a></li>
-                                        <li><a href="#/">Dog</a></li>
-                                        <li><a href="#/">Fish</a></li>
+                                        <li><a href="#/">Kucing</a></li>
+                                        <li><a href="#/">Anjing</a></li>
+                                        <li><a href="#/">Ikan</a></li>
                                     </ul>
                                 </div>
                                 <!-- Blog Details Tags End -->
@@ -95,7 +124,7 @@
                                     <img class="fit-image" src="assets/images/blog/small-size/95x95.jpg" alt="Blog Review">
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Catherin Betty</h4>
+                                    <h4 class="title">Julianto</h4>
                                     <ul class="meta">
                                         <li>27 Oct 2021</li>
                                     </ul>
@@ -108,7 +137,7 @@
                                     <img class="fit-image" src="assets/images/blog/small-size/95x95-2.jpg" alt="Blog Review">
                                 </div>
                                 <div class="content">
-                                    <h4 class="title">Alex Due</h4>
+                                    <h4 class="title">Fira</h4>
                                     <ul class="meta">
                                         <li>27 Oct 2021</li>
                                     </ul>
