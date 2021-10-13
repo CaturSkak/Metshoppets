@@ -42,32 +42,32 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Anjing Shiba Inu</a></td>
+                                    <td class="pro-thumbnail"><a href="liathewanjodoh.php"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="liathewanjodoh.php">Anjing Shiba Inu</a></td>
                                     <td class="pro-price"><span>Rp.6.000.000</span></td>
                                     <td class="pro-stock"><span>Sudah di pesan</span></td>
                                     <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark disabled">Tambah ke Keranjang Perjodohan</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Kucing Persia Asli</a></td>
+                                    <td class="pro-thumbnail"><a href="liathewanjodoh.php"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="liathewanjodoh.php">Kucing Persia Asli</a></td>
                                     <td class="pro-price"><span>Rp.5.740.000</span></td>
                                     <td class="pro-stock"><span>Tersedia</span></td>
                                     <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark">Tambah ke Keranjang Perjodohan</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Iguana Hijau</a></td>
+                                    <td class="pro-thumbnail"><a href="liathewanjodoh.php"><img class="fit-image" src="assets/images/products/medium-product/Iguana Hijau.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="liathewanjodoh.php">Iguana Hijau</a></td>
                                     <td class="pro-price"><span>Rp.500.000</span></td>
                                     <td class="pro-stock"><span>Tersedia</span></td>
                                     <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark">Tambah ke Keranjang Perjodohan</a></td>
                                     <td class="pro-remove"><a href="#/"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="single-product.html"><img class="fit-image" src="assets/images/products/medium-product/muckin.jpeg" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="single-product.html">Kucing Muckin Kitten</a></td>
+                                    <td class="pro-thumbnail"><a href="liathewanjodoh.php"><img class="fit-image" src="assets/images/products/medium-product/muckin.jpeg" alt="Product" /></a></td>
+                                    <td class="pro-title"><a href="liathewanjodoh.php">Kucing Muckin Kitten</a></td>
                                     <td class="pro-price"><span>Rp.900.000</span></td>
                                     <td class="pro-stock"><span>Tersedia</span></td>
                                     <td class="pro-cart"><a href="keranjangjodoh.php" class="btn btn-primary btn-hover-dark">Tambah ke Keranjang Perjodohan</a></td>
@@ -291,7 +291,7 @@
                             <li class="has-children">
                                 <a href="#">Product <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="single-product.html">Single Product</a></li>
+                                    <li><a href="liathewanjodoh.php">Single Product</a></li>
                                     <li><a href="single-product-sale.html">Single Product Sale</a></li>
                                     <li><a href="single-product-group.html">Single Product Group</a></li>
                                     <li><a href="single-product-normal.html">Single Product Normal</a></li>

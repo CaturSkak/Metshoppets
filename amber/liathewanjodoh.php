@@ -131,8 +131,8 @@
 
                         <!-- Product Inventory Start -->
                         <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
+                            <span class="inventroy-title"> <strong>Status &nbsp; :&nbsp;</strong></span>
+                            <span class="btn btn-primary">Tersedia</span>
                         </div>
                         <!-- Product Inventory End -->
 
