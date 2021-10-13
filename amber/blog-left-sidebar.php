@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Blog Sidebar</h2>
+                        <h2 class="breadcrumb-title">Artikel</h2>
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li>Blog Sidebar</li>
+                            <li>Artikel</li>
                         </ul>
                     </div>
                 </div>
@@ -32,242 +32,273 @@
 
                         <div class="col mb-8">
                             <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
+                    <div class="single-blog-wrapper">
 
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/1.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
-
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>27, Jan, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">How to take care of your fish</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore ...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
-                            </div>
-                            <!-- Single Blog End -->
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/kucing.jpg" alt="Blog Image">
+                            </a>
                         </div>
+                        <!-- Blog Thumb End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
-
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/2.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
-
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>12, Feb, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Find the male and female fish</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>15, Juli, 2021</span></li>
+                                </ul>
                             </div>
-                            <!-- Single Blog End -->
+                            <h2 class="blog-title"><a href="blog-details.php">Ini Cara Menjaga Kesehatan Hewan Peliharaan Saat Pandemi</a></h2>
+                            <p>Wabah COVID-19 tak hanya menginfeksi manusia, tetapi  juga hewan-hewan. Beberapa penemuan kasus hewan positif covid ditemukan di dunia. Di antaranya harimau malaya di Kebun Binatang Bronx, New York, Amerika Serikat, seekor anjing di Hong Kong, dan dua kucing di New York. Kasus ini terjadi akibat penularan dari manusia......</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
                         </div>
+                        <!-- Blog Content End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
 
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/3.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
 
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>20, March, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Tips for taking care of dogs</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
-                            </div>
-                            <!-- Single Blog End -->
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/macan1.jpg" alt="Blog Image">
+                            </a>
                         </div>
+                        <!-- Blog Thumb End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
-
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/4.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
-
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>24, Jul, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Beginning a Birding Blog</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>15, Oktober, 2020</span></li>
+                                </ul>
                             </div>
-                            <!-- Single Blog End -->
+                            <h2 class="blog-title"><a href="blog-details.php">6 Cara Merawat Binatang Peliharaan, Sayangi Hewan dengan Cara yang Benar</a></h2>
+                            <p>Cara merawat binatang peliharaan sebenarnya tidaklah sesulit yang dibayangkan oleh banyak orang. Sebagian besar orang memiliki keinginan untuk memelihara hewan tertentu namun masih mempertimbangkan beberapa hal untuk melakukan perawatan yang dianggap merepotkan. Selain mampu mendatangkan kebahagiaan tersendiri, merawat binatang sendiri juga dapat memberikan kepuasan batin. Sebab...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
                         </div>
+                        <!-- Blog Content End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
 
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/5.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
 
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>02, Dec, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Start Fish Farming Blog</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
-                            </div>
-                            <!-- Single Blog End -->
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/iwak1.jpg" alt="Blog Image">
+                            </a>
                         </div>
+                        <!-- Blog Thumb End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
-
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/6.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
-
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>14, April, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Freshwater Aquarium Fish</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>19, Juni, 2021</span></li>
+                                </ul>
                             </div>
-                            <!-- Single Blog End -->
+                            <h2 class="blog-title"><a href="blog-details.php">Ketahui Cara Merawat Ikan di Akuarium, Tidak Terlalu Repot Kok!</a></h2>
+                            <p>Ikan memiliki kebutuhan dasar yang sama dengan hewan lain, termasuk makanan, air, dan habitat yang layak.
+                            Tetapi karena ikan hidup di lingkungan yang sama sekali berbeda dari manusia dan mamalia lain, mereka bergantung pada manusia untuk menyediakan semua yang mereka butuhkan untuk hidup bahagia. Jika Moms dan Dads memutuskan...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
                         </div>
+                        <!-- Blog Content End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
 
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/7.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
 
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>21, Feb, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">Cat Blogs That Help Cats</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
-                            </div>
-                            <!-- Single Blog End -->
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/iwak2.jpg" alt="Blog Image">
+                            </a>
                         </div>
+                        <!-- Blog Thumb End -->
 
-                        <div class="col mb-8">
-                            <!-- Single Blog Start -->
-                            <div class="single-blog-wrapper">
-
-                                <!-- Blog Thumb Start -->
-                                <div class="blog-thumb thumb-effect">
-                                    <a class="image" href="blog-details.php">
-                                        <img class="fit-image" src="assets/images/blog/medium-size/8.jpg" alt="Blog Image">
-                                    </a>
-                                </div>
-                                <!-- Blog Thumb End -->
-
-                                <!-- Blog Content Start -->
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <ul>
-                                            <li><span>By</span><a href="#/">Admin</a></li>
-                                            <li><span>14, Feb, 2021</span></li>
-                                        </ul>
-                                    </div>
-                                    <h2 class="blog-title"><a href="blog-details.php">The legendary cat behavior</a></h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
-                                    <a class="more-link" href="blog-details.php">Read More</a>
-                                </div>
-                                <!-- Blog Content End -->
-
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>07, September, 2013</span></li>
+                                </ul>
                             </div>
-                            <!-- Single Blog End -->
+                            <h2 class="blog-title"><a href="blog-details.php">Tips Pemberian Pakan Ikan Hias</a></h2>
+                            <p>Pemakaian pakan buatan untuk ikan hias mesti dikerjakan dengan benar serta hati-hati agar pertumbuhannya bisa berjalan maksimal. Karena diinginkan tak lagi berlangsung pemborosan. Pemakaian pakan buatan di pengaruhi oleh factor cara pemberiannya, frekuensi pemberian, jumlah ransum /hari, suhu air serta situasi lingkungan....</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/inu1.jpeg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>24, November, 2020</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">Kapan Waktu Terbaik untuk Memberikan Vaksin pada Anjing ?</a></h2>
+                            <p>Sama seperti manusia, anjing peliharaan juga perlu divaksinasi. Hal itu penting untuk melindungi hewan kesayangan kamu tersebut dari penyakit yang banyak di antaranya bisa berakibat fatal. Banyak vaksin sudah bisa diberikan pada hewan peliharaan sejak usia 6 minggu. Vaksin hewan peliharaan kadang-kadang juga perlu penguat agar tetap efektif. Jadi...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/nekoinu1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>Dari</span><a href="#/">Admin</a></li>
+                                    <li><span>21, Oktober, 2018</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">Mengenal Vaksin Penting untuk Anjing dan Kucing Kesayangan Anda</a></h2>
+                            <p>Macam-macam tingkah dan wajah lucu yang bisa membuat Anda ikut tersenyum itu sangat mungkin hilang seketika jika anjing dan kucing peliharaan Anda sakit. Mereka biasanya bakal ogah makan dan cenderung lemas. Ekspresinya tak jarang membuat Anda turut sedih. Vaksin bisa jadi salah satu solusi agar si anjing dan kucing kesayangan terhindar dari sejumlah penyakit. Walau...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/neko1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>By</span><a href="#/">Admin</a></li>
+                                    <li><span>08, Februari, 2021</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">Kenali Ragam Penyebab Kucing Kejang, Bukan Hanya Keracunan!</a></h2>
+                            <p>Sebagai pemilik kucing, fenomena kucing mengalami kejang pasti mengerikan. Kamu harus mengenali apa saja penyebab kucing kejang agar bisa mengatasinya dengan mudah. Walaupun begitu, tidak selalu kejang yang terjadi pada kucing adalah suatu masalah medis yang serius. Bahkan bisa kamu tangani dengan mudah di rumah. Asal, Sobat Pintar tahu dan mengenali penyebab kucing tersebut mengalami kejang....</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/tori1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>By</span><a href="#/">Admin</a></li>
+                                    <li><span>12, Mei, 2021</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">7 Cara Merawat Burung Agar Sehat dan Berumur Panjang</a></h2>
+                            <p>Selain kucing dan anjing, burung adalah hewan yang juga populer untuk dipelihara di rumah. Burung-burung memiliki daya tariknya tersendiri, mulai dari bulunya yang berwarna-warni, hingga kicauannya yang merdu....</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/tori2.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>By</span><a href="#/">Admin</a></li>
+                                    <li><span>17, Februari, 2018</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">15 Cara Merawat Burung Agar Rajin Berkicau</a></h2>
+                            <p>Memiliki burung yang rajin berkicau tentunya sangat diinginkan setiap pemilik burung. Sebenarnya ada 3 faktor yang bisa meningkatkan burung rajin berkicau yakni karakter atau trah, pola perawatan dan lingkungan dan juga pakan serta minuman. Sedangkan cara merawat burung agar rajin berkicau sebenarnya bisa dilakukan dengan berbagai cara. Semakin sering dan bervariasi burung berkicau...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
+
+                    </div>
+                    <!-- Single Blog End -->
                         </div>
 
                     </div>

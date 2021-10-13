@@ -89,7 +89,7 @@
                                     </div>
                                 </div>
 
-                                <<div class="content">
+                                <div class="content">
                                     <h5 class="title"><a href="liathewanjodoh.php">Kucing Anggora Asli</a></h5>
 
                                     <span class="rating">
