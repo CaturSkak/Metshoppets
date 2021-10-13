@@ -9,10 +9,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Blog Details Sidebar</h2>
+                        <h2 class="breadcrumb-title">Artikel</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Blog Details Sidebar</li>
+                            <li>Artikel</li>
                         </ul>
                     </div>
                 </div>
@@ -197,46 +197,44 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">Mencari</h3>
                                 <div class="search-box">
-                                    <input type="text" class="form-control" placeholder="Search Our Store" aria-label="Search Our Store">
+                                    <input type="text" class="form-control" placeholder="Cari" aria-label="Search Our Store">
                                     <button class="search-icon" type="button">
                                         <i class="icon-magnifier"></i>
                                     </button>
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
-                                        <li><a href="#/">All Product</a></li>
-                                        <li><a href="#/">Best Seller (5)</a></li>
-                                        <li><a href="#/">Featured (4)</a></li>
-                                        <li><a href="#/">New Products (6)</a></li>
+                                        <li><a href="#/">Semua Produk</a></li>
+                                        <li><a href="#/">Produk Terlaris (5)</a></li>
+                                        <li><a href="#/">Terlaris (4)</a></li>
+                                        <li><a href="#/">produk Terbaru (6)</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list pb-10">
-                                <h3 class="widget-title mb-6">Archive</h3>
+                                <h3 class="widget-title mb-6">Arsip</h3>
                                 <div class="sidebar-body sidebar-body-archive">
-                                    <h4 class="title">November 2021</h4>
+                                    <h4 class="title">Oktober 2021</h4>
                                     <ul class="archive-list d-block">
-                                        <li><span>&#8608;</span><a href="#">There Are Many Pets...</a></li>
-                                        <li><span>&#8608;</span><a href="#">The Standard Chunk Of...</a></li>
-                                        <li><span>&#8608;</span><a href="#">How to Take Care...</a></li>
+                                        <li><span>&#8608;</span><a href="#">6 Cara Merawat Binatang Peliharaan...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Mengenal Vaksin Penting untuk Anjing...</a></li>
                                     </ul>
                                 </div>
                                 <div class="sidebar-body sidebar-body-archive mt-4">
-                                    <h4 class="title">December 2021</h4>
+                                    <h4 class="title">November 2021</h4>
                                     <ul class="archive-list d-block">
-                                        <li><span>&#8608;</span><a href="#">There Are Many Pets...</a></li>
-                                        <li><span>&#8608;</span><a href="#">The Standard Chunk Of...</a></li>
-                                        <li><span>&#8608;</span><a href="#">How to Take Care...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Kapan Waktu Terbaik untuk Memberikan...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Tertarik Dengan Hewan Reptil? Simak...</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list pb-10">
-                                <h3 class="widget-title mb-6">Recent Posts</h3>
+                                <h3 class="widget-title mb-6">Pos baru-baru ini</h3>
                                 <div class="sidebar-body blog-list-wrapper mb-n6">
 
                                     <!-- Single Blog List Start -->
@@ -245,7 +243,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details.html" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/1.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/kucing.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -253,10 +251,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="How to take care of your fish">How to take care...</a>
+                                                <a href="blog-details.html" title="How to take care of your fish">Ini Cara Menjaga Kesehatan...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>03/11/2021</p>
+                                                <p>15/07/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -270,7 +268,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details.html" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/2.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/medium-size/iwak1.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -278,10 +276,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="Tips for taking care of dogs">Tips for taking care...</a>
+                                                <a href="blog-details.html" title="Tips for taking care of dogs">Ketahui Cara Merawat Ikan di Akuarium...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>03/11/2021</p>
+                                                <p>19/06/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -295,7 +293,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details.html" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/3.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/medium-size/tori1.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -303,10 +301,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details.html" title="Beginning a Birding Blog">Beginning a Birding...</a>
+                                                <a href="blog-details.html" title="Beginning a Birding Blog">7 Cara Merawat Burung Agar...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>12/06/2021</p>
+                                                <p>12/05/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -320,13 +318,13 @@
                                 <h3 class="widget-title mb-6">Tags</h3>
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
-                                        <li><a href="#/">Pet Food</a></li>
-                                        <li><a href="#/">Animals</a></li>
-                                        <li><a href="#/">Domestic</a></li>
-                                        <li><a href="#/">Wild</a></li>
-                                        <li><a href="#/">Dogs</a></li>
-                                        <li><a href="#/">Cats</a></li>
-                                        <li><a href="#/">Hubby</a></li>
+                                        <li><a href="#/">Kucing</a></li>
+                                        <li><a href="#/">Hewan Peliharaan</a></li>
+                                        <li><a href="#/">Persia</a></li>
+                                        <li><a href="#/">burung</a></li>
+                                        <li><a href="#/">Anjing</a></li>
+                                        <li><a href="#/">Reptil</a></li>
+                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
                             </div>

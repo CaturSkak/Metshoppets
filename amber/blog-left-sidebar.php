@@ -299,9 +299,39 @@
 
                     </div>
                     <!-- Single Blog End -->
+                </div>
+
+                <div class="col mb-8">
+                    <!-- Single Blog Start -->
+                    <div class="single-blog-wrapper">
+
+                        <!-- Blog Thumb Start -->
+                        <div class="blog-thumb thumb-effect">
+                            <a class="image" href="blog-details.php">
+                                <img class="fit-image" src="assets/images/blog/medium-size/iguana.png" alt="Blog Image">
+                            </a>
                         </div>
+                        <!-- Blog Thumb End -->
+
+                        <!-- Blog Content Start -->
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><span>By</span><a href="#/">Admin</a></li>
+                                    <li><span>29, November, 2019</span></li>
+                                </ul>
+                            </div>
+                            <h2 class="blog-title"><a href="blog-details.php">Tertarik Dengan Hewan Reptil? Simak Cara Memelihara Iguana Di Rumah</a></h2>
+                            <p>Iguana adalah salah satu hewan reptil paling populer yang dijadikan peliharaan di rumah. Faktanya, cara memelihara iguana terasa gampang-gampang susah. Kebutuhan kandang dan jadwal makan yang ketat adalah salah satu pertimbangan yang harus dipikirkan ketika kamu hendak memelihara hewan yang satu ini. Selain itu...</p>
+                            <a class="more-link" href="blog-details.php">Selengkapnya</a>
+                        </div>
+                        <!-- Blog Content End -->
 
                     </div>
+                    <!-- Single Blog End -->
+                </div>  
+
+            </div>
 
                     <div class="row">
                         <div class="col-12 mt-10">
@@ -326,46 +356,44 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">Mencari</h3>
                                 <div class="search-box">
-                                    <input type="text" class="form-control" placeholder="Search Our Store" aria-label="Search Our Store">
+                                    <input type="text" class="form-control" placeholder="Cari" aria-label="Search Our Store">
                                     <button class="search-icon" type="button">
                                         <i class="icon-magnifier"></i>
                                     </button>
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
-                                        <li><a href="#/">All Product</a></li>
-                                        <li><a href="#/">Best Seller (5)</a></li>
-                                        <li><a href="#/">Featured (4)</a></li>
-                                        <li><a href="#/">New Products (6)</a></li>
+                                        <li><a href="#/">Semua Produk</a></li>
+                                        <li><a href="#/">Produk Terlaris (5)</a></li>
+                                        <li><a href="#/">Terlaris (4)</a></li>
+                                        <li><a href="#/">Produk Terbaru (6)</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list pb-10">
-                                <h3 class="widget-title mb-6">Archive</h3>
+                                <h3 class="widget-title mb-6">Arsip</h3>
                                 <div class="sidebar-body sidebar-body-archive">
                                     <h4 class="title">November 2021</h4>
                                     <ul class="archive-list d-block">
-                                        <li><span>&#8608;</span><a href="#">There Are Many Pets...</a></li>
-                                        <li><span>&#8608;</span><a href="#">The Standard Chunk Of...</a></li>
-                                        <li><span>&#8608;</span><a href="#">How to Take Care...</a></li>
+                                        <li><span>&#8608;</span><a href="#">6 Cara Merawat Binatang Peliharaan...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Mengenal Vaksin Penting untuk Anjing...</a></li>
                                     </ul>
                                 </div>
                                 <div class="sidebar-body sidebar-body-archive mt-4">
                                     <h4 class="title">December 2021</h4>
                                     <ul class="archive-list d-block">
-                                        <li><span>&#8608;</span><a href="#">There Are Many Pets...</a></li>
-                                        <li><span>&#8608;</span><a href="#">The Standard Chunk Of...</a></li>
-                                        <li><span>&#8608;</span><a href="#">How to Take Care...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Kapan Waktu Terbaik untuk Memberikan...</a></li>
+                                        <li><span>&#8608;</span><a href="#">Tertarik Dengan Hewan Reptil? Simak...</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="widget-list pb-10">
-                                <h3 class="widget-title mb-6">Recent Posts</h3>
+                                <h3 class="widget-title mb-6">Pos baru-baru ini</h3>
                                 <div class="sidebar-body blog-list-wrapper mb-n6">
 
                                     <!-- Single Blog List Start -->
@@ -374,7 +402,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details-sidebar.php" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/1.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/kucing.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -382,10 +410,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details-sidebar.php" title="How to take care of your fish">How to take care...</a>
+                                                <a href="blog-details-sidebar.php" title="How to take care of your fish">Ini Cara Menjaga Kesehatan...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>03/11/2021</p>
+                                                <p>15/07/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -399,7 +427,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details-sidebar.php" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/2.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/medium-size/iwak1.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -407,10 +435,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details-sidebar.php" title="Tips for taking care of dogs">Tips for taking care...</a>
+                                                <a href="blog-details-sidebar.php" title="Tips for taking care of dogs">Ketahui Cara Merawat Ikan di Akuarium...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>03/11/2021</p>
+                                                <p>19/06/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -424,7 +452,7 @@
                                         <!-- Blog List Thumb Start -->
                                         <div class="blog-thumb">
                                             <a href="blog-details-sidebar.php" class="image">
-                                                <img class="fit-image" src="assets/images/blog/small-size/3.jpg" alt="Product Image">
+                                                <img class="fit-image" src="assets/images/blog/medium-size/tori1.jpg" alt="Product Image">
                                             </a>
                                         </div>
                                         <!-- Blog List Thumb End -->
@@ -432,10 +460,10 @@
                                         <!-- Blog List Content Start -->
                                         <div class="blog-list-content">
                                             <h6 class="blog-name">
-                                                <a href="blog-details-sidebar.php" title="Beginning a Birding Blog">Beginning a Birding...</a>
+                                                <a href="blog-details-sidebar.php" title="Beginning a Birding Blog">7 Cara Merawat Burung Agar...</a>
                                             </h6>
                                             <div class="blog-meta">
-                                                <p>12/06/2021</p>
+                                                <p>12/05/2021</p>
                                             </div>
                                         </div>
                                         <!-- Blog List Content End -->
@@ -449,13 +477,13 @@
                                 <h3 class="widget-title mb-6">Tags</h3>
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
-                                        <li><a href="#/">Pet Food</a></li>
-                                        <li><a href="#/">Animals</a></li>
-                                        <li><a href="#/">Domestic</a></li>
-                                        <li><a href="#/">Wild</a></li>
-                                        <li><a href="#/">Dogs</a></li>
-                                        <li><a href="#/">Cats</a></li>
-                                        <li><a href="#/">Hubby</a></li>
+                                        <li><a href="#/">Kucing</a></li>
+                                        <li><a href="#/">Hewan Peliharaan</a></li>
+                                        <li><a href="#/">Persia</a></li>
+                                        <li><a href="#/">burung</a></li>
+                                        <li><a href="#/">Anjing</a></li>
+                                        <li><a href="#/">Reptil</a></li>
+                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
                             </div>
