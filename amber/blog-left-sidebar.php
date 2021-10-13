@@ -378,14 +378,14 @@
                             <div class="widget-list pb-10">
                                 <h3 class="widget-title mb-6">Arsip</h3>
                                 <div class="sidebar-body sidebar-body-archive">
-                                    <h4 class="title">November 2021</h4>
+                                    <h4 class="title">Oktober 2021</h4>
                                     <ul class="archive-list d-block">
                                         <li><span>&#8608;</span><a href="#">6 Cara Merawat Binatang Peliharaan...</a></li>
                                         <li><span>&#8608;</span><a href="#">Mengenal Vaksin Penting untuk Anjing...</a></li>
                                     </ul>
                                 </div>
                                 <div class="sidebar-body sidebar-body-archive mt-4">
-                                    <h4 class="title">December 2021</h4>
+                                    <h4 class="title">November 2021</h4>
                                     <ul class="archive-list d-block">
                                         <li><span>&#8608;</span><a href="#">Kapan Waktu Terbaik untuk Memberikan...</a></li>
                                         <li><span>&#8608;</span><a href="#">Tertarik Dengan Hewan Reptil? Simak...</a></li>
