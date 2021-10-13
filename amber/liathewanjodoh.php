@@ -65,21 +65,6 @@
                                 <div class="swiper-slide">
                                     <img src="assets/images/products/medium-product/putih.jpg" alt="Product">
                                 </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/4.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/5.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/6.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/7.png" alt="Product">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="assets/images/products/medium-plus-product/8.png" alt="Product">
-                                </div>
                             </div>
 
                             <!-- Next Previous Button Start -->
