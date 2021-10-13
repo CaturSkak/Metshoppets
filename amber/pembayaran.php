@@ -8,10 +8,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Pesan</h2>
+                        <h2 class="breadcrumb-title">Proses Pembayaran</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Checkout</li>
+                            <li>Bayar Su</li>
                         </ul>
                     </div>
                 </div>
@@ -358,122 +358,6 @@
                     <!-- Checkbox Form End -->
 
                 </div>
-
-                <div class="col-lg-6 col-12 mb-4">
-
-                    <!-- Your Order Area Start -->
-                    <div class="your-order-area border">
-
-                        <!-- Title Start -->
-                        <h3 class="title">Pesanan Anda</h3>
-                        <!-- Title End -->
-
-                        <!-- Your Order Table Start -->
-                        <div class="your-order-table table-responsive">
-                            <table class="table">
-
-                                <!-- Table Head Start -->
-                                <thead>
-                                    <tr class="cart-product-head">
-                                        <th class="cart-product-name text-start">Produk</th>
-                                        <th class="cart-product-total text-end">Total</th>
-                                    </tr>
-                                </thead>
-                                <!-- Table Head End -->
-
-                                <!-- Table Body Start -->
-                                <tbody>
-                                    <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
-                                    </tr>
-                                    <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
-                                    </tr>
-                                </tbody>
-                                <!-- Table Body End -->
-
-                                <!-- Table Footer Start -->
-                                <tfoot>
-                                    <tr class="cart-subtotal">
-                                        <th class="text-start ps-0">Subtotal</th>
-                                        <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
-                                    </tr>
-                                    <tr class="order-total">
-                                        <th class="text-start ps-0">Order Total</th>
-                                        <td class="text-end pe-0"><strong><span class="amount">Rp.11.740.000</span></strong></td>
-                                    </tr>
-                                </tfoot>
-                                <!-- Table Footer End -->
-
-                            </table>
-                        </div>
-                        <!-- Your Order Table End -->
-                        <span><strong>Pilih Opsi Pembayaran</strong></span>
-                        <!-- Payment Accordion Order Button Start -->
-                        <div class="payment-accordion-order-button">
-                            <div class="payment-accordion">
-                              
-
-
-                        <div class="single-payment">
-                                    <h5 class="panel-title mb-3">
-                                        <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                            Bank Tranfer
-                                        </a>
-                                    </h5>
-                                    <div class="collapse" id="collapseExample">
-                                        <div class="card card-body rounded-0">
-                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                               <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/mdr.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;Mandiri</strong> </label>
-                                
-                            </div>
-
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                               <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/bnii.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BNI</strong> </label>
-                                
-                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="single-payment">
-                                    <h5 class="panel-title mb-3">
-                                        <a class="collapse-off" data-bs-toggle="collapse" href="#collapseExample-2" aria-expanded="false" aria-controls="collapseExample-2">
-                                            Uang Digital
-                                        </a>
-                                    </h5>
-                                    <div class="collapse" id="collapseExample-2">
-                                        <div class="card card-body rounded-0">
-                                            <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio">
-                                    
-                                </input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="assets/images/payment/oppo.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ovo</strong> </label>
-                                
-                            </div>
-
-                             <div class="card-body shadow-sm rounded d-flex mb-3" id="card-bank">
-                                <label class="fit-image ms-1"><input required type="radio" class="pixel-radio ml-auto align-self-center mb-3"  type="radio"></input  type="radio" name="tipebayar" value="bri" required><a> &nbsp;&nbsp;</a><img src="assets/images/payment/gopay.png" class="bank-icon rounded-circle"><strong> &nbsp;&nbsp;&nbsp;&nbsp;Gopay</strong> </label>
-                                
-                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            <div class="order-button-payment">
-                                <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</button>
-                            </div>
-                        </div>
-                        <!-- Payment Accordion Order Button End -->
-                    </div>
-                    <!-- Your Order Area End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Checkout Section End -->
 
    <?php include 'footer.php'?>
     <!-- Modal Start  -->
