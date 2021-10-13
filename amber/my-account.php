@@ -38,7 +38,7 @@
                                 <div class="myaccount-tab-menu nav" role="tablist">
                                     <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>
                                         Dashboard</a>
-                                    <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pembelian</a>
+                                    <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pesanan</a>
                                    
                                     <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
                                     <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
@@ -67,7 +67,7 @@
                                     <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="orders" role="tabpanel">
                                         <div class="myaccount-content">
-                                            <h3 class="title">Pembelian</h3>
+                                            <h3 class="title">Pesanan</h3>
                                             <div class="myaccount-table table-responsive text-center">
                                                 <table class="table table-bordered">
                                                     <thead class="thead-light">
@@ -82,24 +82,31 @@
                                                     <tbody>
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>21 Feb, 2021</td>
+                                                            <td>21 Feb 2021</td>
                                                             <td>Pending</td>
-                                                            <td>Rp.1.500.000</td>
-                                                            <td><a href="cart.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                            <td>Rp.6.000.000</td>
+                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>22 Juli, 2021</td>
-                                                            <td>Approved</td>
-                                                            <td>Rp.2.000.000</td>
-                                                            <td><a href="cart.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                            <td>12 Maret 2021</td>
+                                                            <td>Pending</td>
+                                                            <td>Rp.5.740.000</td>
+                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
+                                                            <td>22 Juli, 2021</td>
+                                                            <td>Approved</td>
+                                                            <td>Rp.2.000.000</td>
+                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>4</td>
                                                             <td>12 Juni, 2019</td>
                                                             <td>On Hold</td>
                                                             <td>Rp.1.000.000</td>
-                                                            <td><a href="cart.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">View</a></td>
+                                                            <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -168,29 +175,29 @@
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
                                                                 <label for="first-name" class="required mb-2">Nama Depan</label>
-                                                                <input type="text" id="first-name" placeholder="Nama Depan" />
+                                                                <input type="text" id="first-name" placeholder="Syamsul" />
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
                                                                 <label for="last-name" class="required mb-2">Nama Belakang</label>
-                                                                <input type="text" id="last-name" placeholder="Nama Belakang" />
+                                                                <input type="text" id="last-name" placeholder="Arifin" />
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="single-input-item mb-3">
                                                         <label for="display-name" class="required mb-2">Nama Tampilan</label>
-                                                        <input type="text" id="display-name" placeholder="Nama Tampilan" />
+                                                        <input type="text" id="display-name" placeholder="Syamsul" />
                                                     </div>
                                                     <div class="single-input-item mb-3">
                                                         <label for="email" class="required mb-1">Email Addres</label>
-                                                        <input type="email" id="email" placeholder="Email Address" />
+                                                        <input type="email" id="email" placeholder="syamsularifin@gmail.com" />
                                                     </div>
                                                     <fieldset>
                                                         <legend>Ubah Password</legend>
                                                         <div class="single-input-item mb-3">
                                                             <label for="current-pwd" class="required mb-2">Password Lama</label>
-                                                            <input type="password" id="current-pwd" placeholder="password lama" />
+                                                            <input type="password" id="current-pwd" placeholder="asadsdadasdad" readonly/>
                                                         </div>
                                                         <div class="row mb-n3">
                                                             <div class="col-lg-6">

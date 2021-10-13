@@ -10,10 +10,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Keranjang Perjodohan</h2>
+                        <h2 class="breadcrumb-title">Daftar Pesanan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Keranjang Perjodohan</li>
+                            <li>Daftar Pesanan</li>
                         </ul>
                     </div>
                 </div>
@@ -36,12 +36,13 @@
                             <!-- Table Head Start -->
                             <thead>
                                 <tr>
-                                    <th class="pro-thumbnail">preview</th>
-                                    <th class="pro-title">Produk</th>
+                                    <th class="pro-thumbnail">Nomor Faktur</th>
+                                    <th class="pro-title">Nomor Pemesanan</th>
                                     <th class="pro-price">Harga</th>
-                                    <th class="pro-quantity">Jumlah</th>
-                                    <th class="pro-subtotal">Total</th>
-                                    <th class="pro-remove">Hapus</th>
+                                    <th class="pro-quantity">Tanggal</th>
+                                    <th class="pro-subtotal">Status</th>
+                                    <th class="pro-remove">Konfirmasi</th>
+                                    
                                 </tr>
                             </thead>
                             <!-- Table Head End -->
@@ -49,52 +50,20 @@
                             <!-- Table Body Start -->
                             <tbody>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Anjing Shiba Inu</a></td>
-                                    <td class="pro-price"><span>Rp.105.000/Hari</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="6" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>Rp.630.000</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
+                                    <td class="pro-thumbnail"><a href="#">INV-13241131778</a></td>
+                                    <td class="pro-title"><a href="#">ORDER-11981982998</a></td>
+                                    <td class="pro-price"><span>Rp.6.000.000</span></td>
+                                    <td class="pro-quantity"><span>21 Februari 2021</span></td>
+                                    <td class="pro-subtotal"><span>Pending</span></td>
+                                    <td class="pro-remove"><a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Kucing Anggora Asli</a></td>
-                                    <td class="pro-price"><span>Rp.35.000/Hari</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="6" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>Rp.210.000</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
-                                </tr>
-                                <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/medium-product/persia.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Kucing Persia Asli</a></td>
-                                    <td class="pro-price"><span>Rp.45.000/Hari</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="6" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>Rp.270.000</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
+                                    <td class="pro-thumbnail"><a href="#">INV-13241131778</a></td>
+                                    <td class="pro-title"><a href="#">ORDER-11981982998</a></td>
+                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
+                                    <td class="pro-quantity"><span>12 Maret 2021</span></td>
+                                    <td class="pro-subtotal"><span>Pending</span></td>
+                                    <td class="pro-remove"><a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a></td>
                                 </tr>
                             
                             </tbody>
@@ -109,14 +78,13 @@
 
                         <!-- Cart Button left Side Start -->
                         <div class="cart-btn-lef-side mb-4">
-                            <a href="jodoh-peliharaan.php" class="btn btn btn-gray-deep btn-hover-primary">Cari Lagi</a>
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Perbarui daftar Keranjang</a>
+                            <a href="index.php" class="btn btn btn-gray-deep btn-hover-primary">Belanja Lagi</a>
                         </div>
                         <!-- Cart Button left Side End -->
 
                         <!-- Cart Button Right Side Start -->
                         <div class="cart-btn-right-right mb-4">
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Hapus Daftar Keranjang</a>
+                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Perbarui daftar Pesanan</a>
                         </div>
                         <!-- Cart Button Right Side End -->
 
@@ -126,51 +94,7 @@
                 </div>
             </div>
 
-            <div class="row mt-10">
-                <div class="col-lg-6 me-0 ms-auto">
-
-                    <!-- Cart Calculation Area Start -->
-                    <div class="cart-calculator-wrapper">
-
-                        <!-- Cart Calculate Items Start -->
-                        <div class="cart-calculate-items">
-
-                            <!-- Cart Calculate Items Title Start -->
-                            <h3 class="title">Total </h3>
-                            <!-- Cart Calculate Items Title End -->
-
-                            <!-- Responsive Table Start -->
-                            <div class="table-responsive">
-                                <table class="table">
-                                    <tr>
-                                        <td>Sub Total</td>
-                                        <td>Rp.1.110.000</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pengiriman</td>
-                                        <td>Rp.90.000</td>
-                                    </tr>
-                                     <tr>
-                                        <td>Pembayaran</td>
-                                        
-                                    </tr>
-                                    <tr class="total">
-                                        <td>Total</td>
-                                        <td class="total-amount">Rp.1.200.000</td>
-                                    </tr>
-                                </table>
-                            </div>
-                            <!-- Responsive Table End -->
-
-                        </div>
-                        <!-- Cart Calculate Items End -->
-
-                        <!-- Cart Checktout Button Start -->
-                        <a href="checkoutjodoh.php" class="btn btn btn-gray-deep btn-hover-primary mt-6">Proses Pemesanan</a>
-                        <!-- Cart Checktout Button End -->
-
-                    </div>
-                    <!-- Cart Calculation Area End -->
+            
 
                 </div>
             </div>

@@ -197,7 +197,7 @@
 
                         <!-- Payment Option Start -->
                         <div class="payment-option mt-4 d-flex">
-                            <span><strong>Payment: </strong></span>
+                            <span><strong>Pembayaran: </strong></span>
                             <a href="#">
                                 <img class="fit-image ms-1" src="assets/images/payment/payment.png" alt="Payment Option Image">
                             </a>
