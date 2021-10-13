@@ -168,29 +168,29 @@
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
                                                                 <label for="first-name" class="required mb-2">Nama Depan</label>
-                                                                <input type="text" id="first-name" placeholder="Nama Depan" />
+                                                                <input type="text" id="first-name" placeholder="Syamsul" />
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="single-input-item mb-3">
                                                                 <label for="last-name" class="required mb-2">Nama Belakang</label>
-                                                                <input type="text" id="last-name" placeholder="Nama Belakang" />
+                                                                <input type="text" id="last-name" placeholder="Arifin" />
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="single-input-item mb-3">
                                                         <label for="display-name" class="required mb-2">Nama Tampilan</label>
-                                                        <input type="text" id="display-name" placeholder="Nama Tampilan" />
+                                                        <input type="text" id="display-name" placeholder="Syamsul" />
                                                     </div>
                                                     <div class="single-input-item mb-3">
                                                         <label for="email" class="required mb-1">Email Addres</label>
-                                                        <input type="email" id="email" placeholder="Email Address" />
+                                                        <input type="email" id="email" placeholder="syamsularifin@gmail.com" />
                                                     </div>
                                                     <fieldset>
                                                         <legend>Ubah Password</legend>
                                                         <div class="single-input-item mb-3">
                                                             <label for="current-pwd" class="required mb-2">Password Lama</label>
-                                                            <input type="password" id="current-pwd" placeholder="password lama" />
+                                                            <input type="password" id="current-pwd" placeholder="asadsdadasdad" readonly/>
                                                         </div>
                                                         <div class="row mb-n3">
                                                             <div class="col-lg-6">
