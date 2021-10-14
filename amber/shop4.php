@@ -11,10 +11,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Hewan Peliharaan</h2>
+                        <h2 class="breadcrumb-title">Lain-Lain</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Hewan Peliharaan</li>
+                            <li>Makanan,Pasir,Kandang Hewan</li>
                         </ul>
                     </div>
                 </div>
@@ -325,8 +325,8 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.6.000.000</span>
-                                            <span class="old">Rp.7.200.000</span>                                    </span>
+                                            <span class="new">$78.50</span>
+                                    </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
                                     <div class="cart-btn action-btn">
@@ -617,15 +617,15 @@
                         <div class="shop-top-bar-right">
                             <nav>
                                 <ul class="pagination">
-                                    <li class="page-item">
-                                    <li class="page-item"><a class="page-link active" href="shop.php">1</a></li>
+                                <li class="page-item">
+                                        <a class="page-link rounded-0" href="shop2.php" aria-label="Previous">
+
+                                        <span aria-hidden="false">&laquo;</span>
+                                    </a>
+                                    <li class="page-item"><a class="page-link" href="shop.php">1</a></li>
                                     <li class="page-item"><a class="page-link" href="shop2.php">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="shop3.php">3</a></li>
+                                    <li class="page-item"><a class="page-link active" href="shop3.php">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="shop2.php" aria-label="Next">
-                                    
-                                            <span aria-hidden="true">&raquo;</span>
-                                        </a>
                                     </li>
                                 </ul>
                             </nav>
@@ -698,7 +698,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Tags</h3>
+                                <h3 class="widget-title mb-6">Tag</h3>
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
                                         <li><a href="#/">Kucing</a></li>
