@@ -28,8 +28,8 @@
 
             <div class="row">
                 <div class="col-12">
-                        <div class="myaccount-tab-menu nav" role="tablist">
-                            <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>Detail Pesanan</a>
+                <div class="myaccount-tab-menu " >
+                            <a class="header-top bg-primary">Detail Pesanan</a>
 
                     <div class="cart-table table-responsive">
                         <table class="table table-bordered">
@@ -47,14 +47,15 @@
                                             <p class="mb-1">Total Harga&ensp;&ensp;&ensp;&ensp;&ensp;: Rp.6.000.000</p>
                                             <p class="mb-1">Tanggal &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; : 21 Februari 2021</p>
                                             <p class="mb-1">Status&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: Pending</p>
+                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp;: Belum Lunas</p>
                                             </div>
-                                            <a href="login.php" class="logout"> Belanja Lagi</a></p>
+                                         
                                         </div>
                                     </div>
                             <!-- Table Head Start -->
                             <thead>
                                 <tr>
-                                    <th class="pro-number">Nomor</th>
+                                    <th class="pro-thumbnails">Nomor</th>
                                     <th class="pro-thumbnail">preview</th>
                                     <th class="pro-title">Produk</th>
                                     <th class="pro-price">Harga</th>
@@ -68,7 +69,7 @@
                             <!-- Table Body Start -->
                             <tbody>
                                 <tr>
-                                    <td class="pro-number"><span>1</span></td>
+                                    <td class="pro-thumbnail"><span>1</span></td>
                                     <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
                                     <td class="pro-title"><span>Anjing Shiba Inu</span></td>
                                     <td class="pro-price"><span>Rp.6.000.000</span></td>
@@ -76,7 +77,7 @@
                                     <td class="pro-subtotal"><span>Rp.6.000.000</span></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-number"><span>2</span></td>
+                                    <td class="pro-thumbnail"><span>2</span></td>
                                     <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
                                     <td class="pro-title"><span>Kucing Anggora Asli</span></td>
                                     <td class="pro-price"><span>Rp.5.740.000</span></td>
@@ -95,8 +96,8 @@
                     <div class="cart-button-section mb-n4">
 
                         <!-- Cart Button left Side Start -->
-                        <div class="cart-btn-lef-side mb-4">
-                            <a href="index.php" class="btn btn btn-gray-deep btn-hover-primary">Belanja Lagi</a>
+                        <div class="overflow-hidden">
+                         
                         </div>
                         <!-- Cart Button left Side End -->
 
@@ -119,6 +120,7 @@
 
         </div>
     </div>
+
     <!-- Shopping Cart Section End -->
 
    <?php include 'footer.php'?>
