@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Burung</h2>
+                        <h2 class="breadcrumb-title">Perjodohan Burung</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Burung</li>
@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Terlihat 1–12 of 36 Hasil</span>
+                                <span>Menampilkan 1–12 of 36 Hasil</span>
                             </div>
 
                         </div>
@@ -96,7 +96,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.840.000</span>
+                                            <span class="new">Rp.25.000/Hari</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -141,7 +141,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.800.000</span>
+                                            <span class="new">Rp.22.000/Hari</span>
                                     </span>
                                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
                                     <!-- Cart Button Start -->
@@ -183,7 +183,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.900.000</span>
+                                            <span class="new">Rp.30.000/Hari</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue.</p>
                                     <!-- Cart Button Start -->
@@ -232,7 +232,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.380.000</span>
+                                            <span class="new">Rp.15.000/Hari</span>
                                     </span>
                                     <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
                                     <!-- Cart Button Start -->
@@ -277,7 +277,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.3.000.000</span>
+                                            <span class="new">Rp.200.000/Hari</span>
                                     </span>
                                     <p>A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal...</p>
                                     <!-- Cart Button Start -->
@@ -322,7 +322,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.1.500.000</span>
+                                            <span class="new">Rp.55.000/Hari</span>
                                     </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
@@ -364,7 +364,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.2.000.000</span>
+                                            <span class="new">Rp.25.000/Hari</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -409,7 +409,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.4.000.000</span>
+                                            <span class="new">Rp.200.000/Hari</span>
                                     </span>
                                     <p>There are many variations of passages of lorem ipsum, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                                     <!-- Cart Button Start -->
@@ -451,7 +451,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.300.000</span>
+                                            <span class="new">Rp.30.000/Hari</span>
                                     </span>
                                     <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.</p>
                                     <!-- Cart Button Start -->
@@ -489,14 +489,14 @@
                                 <div class="content">
                                     <h5 class="title"><a href="single-product.php">Burung Cendet</a></h5>
                                     <span class="rating">
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.200.000</span>
+                                            <span class="new">Rp.25.000/Hari</span>
                                     </span>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
                                     <!-- Cart Button Start -->
@@ -541,7 +541,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.250.000</span>
+                                            <span class="new">Rp.35.000/Hari</span>
                                     </span>
                                     <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</p>
                                     <!-- Cart Button Start -->
@@ -583,7 +583,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">Rp.200.000</span>
+                                            <span class="new">Rp.15.000/Hari</span>
                                     </span>
                                     <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
                                     <!-- Cart Button Start -->
@@ -727,7 +727,7 @@
                                                 <a href="single-product.php">Burung Kakatua</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.3.000.000</span>
+                                                    <span class="new">Rp.200.000/Hari</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -754,7 +754,7 @@
                                                 <a href="single-product.php">Burung Love Bird</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.840.000</span>
+                                                    <span class="new">Rp.25.000/Hari</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -781,7 +781,7 @@
                                                 <a href="single-product.html">Burung Parkit</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.250.000</span>
+                                                    <span class="new">Rp.35.000/Hari</span>
                                             
                                             </span>
                                         </div>
