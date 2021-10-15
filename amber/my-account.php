@@ -83,14 +83,14 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <td>21 Feb 2021</td>
-                                                            <td>Belum Lunas</td>
+                                                            <td>Belum dikonfirmasi</td>
                                                             <td>Rp.6.000.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
                                                             <td>12 Maret 2021</td>
-                                                            <td>Belum Lunas</td>
+                                                            <td>Belum dikonfirmasi</td>
                                                             <td>Rp.5.740.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
@@ -104,7 +104,7 @@
                                                         <tr>
                                                             <td>4</td>
                                                             <td>12 Juni, 2019</td>
-                                                            <td>Belum Dikonfirmasi</td>
+                                                            <td>Belum dikonfirmasi</td>
                                                             <td>Rp.1.000.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
