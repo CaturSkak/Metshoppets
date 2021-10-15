@@ -41,12 +41,14 @@
 
                             <!-- Input Email Start -->
                             <div class="single-input-item mb-2">
+                                <label><strong>Username</label><span class="required"></strong></span></label>
                                 <input type="email" placeholder="Email atau Username">
                             </div>
                             <!-- Input Email End -->
 
                             <!-- Input Password Start -->
                             <div class="single-input-item mb-2">
+                                <label><strong>Password Anda</label><span class="required"></strong></span></label>
                                 <input type="password" placeholder="Masukkan Password Anda">
                             </div>
                             <!-- Input Password End -->
@@ -55,8 +57,8 @@
                             <div class="single-input-item mb-3">
                                 <div class="login-reg-form-meta mb-n3">
 
-                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3"><a href="index.php" >Sign In</a></button>
-                                    <a href="#" class="forget-pwd mb-3">Lupa Password?</a>
+                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3"><a href="index.php" >Masuk</a></button>
+                                    <a href="#" class="forget-pwd mb-3"><strong>Lupa Password?</strong></a>
 
                                 </div>
                             </div>
@@ -64,7 +66,7 @@
 
                             <!-- Lost Password & Creat New Account Start -->
                             <div class="lost-password">
-                                <a href="register.php">Daftar Sekarang</a>
+                                <a href="register.php"><strong>Daftar Sekarang</strong></a>
                             </div>
                             <!-- Lost Password & Creat New Account End -->
 

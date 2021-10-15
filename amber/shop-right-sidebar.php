@@ -122,7 +122,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/koi3.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -305,7 +305,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/manfish.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -635,7 +635,7 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">Pencarian</h3>
                                 <div class="search-box">
                                     <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
@@ -644,7 +644,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>

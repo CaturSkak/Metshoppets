@@ -39,6 +39,7 @@
                         <form action="#" method="post">
 
                             <!-- Input First Name Start -->
+                            <label><strong>Nama Depan</label><span class="required"></strong></span></label>
                             <div class="single-input-item mb-2">
                                 <input type="text" placeholder="Nama Depan">
                             </div>
@@ -46,18 +47,21 @@
 
                             <!-- Input Last Name Start -->
                             <div class="single-input-item mb-2">
+                                <label><strong>Nama Belakang</label><span class="required"></strong></span></label>
                                 <input type="text" placeholder="Nama Belakang">
                             </div>
                             <!-- Input Last Name End -->
 
                             <!-- Input Email Start -->
                             <div class="single-input-item mb-2">
+                                <label><strong>Email Anda</label><span class="required"></strong></span></label>
                                 <input type="email" placeholder="Email">
                             </div>
                             <!-- Input Email End -->
 
                             <!-- Input Password Start -->
                             <div class="single-input-item mb-2">
+                                <label><strong>Password</label><span class="required"></strong></span></label>
                                 <input type="password" placeholder="Password">
                             </div>
                             <!-- Input Password End -->

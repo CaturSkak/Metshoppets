@@ -195,7 +195,7 @@
                                                 <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                             </a>
                                             <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -350,7 +350,7 @@
                                                 <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                             </a>
                                             <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -546,7 +546,7 @@
                                                 <img class="fit-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product" />
                                             </a>
                                             <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                             </span>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>

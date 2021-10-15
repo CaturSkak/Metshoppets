@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Showing 1–12 of 39 results</span>
+                                <span>Menampilkan 1–12 of 39 results</span>
                             </div>
 
                         </div>
@@ -49,16 +49,15 @@
                         <!-- Shopt Top Bar Right Start -->
                         <div class="shop-top-bar-right">
 
-                            <h4 class="title me-2">Short By: </h4>
+                            <h4 class="title me-2">Di Urutkan Berdasarkan: </h4>
 
                             <div class="shop-short-by">
                                 <select class="nice-select" aria-label=".form-select-sm example">
-                                    <option selected>Short by Default</option>
-                                    <option value="1">Short by Popularity</option>
-                                    <option value="2">Short by Rated</option>
-                                    <option value="3">Short by Latest</option>
-                                    <option value="3">Short by Price</option>
-                                    <option value="3">Short by Price</option>
+                                    <option selected>Di Urutkan Berdasarkan Standar</option>
+                                    <option value="1">Di Urutkan Berdasarkan Popularitas</option>
+                                    <option value="2">Di Urutkan Berdasarkan Rating</option>
+                                    <option value="3">Di Urutkan Berdasarkan Terbaru</option>
+                                    <option value="3">Di Urutkan Berdasarkan Harga</option>
                                 </select>
                             </div>
                         </div>
@@ -124,7 +123,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/AnggoraMp.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -307,7 +306,7 @@
                                         <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                     </a>
                                     <span class="badges">
-                                            <span class="new">New</span>
+                                            <span class="new">Baru</span>
                                     </span>
                                     <div class="action-wrapper">
                                         <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -641,7 +640,7 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">pencarian</h3>
                                 <div class="search-box">
                                     <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
@@ -650,7 +649,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>

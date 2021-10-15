@@ -34,14 +34,7 @@
                     <div class="cart-table table-responsive">
                         <table class="table table-bordered">
                         
-                                <div >
-                        <tr>
-                            <td>Nama Pemesan</td>
-                            <td> :</td>
-                            <td>&nbsp;
-                                adsd
-                            </td>
-                        </tr> </div>
+                    
                                     <!-- Single Tab Content Start -->
                                     <div >
                                         <div class="myaccount-content">
@@ -56,7 +49,7 @@
                                             
 
               
-                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp;: Belum Lunas</p>
+                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp; : Belum Lunas</p>
                                             
                                          
                                         </div>
