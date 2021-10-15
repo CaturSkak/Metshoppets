@@ -109,6 +109,7 @@
                                                     <li><a href="shop-left-sidebar.php">Reptil</a></li>
                                                     <li><a href="shop-right-sidebar.php">Ikan</a></li>
                                                     <li><a href="shop-list-fullwidth.php">Burung</a></li>
+                                                    <li><a href="shop4.php">Lain-Lain</a></li>
                                                 </ul>
                                                 <li class="mega-menu-col">
                                                 <h4 class="mega-menu-title">Lainnya</h4>

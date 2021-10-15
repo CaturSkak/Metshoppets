@@ -689,7 +689,7 @@
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
                                         <li><a href="#/">Kucing</a></li>
-                                        <li><a href="#/">Hewan Peliharaan</a></li>
+                                        <li><a href="#/">Ikan</a></li>
                                         <li><a href="#/">Burung</a></li>
                                         <li><a href="#/">Anjing</a></li>
                                         <li><a href="#/">Reptil</a></li>

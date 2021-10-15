@@ -465,7 +465,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/5.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/kucing.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-18%</span>
@@ -480,17 +480,17 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Kucing Anggora Asli</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
-                                            <i class="fa fa-star-half-o"></i>
-                                            <i class="fa fa-star-o"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$47.50</span>
-                                            <span class="old">$50.00</span>
+                                            <span class="new">Rp.5.740.000</span>
+                                            <span class="old">Rp.7.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -504,7 +504,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/6.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-20%</span>
@@ -519,7 +519,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Pet Leaving House</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Anjing Shiba inu</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -528,8 +528,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$58.50</span>
-                                            <span class="old">$62.85</span>
+                                            <span class="new">Rp.6.000.000</span>
+                                            <span class="old">Rp.7.200.000</span
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -543,7 +543,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/3.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/Chameleon.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="new">New</span>
@@ -558,7 +558,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Wait, You Need This</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Chameleon Veiled</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -567,7 +567,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$90.00</span>
+                                            <span class="new">Rp.3.280.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -581,7 +581,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/7.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/Ular Albino.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="new">New</span>
@@ -596,7 +596,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">This is the testing</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Ular Retic Tiger Albino</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -605,7 +605,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$78.50</span>
+                                            <span class="new">Rp.2.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -619,7 +619,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/8.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/arwana1.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -631,7 +631,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Basic Dog Trainning</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Ikan Arwana Golden Pino</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -640,7 +640,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$55.00</span>
+                                            <span class="new">Rp.3.725.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -654,7 +654,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/1.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/koi1.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-18%</span>
@@ -669,7 +669,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.html">An Animal Album</a></h5>
+                                            <h5 class="title"><a href="single-product.html">Ikan Koi Kohaku</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star-o"></i>
                                             <i class="fa fa-star-o"></i>
@@ -678,8 +678,8 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$80.50</span>
-                                            <span class="old">$85.80</span>
+                                            <span class="new">Rp.10.000.000</span>
+                                            <span class="old">Rp.13.000.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -693,7 +693,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/2.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/kakatua.png" alt="Product" />
                                             </a>
                                             <span class="badges">
                                             <span class="sale">-20%</span>
@@ -708,7 +708,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Animal For Life</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Burung Kakatua</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -717,8 +717,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$75.50</span>
-                                            <span class="old">$82.85</span>
+                                            <span class="new">Rp.3.000.000</span>>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -732,7 +731,7 @@
                                         <!-- Thumb Start  -->
                                         <div class="thumb">
                                             <a href="single-product.php" class="image">
-                                                <img class="fit-image" src="assets/images/products/medium-product/4.png" alt="Product" />
+                                                <img class="fit-image" src="assets/images/products/medium-product/love bird.png" alt="Product" />
                                             </a>
                                             <div class="action-wrapper">
                                                 <a href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view"><i class="ti-plus"></i></a>
@@ -744,7 +743,7 @@
 
                                         <!-- Content Start  -->
                                         <div class="content">
-                                            <h5 class="title"><a href="single-product.php">Pet Food Corner</a></h5>
+                                            <h5 class="title"><a href="single-product.php">Burung Love Bird</a></h5>
                                             <span class="rating">
                                             <i class="fa fa-star"></i>
                                             <i class="fa fa-star"></i>
@@ -753,7 +752,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </span>
                                             <span class="price">
-                                            <span class="new">$105.00</span>
+                                            <span class="new">Rp.840.000</span>
                                             </span>
                                         </div>
                                         <!-- Content End  -->
@@ -790,7 +789,7 @@
                 <!-- Banner Start -->
                 <div class="col-md-6 col-12 mb-6" data-aos="fade-up" data-aos-duration="1400">
                     <a href="shop.php" class="banner">
-                        <img class="fit-image" src="assets/images/banner/2.png" alt="Banner Image" />
+                        <img class="fit-image" src="assets/images/banner/promo2.png" alt="Banner Image" />
                     </a>
                 </div>
                 <!-- Banner End -->

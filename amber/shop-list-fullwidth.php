@@ -643,7 +643,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>
@@ -691,16 +691,14 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Tags</h3>
+                                <h3 class="widget-title mb-6">Tag</h3>
                                 <div class="sidebar-body">
                                     <ul class="tags mb-n2">
                                         <li><a href="#/">Kucing</a></li>
-                                        <li><a href="#/">Hewan Peliharaan</a></li>
-                                        <li><a href="#/">Persia</a></li>
+                                        <li><a href="#/">Ikan</a></li>
                                         <li><a href="#/">Burung</a></li>
                                         <li><a href="#/">Anjing</a></li>
                                         <li><a href="#/">Reptil</a></li>
-                                        <li><a href="#/">Husky</a></li>
                                     </ul>
                                 </div>
                             </div>
