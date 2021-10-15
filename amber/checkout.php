@@ -463,7 +463,7 @@
                                 </div>
                                 
                             <div class="order-button-payment">
-                                <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</button>
+                                <a href="bayar.php" class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</a>
                             </div>
                         </div>
                         <!-- Payment Accordion Order Button End -->

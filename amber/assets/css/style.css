@@ -21887,7 +21887,10 @@ input[type="checkbox"]:checked + label:after {
     margin: 0 0 40px;
   }
 }
+.orange{
 
+  color: #f6ab49;
+}
 @media only screen and (max-width: 479px) {
   .error_form .title {
     font-size: 106px;
