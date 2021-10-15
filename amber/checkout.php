@@ -35,20 +35,20 @@
                         <!-- Checkout Login Start -->
                         <div id="checkout-login" class="coupon-content">
                             <div class="coupon-info">
-                                <p class="coupon-text mb-2">Login dengan akun untuk memproses pesanan.</p>
+                                <p class="coupon-text mb-2"><strong>Login dengan akun untuk memproses pesanan.</strong></p>
 
                                 <!-- Form Start -->
                                 <form action="#">
                                     <!-- Input Email Start -->
                                     <p class="form-row-first">
-                                        <label>Username atau email <span class="required">*</span></label>
+                                        <label><strong>Username atau email <span class="required">*</strong></span></label>
                                         <input type="text">
                                     </p>
                                     <!-- Input Email End -->
 
                                     <!-- Input Password Start -->
                                     <p class="form-row-last">
-                                        <label>Password <span class="required">*</span></label>
+                                        <label><strong>Password <span class="required">*</strong></span></label>
                                         <input type="password">
                                     </p>
                                     <!-- Input Password End -->
@@ -61,7 +61,7 @@
                                     <!-- Remember Password End -->
 
                                     <!-- Lost Password Start -->
-                                    <p class="lost-password"><a href="#">Lupa Password?</a></p>
+                                    <p class="lost-password"><a href="#"><strong>Lupa Password?</strong></a></p>
                                     <!-- Lost Password End -->
 
                                 </form>
@@ -384,11 +384,11 @@
                                 <!-- Table Body Start -->
                                 <tbody>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
+                                        <td class="cart-product-name text-start ps-0"><strong> Anjing Shiba Inu<strong class="product-quantity"></strong> × 1</td>
                                         <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
                                     </tr>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
+                                        <td class="cart-product-name text-start ps-0"><strong>Kucing Anggora Asli<strong class="product-quantity"></strong> × 1</td>
                                         <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
                                     </tr>
                                 </tbody>
@@ -463,7 +463,7 @@
                                 </div>
                                 
                             <div class="order-button-payment">
-                                <button class="btn btn-primary btn-hover-secondary rounded-0 w-100">Checkout</button>
+                                <a href="konfirmasi-pembayaran.php" class="btn btn-primary btn-hover-secondary rounded-0 w-100">Proses Pesanan</a>
                             </div>
                         </div>
                         <!-- Payment Accordion Order Button End -->

@@ -662,31 +662,31 @@
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck12">
-                                                <label class="custom-control-label" for="customCheck12">Anjing (20)</label>
+                                                <label class="custom-control-label" for="customCheck12">Iguana Hijau (20)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck13">
-                                                <label class="custom-control-label" for="customCheck13">Kucing (40)</label>
+                                                <label class="custom-control-label" for="customCheck13">Ular Retic Tiger Albino (10)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck14">
-                                                <label class="custom-control-label" for="customCheck14">Kelinci (8)</label>
+                                                <label class="custom-control-label" for="customCheck14">Buaya Caiman (8)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck11">
-                                                <label class="custom-control-label" for="customCheck11">Kelinci (5)</label>
+                                                <label class="custom-control-label" for="customCheck11">Kura Kura Brazil (5)</label>
                                             </div>
                                         </li>
                                         <li>
                                             <div class="custom-control custom-checkbox">
                                                 <input type="checkbox" class="custom-control-input" id="customCheck15">
-                                                <label class="custom-control-label" for="customCheck15">Ular (4)</label>
+                                                <label class="custom-control-label" for="customCheck15">Ular Python Pohon Hijau (4)</label>
                                             </div>
                                         </li>
                                     </ul>

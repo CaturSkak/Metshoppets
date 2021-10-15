@@ -27,19 +27,16 @@
         <div class="container">
 
             <div class="row">
-
-
                 <div class="col-12">
                 <div class="myaccount-tab-menu " >
-
+                            <a class="header-top bg-primary">Detail Pesanan</a>
 
                     <div class="cart-table table-responsive">
                         <table class="table table-bordered">
-
-                                <div class="tab-content" id="myaccountContent">
-
+                        
+                    
                                     <!-- Single Tab Content Start -->
-                                    <div class="tab-pane fade show active" id="dashboad" role="tabpanel">
+                                    <div >
                                         <div class="myaccount-content">
                                             <div class="welcome">
                                                 <p>Halo, <strong>Jhony </strong><strong>Sins!</strong>
@@ -48,20 +45,19 @@
                                             <p class="mb-1">Nomor Pesanan&ensp;: ORDER-11981982998</p>
                                             <p class="mb-1">Total Harga&ensp;&ensp;&ensp;&ensp;&ensp;: Rp.6.000.000</p>
                                             <p class="mb-1">Tanggal &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; : 21 Februari 2021</p>
-                                            <p class="mb-1">Status&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: Pending</p>
-                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp;: Belum Lunas</p>
-                                            </div>
+                                            <p class="mb-1">Status&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: Belum Konfirmasi </p> 
+                                            
 
+              
+                                            <p class="mb-1"> Pembayaran &ensp;&ensp;&ensp; : Belum Lunas</p>
+                                            
+                                         
                                         </div>
                                     </div>
-                               
                             <!-- Table Head Start -->
-
                             <thead>
-
                                 <tr>
                                     <th class="pro-thumbnails">Nomor</th>
-
                                     <th class="pro-thumbnail">preview</th>
                                     <th class="pro-title">Produk</th>
                                     <th class="pro-price">Harga</th>
@@ -75,7 +71,7 @@
                             <!-- Table Body Start -->
                             <tbody>
                                 <tr>
-
+                                    <td class="pro-thumbnail"><span>1</span></td>
                                     <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/shiba inu.png" alt="Product" /></a></td>
                                     <td class="pro-title"><span>Anjing Shiba Inu</span></td>
                                     <td class="pro-price"><span>Rp.6.000.000</span></td>
@@ -83,92 +79,78 @@
                                     <td class="pro-subtotal"><span>Rp.6.000.000</span></td>
                                 </tr>
                                 <tr>
+                                    <td class="pro-thumbnail"><span>2</span></td>
+                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
+                                    <td class="pro-title"><span>Kucing Anggora Asli</span></td>
+                                    <td class="pro-price"><span>Rp.5.740.000</span></td>
+                                    <td class="pro-quantity"><span>1</span></td>
+                                    <td class="pro-subtotal"><span>Rp.5.740.000</span></td>
+                                </tr>
+                            
+                            </tbody>
+                            <!-- Table Body End -->
 
-                    <div class="col-lg-6 col-12 mb-4">
+                        </table>
 
-                    <!-- Your Order Area Start -->
-                    <div class="your-order-area border">
-
-                        <!-- Title Start -->
-                        <h3 class="title">Total Pesanan</h3>
-                        <!-- Title End -->
-
-                        <!-- Your Order Table Start -->
+                    </div>
+                    <!-- Cart Table End -->
+<!-- Your Order Table Start -->
                         <div class="your-order-table table-responsive">
                             <table class="table">
 
-                                <!-- Table Head Start -->
-                                <thead>
-                                    <tr class="cart-product-head">
-                                        <th class="cart-product-name text-start">Produk</th>
-                                        <th class="cart-product-total text-end">Total</th>
-                                    </tr>
-                                </thead>
-                                <!-- Table Head End -->
-
+                               
                                 <!-- Table Body Start -->
-                                <tbody>
-                                    <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
-                                    </tr>
-                                    <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
-                                    </tr>
-                                </tbody>
-                                <!-- Table Body End -->
+                               
 
                                 <!-- Table Footer Start -->
                                 <tfoot>
                                     <tr class="cart-subtotal">
-                                        <th class="text-start ps-0">Subtotal</th>
+                                        <th class="text-start ps-0">Sub Total</th><td></td>
                                         <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
                                     </tr>
-                                    <tr class="order-total">
-                                        <th class="text-start ps-0">Order Total</th>
-                                        <td class="text-end pe-0"><strong><span class="amount">Rp.11.740.000</span></strong></td>
+                                    <tr class="cart-subtotal">
+                                        <th class="text-start ps-0">Order Total</th><td></td>
+                                        <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
                                     </tr>
+                                    
                                 </tfoot>
                                 <!-- Table Footer End -->
 
                             </table>
-                       
-                            
+                            <table>
 
-                        <!-- Cart Button left Side Start -->
-                        <div class="overflow-hidden">
-                         
+                                <div class="cart-btn-right-right mb-4"  >
+
+                            <tr >
+                          
+                            <td >&nbsp;
+                                
+                                    <a href="konfirmasi-pembayaran.php" class="btn btn btn-gray-deep btn-hover-primary cart-btn-right-right mb-4 ">Konfirmasi</a>
+                                  
+                              
+                                   
+                               
+                                 
+                            </td>
+                        </tr>
+                        </div></table>
+                        
                         </div>
-                        <!-- Cart Button left Side End -->
-
-                        <!-- Cart Button Right Side Start -->
-                        <div class="cart-btn-right-right mb-4">
-                            <a href="#" class="btn btn btn-gray-deep btn-hover-primary">Konfirmasi Pesanan</a>
-
-                        </div>
-                        <!-- Payment Accordion Order Button End -->
-                    </div>
-                    <!-- Your Order Area End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Checkout Section End -->
-
-                    </div>
-                    <!-- Cart Button End -->
-
+                        <!-- Your Order Table End -->
+                  
                 </div>
             </div>
 
             
 
                 </div>
+
             </div>
 
         </div>
+
     </div>
+
 
     <!-- Shopping Cart Section End -->
 

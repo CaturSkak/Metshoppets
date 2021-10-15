@@ -11,10 +11,10 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Login</h2>
+                        <h2 class="breadcrumb-title">Konfirmasi Pembayaran</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
-                            <li>Login</li>
+                            <li>Konfirmasi Pembayaran</li>
                         </ul>
                     </div>
                 </div>
@@ -32,43 +32,44 @@
 
                         <!-- Login Title & Content Start -->
                         <div class="section-content text-center mb-6">
-                            <h2 class="title mb-2">LOGIN</h2>
+                            <h2 class="title mb-2">Konfirmasi Pembayaran</h2>
                         </div>
                         <!-- Login Title & Content End -->
 
                         <!-- Form Action Start -->
-                        <form action="#" method="post">
+                        <form >
 
                             <!-- Input Email Start -->
-                            <div class="single-input-item mb-2">
-                                <label><strong>Username</label><span class="required"></strong></span></label>
-                                <input type="email" placeholder="Email atau Username">
-                            </div>
-                            <!-- Input Email End -->
-
-                            <!-- Input Password Start -->
-                            <div class="single-input-item mb-2">
-                                <label><strong>Password Anda</label><span class="required"></strong></span></label>
-                                <input type="password" placeholder="Masukkan Password Anda">
-                            </div>
-                            <!-- Input Password End -->
-
-                            <!-- Button/Forget Password Start -->
-                            <div class="single-input-item mb-3">
-                                <div class="login-reg-form-meta mb-n3">
-
-                                    <button class="btn btn btn-gray-deep btn-hover-primary mb-3"><a href="index.php" >Masuk</a></button>
-                                    <a href="#" class="forget-pwd mb-3"><strong>Lupa Password?</strong></a>
-
-                                </div>
-                            </div>
-                            <!-- Button/Forget Password End -->
-
-                            <!-- Lost Password & Creat New Account Start -->
-                            <div class="lost-password">
-                                <a href="register.php"><strong>Daftar Sekarang</strong></a>
-                            </div>
-                            <!-- Lost Password & Creat New Account End -->
+                          <div class="col-md-12">
+                    <div class="box">
+                       
+                        <div class="form-group">
+                            <label for="">Nomor Rekening :</label>
+                            <input type="number" class="form-control" id="rekening" name="rekening"
+                                   placeholder="Nomor Rekening" >
+                        </div>
+                        <div class="form-group">
+                            <label for="">Atas Nama :</label><br>
+                            <input type="text" class="form-control" id="atas_nama" name="atas_nama"
+                                   placeholder="Nama" >
+                        </div>
+                        <div class="form-group">
+                            <label for="">Nominal Transfer (Rp.) :</label>
+                            <input type="number" name="nominal" class="form-control" id="nominal"
+                               >
+                        </div>
+                        <div class="form-group">
+                            <label for="">Upload Struk :</label>
+                            <input type="file" class="form-control" >
+                        </div>
+                        <br>
+                        <a href="my-account.php"
+                        class="btn btn-block btn-primary" ><i
+                               ></i>Konfirmasi
+                        </a>
+              
+                    </div>
+               
 
                         </form>
                         <!-- Form Action End -->

@@ -57,7 +57,7 @@
                                         <div class="myaccount-content">
                                             <h3 class="title">Dashboard</h3>
                                             <div class="welcome">
-                                                <p>Halo, <strong>Alex Aya</strong> (Jika Bukan <strong>Aya !</strong><a href="login.php" class="logout"> Logout</a>)</p>
+                                                <p>Halo, <strong>Jhony Sins</strong> (Jika Bukan <strong>Jhony !</strong><a href="login.php" class="logout"> Logout</a>)</p>
                                             </div>
                                             <p class="mb-0">Dari Akun dashboard anda. Anda dapat dengan mudah memeriksa & melihat pesanan terbaru Anda, mengelola alamat pengiriman dan penagihan Anda, serta mengedit kata sandi dan detail akun Anda.</p>
                                         </div>
@@ -72,7 +72,7 @@
                                                 <table class="table table-bordered">
                                                     <thead class="thead-light">
                                                         <tr>
-                                                            <th>Order</th>
+                                                            <th>Nomor Pesanan</th>
                                                             <th>Tanggal</th>
                                                             <th>Status</th>
                                                             <th>Total</th>
@@ -83,28 +83,28 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <td>21 Feb 2021</td>
-                                                            <td>Pending</td>
+                                                            <td>Belum Lunas</td>
                                                             <td>Rp.6.000.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
                                                             <td>12 Maret 2021</td>
-                                                            <td>Pending</td>
+                                                            <td>Belum Lunas</td>
                                                             <td>Rp.5.740.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
                                                             <td>22 Juli, 2021</td>
-                                                            <td>Approved</td>
+                                                            <td>Sudah Lunas</td>
                                                             <td>Rp.2.000.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
                                                             <td>12 Juni, 2019</td>
-                                                            <td>On Hold</td>
+                                                            <td>Belum Dikonfirmasi</td>
                                                             <td>Rp.1.000.000</td>
                                                             <td><a href="konfirmasi-pesanan.php" class="btn btn btn-dark btn-hover-primary btn-sm rounded-0">Lihat</a></td>
                                                         </tr>
