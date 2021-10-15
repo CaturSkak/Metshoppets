@@ -49,16 +49,15 @@
                         <!-- Shopt Top Bar Right Start -->
                         <div class="shop-top-bar-right">
 
-                            <h4 class="title me-2">Short By: </h4>
+                            <h4 class="title me-2">Di Urutkan Berdasarkan: </h4>
 
                             <div class="shop-short-by">
                                 <select class="nice-select" aria-label=".form-select-sm example">
-                                    <option selected>Short by Default</option>
-                                    <option value="1">Short by Popularity</option>
-                                    <option value="2">Short by Rated</option>
-                                    <option value="3">Short by Latest</option>
-                                    <option value="3">Short by Price</option>
-                                    <option value="3">Short by Price</option>
+                                    <option selected>Di Urutkan Berdasarkan Standar</option>
+                                    <option value="1">Di Urutkan Berdasarkan Popularitas</option>
+                                    <option value="2">Di Urutkan Berdasarkan Rating</option>
+                                    <option value="3">Di Urutkan Berdasarkan Terbaru</option>
+                                    <option value="3">Di Urutkan Berdasarkan Harga</option>
                                 </select>
                             </div>
                         </div>
@@ -644,7 +643,7 @@
                     <aside class="sidebar_widget mt-10 mt-lg-0">
                         <div class="widget_inner">
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Search</h3>
+                                <h3 class="widget-title mb-6">Pencarian</h3>
                                 <div class="search-box">
                                     <input type="text" class="form-control" placeholder="Cari" aria-label="Cari">
                                     <button class="search-icon" type="button">
@@ -653,7 +652,7 @@
                                 </div>
                             </div>
                             <div class="widget-list mb-10">
-                                <h3 class="widget-title mb-6">Categories</h3>
+                                <h3 class="widget-title mb-6">Kategori</h3>
                                 <div class="sidebar-body">
                                     <ul class="sidebar-list">
                                         <li><a href="#/">Semua Produk</a></li>
