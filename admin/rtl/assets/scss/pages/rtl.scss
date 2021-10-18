@@ -1,0 +1,281 @@
+.rtl{
+    direction: rtl;
+
+    // Nestable SCSS
+    .dd3-handle{
+        left: auto;
+        right: 0;
+
+        &::before{
+            left: auto;
+            right: 0;
+        }
+    }
+    .dd3-content{
+        @extend .p-r-40;
+        @extend .p-l-10;
+    }
+
+    .dd3-item {
+        > button{
+            @extend .m-r-35;
+            @extend .m-l-0;
+            float: right;
+        }
+    }
+    .dd-list {
+        .dd-list{
+            @extend .p-r-30;
+            @extend .p-l-0;
+        }
+    }
+
+    // Range Slider
+    .full .rs-bar,
+    .half.left .rs-bar,
+    .half.right .rs-bar{
+        left: 0;
+    }
+    .rs-handle{
+        float: left;
+    }
+
+    // TreeView
+    .treeview {
+        span.icon{
+            @extend .m-r-0;
+            @extend .m-l-5;
+        }
+    }
+
+    // jQuery DataTable
+    div.dataTables_wrapper {
+        div.dataTables_filter {
+            input{
+                margin-left: 0;
+                margin-right: 0.5em;
+            }
+        }
+    }
+}
+.rtl{
+    .auth-main:before{
+        left: 0;
+        right: auto;
+    }
+
+    &.offcanvas-active{
+        #left-sidebar{
+            right: 0;
+        }    
+    }
+    .navbar-fixed-top{
+        left: 0;
+        right: auto;
+        .search-form{
+            margin-right: 0;
+            margin-left: 20px;
+            .btn{
+                left: 15px;
+                right: auto;
+            }
+        }
+        .navbar-btn{
+            margin-right: 0;
+            padding-right: 0;
+            margin-left: 15px;
+            padding-left: 10px;
+            float: right;
+            border-right: 0;
+            border-left: 1px solid #fff;
+        }
+    }
+    #left-sidebar{
+        right: 0;
+        left: auto;
+        .navbar-brand span{
+            margin-right: 10px;
+            margin-left: 0;
+        }
+        @include max-screen($break-large) {
+            right: -270px;
+            left: auto;
+
+        }
+    }
+    .rightbar{
+        left: -320px;
+        right: auto;
+
+        &.open{
+            left: 0;
+        }
+    }
+    #main-content{
+        float: left;        
+    }
+    .navbar-nav .dropdown-menu{
+        left: 0;
+    }
+    .feeds_widget li .feeds-left{
+        float: right;
+    }
+    .right_chat .media{
+        .media-object{
+            margin-left: 10px;
+            margin-right: 0;
+        }
+        .status{
+            right: 23px;
+            left: auto;
+        }
+    }
+    .card{
+        .header .header-dropdown{
+            left: 20px;
+            right: auto;
+            li .dropdown-menu{
+                right: auto;
+                top: 0 !important;
+            }
+        }        
+    }
+    .fancy-checkbox{
+        margin-right: 0;
+        margin-left: 10px;
+        input[type="checkbox"]+span:before{
+            margin-left: 10px;
+            margin-right: 0;
+        }
+    }
+    .fancy-radio{
+        input[type="radio"]:checked+span i:after{
+            right: 3px;
+            left: auto;
+        }
+        input[type="radio"]+span i{
+            margin-left: 5px;
+            margin-right: 0;
+        }
+    }
+    .wizard .steps>ul>li{
+        float: right;
+    }
+    div.dataTables_wrapper div.dataTables_filter{
+        text-align: left;
+        float: left;
+    }
+    .c_list .c_name{
+        margin-right: 10px;
+        margin-left: 0;
+    }
+    .pull-left {
+        float: right;
+    }
+    .pull-right, {
+        float: left;
+    }
+    .metismenu{
+        .has-arrow:after{
+            left: 1em;
+            right: auto;
+        }
+    }
+    .breadcrumb{
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    .team-info li+li{
+        margin-right: -10px;
+        margin-left: 0;
+    }
+    .mail-inbox{
+        .mail-left{
+            .mail-side .nav li a .badge{
+                margin-right: auto;
+                margin-left: 0;
+            }
+        }
+        .mail-right{
+            .mail-list ul li{
+                .mail-detail-left{
+                    float: right;
+                    .mail-star{
+                        left: 10px;
+                        right: auto;
+                    }
+                }
+                .mail-detail-right{
+                    padding-left: 60px;
+                    padding-right: 0;
+                    span.time{
+                        left: 0;
+                        right: auto;
+                    }
+                }
+                .hover-action{
+                    left: 0;
+                    right: auto;
+                }
+            }
+        }
+    }
+    .chat-app{
+        .chat .chat-header{
+            .chat-about,
+            img{
+                float: right;
+            }
+            .chat-about{
+                padding-right: 10px;
+                padding-left: 0;
+            }
+        }
+        .chat-history{
+            .message:after{
+                right: 7%;
+                left: auto;
+            }
+            .other-message:after{
+                right: 93%;
+            }
+        }        
+    }
+    .media .media-left{
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    .list-widget .badge,
+    .basic-list li span{
+        float: left;
+    }
+    .new_timeline>ul{
+        padding: 1em 2em 0 0;
+        &:before{
+            right: 2.5em;
+            left: auto;
+        }
+        .bullet{
+            margin-left: 5px;
+            margin-right: 0;
+        }
+    }
+    .w_bitcoin .body{
+        left: 0;
+    }
+    .weather .city i{
+        left: 0;
+        right: auto;
+    }
+    .testimonial4 .carousel-info img{
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    .accordion .card-header .btn{
+        text-align: right;
+    }
+    &.layout-fullwidth #wrapper #left-sidebar{
+        right: -250px;
+        left: auto;
+    }
+}

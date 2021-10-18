@@ -1,0 +1,242 @@
+.fc {
+    .fc-toolbar {
+        @extend .p-t-10;
+        @extend .p-b-10;
+        @extend .margin-0;
+        color: $grey-800;
+        background: transparent;
+        border-radius: 0;        
+
+        h2 {            
+            @extend .p-t-5;
+            @extend .margin-0;
+            color: $grey-300;
+            font-size: 16px;
+            text-transform: uppercase;
+        }
+        .fc-today-button, .fc-state-default{
+            background: transparent;            
+            color: $font-color;          
+            padding: 5px 15px;
+            height: auto;
+            border: 1px solid $line-color;
+            box-shadow: none;
+            text-shadow: none;
+            &:hover{
+                background: $line-color;
+            }
+        }        
+    }
+
+    .fc-view-container {
+        .fc-event {
+            padding: 3px 5px;
+            font-size: 12px;
+            border-radius: $border-radius-small;            
+            border: 0;
+            color: $grey-100;
+
+            &.fc-event-end:not(.fc-event-start) {
+                border: 0!important;
+            }
+
+            &:focus,
+            &:hover,
+            &:active {
+                z-index: 1000;
+                color: $col-white;
+                .fc-overlay {
+                    @extend .displayblock;
+                }
+            }
+        }
+        .fc-view {
+            &.fc-basic-view,
+            &.fc-agenda {
+                >table {
+                    >thead {
+                        tr {
+                            th,
+                            td {
+                                &.fc-widget-header {
+                                    border: 1px solid $line-color;
+                                    padding: 10px;
+                                    color: $grey-700;                      
+                                }
+                                &.fc-agenda-gutter {
+                                    @extend .padding-0;
+                                }
+                            }
+                            td {
+                                &.fc-widget-header {
+                                    @extend .padding-0;
+                                }
+                            }
+                        }
+                    }
+                    tbody {
+                        tr {
+                            td {
+                                &.fc-widget-content {
+                                    border: 0;
+                                    border-bottom: 1px solid $line-color;
+                                    border-right: 1px solid $line-color;
+                                    &.fc-state-highlight {
+                                        background: $col-white;
+                                    }
+                                }
+                                &.fc-day-number {
+                                    padding: 5px 10px;
+                                    margin: 5px;
+                                    color: $grey-800;
+
+                                    &.fc-state-highlight {
+                                        background-color: $col-red;
+                                        color: $col-white;
+                                        @include border-radius(50%);
+                                        padding: 4px 6px;
+                                        float: right;
+                                    }
+                                }
+                                &:first-child {
+                                    &.fc-widget-content {
+                                        border-left: 1px solid $line-color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .fc-body {
+                    .fc-row .fc-bg {
+                        border-bottom: 1px solid $line-color;
+                    }
+                    .fc-row:last-of-type .fc-bg {                        
+                        border-bottom: 0;
+                    }
+                }
+                .fc-agenda-allday {
+                    .fc-agenda-axis,
+                    .fc-agenda-gutter {
+                        border-left: 1px solid $line-color;
+                        border-right: 1px solid $line-color;
+                        background-color: $grey-200;
+                        color: $grey-800;
+                        font-size: 12px;
+                        font-weight: 100;
+                        padding: 10px 5px;
+                    }
+                }
+                >table {
+                    >tbody {
+                        >tr {
+                            >td {
+                                &.fc-state-highlight {
+                                    background: $grey-200;
+                                }
+                                &.fc-sat {
+                                    border-right: 0;
+                                }
+                            }
+                        }
+                    }
+                }
+                .fc-agenda-slots {
+                    tr {
+                        line-height: 35px;
+                        th {
+                            border: 0;
+                            border-left: 1px solid $line-color;
+                            border-right: 1px solid $line-color;
+                            background-color: $grey-200;
+                            color: $grey-800;
+                            font-size: 12px;
+                            font-weight: 100;
+                            padding-top: 10px;
+                        }
+                        td.fc-widget-content {
+                            border-bottom: 1px solid $line-color;
+                            line-height: 50px;
+                            &:last-child {
+                                border-right: 0;
+                            }
+                        }
+                        &.fc-minor {
+                            td.fc-widget-content {
+                                border-bottom: 1px solid $line-color;
+                            }
+                        }
+                    }
+                }
+                .fc-agenda-divider {
+                    border: 1px solid $line-color;
+                    .fc-agenda-divider-inner {
+                        background-color: $grey-200;
+                        height: 3px;
+                    }
+                }
+            }
+        }
+        .fc-list-view{
+            .fc-list-item{
+                color: $grey-200;
+            }
+        }
+        .fc-other-month{
+            background: $body-color;
+        }
+
+        .fc-basic-view .fc-day-number, .fc-basic-view .fc-week-number{
+            float: left;
+            padding: 10px 0 5px 10px;
+            font-size: 15px;
+        }
+    }    
+
+    .fc-popover{
+        box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.2);
+        border: none;
+        padding: 10px;
+        border-radius: $border-radius-large;
+        .fc-event-container{
+            padding: 0;
+        }
+        .fc-event{
+            padding: 4px 8px;
+            margin: 2px 0px;
+        }
+    
+    }
+
+    .fc-agendaWeek-view,
+    .fc-agendaDay-view,
+    .fc-listWeek-view{
+        .fc-head{
+            .fc-widget-header{
+                span{
+                    padding: 10px;
+                    display: inline-block;
+                }
+            }
+        }        
+    }
+
+    &.fc-unthemed{
+        td, th, .fc-row, tbody{
+            border-color: $line-color;
+        }
+        .fc-minor{
+            display: none;
+        }
+        .fc-divider{
+            background: $line-color;
+            border-color: $line-color;
+        }
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .fc-toolbar .fc-right{ display: none;}
+    .fc-toolbar .fc-left{ width: 100%; margin-bottom: 15px;}
+    .fc .fc-toolbar .fc-today-button{ float: right;}
+}

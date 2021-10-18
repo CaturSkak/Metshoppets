@@ -1,0 +1,93 @@
+.accordion{
+	.card-header{
+        @extend .padding-0;
+        border-color: $line-color;
+        .btn{
+            @extend .align-left;
+            padding: 10px 20px;
+            width: 100%;
+            font-size: 15px;
+            color: $font-color;
+
+            &:hover,
+            &:focus{
+                color: $grey-400;
+                box-shadow: none;
+                text-decoration: none;
+            }
+        }
+    }
+    .collapse{
+        .card-body{
+            background: $line-color;
+        }        
+    }
+
+    &.custom{
+        .card-header{
+            background: transparent;
+            border-color: $line-color;
+            .btn{
+                color: $grey-700;
+
+                &:hover,
+                &:focus{
+                    text-decoration: none;                    
+                }
+            }
+        }
+        .card-body{
+            font-size: 15px;
+            line-height: 28px;
+            color: $grey-600;
+        }
+    }
+}
+
+.accordion2 {
+	@extend .margin-0;
+	@extend .padding-0;
+	list-style: none;
+    border-top: 1px solid $line-color;
+    
+    .accordion-item {
+        border-bottom: 1px solid $line-color;
+        padding: 0 15px;        
+    }
+
+    /* Thumb */
+    .accordion-thumb {
+        font-weight: $font-weight-400;
+        @extend .margin-0;
+        padding: .8rem 0;
+        cursor: pointer;        
+        font-size: 16px;        
+        
+        // Chevron
+        &::before {
+            @extend .inlineblock;            
+            content: "\f138";
+            font-family: 'FontAwesome';
+            @include transition(all .3s ease-in-out);
+        }
+
+
+        span{
+            @extend .m-l-10;
+        }
+    }
+
+    /* Panel */
+    .accordion-panel {
+        @extend .margin-0;
+        padding-bottom: .8rem;
+        display: none;
+    }
+
+    /* Active */
+    .accordion-item.is-active {
+        .accordion-thumb::before {
+            content: "\f13a";            
+        }
+    }
+}
