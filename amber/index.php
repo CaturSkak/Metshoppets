@@ -130,7 +130,7 @@
                 <!-- Tab Start -->
                 <div class="col-12">
                     <ul class="product-tab-nav nav justify-content-center mb-n3 pb-8 title-border-bottom">
-                        <li class="nav-item mb-3"><a class="nav-link active" data-bs-toggle="tab" href="#tab-product-all">Produk Terlaris</a></li>
+                        <li class="nav-item mb-3"><a class="nav-link active" data-bs-toggle="tab" href="#tab-product-all">Hewan Terlaris</a></li>
                         <li class="nav-item mb-3"><a class="nav-link" data-bs-toggle="tab" href="#tab-product-featured">Penjualan</a></li>
                         <li class="nav-item mb-3"><a class="nav-link" data-bs-toggle="tab" href="#tab-product-all">Favorit Teratas</a></li>
                     </ul>
@@ -809,7 +809,7 @@
 
                     <!-- Section Title Start -->
                     <div class="section-title text-center">
-                        <h2 class="title" data-aos="fade-up" data-aos-duration="1000">Produk Favorit Minggu Ini</h2>
+                        <h2 class="title" data-aos="fade-up" data-aos-duration="1000">Hewan Favorit Bulan Ini</h2>
                     </div>
                     <!-- Section Title End -->
 
