@@ -40,7 +40,7 @@
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/logo.png" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/logo.png" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -74,8 +74,8 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>
             
@@ -194,7 +194,7 @@
                             </ul>
                         </li>
                         <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
+                        <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -356,7 +356,7 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="../assets/images/logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop 
+            <a href="index.php"><img src="../assets/images/logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop 
             Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
@@ -369,47 +369,47 @@
                     <span>Selamat Datang,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Keluar</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
-                    <li><a href="app-chat.html"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Masuk</a></li>
-                            <li><a href="page-register.html">Daftar</a></li>
-                            <li><a href="page-lockscreen.html">Kunci Layar</a></li>
-                            <li><a href="page-forgot-password.html">Lupa Kata Sandi</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.html">Peta Google</a></li>                         
+                            <li><a href="map-google.php">Peta Google</a></li>                         
                         </ul>
                     </li>
                 </ul>
@@ -425,7 +425,7 @@
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
                         <li class="breadcrumb-item">Halaman</li>
                         <li class="breadcrumb-item active">Profil Saya</li>
                     </ul>
@@ -488,10 +488,14 @@
 
                     <div class="card">
                         <div class="header bline">
-                            <h2>Gambar </h2>
+                            <h2>Toko MetShopPet's I</h2>
                         </div>
                         <div class="body">
-                        <img class="img-fluid" src="../assets/images/blog/blog-page-1.jpg" alt="img">
+                        <img class="img-fluid" src="../assets/images/gd1.png" alt="img">
+                        <div class="header bline">
+                            <h2>Toko MetShopPet's II</h2>
+                        </div>
+                        <img class="img-fluid" src="../assets/images/gd.png" alt="img">
                             <ul class="right_chat list-unstyled mb-0">
                                 <li>
                                     <a href="javascript:void(0);">
@@ -632,7 +636,7 @@
                                         </div>
                                         <div class="col-lg-6 col-md-12">
                                             <div class="form-group">
-                                                <input type="text" class="form-control" placeholder="Nomor Telephone">
+                                                <input type="text" class="form-control" placeholder="Nomor Telepon">
                                             </div>
                                         </div>
 
