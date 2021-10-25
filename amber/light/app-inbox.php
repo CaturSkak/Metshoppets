@@ -92,7 +92,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/12.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Doni S. <small class="float-right">23 Juni</small></span>
                                                 <span class="message">pesanan anda sudah saya terima!</span>
@@ -103,7 +103,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar1.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/wiskas.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Cs Whiskas <small class="float-right">25 Juni</small></span>
                                                 <span class="message">Mohon Maaf Bapak Kami dari pihak Whiskas ingin memberikan sponsorship..</span>
@@ -114,7 +114,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar5.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/19.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Sonia Vita Sari <small class="float-right">27 Juni</small></span>
                                                 <span class="message">Ada Banya Pembelihan hewan yang sudah dibayar di Acc oleh Bapak/Ibu...</span>
@@ -125,7 +125,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media mb-0">
-                                            <img class="media-object " src="../assets/images/xs/avatar2.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/bolt.png" alt="">
                                             <div class="media-body">
                                                 <span class="name">Cs Bolt M.A. <small class="float-right">30 Juni</small></span>
                                                 <span class="message">KamI Menawarkan Produk Kami kepada Toko MetShopPet's yaitu Bolt</span>
