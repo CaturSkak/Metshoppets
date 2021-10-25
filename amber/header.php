@@ -195,9 +195,6 @@
                                 <a href="my-account.php" class="header-action-btn header-action-btn-wishlist">
                                     <i class="icon-user icons"></i>
                                 </a>
-                                <a href="admin/light/page-login.html" class="header-action-btn header-action-btn-wishlist">
-                                    <i class="fa fa-user-circle-o"></i>
-                                </a>
                                 <!-- Header My Account Button End -->
 
                                 <!-- Header Action Button Start -->
