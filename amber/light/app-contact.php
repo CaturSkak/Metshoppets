@@ -381,15 +381,10 @@
                     <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
-                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
+                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
                         <ul>
-                            <li><a href="table-basic.php">Tables Example</a></li>
-                            <li><a href="table-normal.php">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
-                            <li><a href="table-editable.php">Editable Tables</a></li>
-                            <li><a href="table-color.php">Tables Color</a></li>
-                            <li><a href="table-filter.php">Table Filter</a></li>
-                            <li><a href="table-dragger.php">Table dragger</a></li>
+                            <li><a href="table-basic.php">Pembelian</a></li>
+                            <li><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
