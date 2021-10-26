@@ -396,7 +396,7 @@
                     </li>
                     <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
                     <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><li class="active"><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    <li><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
@@ -467,7 +467,7 @@
                             <small class="text-muted">Alamat: </small>
                             <p>Perum Permata Regency 1 Blok 10/28, Perun Gpa, Ngijo, Kec. Karang Ploso, Malang, Jawa Timur 65152</p>
                             <div>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1923731.7533500232!2d-120.39098936853455!3d37.63767091877441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1522391841133" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15807.808378572216!2d112.606886!3d-7.900074!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10433eaf1fb2fb4c!2sHummasoft%20Technology!5e0!3m2!1sid!2sid!4v1633495929730!5m2!1sid!2sid" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
                             <hr>
                             <small class="text-muted">Email: </small>
