@@ -488,10 +488,14 @@
 
                     <div class="card">
                         <div class="header bline">
-                            <h2>Gambar </h2>
+                            <h2>Toko MetShopPet's I</h2>
                         </div>
                         <div class="body">
-                        <img class="img-fluid" src="../assets/images/blog/blog-page-1.jpg" alt="img">
+                        <img class="img-fluid" src="../assets/images/gd1.png" alt="img">
+                        <div class="header bline">
+                            <h2>Toko MetShopPet's II</h2>
+                        </div>
+                        <img class="img-fluid" src="../assets/images/gd.png" alt="img">
                             <ul class="right_chat list-unstyled mb-0">
                                 <li>
                                     <a href="javascript:void(0);">
@@ -632,7 +636,7 @@
                                         </div>
                                         <div class="col-lg-6 col-md-12">
                                             <div class="form-group">
-                                                <input type="text" class="form-control" placeholder="Nomor Telephone">
+                                                <input type="text" class="form-control" placeholder="Nomor Telepon">
                                             </div>
                                         </div>
 
