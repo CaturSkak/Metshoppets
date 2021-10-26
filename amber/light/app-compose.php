@@ -6,17 +6,16 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta name="description" content="HexaBit Bootstrap 4x Admin Template">
-<meta name="author" content="WrapTheme, www.thememakker.com">
-
-<link rel="icon" href="logo.png" type="image/logo">
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
+<link rel="stylesheet" href="../assets/vendor/summernote/dist/summernote.css"/>
+
+<link rel="icon" href="logo.png" type="image/logo">
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/inbox.css">
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 <body class="theme-orange">
@@ -34,65 +33,65 @@
 <div id="wrapper">
 
     <nav class="navbar navbar-fixed-top">
-        <div class="container-fluid">
-
-            <div class="navbar-left">
-                <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
-                    <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
-                </div>
-                <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
-                <ul class="nav navbar-nav">
-                    <li class="dropdown dropdown-animated scale-right">
-                        <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown"><i class="icon-grid"></i></a>
-                        <ul class="dropdown-menu menu-icon app_menu">
-                           <li>
-                                <a class="#">
-                                    <i class="icon-envelope"></i>
-                                    <span>Pesan Masuk</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="#">
-                                    <i class="icon-bubbles"></i>
-                                    <span>Chat</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="#">
-                                    <i class="icon-list"></i>
-                                    <span>Task</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="#">
-                                    <i class="icon-globe"></i>
-                                    <span>Blog</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
-                </ul>
-            </div>
-            
-            <div class="navbar-right">
-                <form id="navbar-search" class="navbar-form search-form">
-                    <input value="" class="form-control" placeholder="Cari Disini..." type="text">
-                    <button type="button" class="btn btn-default"><i class="icon-magnifier"></i></button>
-                </form>                
-
-                <div id="navbar-menu">
+            <div class="container-fluid">
+    
+                <div class="navbar-left">
+                    <div class="navbar-btn">
+                        <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
+                        <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
+                    </div>
+                    <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
                     <ul class="nav navbar-nav">
-                        <li class="dropdown dropdown-animated scale-left">
-                            <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
-                                <i class="icon-envelope"></i>
-                                <span class="notification-dot"></span>
-                            </a>
-                           <ul class="dropdown-menu right_chat email">
+                        <li class="dropdown dropdown-animated scale-right">
+                            <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown"><i class="icon-grid"></i></a>
+                            <ul class="dropdown-menu menu-icon app_menu">
                                 <li>
-                                    <a href="javascript:void(0);">
+                                    <a class="#">
+                                        <i class="icon-envelope"></i>
+                                        <span>Inbox</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="#">
+                                        <i class="icon-bubbles"></i>
+                                        <span>Chat</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="#">
+                                        <i class="icon-list"></i>
+                                        <span>Task</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="#">
+                                        <i class="icon-globe"></i>
+                                        <span>Blog</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                        <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    </ul>
+                </div>
+                
+                <div class="navbar-right">
+                    <form id="navbar-search" class="navbar-form search-form">
+                        <input value="" class="form-control" placeholder="Search here..." type="text">
+                        <button type="button" class="btn btn-default"><i class="icon-magnifier"></i></button>
+                    </form>                
+    
+                    <div id="navbar-menu">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown dropdown-animated scale-left">
+                                <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
+                                    <i class="icon-envelope"></i>
+                                    <span class="notification-dot"></span>
+                                </a>
+                                <ul class="dropdown-menu right_chat email">
+                                    <li>
+                                       <a href="javascript:void(0);">
                                         <div class="media">
                                             <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
                                             <div class="media-body">
@@ -142,7 +141,7 @@
                                 <i class="icon-bell"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                           <ul class="dropdown-menu feeds_widget">
+                            <ul class="dropdown-menu feeds_widget">
                                 <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
                                 <li>
                                     <a href="javascript:void(0);">
@@ -188,15 +187,15 @@
                                             <small>Kamu Menerima Order dari Tina.</small>
                                         </div>
                                     </a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
-                    </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
+                            <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
     </nav>
 
     <div id="rightbar" class="rightbar">
@@ -354,10 +353,10 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
+            <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
-       <div class="sidebar-scroll">
+        <div class="sidebar-scroll">
             <div class="user-account">
                 <div class="user_div">
                     <img src="../assets/images/admin.jpg" class="user-photo" alt="User Profile Picture">
@@ -366,47 +365,47 @@
                     <span>Selamat Datang,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Keluar</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
-                    <li><a href="app-chat.html"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li class="active"><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><li class="active"><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>         
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Masuk</a></li>
-                            <li><a href="page-register.html">Daftar</a></li>
-                            <li><a href="page-lockscreen.html">Kunci Layar</a></li>
-                            <li><a href="page-forgot-password.html">Lupa Kata Sandi</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.html">Peta Google</a></li>                         
+                            <li><a href="map-google.php">Peta Google</a></li>                           
                         </ul>
                     </li>
                 </ul>
@@ -415,135 +414,49 @@
     </div>
 
     <div id="main-content">
-        <div class="block-header">
-            <div class="row clearfix">
-                <div class="col-md-6 col-sm-12">
-                    <h2>Kontak</h2>
-                </div>            
-                <div class="col-md-6 col-sm-12 text-right">
-                    <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item active">Kontak</li>
+        <div class="mail-inbox">
+            <div class="mobile-left">
+                <a href="javascript:void(0);" class="btn btn-primary toggle-email-nav"><i class="fa fa-bars"></i></a>
+            </div>
+            <div class="mail-left">
+                <div class="mail-compose m-b-20">
+                    <a href="app-compose.php" class="btn btn-danger btn-block"> + Tulis</a>
+                </div>
+                <div class="mail-side">
+                    <ul class="nav">
+                        <li><a href="javascript:void(0);"><i class="icon-envelope"></i>Kotak Surat<span class="badge badge-primary float-right">6</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-cursor"></i>Terkirim</a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-envelope-open"></i>Draf<span class="badge badge-info float-right">3</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-action-redo"></i>Teruskan</a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-star"></i>Berbintang<span class="badge badge-warning float-right">6</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-trash"></i>Kotak Sampah<span class="badge badge-danger float-right">9</span></a></li>
                     </ul>
-                    <a href="app-contact.html" class="btn btn-sm btn-outline-success" title=""><i class="fa fa-list"></i></a>
-                    <a href="app-contact-grid.html" class="btn btn-sm btn-success" title=""><i class="fa fa-th-large"></i></a>                    
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addcontact">Buat Baru</a>
                 </div>
             </div>
-        </div>
-
-        <div class="container-fluid">            
-            <div class="row clearfix">
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="75"><span><img src="../assets/images/Budi.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Karyawan) Budi Budiman</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="facebook"href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="instagram"href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <small>Jl.Imam Bonjol XII, No.12 ,Tulungagung </small>
+            <div class="mail-right check-all-parent">                
+                <div class="mail-compose">
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Kepada">
                         </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Subjek">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="CC">
+                        </div>
+                    </form>
+                    <hr>
+                    <div class="summernote">
+                        Halo Selamat Pagi,
+                        <br/>
+                        <p>Assalamualaikum wr.wb</code>, ......</p>
+                        <p>Tolong <b>Tempel atau Tuliskan </b> Disini!</p>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="67"><span><img src="../assets/images/anastashia.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Pemasok) Anatashia Wina</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="google-plus"href="javascript:void(0);"><i class="fa fa-google-plus-box"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="linkedin"href="javascript:void(0);"><i class="fa fa-linkedin-box"></i></a></li>
-                            </ul>
-                            <small>Jl.Pattimura 20, No.32, Kediri</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="23"><span><img src="../assets/images/Eri.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Karyawan) Eri Budiono</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="facebook"href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="instagram"href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <small>Jl.Sunan Ampel XII, No.25,Jember</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="49"><span><img src="../assets/images/okta.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Sponsorship) Okta Wina</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="linkedin"href="javascript:void(0);"><i class="fa fa-linkedin-box"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="instagram"href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <small>Jl.Sunan Ampel 1, No.212 , Probolinggo</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="75"><span><img src="../assets/images/Ani.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Sponsorship) Ani Sabrina</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="facebook"href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="instagram"href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <small>Jl.Teguharjo 2, No.1 , Malang</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="88"><span><img src="../assets/images/abdul.jpeg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Karyawan) Abdul Sinaga</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="google-plus"href="javascript:void(0);"><i class="fa fa-google-plus-box"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="linkedin"href="javascript:void(0);"><i class="fa fa-linkedin-box"></i></a></li>
-                            </ul>
-                            <small>Jl.Riau , No.24.Jember</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="37"><span><img src="../assets/images/beri.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Sponsorship) Beri Budi</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="facebook"href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="instagram"href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <small>Jl.Teuku Umar 3, No.21, Batu</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <div class="card">
-                        <div class="body text-center">
-                            <div class="chart easy-pie-chart-1" data-percent="88"><span><img src="../assets/images/susi.jpg" alt="user" class="rounded-circle"/></span></div>
-                            <h6>(Pemasok) Susi Susanti</h6>
-                            <ul class="social-links list-unstyled">
-                                <li><a title="google-plus"href="javascript:void(0);"><i class="fa fa-google-plus-box"></i></a></li>
-                                <li><a title="twitter"href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                <li><a title="linkedin"href="javascript:void(0);"><i class="fa fa-linkedin-box"></i></a></li>
-                            </ul>
-                            <small>Jl.Sumatera, No.12,Jember</small>
-                        </div>
+                    <div class="m-t-30">
+                        <button type="button" class="btn btn-success">kirimkan</button>
+                        <button type="button" class="btn btn-secondary">Draf</button>
+                        <a href="app-inbox.php" class="btn btn-outline-secondary">Batal</a>
                     </div>
                 </div>
             </div>
@@ -552,78 +465,17 @@
     
 </div>
 
-<!-- Default Size -->
-<div class="modal fade" id="addcontact" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h6 class="title" id="defaultModalLabel">Add Contact</h6>
-            </div>
-            <div class="modal-body">
-                <div class="row clearfix">
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="First Name">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                   
-                            <input type="text" class="form-control" placeholder="Last Name">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <input type="number" class="form-control" placeholder="Phone Number">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Enter Address">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                            
-                            <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
-                            <small id="fileHelp" class="form-text text-muted">This is some placeholder block-level help text for the above input. It's a bit lighter and easily wraps to a new line.</small>
-                        </div>
-                        <hr>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Facebook">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                   
-                            <input type="text" class="form-control" placeholder="Twitter">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Linkedin">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="instagram">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Add</button>
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">CLOSE</button>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!-- Javascript -->
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="assets/bundles/easypiechart.bundle.js"></script><!-- easypiechart Plugin Js -->
-
 <script src="assets/bundles/mainscripts.bundle.js"></script>
+<script src="../assets/vendor/summernote/dist/summernote.js"></script>
+
+<script>
+    $('.toggle-email-nav').on('click', function() {
+		$('.mail-left').toggleClass('open');
+	});
+</script>
 </body>
 </html>

@@ -2,28 +2,24 @@
 <html lang="en">
 
 <head>
-<title>MetShop Pets -Selamat Datang di MetShop Pets</title>
+<title>MetShop Pets -Selamat Datang di MetShop Pet's</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta name="description" content="HexaBit Bootstrap 4x Admin Template">
-<meta name="author" content="WrapTheme, www.thememakker.com">
-
 <link rel="icon" href="logo.png" type="image/logo">
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/vendor/nestable/jquery-nestable.css"/>
 <link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
-<link rel="stylesheet" href="../assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css">
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/inbox.css">
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 <body class="theme-orange">
 
-    <!-- Page Loader -->
+<!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
         <div class="m-t-30"><img src="../assets/images/kucing1.gif" width="150" height="125" alt="Neko"></div>
@@ -40,7 +36,7 @@
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -74,8 +70,8 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>
             
@@ -145,7 +141,7 @@
                                 <span class="notification-dot"></span>
                             </a>
                             <ul class="dropdown-menu feeds_widget">
-                                <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
+                                <li class="header">You have 5 new Notifications</li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-thumbs-o-up text-success"></i></div>
@@ -153,7 +149,7 @@
                                             <h4 class="title text-success">7 masukkan Baru <small class="float-right text-muted">Today</small></h4>
                                             <small>Untuk Website nya sangat Bagus</small>
                                         </div>
-                                   </a>
+                                    </a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);">
@@ -164,7 +160,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li>
+                         <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-question-circle text-warning"></i></div>
                                         <div class="feeds-body">
@@ -194,7 +190,7 @@
                             </ul>
                         </li>
                         <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
+                        <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -356,7 +352,7 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
+            <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
         <div class="sidebar-scroll">
@@ -368,47 +364,49 @@
                     <span>Selamat Datang,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Keluar</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Kotak Masuk</span></a></li>
-                    <li><a href="app-chat.html"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li class="active"><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li class="active"><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    </li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Login</a></li>
-                            <li><a href="page-register.html">Register</a></li>
-                            <li><a href="page-lockscreen.html">Lockscreen</a></li>
-                            <li><a href="page-forgot-password.html">Forgot Password</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.html">Peta Google</a></li>                         
+                            <li><a href="map-google.php">Peta Google</a></li>                         
+                        </ul>                          
                         </ul>
                     </li>
                 </ul>
@@ -416,227 +414,202 @@
         </div>
     </div>
 
-    <div id="main-content" class="taskboard">
-        <div class="block-header">
-            <div class="row clearfix">
-                <div class="col-md-6 col-sm-12">
-                    <h2>Papan Tugas</h2>
-                </div>            
-                <div class="col-md-6 col-sm-12 text-right">
-                    <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item active">Papan Tugas</li>
+    <div id="main-content">        
+        <div class="mail-inbox">
+            <div class="mobile-left">
+                <a href="javascript:void(0);" class="btn btn-primary toggle-email-nav"><i class="fa fa-bars"></i></a>
+            </div>
+            <div class="mail-left">
+                <div class="mail-compose m-b-20">
+                    <a href="app-compose.php" class="btn btn-danger btn-block"> + Tulis</a>
+                </div>
+                <div class="mail-side">
+                    <ul class="nav">
+                        <li class="active"><a href="javascript:void(0);"><i class="icon-envelope"></i>Kotak Surat<span class="badge badge-primary float-right">6</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-cursor"></i>Terkirim</a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-envelope-open"></i>Draf<span class="badge badge-info float-right">3</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-action-redo"></i>Teruskan</a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-star"></i>Berbintang<span class="badge badge-warning float-right">6</span></a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-trash"></i>Kotak Sampah<span class="badge badge-danger float-right">9</span></a></li>
                     </ul>
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addcontact">Buat Baru</a>
                 </div>
             </div>
-        </div>
-
-        <div class="container-fluid">
-            <div class="row clearfix">
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="card planned_task">
-                        <div class="header">
-                            <h2>Perencanaan</h2>
-                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
-                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                                <li class="dropdown">
-                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="javascript:void(0);">Tindakan</a></li>
-                                        <li><a href="javascript:void(0);">Tindakan Lain</a></li>
-                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+            <div class="mail-right check-all-parent">
+                <div class="header d-flex align-center">
+                    <h2>Pesan Masuk</h2>
+                    <form class="ml-auto">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Cari Disini.." aria-label="Search Mail" aria-describedby="search-mail">
+                            <div class="input-group-append">
+                                <span class="input-group-text" id="search-mail"><i class="icon-magnifier"></i></span>
+                            </div>
                         </div>
-                        <div class="body">
-                            <div class="dd" data-plugin="nestable">
-                                <ol class="dd-list">
-                                    <li class="dd-item" data-id="1">
-                                        <div class="dd-handle">
-                                            <h6>Halaman Awal</h6>
-                                            <p>MetShopPet's Ini melayani pembelian dan penjualan Hewan Peliharaan untuk anda.</p>
-                                            <ul class="list-unstyled team-info m-t-20">                                                
-                                                <li><img src="../assets/images/team/Catur.png" data-toggle="tooltip" data-placement="top" title="Catur" alt="Avatar"></li>
-                                                <li><img src="../assets/images/team/Dedi.png" data-toggle="tooltip" data-placement="top" title="Dedi" alt="Avatar"></li>
-                                                <li><img src="../assets/images/team/Farhan.png" data-toggle="tooltip" data-placement="top" title="Farhan" alt="Avatar"></li>
-                                                <li><img src="../assets/images/team/Alif.png" data-toggle="tooltip" data-placement="top" title="Alif" alt="Avatar"></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="dd-item" data-id="2">
-                                        <div class="dd-handle">
-                                            <h6>Rancangan Baru</h6>
-                                            <p>Meningkatkan Kerja sama antar patner dalam perjodohan hewan.</p>
-                                        </div>
-                                    </li>
-                                    <li class="dd-item" data-id="3">
-                                        <div class="dd-handle">
-                                            <h6>Rincian Detail</h6>
-                                            <p>Di MetShopPet's ini Sportif dan inovatif dalam bekerja.</p>
-                                        </div>
-                                    </li>
-                                </ol>
+                    </form>
+                </div>
+                <div class="mail-action clearfix">
+                    <div class="pull-left">
+                        <div class="fancy-checkbox d-inline-block">
+                            <label>
+                                <input class="check-all" type="checkbox" name="checkbox">
+                                <span></span>
+                            </label>
+                        </div>
+                        <div class="btn-group">
+                            <a href="javascript:void(0);" class="btn btn-default btn-sm hidden-sm">Segarkan</a>
+                            <a href="javascript:void(0);" class="btn btn-default btn-sm hidden-sm">Arsip</a>
+                            <a href="javascript:void(0);" class="btn btn-default btn-sm">Sampah</a>
+                        </div>
+                        <div class="btn-group">
+                            <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Selengkapnya</button>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="javascript:void(0);">Tandai Sudah Yang Dibaca</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Tandai Belum Yang DiBaca</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Spam</a>
+                                <div role="separator" class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="javascript:void(0);">Hapus</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pull-right ml-auto">
+                        <div class="pagination-email d-flex">
+                            <p>1-50/295</p>
+                            <div class="btn-group m-l-20">
+                                <button type="button" class="btn btn-default btn-sm"><i class="fa fa-angle-left"></i></button>
+                                <button type="button" class="btn btn-default btn-sm"><i class="fa fa-angle-right"></i></button>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="card progress_task">
-                        <div class="header">
-                            <h2>Dalam Pengerjaan</h2>
-                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
-                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                                <li class="dropdown">
-                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="javascript:void(0);">Tindakan</a></li>
-                                        <li><a href="javascript:void(0);">Tindakan Lain</a></li>
-                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="body">
-                            <div class="dd" data-plugin="nestable">
-                                <ol class="dd-list">
-                                    <li class="dd-item" data-id="1">
-                                        <div class="dd-handle">
-                                            <h6>Memperbarui Menu Beli </h6>
-                                            <p>Memperbarui menu beli dikarenakan ada sistem yang eror pada saat melakukan pembelihan hewan.</p>
-                                        </div>
-                                    </li>
-                                    <li class="dd-item" data-id="2">
-                                        <div class="dd-handle">
-                                            <h6>Rapat</h6>
-                                            <p>Pada Semua tim akan di adakan rapat pada 23 agustus 2021 pada jam 14.00 wib di ruang kantor.</p>
-                                            <ul class="list-unstyled team-info m-t-20">                                                
-                                                <li><img src="../assets/images/team/Catur.png" data-toggle="tooltip" data-placement="top" title="Catur" alt="Avatar"></li>
-                                                <li><img src="../assets/images/team/Farhan.png" data-toggle="tooltip" data-placement="top" title="Farhan" alt="Avatar"></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                </ol>
+                <div class="mail-list">
+                    <ul class="list-unstyled">
+                        <li class="clearfix">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star active"><i class="fa fa-star"></i></a>
                             </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12">
-                    <div class="card completed_task">
-                        <div class="header">
-                            <h2>Terselesaikan</h2>
-                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
-                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
-                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
-                                <li class="dropdown">
-                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="javascript:void(0);">Tindakan</a></li>
-                                        <li><a href="javascript:void(0);">Tindakan Lain</a></li>
-                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="body">
-                            <div class="dd" data-plugin="nestable">
-                                <ol class="dd-list">                                   
-                                    <li class="dd-item" data-id="1">
-                                        <div class="dd-handle">                                        
-                                            <h6>JPerbaikan pada sistem</h6>
-                                            <p>sistem menu perjodohan sudah diperbaiki, jika masih ada kendala eror atau yang lain bisa hub CS kita.</p>
-                                            <ul class="list-unstyled team-info m-t-20">
-                                                <li><img src="../assets/images/team/Dedi.png" data-toggle="tooltip" data-placement="top" title="Dedi" alt="Avatar"></li>
-                                                <li><img src="../assets/images/team/Alif.png" data-toggle="tooltip" data-placement="top" title="Alif" alt="Avatar"></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="dd-item" data-id="2">
-                                        <div class="dd-handle">
-                                            <h6>Kegiatan pada pemasaran di komunitas pencinta hewan selesai</h6>
-                                            <p>Akhirnya dengan kerja keras yang cukup kita bisa melewati kegiatan pada sore hari ini, dimohon kepada karyawan semuanya untuk istirahat yang cukup.</p>
-                                        </div>
-                                    </li>
-                                </ol>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Doni S.</a><span class="badge badge-danger">Pemasok</span></h6></h6>
+                                <p class="dep">Barang yang anda Pesan Sudah sampai kegudang Toko MetShopPet's Anda...</p>
+                                <span class="time">23 Juni</span>
                             </div>
-                        </div>
-                    </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                        <li class="clearfix">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
+                            </div>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">CS Whiskas</a><span class="badge badge-default mb-0">Sponsorship</span></h6>
+                                <p class="dep">Mohon Maaf Bapak Kami dari pihak Whiskas ingin memberikan sponsorship untuk toko MetShopPet's.</p>
+                                <span class="time"><i class="fa fa-paperclip"></i> 25 Juni</span>
+                            </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                        <li class="clearfix unread">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
+                            </div>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Sonia Vita sari</a><span class="badge badge-success">Pekerja Di Bagian Penjualan Hewan</span></h6>
+                                <p class="dep">Ada Banya Pembelihan hewan yang sudah dibayar di Acc oleh Bapak/Ibu Admin silahkan di...</p>
+                                <span class="time">27 Juni</span>
+                            </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                        <li class="clearfix">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
+                            </div>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">CS Bolt M.A.</a><span class="badge badge-default mb-0">Sponsorship</span></h6>
+                                <p class="dep">KamI Menawarkan Produk Kami kepada Toko MetShopPet's yaitu Bolt makanan Anjing yang Banyak.... </p>
+                                <span class="time">30 Juni</span>
+                            </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                        <li class="clearfix">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
+                            </div>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Frank Camly</a><span class="badge badge-danger">Pemasok</span></h6>
+                                <p class="dep"><span class="m-r-10">[WrapTheme]</span>Lorem Ipsum is simply dumm dummy text of the printing and typesetting industry.</p>
+                                <span class="time"><i class="fa fa-paperclip"></i> 31 Juni</span>
+                            </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                        <li class="clearfix">
+                            <div class="mail-detail-left">
+                                <label class="fancy-checkbox">
+                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
+                                    <span></span>
+                                </label>
+                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
+                            </div>
+                            <div class="mail-detail-right">
+                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Rochelle Barton</a><span class="badge badge-success">Pekerja Di Bagian Perjodohan Hewan</span></h6>
+                                <p class="dep">Untuk Bapak/Ibu Admin Apakah Hewan yang mau dijodohkan ini Harus dibersihkan/dimandikan terlibih dahulu.</p>
+                                <span class="time">14 Juli</span>
+                            </div>
+                            <div class="hover-action">
+                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
+                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
-
             </div>
         </div>
     </div>
     
 </div>
 
-<!-- Add New Task -->
-<div class="modal fade" id="addcontact" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h6 class="title" id="defaultModalLabel">Add New Task</h6>
-            </div>
-            <div class="modal-body">
-                <div class="row clearfix">
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Task no.">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                   
-                            <input type="text" class="form-control" placeholder="Job title">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <textarea type="number" class="form-control" placeholder="Description"></textarea>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <select class="form-control show-tick m-b-10">
-                            <option>Select Team</option>
-                            <option>John Smith</option>
-                            <option>Claire Peters</option>
-                            <option>Ken Patrick</option>
-                            <option>Cory Carter</option>
-                            <option>Rochelle Barton</option>
-                        </select>
-                    </div>
-                    <div class="col-12">
-                        <label>Range</label>
-                        <div class="input-daterange input-group" data-provide="datepicker">
-                            <input type="text" class="form-control" name="start">
-                            <span class="input-group-addon"> to </span>
-                            <input type="text" class="form-control" name="end">
-                        </div>
-                    </div>                    
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Add</button>
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">CLOSE</button>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!-- Javascript -->
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="../assets/vendor/nestable/jquery.nestable.js"></script><!-- Jquery Nestable -->
 <script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
-<script src="../assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script><!-- bootstrap datepicker Plugin Js --> 
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/ui/sortable-nestable.js"></script>
 <script src="assets/js/pages/ui/dialogs.js"></script>
+<script>
+    $('.toggle-email-nav').on('click', function() {
+		$('.mail-left').toggleClass('open');
+	});
+</script>
 </body>
 </html>

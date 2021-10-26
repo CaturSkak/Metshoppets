@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
 <title>MetShop Pets -Selamat Datang di MetShop Pets</title>
 <meta charset="utf-8">
@@ -13,6 +12,13 @@
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="../assets/vendor/charts-c3/plugin.css"/>
+<link rel="stylesheet" href="../assets/vendor/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist/css/chartist.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="../assets/vendor/toastr/toastr.min.css">
+
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -37,7 +43,7 @@
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -48,13 +54,13 @@
                             <li>
                                 <a class="#">
                                     <i class="icon-envelope"></i>
-                                    <span>Inbox</span>
+                                    <span>Kotak Surat</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="#">
                                     <i class="icon-bubbles"></i>
-                                    <span>Chat</span>
+                                    <span>Pesan</span>
                                 </a>
                             </li>
                             <li>
@@ -71,8 +77,8 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>
             
@@ -89,7 +95,7 @@
                                 <i class="icon-envelope"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                            <ul class="dropdown-menu right_chat email">
+                             <ul class="dropdown-menu right_chat email">
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
@@ -191,7 +197,7 @@
                             </ul>
                         </li>
                         <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
+                        <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -353,7 +359,7 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
+            <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
         <div class="sidebar-scroll">
@@ -365,47 +371,48 @@
                     <span>Selamat Datang,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Keluar</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Kotak Masuk</span></a></li>
-                    <li class="active"><a href="app-chat.html"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li class="active"><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                     </li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                  
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
-                       <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
+                        <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Masuk</a></li>
-                            <li><a href="page-register.html">Daftar</a></li>
-                            <li><a href="page-lockscreen.html">Kunci Layar</a></li>
-                            <li><a href="page-forgot-password.html">Lupa Kata Sandi</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.html">Peta Google</a></li>                         
+                            <li><a href="map-google.php">Peta Google</a></li>                         
                         </ul>
                     </li>
                 </ul>
@@ -417,211 +424,271 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Pesan</h2>
+                    <h2>Beranda</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item active">Pesan</li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item active">Beranda</li>
                     </ul>
                     <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Buat Baru</a>
                 </div>
             </div>
         </div>
-        <div class="container-fluid">            
+
+        <div class="container-fluid">
+
             <div class="row clearfix">
-                <div class="col-lg-12">
-                    <div class="card chat-app">
-                        <div class="chat">
-                            <div class="chat-header clearfix">
-                                <div class="row clearfix">
-                                    <div class="col-lg-6">
-                                        <a href="javascript:void(0);" data-toggle="modal" data-target="#view_info">
-                                            <img src="../assets/images/12.jpg" alt="avatar" />
-                                        </a>
-                                        <div class="chat-about">
-                                            <h6 class="m-b-0">Muhammad Doni S. </h6>
-                                            <small>Terlihat : 2 Jam yang lalu</small>
+                <div class="col-12">
+                    <div class="card top_report">
+                        <div class="row clearfix">
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="body">
+                                    <div class="clearfix">
+                                        <div class="float-left">
+                                            <i class="fa fa-2x fa-dollar text-col-blue"></i>
+                                        </div>
+                                        <div class="number float-right text-right">
+                                            <h6>Pendapatan</h6>
+                                            <span class="font700">Rp.9.450.000</span>
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 hidden-sm text-right">
-                                        <a href="javascript:void(0);" class="btn btn-warning"><i class="icon-camera text-light"></i></a>
-                                        <a href="javascript:void(0);" class="btn btn-primary"><i class="icon-camcorder"></i></a>
-                                        <a href="javascript:void(0);" class="btn btn-secondary"><i class="icon-settings"></i></a>
-                                        <a href="javascript:void(0);" class="btn btn-secondary"><i class="icon-question"></i></a>
+                                    <div class="progress progress-xs progress-transparent custom-color-blue mb-0 mt-3">
+                                        <div class="progress-bar" data-transitiongoal="87"></div>
                                     </div>
+                                    <small class="text-muted">Hasil Selama Sebulan</small>
                                 </div>
                             </div>
-                            <div class="chat-history">
-                                <ul class="m-b-0">
-                                    <li class="clearfix">
-                                        <div class="message-data">
-                                            <img src="../assets/images/12.jpg" alt="avatar">
-                                            <span class="message-data-time" >10:10 WIB, Hari Ini</span>
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="body">
+                                    <div class="clearfix">
+                                        <div class="float-left">
+                                            <i class="fa fa-2x fa-bar-chart-o text-col-green"></i>
                                         </div>
-                                        <div class="message my-message"> Halo Apakah Kucing Ini Sehat ?</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="message-data text-right">
-                                            <span class="message-data-time">10:12 WIB, Hari Ini</span>
+                                        <div class="number float-right text-right">
+                                            <h6>Pengeluaran</h6>
+                                            <span class="font700">Rp.2.500.000</span>
                                         </div>
-                                        <div class="message other-message float-right">Iya, Batul Kucing ini sangat sehat !</div>                                    
-                                    </li>                               
-                                    <li class="clearfix ">
-                                        <div class="message-data">
-                                            <img src="../assets/images/12.jpg" alt="avatar">
-                                            <span class="message-data-time">10:15 WIB, Hari Ini</span>
-                                        </div>
-                                        <div class="message my-message">Saya Ingin Membeli kucing ini apakah ready ?.</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="message-data text-right">
-                                            <span class="message-data-time">10:17 WIB, Hari Ini</span>
-                                        </div>
-                                        <div class="message other-message float-right">Oh, ya kak ready silahkan kakak ke menu beli untuk memesan nya.</div>                                    
-                                    </li> 
-                                </ul>
-                            </div>
-                            <div class="chat-message clearfix">
-                                <div class="input-group mb-0">
-                                    <div class="input-group-prepend">
-                                        <span class="input-group-text"><i class="icon-paper-plane"></i></span>
                                     </div>
-                                    <textarea type="text" row="4" class="form-control" placeholder="Tulis Pesan anda Disini..."></textarea>
+                                    <div class="progress progress-xs progress-transparent custom-color-green mb-0 mt-3">
+                                        <div class="progress-bar" data-transitiongoal="28"></div>
+                                    </div>
+                                    <small class="text-muted">Pengeluaran Selama Sebulan</small>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="body">
+                                    <div class="clearfix">
+                                        <div class="float-left">
+                                            <i class="fa fa-2x fa-shopping-cart text-col-red"></i>
+                                        </div>
+                                        <div class="number float-right text-right">
+                                            <h6>Pesanan</h6>
+                                            <span class="font700">25 Barang/Hewan</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress progress-xs progress-transparent custom-color-red mb-0 mt-3">
+                                        <div class="progress-bar" data-transitiongoal="41"></div>
+                                    </div>
+                                    <small class="text-muted">Pesanan Selama Sebulan</small>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="body">
+                                    <div class="clearfix">
+                                        <div class="float-left">
+                                            <i class="fa fa-2x fa-heart" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="number float-right text-right">
+                                            <h6>Penjodohoan</h6>
+                                            <span class="font700">15 Hewan</span>
+                                        </div>
+                                    </div>
+                                    <div class="progress progress-xs progress-transparent custom-color-yellow mb-0 mt-3">
+                                        <div class="progress-bar" data-transitiongoal="50"></div>
+                                    </div>
+                                    <small class="text-muted">Penjodohan di bulan ini</small>
                                 </div>
                             </div>
                         </div>
-                        <div id="plist" class="people-list">
-                            <div class="input-group mb-3">
-                                <input type="text" class="form-control" placeholder="Cari...">
-                                <div class="input-group-append">
-                                    <span class="input-group-text"><i class="icon-magnifier"></i></span>
-                                </div>
-                            </div>
-                            <ul class="right_chat list-unstyled mb-0">
-                                <li class="online">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/16.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Riska S.</span>
-                                                <span class="message">online</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="online">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/14.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Muhammad Mail C.S.</span>
-                                                <span class="message">online</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="offline">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/15.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Fika Amrianti</span>
-                                                <span class="message">offline sekitar 10 hari yang lalu</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="offline">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/17.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Siti Vita S.</span>
-                                                <span class="message">offline</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="online">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/13.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Christian Budiono</span>
-                                                <span class="message">online</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="online">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/18.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Galuh Vita Sari</span>
-                                                <span class="message">online</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
-                                </li>
-                                <li class="offline">
-                                    <a href="javascript:void(0);">
-                                        <div class="media">
-                                            <img class="media-object " src="../assets/images/19.jpg" alt="">
-                                            <div class="media-body">
-                                                <span class="name">Susiana Triana</span>
-                                                <span class="message">offline Terlihat 5 Hari yang lalu</span>
-                                                <span class="badge badge-outline status"></span>
-                                            </div>
-                                        </div>
-                                    </a>                            
+                    </div>
+                </div>
+            </div>
+                <div class="col-lg-16 col-md-16 col-sm-15">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Pesanan Yang Diterima</h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Tindakan</a></li>
+                                        <li><a href="javascript:void(0);">Tindakan Lain</a></li>
+                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
+                                    </ul>
                                 </li>
                             </ul>
                         </div>
+                        <div class="body">
+                            <div class="table-responsive">
+                                <table class="table table-hover js-basic-example dataTable table-custom mb-0">
+                                    <thead class="thead-dark">
+                                        <tr>
+                                            <th>Tanggal</th>
+                                            <th>Tipe</th>
+                                            <th>Jenis Hewan/Produk</th>
+                                            <th>Rincian</th>
+                                            <th>Harga</th>
+                                            <th>Jumlah/hari</th>
+                                            <th>Total</th>
+                                            <th>Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>20-Oktober-2021 10:51:51</td>
+                                            <td>Beli</td>
+                                            <td>
+                                                Hewan Peliharaan</td>
+                                            <td>
+                                                Kucing Anggora Asli</td>
+                                            <td>Rp.5.740.000</td>
+                                            <td>1</td>
+                                            <td>Rp.5.740.000</td>
+                                            <td>
+                                                <button class="btn btn-sm round btn-outline-warning">Menunggu</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>20-Oktober-2021 09:40:50</td>
+                                            <td>Beli</td>
+                                            <td>
+                                                Makanan Kucing</td>
+                                            <td>
+                                                Royal Canin Hair & SKin</td>
+                                            <td>Rp.308.000</td>
+                                            <td>1</td>
+                                            <td>Rp.308.000</td>
+                                            <td>
+                                                    <button class="btn btn-sm round btn-outline-success">Diterima</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>19-Oktober-2018 20:30:50</td>
+                                            <td >Beli</td>
+                                            <td>
+                                                Reptil</td>
+                                            <td>
+                                                Kura Kura Brazil</td>
+                                            <td>Rp.200.000</td>
+                                            <td>2</td>
+                                            <td>Rp.400.000</td>
+                                            <td>
+                                                <button class="btn btn-sm round btn-outline-success"> Diterima</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>19-Oktober-2021 13:51:51</td>
+                                            <td>Jodoh</td>
+                                            <td>
+                                                Hewan Peliharaan</td>
+                                            <td>
+                                                Kucing Persia Asli</td>
+                                            <td>Rp.35.000</td>
+                                            <td>7</td>
+                                            <td>Rp.245.000</td>
+                                            <td>
+                                                    <button class="btn btn-sm round btn-outline-success">Diterima</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>18-Oktober-2021 11:30:40</td>
+                                            <td>Jodoh</td>
+                                            <td>
+                                                Hewan Peliharaan</td>
+                                            <td>
+                                                Kucing Anggora Asli</td>
+                                            <td>Rp.35.000</td>
+                                            <td>7</td>
+                                            <td>Rp.245.000</td>
+                                            <td>
+                                                    <button class="btn btn-sm round btn-outline-danger">Ditolak</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>18-Oktober-2021 12:51:50</td>
+                                            <td>Beli</td>
+                                            <td>
+                                                Burung</td>
+                                            <td>
+                                                Burung Love Bird</td>
+                                            <td>Rp.840.000</td>
+                                            <td>2</td>
+                                            <td>Rp.1.680.000</td>
+                                            <td>
+                                                <button class="btn btn-sm round btn-outline-success">Diterima</button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+        
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    
-</div>
-
-<!-- Default Size -->
-<div class="modal fade" id="view_info" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h6 class="title" id="defaultModalLabel">User Details</h6>
-            </div>
-            <div class="modal-body">
-                <div class="body top_counter">
-                    <div class="icon">
-                        <img src="../assets/images/xs/avatar2.jpg" class="rounded-circle" alt="">
-                    </div>
-                    <div class="content m-t-5">
-                        <div>Admin MetShopPet's</div>
-                        <h6>Ahmad Catur Y.</h6>
+            <div class="row clearfix">
+                <div class="col-lg-6 col-md-13">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Dompetku</h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Tindakan</a></li>
+                                        <li><a href="javascript:void(0);">Tindakan Lain</a></li>
+                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="body">
+                            <div class="row clearfix">
+                                <div class="col-5">
+                                    <div class="sparkline-pie">6,8,4</div>
+                                </div>
+                                <div class="col-7">
+                                    <h6 class="font700">Rp.7.550.000</h6>
+                                    <span>Pemasukan<span class="float-right">Rp.9.440.000</span></span><br>
+                                    <span>Event<span class="float-right">Rp.2.500.000</span></span><br>
+                                    <span>Pengeluaran<span class="float-right">Rp.3.000.000</span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <hr>                
-                <small class="text-muted">Alamat </small>
-                <p>Lumajang Kec.Labruk Lor</p>
-                <small class="text-muted">Email address: </small>
-                <p>Catur454@gmail.com</p>
-                <small class="text-muted">Mobile: </small>
-                <p>+ 62 856-0895-1053</p>
-                <small class="text-muted">Birth Date: </small>
-                <p class="m-b-0">22 Agustus, 1999</p>                
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Tutup</button>
+                <div class="col-lg-6 col-md-17">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Social Media</h2>
+                        </div>
+                        <div class="body social_counter">
+                            <ul class=" list-unstyled basic-list">
+                                <li><i class="fa fa-facebook-square m-r-5"></i> FaceBook <span class="badge badge-primary">16,785</span></li>
+                                <li><i class="fa fa-twitter-square m-r-5"></i> Twitter <span class="badge-purple badge">2,365</span></li>
+                                <li><i class="fa fa-instagram"></i> Instagram<span class="badge-success badge">9,021</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -631,10 +698,11 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="assets/bundles/easypiechart.bundle.js"></script><!-- easypiechart Plugin Js -->
-<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
+<script src="assets/bundles/c3.bundle.js"></script>
+<script src="assets/bundles/chartist.bundle.js"></script>
+<script src="../assets/vendor/toastr/toastr.js"></script>
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/ui/dialogs.js"></script>
+<script src="assets/js/index.js"></script>
 </body>
 </html>

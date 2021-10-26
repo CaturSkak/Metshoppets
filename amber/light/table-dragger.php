@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>:: HexaBit :: Search Results</title>
+<title>:: HexaBit :: Table Dragger</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -10,13 +10,10 @@
 <meta name="author" content="WrapTheme, www.thememakker.com">
 
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<meta name="description" content="HexaBit Bootstrap 4x Admin Template">
-<meta name="author" content="WrapTheme, www.thememakker.com">
-
-<link rel="icon" href="favicon.ico" type="image/x-icon">
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../assets/vendor/table-dragger/table-dragger.min.css">
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -24,7 +21,7 @@
 </head>
 <body class="theme-orange">
 
-    <!-- Page Loader -->
+<!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
         <div class="m-t-30"><img src="../assets/images/icon-light.svg" width="48" height="48" alt="HexaBit"></div>
@@ -41,7 +38,7 @@
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -75,8 +72,8 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>
             
@@ -195,7 +192,7 @@
                             </ul>
                         </li>
                         <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
+                        <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -357,7 +354,7 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="../assets/images/icon-dark.svg" alt="HexaBit Logo" class="img-fluid logo"><span>HexaBit</span></a>
+            <a href="index.php"><img src="../assets/images/icon-dark.svg" alt="HexaBit Logo" class="img-fluid logo"><span>HexaBit</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
         <div class="sidebar-scroll">
@@ -369,140 +366,140 @@
                     <span>Welcome,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Christy Wert</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>My Profile</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Messages</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>My Profile</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Messages</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Settings</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Logout</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Logout</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Dashboard</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Inbox</span></a></li>
-                    <li><a href="app-chat.html"><i class="icon-bubbles"></i><span>Chat</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Dashboard</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Inbox</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Chat</span></a></li>
                     <li>
                         <a href="#uiElements" class="has-arrow"><i class="icon-diamond"></i><span>UI Elements</span></a>
                         <ul>
-                            <li><a href="ui-card.html">Card Layout</a></li>
-                            <li><a href="ui-helper-class.html">Helper Classes</a></li>
-                            <li><a href="ui-bootstrap.html">Bootstrap UI</a></li>
-                            <li><a href="ui-typography.html">Typography</a></li>
-                            <li><a href="ui-tabs.html">Tabs</a></li>
-                            <li><a href="ui-buttons.html">Buttons</a></li>                            
-                            <li><a href="ui-icons.html">Icons</a></li>
-                            <li><a href="ui-notifications.html">Notifications</a></li>
-                            <li><a href="ui-colors.html">Colors</a></li>
-                            <li><a href="ui-dialogs.html">Dialogs</a></li>                                    
-                            <li><a href="ui-list-group.html">List Group</a></li>
-                            <li><a href="ui-media-object.html">Media Object</a></li>
-                            <li><a href="ui-modals.html">Modals</a></li>
-                            <li><a href="ui-nestable.html">Nestable</a></li>
-                            <li><a href="ui-progressbars.html">Progress Bars</a></li>
-                            <li><a href="ui-range-sliders.html">Range Sliders</a></li>
-                            <li><a href="ui-treeview.html">Treeview</a></li>
+                            <li><a href="ui-card.php">Card Layout</a></li>
+                            <li><a href="ui-helper-class.php">Helper Classes</a></li>
+                            <li><a href="ui-bootstrap.php">Bootstrap UI</a></li>
+                            <li><a href="ui-typography.php">Typography</a></li>
+                            <li><a href="ui-tabs.php">Tabs</a></li>
+                            <li><a href="ui-buttons.php">Buttons</a></li>                            
+                            <li><a href="ui-icons.php">Icons</a></li>
+                            <li><a href="ui-notifications.php">Notifications</a></li>
+                            <li><a href="ui-colors.php">Colors</a></li>
+                            <li><a href="ui-dialogs.php">Dialogs</a></li>                                    
+                            <li><a href="ui-list-group.php">List Group</a></li>
+                            <li><a href="ui-media-object.php">Media Object</a></li>
+                            <li><a href="ui-modals.php">Modals</a></li>
+                            <li><a href="ui-nestable.php">Nestable</a></li>
+                            <li><a href="ui-progressbars.php">Progress Bars</a></li>
+                            <li><a href="ui-range-sliders.php">Range Sliders</a></li>
+                            <li><a href="ui-treeview.php">Treeview</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Forms</span></a>
                         <ul>
-                            <li><a href="forms-basic.html">Basic Elements</a></li>
-                            <li><a href="forms-advanced.html">Advanced Elements</a></li>
-                            <li><a href="forms-validation.html">Form Validation</a></li>
-                            <li><a href="forms-wizard.html">Form Wizard</a></li>
-                            <li><a href="forms-dragdropupload.html">Drag &amp; Drop Upload</a></li>
-                            <li><a href="forms-cropping.html">Image Cropping</a></li>
-                            <li><a href="forms-summernote.html">Summernote</a></li>
-                            <li><a href="forms-editors.html">CKEditor</a></li>
-                            <li><a href="forms-markdown.html">Markdown</a></li>
+                            <li><a href="forms-basic.php">Basic Elements</a></li>
+                            <li><a href="forms-advanced.php">Advanced Elements</a></li>
+                            <li><a href="forms-validation.php">Form Validation</a></li>
+                            <li><a href="forms-wizard.php">Form Wizard</a></li>
+                            <li><a href="forms-dragdropupload.php">Drag &amp; Drop Upload</a></li>
+                            <li><a href="forms-cropping.php">Image Cropping</a></li>
+                            <li><a href="forms-summernote.php">Summernote</a></li>
+                            <li><a href="forms-editors.php">CKEditor</a></li>
+                            <li><a href="forms-markdown.php">Markdown</a></li>
                         </ul>
                     </li>
-                    <li>
+                    <li class="active">
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tables</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li class="active"><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Taskboard</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Calendar</span></a></li>
-                    <li><a href="app-contact.html"><i class="icon-book-open"></i><span>Contact</span></a></li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Taskboard</span></a></li>                    
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Calendar</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Contact</span></a></li>
                     <li>
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Blog</span></a>
                         <ul>
-                            <li><a href="blog-dashboard.html">Dashboard</a></li>
-                            <li><a href="blog-post.html">New Post</a></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-details.html">Blog Detail</a></li>
+                            <li><a href="blog-dashboard.php">Dashboard</a></li>
+                            <li><a href="blog-post.php">New Post</a></li>
+                            <li><a href="blog-list.php">Blog List</a></li>
+                            <li><a href="blog-details.php">Blog Detail</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#charts" class="has-arrow"><i class="icon-bar-chart"></i><span>Charts</span></a>
                         <ul>
-                            <li><a href="chart-morris.html">Morris</a></li>
-                            <li><a href="chart-flot.html">Flot</a></li>
-                            <li><a href="chart-chartjs.html">ChartJS</a></li>
-                            <li><a href="chart-c3.html">C3 Charts</a></li>
-                            <li><a href="chart-jquery-knob.html">Jquery Knob</a></li>                            
-                            <li><a href="chart-sparkline.html">Sparkline Chart</a></li>
-                            <li><a href="chart-peity.html">Peity</a></li>                            
-                            <li><a href="chart-gauges.html">Gauges</a></li>
-                            <li><a href="chart-e.html">E Chart</a></li>
+                            <li><a href="chart-morris.php">Morris</a></li>
+                            <li><a href="chart-flot.php">Flot</a></li>
+                            <li><a href="chart-chartjs.php">ChartJS</a></li>
+                            <li><a href="chart-c3.php">C3 Charts</a></li>
+                            <li><a href="chart-jquery-knob.php">Jquery Knob</a></li>                            
+                            <li><a href="chart-sparkline.php">Sparkline Chart</a></li>
+                            <li><a href="chart-peity.php">Peity</a></li>                            
+                            <li><a href="chart-gauges.php">Gauges</a></li>
+                            <li><a href="chart-e.php">E Chart</a></li>
                         </ul>
                     </li>                    
                     <li>
                         <a href="#Widgets" class="has-arrow"><i class="icon-puzzle"></i><span>Widgets</span></a>
                         <ul>                                    
-                            <li><a href="widgets-statistics.html">Statistics</a></li>
-                            <li><a href="widgets-data.html">Data</a></li>
-                            <li><a href="widgets-chart.html">Chart</a></li>
-                            <li><a href="widgets-weather.html">Weather</a></li>
-                            <li><a href="widgets-social.html">Social</a></li>
-                            <li><a href="widgets-blog.html">Blog</a></li>
+                            <li><a href="widgets-statistics.php">Statistics</a></li>
+                            <li><a href="widgets-data.php">Data</a></li>
+                            <li><a href="widgets-chart.php">Chart</a></li>
+                            <li><a href="widgets-weather.php">Weather</a></li>
+                            <li><a href="widgets-social.php">Social</a></li>
+                            <li><a href="widgets-blog.php">Blog</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Authentication</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Login</a></li>
-                            <li><a href="page-register.html">Register</a></li>
-                            <li><a href="page-lockscreen.html">Lockscreen</a></li>
-                            <li><a href="page-forgot-password.html">Forgot Password</a></li>
-                            <li><a href="page-404.html">Page 404</a></li>
-                            <li><a href="page-403.html">Page 403</a></li>
-                            <li><a href="page-500.html">Page 500</a></li>
-                            <li><a href="page-503.html">Page 503</a></li>
+                            <li><a href="page-login.php">Login</a></li>
+                            <li><a href="page-register.php">Register</a></li>
+                            <li><a href="page-lockscreen.php">Lockscreen</a></li>
+                            <li><a href="page-forgot-password.php">Forgot Password</a></li>
+                            <li><a href="page-404.php">Page 404</a></li>
+                            <li><a href="page-403.php">Page 403</a></li>
+                            <li><a href="page-500.php">Page 500</a></li>
+                            <li><a href="page-503.php">Page 503</a></li>
                         </ul>
                     </li>
-                    <li class="active">
+                    <li>
                         <a href="#Pages" class="has-arrow"><i class="icon-docs"></i><span>Pages</span></a>
                         <ul>
-                            <li><a href="page-blank.html">Blank Page</a></li>
-                            <li class="active"><a href="page-search-results.html">Search Results</a></li>
-                            <li><a href="page-profile.html">Profile </a></li>
-                            <li><a href="page-invoices.html">Invoices </a></li>
-                            <li><a href="page-gallery.html">Image Gallery</a></li>
-                            <li><a href="page-gallery2.html">Image Gallery </a></li>
-                            <li><a href="page-timeline.html">Timeline</a></li>
-                            <li><a href="page-timeline-h.html">Horizontal Timeline</a></li>
-                            <li><a href="page-pricing.html">Pricing</a></li>                            
-                            <li><a href="page-maintenance.html">Maintenance</a></li>
-                            <li><a href="page-testimonials.html">Testimonials</a></li>
-                            <li><a href="page-faq.html">FAQ</a></li>
+                            <li><a href="page-blank.php">Blank Page</a></li>
+                            <li><a href="page-search-results.php">Search Results</a></li>
+                            <li><a href="page-profile.php">Profile </a></li>
+                            <li><a href="page-invoices.php">Invoices </a></li>
+                            <li><a href="page-gallery.php">Image Gallery</a></li>
+                            <li><a href="page-gallery2.php">Image Gallery </a></li>
+                            <li><a href="page-timeline.php">Timeline</a></li>
+                            <li><a href="page-timeline-h.php">Horizontal Timeline</a></li>
+                            <li><a href="page-pricing.php">Pricing</a></li>                            
+                            <li><a href="page-maintenance.php">Maintenance</a></li>
+                            <li><a href="page-testimonials.php">Testimonials</a></li>
+                            <li><a href="page-faq.php">FAQ</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Maps</span></a>
                         <ul>
-                            <li><a href="map-google.html">Google Map</a></li>
-                            <li><a href="map-jvectormap.html">jVector Map</a></li>
-                            <li><a href="map-yandex.html">Yandex Map</a></li>                            
+                            <li><a href="map-google.php">Google Map</a></li>
+                            <li><a href="map-jvectormap.php">jVector Map</a></li>
+                            <li><a href="map-yandex.php">Yandex Map</a></li>                            
                         </ul>
                     </li>
                 </ul>
@@ -514,101 +511,274 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Search Results</h2>
+                    <h2>Table Dragger</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item">Pages</li>
-                        <li class="breadcrumb-item active">Search Results</li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item">Table</li>
+                        <li class="breadcrumb-item active">Table Dragger</li>
                     </ul>
                     <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Create New</a>
                 </div>
             </div>
         </div>
-        <div class="container-fluid">
 
+        <div class="container-fluid">
             <div class="row clearfix">
-                <div class="col-md-12">
+                <div class="col-lg-6 col-md-12">
                     <div class="card">
-                        <div class="body">
-                            <div class="input-group mb-3">
-                                <input type="text" class="form-control" placeholder="Search here...">
-                                <div class="input-group-append">
-                                    <button class="btn btn-outline-secondary" type="button">Search</button>
-                                </div>
-                            </div>
-                            <ul class="nav nav-tabs-new m-b-20">
-                                <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#Web">Web</a></li>
-                                <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Images">Images</a></li>
-                                <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Videos">Videos</a></li>                                
-                            </ul>                        
-                            <p class="m-b-0">Search Result For "Bootstrap 4 admin"</p>
-                            <strong> About 16,853 result ( 0.13 seconds)</strong>
-                        </div>
-                    </div>
-                    <div class="tab-content padding-0">
-                        <div class="tab-pane card active" id="Web">
-                            <div class="body">
-                                <h6 class="mb-0"><a target="_blank" href="javascript:void(0);">Bootstrap 4 Light & Dark Admin with Free Angular5 + UI Kit</a></h6>
-                                <small>https://themeforest.net/user/Wraptheme</small>
-                                <p class="m-t-10">sQuare Admin is Material Design premium admin dashboard theme. It’s builded on popular Twitter Bootstrap4 framework. sQuare is fully based on HTML5 + CSS3 Standards. Is fully responsive and clean on every device and every browser.</p>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Vue Admin</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Angular5</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Bootstrap4</a>
-                            </div>
-                            <hr>
-                            <div class="body">
-                                <h6 class="mb-0"><a target="_blank" href="javascript:void(0);">Bootstrap 4 Admin Dashboard Template </a></h6>
-                                <small>https://themeforest.net/user/Wraptheme</small>
-                                <p class="m-t-10">InfiniO is fully professional, responsive, modern, multi-purpose and featured Admin template which can be used to create various website, Admin templates, Admin dashboards, Backend Websites, CMS, CRM or one can aldo build Blog, Business website and time line as well as portfolio. InfiniO Admin makes the development process easy and fast for you and aims to help you implement your idea to real time.</p>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Vue Admin</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Angular5</a>
-                            </div>
-                            <hr>
-                            <div class="body">
-                                <h6 class="mb-0"><a target="_blank" href="javascript:void(0);">The ultimate Bootstrap 4 Admin Dashboard </a></h6>
-                                <small>https://themeforest.net/user/Wraptheme</small>
-                                <p class="m-t-10">Compass Admin is Material Design premium admin dashboard theme. It’s builded on popular Twitter Bootstrap4 framework. Compass is fully based on HTML5 + CSS3 Standards. Is fully responsive and clean on every device and every browser.</p>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Vue Admin</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Angular6</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Bootstrap 3x</a>
-                            </div>
-                            <hr>
-                            <div class="body">
-                                <h6 class="mb-0"><a target="_blank" href="javascript:void(0);">Bootstrap 4 Admin Dashboard Template</a></h6>
-                                <small>https://themeforest.net/user/Wraptheme</small>
-                                <p class="m-t-10">15+ Dashboard, 100+ Integrated Plugins, 400+ Pages, Light and Dark Menu, The Multistep Form, Timeline view, Summermnote Editor, Image Cropping Tool, Easy to access Menu Styles</p>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Vue Admin</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Angular5</a>
-                                <a class="m-r-20" target="_blank" href="javascript:void(0);">Bootstrap4</a>
-                            </div>
-                            <hr>
-                            <ul class="body pagination pagination-primary">
-                                <li class="page-item"><a class="page-link" href="javascript:void(0);">Previous</a></li>
-                                <li class="page-item active"><a class="page-link" href="javascript:void(0);">1</a></li>
-                                <li class="page-item"><a class="page-link" href="javascript:void(0);">2</a></li>
-                                <li class="page-item"><a class="page-link" href="javascript:void(0);">3</a></li>
-                                <li class="page-item"><a class="page-link" href="javascript:void(0);">Next</a></li>
+                        <div class="header">
+                            <h2>Default <small>With no options, sort columns, handler was the first row</small></h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Action</a></li>
+                                        <li><a href="javascript:void(0);">Another Action</a></li>
+                                        <li><a href="javascript:void(0);">Something else</a></li>
+                                    </ul>
+                                </li>
                             </ul>
                         </div>
-                        <div class="tab-pane card" id="Images">
-                            <div class="body text-center">
-                                <div class="not_found">
-                                    <h4 class="m-b-0">Sorry No result found.</h4>
-                                </div>
-                            </div>
+                        <div class="body">
+                            <table id="default-table" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                    <th>Movie Title<i class="table-dragger-handle"></i></th>
+                                    <th>Genre<i class="table-dragger-handle"></i></th>
+                                    <th>Year<i class="table-dragger-handle"></i></th>
+                                    <th>Gross<i class="table-dragger-handle"></i></th>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td>Star Wars</td>
+                                    <td>Adventure, Sci-fi</td>
+                                    <td>1977</td>
+                                    <td>$460,935,665</td>
+                                </tr>
+                                <tr>
+                                    <td>Howard The Duck</td>
+                                    <td>"Comedy"</td>
+                                    <td>1986</td>
+                                    <td>$16,295,774</td>
+                                </tr>
+                                <tr>
+                                    <td>American Graffiti</td>
+                                    <td>Comedy, Drama</td>
+                                    <td>1973</td>
+                                    <td>$115,000,000</td>
+                                </tr>
+                            </table>
                         </div>
-                        <div class="tab-pane card" id="Videos">
-                            <div class="body text-center">
-                                <div class="not_found">
-                                    <h4 class="m-b-0">Sorry No result found.</h4>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Handler <small>Specify drag handler wherever within the table</small></h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Action</a></li>
+                                        <li><a href="javascript:void(0);">Another Action</a></li>
+                                        <li><a href="javascript:void(0);">Something else</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </div>
-                    </div>                
+                        <div class="body">
+                            <table id="handle-table" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                    <th>Movie Title <i class="table-dragger-handle handle">dragme</i></th>
+                                    <th>Genre</th>
+                                    <th>Year</th>
+                                    <th>Gross</th>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td>Star Wars</td>
+                                    <td>Adventure, Sci-fi</td>
+                                    <td>1977</td>
+                                    <td>$460,935,665</td>
+                                </tr>
+                                <tr>
+                                    <td>Howard The Duck</td>
+                                    <td>"Comedy"</td>
+                                    <td>1986</td>
+                                    <td>$16,295,774</td>
+                                </tr>
+                                <tr>
+                                    <td>American Graffiti</td>
+                                    <td>Comedy, Drama</td>
+                                    <td>1973</td>
+                                    <td>$115,000,000</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
                 </div>
             </div>
+
+            <div class="row clearfix">
+                <div class="col-lg-12 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Only Body <small>Setting onlyBody to true in row mode, user can only lift rows in tBody</small></h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Action</a></li>
+                                        <li><a href="javascript:void(0);">Another Action</a></li>
+                                        <li><a href="javascript:void(0);">Something else</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="body">
+                            <table id="only-bodytable" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                    <th>Movie Title</th>
+                                    <th>Genre</th>
+                                    <th>Year</th>
+                                    <th>Gross</th>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td>Star Wars<i class="table-dragger-handle sindu_handle"></i></td>
+                                    <td>Adventure, Sci-fi</td>
+                                    <td>1977</td>
+                                    <td>$460,935,665</td>
+                                </tr>
+                                <tr>
+                                    <td>Howard The Duck<i class="table-dragger-handle sindu_handle"></i></td>
+                                    <td>"Comedy"</td>
+                                    <td>1986</td>
+                                    <td>$16,295,774</td>
+                                </tr>
+                                <tr>
+                                    <td>American Graffiti<i class="table-dragger-handle sindu_handle"></i></td>
+                                    <td>Comedy, Drama</td>
+                                    <td>1973</td>
+                                    <td>$115,000,000</td>
+                                </tr>
+                                </table>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+            
+            <div class="row clearfix">
+                <div class="col-lg-6 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Sort Rows <small>Sort rows, handler was the first column</small></h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Action</a></li>
+                                        <li><a href="javascript:void(0);">Another Action</a></li>
+                                        <li><a href="javascript:void(0);">Something else</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="body">
+                            <table id="row-table" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                    <th>Movie Title<i class="table-dragger-handle"></i></th>
+                                    <th>Genre</th>
+                                    <th>Year</th>
+                                    <th>Gross</th>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td>Star Wars<i class="table-dragger-handle"></i></td>
+                                    <td>Adventure, Sci-fi</td>
+                                    <td>1977</td>
+                                    <td>$460,935,665</td>
+                                </tr>
+                                <tr>
+                                    <td>Howard The Duck<i class="table-dragger-handle"></i></td>
+                                    <td>"Comedy"</td>
+                                    <td>1986</td>
+                                    <td>$16,295,774</td>
+                                </tr>
+                                <tr>
+                                    <td>American Graffiti<i class="table-dragger-handle"></i></td>
+                                    <td>Comedy, Drama</td>
+                                    <td>1973</td>
+                                    <td>$115,000,000</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Free <small>After mousedown, move mouse horizontally or vertically, see what happens. Don't forget to specify drag handler</small></h2>
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Action</a></li>
+                                        <li><a href="javascript:void(0);">Another Action</a></li>
+                                        <li><a href="javascript:void(0);">Something else</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="body">
+                            <table id="free-table" class="table table-striped">
+                                <thead>
+                                    <tr>
+                                    <th>Movie Title</th>
+                                    <th>Genre</th>
+                                    <th>Year</th>
+                                    <th>Gross</th>
+                                    </tr>
+                                </thead>
+                                <tr>
+                                    <td>Star Wars<i class="table-dragger-handle handle"></i></td>
+                                    <td>Adventure, Sci-fi</td>
+                                    <td>1977</td>
+                                    <td>$460,935,665</td>
+                                </tr>
+                                <tr>
+                                    <td>Howard The Duck</td>
+                                    <td>"Comedy"</td>
+                                    <td>1986</td>
+                                    <td>$16,295,774</td>
+                                </tr>
+                                <tr>
+                                    <td>American Graffiti</td>
+                                    <td>Comedy, Drama</td>
+                                    <td>1973</td>
+                                    <td>$115,000,000</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
     
@@ -618,6 +788,25 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
+<script src="../assets/vendor/table-dragger/table-dragger.min.js"></script>
+
 <script src="assets/bundles/mainscripts.bundle.js"></script>
+
+<script>
+    // Default
+    tableDragger(document.querySelector("#default-table"));
+
+    // Handler
+    tableDragger(document.querySelector("#handle-table"), { dragHandler: ".handle" });
+
+    // Sort Rows
+    tableDragger(document.querySelector("#row-table"), { mode: "row" });
+
+    // Free
+    tableDragger(document.querySelector("#free-table"), { mode: "row", onlyBody: true, dragHandler: ".handle" });
+
+    // Only Body
+    tableDragger(document.querySelector("#only-bodytable"), { mode: "row", onlyBody: true });
+</script>
 </body>
 </html>

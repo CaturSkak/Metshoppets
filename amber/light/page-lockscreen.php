@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>:: HexaBit :: Forgot Password</title>
+<title>:: HexaBit :: Lockscreen</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -19,10 +19,12 @@
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 
+
+
 <body class="theme-orange">
     
     <!-- WRAPPER -->
-	<div id="wrapper" class="auth-main">
+    <div id="wrapper" class="auth-main">
         <div class="container">
             <div class="row clearfix">
                 <div class="col-12">
@@ -30,7 +32,7 @@
                         <a class="navbar-brand" href="javascript:void(0);"><img src="../assets/images/icon-light.svg" width="30" height="30" class="d-inline-block align-top mr-2" alt="">HexaBit</a>
                         <ul class="navbar-nav">
                             <li class="nav-item"><a class="nav-link" href="javascript:void(0);">Documentation</a></li>
-                            <li class="nav-item"><a class="nav-link" href="page-register.html">Sign Up</a></li>
+                            <li class="nav-item"><a class="nav-link" href="page-login.php">Sign In</a></li>
                         </ul>
                     </nav>                    
                 </div>
@@ -58,32 +60,29 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="card">
-                        <div class="header">
-                            <p class="lead">Recover my password</p>
-                        </div>
                         <div class="body">
-                            <p>Please enter your email address below to receive instructions for resetting password.</p>
-                            <form class="form-auth-small" action="index.html">
-                                <div class="form-group">                                    
-                                    <input type="password" class="form-control" id="signup-password" placeholder="Password">
+                            <div class="user text-center m-b-30">
+                                <img src="../assets/images/user-small.png" class="rounded-circle" alt="Avatar">
+                                <h4 class="name m-t-10">Christy Wert</h4>
+                                <p>info@example.com</p>
+                            </div>
+                            <form action="index.php">
+                                <div class="form-group">
+                                    <input type="password" class="form-control" placeholder="Enter your password ...">                                    
                                 </div>
-                                <button type="submit" class="btn btn-primary btn-lg btn-block">RESET PASSWORD</button>
-                                <div class="bottom">
-                                    <span class="helper-text">Know your password? <a href="page-login.html">Login</a></span>
-                                </div>
+                                <button type="submit" class="btn btn-primary btn-lg btn-block">Login</button>                                
                             </form>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-	</div>
+    </div>
     <!-- END WRAPPER -->
-    
+
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 </body>
 </html>
-

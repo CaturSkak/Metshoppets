@@ -44,7 +44,7 @@
             </article>
             <div class="margin-top-30">
                 <a href="javascript:history.go(-1)" class="btn btn-default"><i class="fa fa-arrow-left"></i> <span>Go Back</span></a>
-                <a href="index.html" class="btn btn-info"><i class="fa fa-home"></i> <span>Home</span></a>
+                <a href="index.php" class="btn btn-info"><i class="fa fa-home"></i> <span>Home</span></a>
             </div>
         </div>
         </div>

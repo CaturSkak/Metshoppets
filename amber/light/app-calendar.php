@@ -11,9 +11,10 @@
 
 <link rel="icon" href="logo.png" type="image/logo">
 <!-- VENDOR CSS -->
+<link rel="stylesheet" href="../assets/vendor/fullcalendar/fullcalendar.min.css">
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
+
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -21,11 +22,11 @@
 </head>
 <body class="theme-orange">
 
-<!-- Page Loader -->
+    <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
-        <div class="m-t-30"><img src="../assets/images/kucing1.gif" width="150" height="125" alt="Neko"></div>
-        <p>Sedang Memuat...</p>        
+       <div class="m-t-30"><img src="../assets/images/kucing1.gif" width="150" height="125" alt="Neko"></div>
+        <p>Sedang Memuat...</p>         
     </div>
 </div>
 <!-- Overlay For Sidebars -->
@@ -38,7 +39,7 @@
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.html"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -47,7 +48,7 @@
                         <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown"><i class="icon-grid"></i></a>
                         <ul class="dropdown-menu menu-icon app_menu">
                             <li>
-                               <a class="#">
+                                <a class="#">
                                     <i class="icon-envelope"></i>
                                     <span>Kotak Pesan</span>
                                 </a>
@@ -72,8 +73,8 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.html" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
-                    <li><a href="app-chat.html" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
+                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>
             
@@ -94,7 +95,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                      <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Doni S. <small class="float-right">23 Juni</small></span>
                                                 <span class="message">pesanan anda sudah saya terima!</span>
@@ -188,12 +189,11 @@
                                             <small>Kamu Menerima Order dari Tina.</small>
                                         </div>
                                     </a>
-                                    </a>
                                 </li>
                             </ul>
                         </li>
                         <li><a href="javascript:void(0);" class="right_toggle icon-menu" title="Right Menu"><i class="icon-settings"></i></a></li>
-                        <li><a href="page-login.html" class="icon-menu"><i class="icon-power"></i></a></li>
+                        <li><a href="page-login.php" class="icon-menu"><i class="icon-power"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -353,9 +353,9 @@
         </div>
     </div>
 
-    <div id="left-sidebar" class="sidebar">
+     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.html"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
+            <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
         <div class="sidebar-scroll">
@@ -367,49 +367,48 @@
                     <span>Selamat Datang,</span>
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.html"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.html"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                         <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.html"><i class="icon-power"></i>Keluar</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.html"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.html"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
-                    <li><a href="app-chat.html"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kontak Masuk</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
                         <ul>
-                            <li><a href="table-basic.html">Tables Example</a></li>
-                            <li><a href="table-normal.html">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.html">Jquery Datatables</a></li>
-                            <li><a href="table-editable.html">Editable Tables</a></li>
-                            <li><a href="table-color.html">Tables Color</a></li>
-                            <li><a href="table-filter.html">Table Filter</a></li>
-                            <li><a href="table-dragger.html">Table dragger</a></li>
+                            <li><a href="table-basic.php">Tables Example</a></li>
+                            <li><a href="table-normal.php">Normal Tables</a></li>
+                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
+                            <li><a href="table-editable.php">Editable Tables</a></li>
+                            <li><a href="table-color.php">Tables Color</a></li>
+                            <li><a href="table-filter.php">Table Filter</a></li>
+                            <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    <li><a href="app-taskboard.html"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.html"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><li class="active"><a href="app-contact.html"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
+                    <li><li class="active"><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="page-login.html">Masuk</a></li>
-                            <li><a href="page-register.html">Daftar</a></li>
-                            <li><a href="page-lockscreen.html">Kunci Layar</a></li>
-                            <li><a href="page-forgot-password.html">Lupa Kata Sandi</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.html">Peta Google</a></li>                         
+                            <li><a href="map-google.php">Peta Google</a></li>                         
                         </ul>
-                    </li>
                 </ul>
             </nav>     
         </div>
@@ -419,230 +418,72 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Kontak</h2>
+                    <h2>Kalender</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item active">Kontak</li>
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item active">Kalender</li>
                     </ul>
-                    <a href="app-contact.html" class="btn btn-sm btn-success" title=""><i class="fa fa-list"></i></a>
-                    <a href="app-contact-grid.html" class="btn btn-sm btn-outline-success" title=""><i class="fa fa-th-large"></i></a>                    
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addcontact">Buat Baru</a>
+                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addevent">Buat Baru</a>
                 </div>
             </div>
         </div>
 
         <div class="container-fluid">
+
             <div class="row clearfix">
-                <div class="col-lg-12">                    
+                <div class="col-lg-8">
                     <div class="card">
                         <div class="body">
-                            <div class="table-responsive check-all-parent">
-                                <table class="table table-custom table-hover m-b-0 c_list">
-                                    <thead>
-                                        <tr>
-                                            <th>
-                                                <label class="fancy-checkbox">
-                                                    <input class="check-all" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </th>
-                                            <th>Nama</th>
-                                            <th>Email</th>
-                                            <th>Nomer HP</th>                                    
-                                            <th>Alamat</th>
-                                            <th>Action</th>
-                                        </tr>
-                                    </thead>
-                                        <tbody>
-                                        <tr>
-                                            <td style="width: 50px;">
-                                            <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/budi.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Karyawan) Budi Budiman</p>
-                                            </td>
-                                            <td>bubud890@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>+62-814-6225-2583</span>
-                                            </td>                                   
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Imam Bonjol XII, No.12 ,Tulungagung </address>
-                                            </td>
-                                            <td>                                            
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/anastashia.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Pemasok) Anatashia Wina </p>
-                                            </td>
-                                            <td>anastashiawina2104@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>+62-8264-625-5689</span>
-                                            </td>                                    
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Pattimura 20, No.32, Kediri</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/okta.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Sponsorship) Okta Wina</p>
-                                            </td>
-                                            <td>oktawina11@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>(067)-62595</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Sunan Ampel 1, No.212 , Probolinggo</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/abdul.jpeg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Karyawan) Abdul Sinaga</p>
-                                            </td>
-                                            <td>abdulsinaga@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>+62-8264-625-1212</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Riau , No.24.Jember</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/susi.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Pemasok) Susi Susanti</p>
-                                            </td>
-                                            <td>susisu@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>+62-8264-625-2323</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Sumatera, No.12,Jember</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/Eri.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Karyawan) Eri Budiono</p>
-                                            </td>
-                                            <td>eribudi@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>+62-8264-625-1005</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Sunan Ampel XII, No.25,Jember</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/Ani.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Sponsorship) Ani Sabrina</p>
-                                            </td>
-                                            <td>anisabi@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>(061)-462599</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Teguharjo 2, No.1 , Malang</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <label class="fancy-checkbox">
-                                                    <input class="checkbox-tick" type="checkbox" name="checkbox">
-                                                    <span></span>
-                                                </label>
-                                            </td>
-                                            <td>
-                                                <img src="../assets/images/beri.jpg" class="rounded-circle avatar" alt="">
-                                                <p class="c_name">(Sponsorship) Beri Budi</p>
-                                            </td>
-                                            <td>beribudi@gmail.com</td>
-                                            <td>
-                                                <span class="phone"><i class="fa fa-phone m-r-10"></i>(032)-264625</span>
-                                            </td>
-                                            <td>
-                                                <address><i class="fa fa-map-marker"></i>Jl.Teuku Umar 3, No.21, Batu</address>
-                                            </td>
-                                            <td>
-                                                <button type="button" class="btn btn-default btn-sm" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" class="btn btn-danger btn-sm js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                            <div id="calendar"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card profile-header">
+                        <div class="body">
+                            <div class="text-center">
+                                <img src="../assets/images/admin.jpg" class="rounded-circle m-b-15" alt="">
+                                <div>
+                                    <h4 class="m-b-0"><strong>Mimin</strong></h4>
+                                    <span>Malang, Jawa Timur</span>
+                                </div>
+                                <div class="progress progress-xs m-b-25 m-t-25">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 89%;">
+                                        <span class="sr-only">60% Complete</span>
+                                    </div>
+                                </div>
+                                <div class="row clearfix">
+                                    <div class="col-4">
+                                        <h6>17</h6>
+                                        <span>Terselesaikan</span>
+                                    </div>
+                                    <div class="col-4">
+                                        <h6>34</h6>
+                                        <span>Dilakukan</span>
+                                    </div>
+                                    <div class="col-4">
+                                        <h6>78</h6>
+                                        <span>Semua Tugas</span>
+                                    </div>
+                                </div>
                             </div>
+                            <hr>
+                            <span class="badge badge-default mb-2">Pemasaran</span>
+                            <span class="badge badge-primary mb-2">Penugasan Desain</span>
+                            <span class="badge badge-success mb-2">Development</span>
+                            <span class="badge badge-info mb-2">Keuangan</span>
+                            <span class="badge badge-warning mb-2">Meeting</span>
+                            <span class="badge badge-danger mb-2">Conference</span>
+                            <hr>
+                            <h6>Tim</h6>
+                            <ul class="list-unstyled team-info m-t-20">                                
+                                <li><img src="../assets/images/team/Catur.png" data-toggle="tooltip" data-placement="top" title="Catur" alt="Avatar"></li>
+                                <li><img src="../assets/images/team/Dedi.png" data-toggle="tooltip" data-placement="top" title="Dedi" alt="Avatar"></li>
+                                <li><img src="../assets/images/team/Farhan.png" data-toggle="tooltip" data-placement="top" title="Farhan" alt="Avatar"></li>
+                                <li><img src="../assets/images/team/Alif.png" data-toggle="tooltip" data-placement="top" title="Alif" alt="Avatar"></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -652,67 +493,34 @@
     
 </div>
 
+
 <!-- Default Size -->
-<div class="modal fade" id="addcontact" tabindex="-1" role="dialog">
+<div class="modal fade" id="addevent" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h6 class="title" id="defaultModalLabel">Add Contact</h6>
+                <h4 class="title" id="defaultModalLabel">Tambah Kegiatan Baru</h4>
             </div>
             <div class="modal-body">
-                <div class="row clearfix">
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="First Name">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                   
-                            <input type="text" class="form-control" placeholder="Last Name">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <input type="number" class="form-control" placeholder="Phone Number">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Enter Address">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">                                            
-                            <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp">
-                            <small id="fileHelp" class="form-text text-muted">This is some placeholder block-level help text for the above input. It's a bit lighter and easily wraps to a new line.</small>
-                        </div>
-                        <hr>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Facebook">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                   
-                            <input type="text" class="form-control" placeholder="Twitter">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="Linkedin">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">                                    
-                            <input type="text" class="form-control" placeholder="instagram">
-                        </div>
+                <div class="form-group">
+                    <div class="form-line">
+                        <input type="number" class="form-control" placeholder="Event Date">
                     </div>
                 </div>
+                <div class="form-group">
+                    <div class="form-line">
+                        <input type="text" class="form-control" placeholder="Event Title">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="form-line">
+                        <textarea class="form-control no-resize" placeholder="Event Description..."></textarea>
+                    </div>
+                </div>       
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Add</button>
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">CLOSE</button>
+                <button type="button" class="btn btn-primary">Tambah</button>
+                <button type="button" class="btn btn-simple" data-dismiss="modal">TUTUP</button>
             </div>
         </div>
     </div>
@@ -722,9 +530,10 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js -->
+<script src="assets/bundles/fullcalendarscripts.bundle.js"></script><!--/ calender javascripts --> 
+<script src="../assets/vendor/fullcalendar/fullcalendar.js"></script><!--/ calender javascripts --> 
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/ui/dialogs.js"></script>
+<script src="assets/js/pages/calendar.js"></script>
 </body>
 </html>

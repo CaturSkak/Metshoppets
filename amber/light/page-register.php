@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>Metshop Pets -Selamat Datang Di MetShop Pets</title>
+<title>MetShop Pets -Selamat Datang di MetShop Pets</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -19,7 +19,10 @@
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 
+
+
 <body class="theme-orange">
+    
     <!-- WRAPPER -->
     <div id="wrapper" class="auth-main">
         <div class="container">
@@ -28,8 +31,8 @@
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="Logooo.png"><img src="../assets/images/image-gallery/logo.png" width="30" height="30" class="d-inline-block align-top mr-2" alt="">MetShopPet's</a>
                         <ul class="navbar-nav">
-                            <li class="nav-item"><a class="nav-link" href="index.php">Beranda MetShopPet's</a></li>
-                            <li class="nav-item"><a class="nav-link" href="page-register.html">Daftar</a></li>
+                            <li class="nav-item"><a class="nav-link" href="amber/index.php">Beranda MetShopPet's</a></li>
+                            <li class="nav-item"><a class="nav-link" href="page-login.php">Log In</a></li>
                         </ul>
                     </nav>                    
                 </div>
@@ -54,33 +57,25 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4">                            
                     <div class="card">
                         <div class="header">
-                            <p class="lead">Masuk Ke Akun</p>
+                            <p class="lead">Buat Akun</p>
                         </div>
                         <div class="body">
-                            <form class="form-auth-small" action="index.html">
+                            <form class="form-auth-small">
                                 <div class="form-group">
-                                    <label for="signin-email" class="control-label sr-only">Email</label>
-                                    <input type="email" class="form-control" id="signin-email" value="Metshoppets@domain.com" placeholder="Email">
+                                    <label for="signup-email" class="control-label sr-only">Email</label>
+                                    <input type="email" class="form-control" id="signup-email" placeholder="Email">
                                 </div>
                                 <div class="form-group">
-                                    <label for="signin-password" class="control-label sr-only">Kata Sandi</label>
-                                    <input type="password" class="form-control" id="signin-password" value="inikatasandi" placeholder="Kata Sandi">
+                                    <label for="signup-password" class="control-label sr-only">Password</label>
+                                    <input type="password" class="form-control" id="signup-password" placeholder="Kata Sandi">
                                 </div>
-                                <div class="form-group clearfix">
-                                    <label class="fancy-checkbox element-left">
-                                        <input type="checkbox">
-                                        <span>Ingat Saya</span>
-                                    </label>								
-                                </div>
-                                <button type="submit" class="btn btn-primary btn-lg btn-block">MASUK</button>
-                                <div class="bottom">
-                                    <span class="helper-text m-b-10"><i class="fa fa-lock"></i><a href="page-forgot-password.html"> Lupa Kata Sandi ?</a></span>
-                                    <span>Tidak Punya Akun? <a href="page-register.html">Daftar</a></span>
-                                </div>
+                                <button type="submit" class="btn btn-primary btn-lg btn-block">Daftar</button>                                
                             </form>
+                            <div class="separator-linethrough"><span>Atau</span></div>
+                            <button class="btn btn-signin-social"><i class="fa fa-google google-color" aria-hidden="true"></i> Masuk Dengan Gmail</button> 
                         </div>
                     </div>
                 </div>
@@ -88,7 +83,7 @@
         </div>
     </div>
     <!-- END WRAPPER -->
-  
+
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
