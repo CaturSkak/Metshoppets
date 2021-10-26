@@ -1,24 +1,5 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-<title>MetShop Pets -Selamat Datang di MetShop Pet's</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<link rel="icon" href="logo.png" type="image/logo">
-<!-- VENDOR CSS -->
-<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
-
-<!-- MAIN CSS -->
-<link rel="stylesheet" href="assets/css/main.css">
-<link rel="stylesheet" href="assets/css/inbox.css">
-<link rel="stylesheet" href="assets/css/color_skins.css">
-</head>
-<body class="theme-orange">
-
 <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
@@ -47,13 +28,13 @@
                             <li>
                                 <a class="#">
                                     <i class="icon-envelope"></i>
-                                    <span>Inbox</span>
+                                    <span>Kotak Surat</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="#">
                                     <i class="icon-bubbles"></i>
-                                    <span>Chat</span>
+                                    <span>Pesan</span>
                                 </a>
                             </li>
                             <li>
@@ -88,7 +69,7 @@
                                 <i class="icon-envelope"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                            <ul class="dropdown-menu right_chat email">
+                             <ul class="dropdown-menu right_chat email">
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
@@ -141,7 +122,7 @@
                                 <span class="notification-dot"></span>
                             </a>
                             <ul class="dropdown-menu feeds_widget">
-                                <li class="header">You have 5 new Notifications</li>
+                                <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-thumbs-o-up text-success"></i></div>
@@ -149,7 +130,7 @@
                                             <h4 class="title text-success">7 masukkan Baru <small class="float-right text-muted">Today</small></h4>
                                             <small>Untuk Website nya sangat Bagus</small>
                                         </div>
-                                    </a>
+                                   </a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);">
@@ -160,7 +141,7 @@
                                         </div>
                                     </a>
                                 </li>
-                         <li>
+                                <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-question-circle text-warning"></i></div>
                                         <div class="feeds-body">
@@ -374,8 +355,8 @@
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li class="active"><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
+                    <li class="active"><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
@@ -389,8 +370,8 @@
                             <li><a href="table-dragger.php">Table dragger</a></li>
                         </ul>
                     </li>
-                    </li>
-                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
+                     </li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                  
                     <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
                     <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
@@ -406,26 +387,11 @@
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
                             <li><a href="map-google.php">Peta Google</a></li>                         
-                        </ul>                          
                         </ul>
                     </li>
                 </ul>
             </nav>     
         </div>
     </div>
-
-<!-- Javascript -->
-<script src="assets/bundles/libscripts.bundle.js"></script>    
-<script src="assets/bundles/vendorscripts.bundle.js"></script>
-
-<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
-
-<script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/ui/dialogs.js"></script>
-<script>
-    $('.toggle-email-nav').on('click', function() {
-		$('.mail-left').toggleClass('open');
-	});
-</script>
 </body>
-</html>
+    </html>
