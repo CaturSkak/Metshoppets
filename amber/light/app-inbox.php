@@ -1,6 +1,24 @@
 <!doctype html>
 <html lang="en">
-<?php include 'header.php'?>
+
+<head>
+<title>MetShop Pets -Selamat Datang di MetShop Pet's</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="icon" href="logo.png" type="image/logo">
+<!-- VENDOR CSS -->
+<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
+
+<!-- MAIN CSS -->
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/inbox.css">
+<link rel="stylesheet" href="assets/css/color_skins.css">
+</head>
+<body class="theme-orange">
+
 
     <div id="main-content">        
         <div class="mail-inbox">
