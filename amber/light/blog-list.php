@@ -2,19 +2,21 @@
 <html lang="en">
 
 <head>
-<title>MetShop Pets -Selamat Datang di MetShop Pet's</title>
+<title>MetShop Pets -Selamat Datang di MetShop Pets</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="description" content="HexaBit Bootstrap 4x Admin Template">
+<meta name="author" content="WrapTheme, www.thememakker.com">
+
 <link rel="icon" href="logo.png" type="image/logo">
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
-<link rel="stylesheet" href="assets/css/inbox.css">
+<link rel="stylesheet" href="assets/css/blog.css">
 <link rel="stylesheet" href="assets/css/color_skins.css">
 </head>
 <body class="theme-orange">
@@ -88,7 +90,7 @@
                                 <i class="icon-envelope"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                            <ul class="dropdown-menu right_chat email">
+                             <ul class="dropdown-menu right_chat email">
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
@@ -141,7 +143,7 @@
                                 <span class="notification-dot"></span>
                             </a>
                             <ul class="dropdown-menu feeds_widget">
-                                <li class="header">You have 5 new Notifications</li>
+                                <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-thumbs-o-up text-success"></i></div>
@@ -149,7 +151,7 @@
                                             <h4 class="title text-success">7 masukkan Baru <small class="float-right text-muted">Today</small></h4>
                                             <small>Untuk Website nya sangat Bagus</small>
                                         </div>
-                                    </a>
+                                   </a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);">
@@ -160,7 +162,7 @@
                                         </div>
                                     </a>
                                 </li>
-                         <li>
+                                <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-question-circle text-warning"></i></div>
                                         <div class="feeds-body">
@@ -277,7 +279,7 @@
                             <div class="input-group-prepend">
                                 <span class="input-group-text"><i class="icon-magnifier"></i></span>
                             </div>
-                            <input type="text" class="form-control" placeholder="Search...">
+                            <input type="text" class="form-control" placeholder="Cari...">
                         </div>
                     </form>
                     <div class="card">
@@ -375,7 +377,7 @@
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
                     <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li class="active"><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
@@ -384,15 +386,15 @@
                             <li><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
-                    <li>
+                    <li class="active">
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
                         <ul>
-                            <li><a href="blog-list.php">Artikel</a></li>
+                            <li class="active"><a href="blog-list.php">Artikel</a></li>
                         </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
                     <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
-                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
@@ -405,8 +407,7 @@
                     <li>
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="map-google.php">Peta Google</a></li>                         
-                        </ul>                          
+                            <li><a href="map-google.php">Peta Google</a></li>                          
                         </ul>
                     </li>
                 </ul>
@@ -414,185 +415,199 @@
         </div>
     </div>
 
-    <div id="main-content">        
-        <div class="mail-inbox">
-            <div class="mobile-left">
-                <a href="javascript:void(0);" class="btn btn-primary toggle-email-nav"><i class="fa fa-bars"></i></a>
-            </div>
-            <div class="mail-left">
-                <div class="mail-compose m-b-20">
-                    <a href="app-compose.php" class="btn btn-danger btn-block"> + Tulis</a>
-                </div>
-                <div class="mail-side">
-                    <ul class="nav">
-                        <li class="active"><a href="javascript:void(0);"><i class="icon-envelope"></i>Kotak Surat<span class="badge badge-primary float-right">6</span></a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-cursor"></i>Terkirim</a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-envelope-open"></i>Draf<span class="badge badge-info float-right">3</span></a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-action-redo"></i>Teruskan</a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-star"></i>Berbintang<span class="badge badge-warning float-right">6</span></a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-trash"></i>Kotak Sampah<span class="badge badge-danger float-right">9</span></a></li>
+    <div id="main-content">
+        <div class="block-header">
+            <div class="row clearfix">
+                <div class="col-md-6 col-sm-12">
+                    <h2>Artikel</h2>
+                </div>            
+                <div class="col-md-6 col-sm-12 text-right">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
+                        <li class="breadcrumb-item"><a href="blog-dashboard.php">Blog</a></li>
+                        <li class="breadcrumb-item active">Artikel</li>
                     </ul>
+                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Buat Baru</a>
                 </div>
             </div>
-            <div class="mail-right check-all-parent">
-                <div class="header d-flex align-center">
-                    <h2>Pesan Masuk</h2>
-                    <form class="ml-auto">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Cari Disini.." aria-label="Search Mail" aria-describedby="search-mail">
-                            <div class="input-group-append">
-                                <span class="input-group-text" id="search-mail"><i class="icon-magnifier"></i></span>
+        </div>
+        <div class="container-fluid">
+            <div class="row clearfix">
+                <div class="col-lg-8 col-md-12 left-box">
+                    <div class="card single_post2">
+                        <img class="img-fluid" src="../assets/images/blog/blog-page-1.jpg" alt="img">
+                        <div class="body">                    
+                            <div class="content">
+                                <div class="actions_sidebar">
+                                    <a href="javascript:void(0)"><i class="icon-share"></i></a>
+                                    <a href="javascript:void(0)"><i class="icon-heart"></i> <span>5</span></a>
+                                    <a href="javascript:void(0)"><i class="icon-bubble"></i> <span>8</span></a>
+                                </div>
+                                <h4 class="title">All photographs are accurate</h4>
+                                <p class="date">
+                                    <small>Jun 15, 2018</small>
+                                </p>
+                                <p class="text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
+                                <a class="btn btn-primary" href="javascript:void(0)">READ MORE</a>
                             </div>
-                        </div>
-                    </form>
+                        </div>                        
+                    </div>
+
+                    <div class="card single_post2">
+                        <img class="img-fluid" src="../assets/images/blog/blog-page-2.jpg" alt="img">
+                        <div class="body">                    
+                            <div class="content">
+                                <div class="actions_sidebar">
+                                    <a href="javascript:void(0)"><i class="icon-share"></i></a>
+                                    <a href="javascript:void(0)"><i class="icon-heart"></i> <span>5</span></a>
+                                    <a href="javascript:void(0)"><i class="icon-bubble"></i> <span>8</span></a>
+                                </div>
+                                <h4 class="title">All photographs are accurate</h4>
+                                <p class="date">
+                                    <small>Jun 15, 2018</small>
+                                </p>
+                                <p class="text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
+                                <a class="btn btn-primary" href="javascript:void(0)">READ MORE</a>
+                            </div>
+                        </div>                        
+                    </div>
+
+                    <div class="card single_post2">
+                        <img class="img-fluid" src="../assets/images/blog/blog-page-3.jpg" alt="img">
+                        <div class="body">                    
+                            <div class="content">
+                                <div class="actions_sidebar">
+                                    <a href="javascript:void(0)"><i class="icon-share"></i></a>
+                                    <a href="javascript:void(0)"><i class="icon-heart"></i> <span>5</span></a>
+                                    <a href="javascript:void(0)"><i class="icon-bubble"></i> <span>8</span></a>
+                                </div>
+                                <h4 class="title">All photographs are accurate</h4>
+                                <p class="date">
+                                    <small>Jun 15, 2018</small>
+                                </p>
+                                <p class="text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
+                                <a class="btn btn-primary" href="javascript:void(0)">READ MORE</a>
+                            </div>
+                        </div>                        
+                    </div>
+
+                    <div class="card single_post2">
+                        <img class="img-fluid" src="../assets/images/blog/blog-page-4.jpg" alt="img">
+                        <div class="body">                    
+                            <div class="content">
+                                <div class="actions_sidebar">
+                                    <a href="javascript:void(0)"><i class="icon-share"></i></a>
+                                    <a href="javascript:void(0)"><i class="icon-heart"></i> <span>5</span></a>
+                                    <a href="javascript:void(0)"><i class="icon-bubble"></i> <span>8</span></a>
+                                </div>
+                                <h4 class="title">All photographs are accurate</h4>
+                                <p class="date">
+                                    <small>Jun 15, 2018</small>
+                                </p>
+                                <p class="text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal</p>
+                                <a class="btn btn-primary" href="javascript:void(0)">READ MORE</a>
+                            </div>
+                        </div>                        
+                    </div>
+                                            
+                    <ul class="pagination pagination-primary">
+                        <li class="page-item"><a class="page-link" href="javascript:void(0);">Previous</a></li>
+                        <li class="page-item active"><a class="page-link" href="javascript:void(0);">1</a></li>
+                        <li class="page-item"><a class="page-link" href="javascript:void(0);">2</a></li>
+                        <li class="page-item"><a class="page-link" href="javascript:void(0);">3</a></li>
+                        <li class="page-item"><a class="page-link" href="javascript:void(0);">Next</a></li>
+                    </ul>                
                 </div>
-                <div class="mail-action clearfix">
-                    <div class="pull-left">
-                        <div class="fancy-checkbox d-inline-block">
-                            <label>
-                                <input class="check-all" type="checkbox" name="checkbox">
-                                <span></span>
-                            </label>
-                        </div>
-                        <div class="btn-group">
-                            <a href="javascript:void(0);" class="btn btn-default btn-sm hidden-sm">Segarkan</a>
-                            <a href="javascript:void(0);" class="btn btn-default btn-sm hidden-sm">Arsip</a>
-                            <a href="javascript:void(0);" class="btn btn-default btn-sm">Sampah</a>
-                        </div>
-                        <div class="btn-group">
-                            <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Selengkapnya</button>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="javascript:void(0);">Tandai Sudah Yang Dibaca</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Tandai Belum Yang DiBaca</a>
-                                <a class="dropdown-item" href="javascript:void(0);">Spam</a>
-                                <div role="separator" class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="javascript:void(0);">Hapus</a>
+
+                <div class="col-lg-4 col-md-12 right-box">
+                    <div class="card">
+                        <div class="body search">
+                            <div class="input-group m-b-0">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="icon-magnifier"></i></span>
+                                </div>
+                                <input type="text" class="form-control" placeholder="Search...">                                    
                             </div>
                         </div>
                     </div>
-                    <div class="pull-right ml-auto">
-                        <div class="pagination-email d-flex">
-                            <p>1-50/295</p>
-                            <div class="btn-group m-l-20">
-                                <button type="button" class="btn btn-default btn-sm"><i class="fa fa-angle-left"></i></button>
-                                <button type="button" class="btn btn-default btn-sm"><i class="fa fa-angle-right"></i></button>
+                    <div class="card">
+                        <div class="header">
+                            <h2>Categories Clouds</h2>
+                        </div>
+                        <div class="body widget">
+                            <ul class="list-unstyled categories-clouds m-b-0">
+                                <li><a href="javascript:void(0);">eCommerce</a></li>
+                                <li><a href="javascript:void(0);">Microsoft Technologies</a></li>
+                                <li><a href="javascript:void(0);">Creative UX</a></li>
+                                <li><a href="javascript:void(0);">Wordpress</a></li>
+                                <li><a href="javascript:void(0);">Angular JS</a></li>
+                                <li><a href="javascript:void(0);">Enterprise Mobility</a></li>
+                                <li><a href="javascript:void(0);">Website Design</a></li>
+                                <li><a href="javascript:void(0);">php5</a></li>
+                                <li><a href="javascript:void(0);">Infographics</a></li>
+                                <li><a href="javascript:void(0);">Wordpress Development</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="header">
+                            <h2>Popular Posts</h2>                        
+                        </div>
+                        <div class="body widget popular-post">
+                            <div class="row clearfix">
+                                <div class="col-lg-12">
+                                    <div class="single_post">
+                                        <p class="m-b-0">Apple Introduces Search Ads Basic</p>
+                                        <span>jun 22, 2018</span>
+                                        <div class="img-post">
+                                            <img src="../assets/images/blog/blog-page-2.jpg" alt="Awesome Image">                                        
+                                        </div>                                            
+                                    </div>
+                                    <div class="single_post">
+                                        <p class="m-b-0">new rules, more cars, more races</p>
+                                        <span>jun 8, 2018</span>
+                                        <div class="img-post">
+                                            <img src="../assets/images/blog/blog-page-3.jpg" alt="Awesome Image">                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="header">
+                            <h2>Instagram Post</h2>
+                        </div>
+                        <div class="body widget">
+                            <ul class="list-unstyled instagram-plugin m-b-0">
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/05-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/06-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/07-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/08-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/09-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/10-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/11-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/12-img.jpg" alt="image description"></a></li>
+                                <li><a href="javascript:void(0);"><img src="../assets/images/blog/13-img.jpg" alt="image description"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="header">
+                            <h2>Email Newsletter <small>Get our products/news earlier than others, let’s get in touch.</small></h2>
+                        </div>
+                        <div class="body widget newsletter">                        
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Enter Email">
+                                <div class="input-group-append">
+                                    <span class="input-group-text"><i class="icon-paper-plane"></i></span>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="mail-list">
-                    <ul class="list-unstyled">
-                        <li class="clearfix">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star active"><i class="fa fa-star"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Doni S.</a><span class="badge badge-danger">Pemasok</span></h6></h6>
-                                <p class="dep">Barang yang anda Pesan Sudah sampai kegudang Toko MetShopPet's Anda...</p>
-                                <span class="time">23 Juni</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                        <li class="clearfix">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">CS Whiskas</a><span class="badge badge-default mb-0">Sponsorship</span></h6>
-                                <p class="dep">Mohon Maaf Bapak Kami dari pihak Whiskas ingin memberikan sponsorship untuk toko MetShopPet's.</p>
-                                <span class="time"><i class="fa fa-paperclip"></i> 25 Juni</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                        <li class="clearfix unread">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Sonia Vita sari</a><span class="badge badge-success">Pekerja Di Bagian Penjualan Hewan</span></h6>
-                                <p class="dep">Ada Banya Pembelihan hewan yang sudah dibayar di Acc oleh Bapak/Ibu Admin silahkan di...</p>
-                                <span class="time">27 Juni</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                        <li class="clearfix">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">CS Bolt M.A.</a><span class="badge badge-default mb-0">Sponsorship</span></h6>
-                                <p class="dep">KamI Menawarkan Produk Kami kepada Toko MetShopPet's yaitu Bolt makanan Anjing yang Banyak.... </p>
-                                <span class="time">30 Juni</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                        <li class="clearfix">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Frank Camly</a><span class="badge badge-danger">Pemasok</span></h6>
-                                <p class="dep"><span class="m-r-10">[WrapTheme]</span>Lorem Ipsum is simply dumm dummy text of the printing and typesetting industry.</p>
-                                <span class="time"><i class="fa fa-paperclip"></i> 31 Juni</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                        <li class="clearfix">
-                            <div class="mail-detail-left">
-                                <label class="fancy-checkbox">
-                                    <input type="checkbox" name="checkbox" class="checkbox-tick">
-                                    <span></span>
-                                </label>
-                                <a href="javascript:void(0);" class="mail-star"><i class="fa fa-star-o"></i></a>
-                            </div>
-                            <div class="mail-detail-right">
-                                <h6 class="sub"><a href="app-inbox-detail.php" class="mail-detail-expand">Rochelle Barton</a><span class="badge badge-success">Pekerja Di Bagian Perjodohan Hewan</span></h6>
-                                <p class="dep">Untuk Bapak/Ibu Admin Apakah Hewan yang mau dijodohkan ini Harus dibersihkan/dimandikan terlibih dahulu.</p>
-                                <span class="time">14 Juli</span>
-                            </div>
-                            <div class="hover-action">
-                                <button class="btn btn-warning btn-sm mr-1" title="Delete" type="button"><i class="fa fa-archive"></i></button>
-                                <button class="btn btn-danger btn-sm js-sweetalert" title="Delete" type="button" data-type="confirm"><i class="fa fa-trash-o"></i></button>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
             </div>
+
         </div>
     </div>
     
@@ -602,14 +617,6 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
-
 <script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/ui/dialogs.js"></script>
-<script>
-    $('.toggle-email-nav').on('click', function() {
-		$('.mail-left').toggleClass('open');
-	});
-</script>
 </body>
 </html>
