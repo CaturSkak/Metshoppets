@@ -383,14 +383,14 @@
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li class="active"><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
                     <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
-                    <li>
+                    <li class="active">
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
                         <ul>
                             <li><a href="table-basic.php">Pembelian</a></li>
-                            <li><a href="table-normal.php">Perjodohan</a></li>
+                            <li class="active"><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
                     <li>
