@@ -388,6 +388,12 @@
                         </ul>
                     </li>
                     <li>
+                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
+                        <ul>
+                            <li class="active"><a href="forms-basic.php">Tambah Produk</a></li>
+                        </ul>
+                    </li>
+                    <li>
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
                         <ul>
                             <li><a href="blog-list.php">Artikel</a></li>
