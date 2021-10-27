@@ -496,7 +496,7 @@
                                                 <li>
                                                 <a href="javascript:void(0);">
                                                     <div class="thumb">
-                                                        <a href="single-product.php" class="image">
+                                                        <a class="image">
                                                         <img class="fit-image" width="300px" src="../assets/images/bni.png" alt="Product" />
                                                     </div>
                                                 </a>
@@ -526,7 +526,7 @@
                                                 <li>
                                                 <a href="javascript:void(0);">
                                                     <div class="thumb">
-                                                        <a href="single-product.php" class="image">
+                                                        <a class="image">
                                                         <img class="fit-image" width="300px" src="../assets/images/ovo.png" alt="Product" />
                                                     </div>
                                                 </a>
