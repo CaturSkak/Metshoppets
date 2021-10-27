@@ -504,7 +504,7 @@
                                             </li>
                                             </td>
                                             <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-warning">Menunggu</span></td>
                                             </td>
                                         </tr>
                                         <tr>
@@ -534,7 +534,7 @@
                                             </li>
                                             </td>
                                             <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-success">Diterima</span></td>
                                             </td>
                                         </tr>
                                         <tr>
@@ -564,7 +564,7 @@
                                             </li>
                                             </td>
                                             <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-success">Diterima</span></td>
                                             </td>
                                         </tr>
                                         <tr>
@@ -594,7 +594,7 @@
                                             </li>
                                             </td>
                                             <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-success">Diterima</span></td>
                                             </td>
                                         </tr>
                                         <tr>
@@ -624,7 +624,7 @@
                                             </li>
                                             </td>
                                             <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-success">Diterima</span></td>
                                             </td>
                                         </tr>
                                     </tbody>
