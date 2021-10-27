@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 <title>MetShop Pets -Selamat Datang di MetShop Pets</title>
 <meta charset="utf-8">
@@ -627,6 +628,20 @@
                                             <td>Rp.840.000</td>
                                             <td>2</td>
                                             <td>Rp.1.680.000</td>
+                                            <td>
+                                                <button class="btn btn-sm round btn-outline-success">Diterima</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>15-Oktober-2021 09:51:50</td>
+                                            <td>Beli</td>
+                                            <td>
+                                                Anjing</td>
+                                            <td>
+                                                Anjing Siberian Husky</td>
+                                            <td>Rp.3.200.000</td>
+                                            <td>1</td>
+                                            <td>Rp.3.200.000</td>
                                             <td>
                                                 <button class="btn btn-sm round btn-outline-success">Diterima</button>
                                             </td>
