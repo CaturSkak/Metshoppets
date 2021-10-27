@@ -468,7 +468,6 @@
                                 <p class="text">Pemakaian pakan buatan untuk ikan hias mesti dikerjakan dengan benar serta hati-hati agar pertumbuhannya bisa berjalan maksimal. Karena diinginkan tak lagi...</p>
                                 <a class="btn btn-primary" href="blog-post2.php">Edit</a>
                                 <a class="btn btn-primary" href="">Hapus</a>
-                                <a class="btn btn-primary" href="javascript:void(0)">Perlihatkan</a>
                                 <a class="btn btn-primary" href="">Tidak Ditampilkan</a>
                                 <i class="btn fa fa-eye" aria-hidden="true" href=""></i>
                             </div>
@@ -507,7 +506,6 @@
                                 <p class="text">Sebagai pemilik kucing, fenomena kucing mengalami kejang pasti mengerikan. Kamu harus mengenali apa saja penyebab kucing kejang agar bisa mengatasinya dengan mudah. Walaupun begitu, tidak selalu kejang yang terjadi pada..</p>
                                 <a class="btn btn-primary" href="blog-post2.php">Edit</a>
                                 <a class="btn btn-primary" href="">Hapus</a>
-                                <a class="btn btn-primary" href="javascript:void(0)">Perlihatkan</a>
                                 <a class="btn btn-primary" href="">Tidak Ditampilkan</a>
                                 <i class="btn fa fa-eye" aria-hidden="true" href=""></i>
                             </div>
