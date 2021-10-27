@@ -390,9 +390,9 @@
                         </ul>
                     </li>
                     <li class="active">
-                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
-                        <ul>
-                            <li class="active"><a href="blog-list.php">Artikel</a></li>
+                        <li class="active"><a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
+                        <ul></li>
+                            <a href="blog-list.php">Artikel</a>
                         </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
