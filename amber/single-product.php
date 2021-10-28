@@ -188,9 +188,7 @@
                             <div class="widget-social justify-content-start mb-6">
                                 <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>
                                 <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
-                                <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
-                                <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=6282264144712&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
+                                <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=628222943533&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <!-- Social Shear End -->
@@ -231,9 +229,7 @@
                         <li class="nav-item mb-3">
                             <a class="nav-link" id="contact-tab" data-bs-toggle="tab" href="#connect-3" role="tab" aria-selected="false">Aturan Pengiriman</a>
                         </li>
-                        <li class="nav-item mb-3">
-                            <a class="nav-link" id="review-tab" data-bs-toggle="tab" href="#connect-4" role="tab" aria-selected="false">Opsi</a>
-                        </li>
+                        
                     </ul>
 
                     <div class="tab-content mb-text" id="myTabContent">
@@ -384,58 +380,6 @@
                             </div>
                             <!-- Shipping Policy End -->
                         </div>
-                        <div class="tab-pane fade" id="connect-4" role="tabpanel" aria-labelledby="review-tab">
-                            <div class="size-tab table-responsive-lg mt-8">
-                                <h4 class="title-3 mb-4">Opsi</h4>
-                                <table class="table border mb-0">
-                                    <tbody>
-                                        <tr>
-                                            <td class="cun-name"><span>UK</span></td>
-                                            <td>18</td>
-                                            <td>20</td>
-                                            <td>22</td>
-                                            <td>24</td>
-                                            <td>26</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="cun-name"><span>European</span></td>
-                                            <td>46</td>
-                                            <td>48</td>
-                                            <td>50</td>
-                                            <td>52</td>
-                                            <td>54</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="cun-name"><span>usa</span></td>
-                                            <td>14</td>
-                                            <td>16</td>
-                                            <td>18</td>
-                                            <td>20</td>
-                                            <td>22</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="cun-name"><span>Australia</span></td>
-                                            <td>28</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                            <td>14</td>
-                                            <td>16</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="cun-name"><span>Canada</span></td>
-                                            <td>24</td>
-                                            <td>18</td>
-                                            <td>14</td>
-                                            <td>42</td>
-                                            <td>36</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
                 <!-- Single Product Tab End -->
 
             </div>
