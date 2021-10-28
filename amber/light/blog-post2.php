@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../assets/vendor/summernote/dist/summernote.css"/>
+<link rel="stylesheet" href="../assets/vendor/dropify/css/dropify.min.css">
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -448,9 +449,17 @@
                                     <option>Kesehatan Hewan</option>
                                     <option>Vaksinasi Hewan</option>
                                 </select>
-                            </div>
+                    </div>
+                            <div class="card">
+                        <div class="header">
+                            <h2>Gambar Sebelumnya <small>Bisa diganti gambar lainnya</small></h2>
+                        </div>
+                        <div class="body">
+                            <input type="file" id="dropify-event" data-default-file="../assets/images/121.jpg">
+                        </div>
+                    </div>     
                             <div class="summernote">
-                                <img class="img-fluid" src="../assets/images/121.jpg" alt="img">
+                          
                                 <h3 class="m-b-0">Halo dengan Admin,</h3>
                                 <h4 class="m-t-0">Wabah COVID-19 tak hanya menginfeksi manusia, tetapi juga hewan-hewan. Beberapa penemuan kasus hewan positif covid ditemukan di dunia. Di antaranya harimau malaya di Kebun Binatang Bronx, New York, Amerika Serikat, seekor anjing di Hong Kong, dan dua kucing di New York. Kasus ini terjadi akibat penularan dari manusia.</h4>
                                 <p></p>
@@ -499,5 +508,12 @@
         $(".click2edit").summernote('destroy');
     }
 </script>
+<script src="assets/bundles/libscripts.bundle.js"></script>    
+<script src="assets/bundles/vendorscripts.bundle.js"></script>
+
+<script src="../assets/vendor/dropify/js/dropify.min.js"></script>
+
+<script src="assets/bundles/mainscripts.bundle.js"></script>
+<script src="assets/js/pages/forms/dropify.js"></script>
 </body>
 </html>
