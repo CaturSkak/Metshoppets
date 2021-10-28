@@ -65,22 +65,6 @@
                                     <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
                                 </tr>
                                 <tr>
-                                    <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets\images\products\large-product/kucing anggora1.png" alt="Product" /></a></td>
-                                    <td class="pro-title"><a href="#">Kucing Anggora Asli</a></td>
-                                    <td class="pro-price"><span>Rp.35.000/Hari</span></td>
-                                    <td class="pro-quantity">
-                                        <div class="quantity">
-                                            <div class="cart-plus-minus">
-                                                <input class="cart-plus-minus-box" value="6" type="text">
-                                                <div class="dec qtybutton">-</div>
-                                                <div class="inc qtybutton">+</div>
-                                            </div>
-                                        </div>
-                                    </td>
-                                    <td class="pro-subtotal"><span>Rp.210.000</span></td>
-                                    <td class="pro-remove"><a href="#"><i class="ti-trash"></i></a></td>
-                                </tr>
-                                <tr>
                                     <td class="pro-thumbnail"><a href="#"><img class="fit-image" src="assets/images/products/medium-product/persia.png" alt="Product" /></a></td>
                                     <td class="pro-title"><a href="#">Kucing Persia Asli</a></td>
                                     <td class="pro-price"><span>Rp.45.000/Hari</span></td>
@@ -144,11 +128,11 @@
                                 <table class="table">
                                     <tr>
                                         <td>Sub Total</td>
-                                        <td>Rp.1.110.000</td>
+                                        <td>Rp.900.000</td>
                                     </tr>
                                     <tr>
                                         <td>Pengiriman</td>
-                                        <td>Rp.90.000</td>
+                                        <td>-</td>
                                     </tr>
                                      <tr>
                                         <td>Pembayaran</td>
@@ -156,7 +140,7 @@
                                     </tr>
                                     <tr class="total">
                                         <td>Total</td>
-                                        <td class="total-amount">Rp.1.200.000</td>
+                                        <td class="total-amount">Rp.900.000</td>
                                     </tr>
                                 </table>
                             </div>
