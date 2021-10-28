@@ -52,7 +52,9 @@
                                             <th>Nama</th>
                                             <th>Alamat</th>
                                             <th>Tanggal Pemesanan</th>
-                                            <th>Rincian</th>
+                                            <th>Tipe</th>
+                                            <th>Rincian pemesanan</th>
+                                            <th>Foto Hewan Perjodohan Milik Customer</th>
                                             <th>Jumlah Hari</th>
                                             <th>Harga</th>
                                             <th>Pembayaran</th>
@@ -66,7 +68,25 @@
                                             <td><span>Caturs</span></td>
                                             <td><span class="text-info">Perum Permata regency Blok 17 nomor 17 Ngijo, malang</span></td>
                                             <td>19 Oktober 2021</td>
+                                            <td>Jodoh</td>
                                             <td>Kucing Persia Asli</td>
+                                             <td><div id="navbar-menu">
+                                                <ul class="nav navbar-nav">
+                                                <li class="dropdown dropdown-animated scale-left">
+                                                <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
+                                                <i class="icon-envelope"></i>
+                                                <span class="notification-dot"></span>
+                                                </a>
+                                                <ul class="dropdown-menu right_chat email">
+                                                <li>
+                                                <a href="javascript:void(0);">
+                                                    <div class="thumb">
+                                                        <a class="image">
+                                                        <img class="fit-image" width="300px" src="../assets/images/jodohbetina.jpg" alt="Product" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            </td>
                                             <td>7</td>
                                             <td>Rp.245.000</td>
                                             <td>BNI Virtual Account</td>
@@ -74,7 +94,7 @@
                                                 <ul class="nav navbar-nav">
                                                 <li class="dropdown dropdown-animated scale-left">
                                                 <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
-                                                <i class="icon-envelope"></i>
+                                                <i class="icon-picture"></i>
                                                 <span class="notification-dot"></span>
                                                 </a>
                                                 <ul class="dropdown-menu right_chat email">
@@ -96,7 +116,25 @@
                                             <td><span>Bagus</span></td>
                                             <td><span class="text-info">Perum Permata regency Blok 20 nomor 17 Ngijo, malang</span></td>
                                             <td>19 Oktober 2021</td>
+                                            <td>Jodoh</td>
                                             <td>Kucing Anggora Asli</td>
+                                             <td><div id="navbar-menu">
+                                                <ul class="nav navbar-nav">
+                                                <li class="dropdown dropdown-animated scale-left">
+                                                <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
+                                                <i class="icon-picture"></i>
+                                                <span class="notification-dot"></span>
+                                                </a>
+                                                <ul class="dropdown-menu right_chat email">
+                                                <li>
+                                                <a href="javascript:void(0);">
+                                                    <div class="thumb">
+                                                        <a class="image">
+                                                        <img class="fit-image" width="300px" src="../assets/images/jodohbetina2.jpg" alt="Product" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            </td>
                                             <td>7</td>
                                             <td>Rp.245.000</td>
                                             <td>OVO</td>
