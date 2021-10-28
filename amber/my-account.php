@@ -3,7 +3,6 @@
 <html lang="en">
 
 
-
     <!-- Breadcrumb Area Start -->
     <div class="section breadcrumb-area bg-bright">
         <div class="container">
@@ -39,7 +38,7 @@
                                     <a href="#dashboad" class="active" data-bs-toggle="tab"><i class="fa fa-dashboard"></i>
                                         Dashboard</a>
                                     <a href="#orders" data-bs-toggle="tab"><i class="fa fa-cart-arrow-down"></i> Pesanan</a>
-                                   
+                                    <a href="#chat" data-bs-toggle="tab"><i class="fa fa-envelope"></i> Pesan</a>
                                     <a href="#payment-method" data-bs-toggle="tab"><i class="fa fa-credit-card"></i> Metode Pembayaran</a>
                                     <a href="#address-edit" data-bs-toggle="tab"><i class="fa fa-map-marker"></i> Alamat</a>
                                     <a href="#account-info" data-bs-toggle="tab"><i class="fa fa-user"></i>Detail Akun</a>
@@ -69,7 +68,7 @@
                                         <div class="myaccount-content">
                                             <h3 class="title">Pesanan</h3>
                                             <div class="myaccount-table table-responsive text-center">
-                                                <table class="table table-bordered">
+                                                <table class="table tfable-bordered">
                                                     <thead class="thead-light">
                                                         <tr>
                                                             <th>Nomor Pesanan</th>
@@ -116,8 +115,201 @@
                                     <!-- Single Tab Content End -->
 
                                    
+ <!-- Single Tab Content Start -->
+ <div class="tab-pane fade" id="chat" role="tabpanel">
+                                        <div class="myaccount-content">
+                                            <h3 class="title">Pesan</h3>
+                                            <div class="account-details-form">
+                                                <form action="#">
+                                           
 
-   --
+    <div  >
+   
+        <div class="container-fluid">            
+            <div class="row clearfix">
+                <div class="col-lg-12">
+                    <div class="card chat-appp ">
+                        <div class="chat">
+                            <div class="chat-header clearfix">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6">
+                                        <a href="javascript:void(0);" data-toggle="modal" data-target="#view_info">
+                               
+                                               <img width="50px" style="border-radius: 100px; -moz-border-radius: 100px;" src="assets/images/logo.png" alt="avatar" />
+                                               <h6 class="m-b-0 chat-about">Admin </h6> <br>                                   
+                                               <small  > &nbsp; Terlihat : 2 Menit  lalu</small>
+                                            </a>
+                                       
+                                          
+                                            
+                                        
+                                    </div>
+                                    <div class="col-lg-6 hidden-sm text-left" >
+                                        <a class="float-right" href="javascript:void(0);" class="btn btn-secondary"><i class="icon-camera "></i></a>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chat-history">
+                                <ul class="m-b-0">
+                                    
+                                    <li class="clearfix">
+                                        <div class="message-data text-right">
+                                            <span class="message-data-time float-right">10:12 WIB, Hari Ini</span>
+                                        </div><br>
+                                        <div class="message other-message float-right">Halo Apakah Kucing Ini Sehat ?</div>                                    
+                                    </li>                               
+                                    <li class="clearfix ">
+                                        <div class="message-data">
+                                            <img width="50px" style="border-radius: 100px; -moz-border-radius: 100px;" src="assets/images/logo.png" alt="avatar">
+                                            <span class="message-data-time ">10:15 WIB, Hari Ini</span>
+                                        </div>
+                                        <div class="message my-message">Iya, Batul Kucing ini sangat sehat !</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="message-data text-right">
+                                            <span class="message-data-time float-right">10:17 WIB, Hari Ini</span>
+                                        </div><br>
+                                        <div class="message other-message float-right">Saya Ingin Membeli kucing ini apakah ready ?. </div>                                    
+                                    </li> 
+                                    <li class="clearfix">
+                                        <div class="message-data">
+                                            <img width="50px" style="border-radius: 100px; -moz-border-radius: 100px;" src="assets/images/logo.png" alt="avatar">
+                                            <span class="message-data-time" >10:10 WIB, Hari Ini</span>
+                                        </div>
+                                        <div class="message my-message"> Oh, ya kak ready silahkan kakak ke menu beli untuk memesan nya.</div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="chat-message clearfix">
+                                <div class="input-group mb-0">
+                                    
+                                    <textarea type="text" row="4" class="form-control" placeholder="Tulis Pesan anda Disini..."></textarea>
+                                    <div class="input-group-prepend">
+                                        <span class="btn btn input-group-text"><i class="icon-paper-plane"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="plist" class="people-list">
+                           
+                            <ul class="right_chat list-unstyled mb-0">
+                                <li class="online">
+                                    <a href="javascript:void(0);">
+                                        <div class="media">
+                                        <div class="widget-list">
+                                <h3 class="widget-title mb-6">Produk Terkini</h3>
+                                <div class="sidebar-body product-list-wrapper mb-n6">
+
+                                    <!-- Single Product List Start -->
+                                    <div class="single-product-list mb-6">
+
+                                        <!-- Product List Thumb Start -->
+                                        <div class="product">
+                                            <div class="thumb">
+                                                <a href="liathewanjodoh.php" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/kucing.png" alt="Product Image">
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                        <!-- Product List Content Start -->
+                                        <div class="product-list-content">
+                                            <h6 class="product-name">
+                                                <a href="liathewanjodoh.php">Kucing Anggora Asli</a>
+                                            </h6>
+                                            <span class="price">
+                                                    <span class="new">Rp.35.000/Hari</span>
+                                            </span>
+                                        </div>
+                                        <!-- Product List Content End -->
+
+                                    </div>
+                                    <!-- Single Product List End -->
+
+                                    <!-- Single Product List Start -->
+                                    <div class="single-product-list mb-6">
+
+                                        <!-- Product List Thumb Start -->
+                                        <div class="product">
+                                            <div class="thumb">
+                                                <a href="liathewanjodoh.php" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/shiba inu.png" alt="Product Image">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!-- Product List Thumb End -->
+
+                                        <!-- Product List Content Start -->
+                                        <div class="product-list-content">
+                                            <h6 class="product-name">
+                                                <a href="liathewanjodoh.php">Anjing Shiba Inu</a>
+                                            </h6>
+                                            <span class="price">
+                                                    <span class="new">Rp.105.000/Hari</span>
+                                            </span>
+                                        </div>
+                                        <!-- Product List Content End -->
+
+                                    </div>
+                                    <!-- Single Product List End -->
+
+                                    <!-- Single Product List Start -->
+                                    <div class="single-product-list mb-6">
+
+                                        <!-- Product List Thumb Start -->
+                                        <div class="product">
+                                            <div class="thumb">
+                                                <a href="liathewanjodoh.php" class="image">
+                                                    <img class="fit-image first-image" src="assets/images/products/medium-product/koren.png" alt="Product Image">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!-- Product List Thumb End -->
+<!-- Product List Content Start -->
+<div class="product-list-content">
+                                            <h6 class="product-name">
+                                                <a href="liathewanjodoh.php">Kucing Mainecoon</a>
+                                            </h6>
+                                            <span class="price">
+                                                    <span class="new">Rp.55.000/Hari</span>
+                                            
+                                            </span>
+                                        </div>
+                                        <!-- Product List Content End -->
+
+                                        </div>
+                                        </div>
+                                        </div>
+                                        <!-- Product List Thumb End -->
+                                        </div>
+                                    </a>                            
+                                </li>
+                             
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+                                                    
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div> <!-- Single Tab Content End -->
+<script src="light/assets/bundles/libscripts.bundle.js"></script>    
+<script src="light/assets/bundles/vendorscripts.bundle.js"></script>
+
+<script src="light/assets/bundles/easypiechart.bundle.js"></script><!-- easypiechart Plugin Js -->
+<script src="../light/assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
+
+<script src="light/assets/bundles/mainscripts.bundle.js"></script>
+<script src="light/assets/js/pages/ui/dialogs.js"></script>
+
 
 <!-- Single Tab Content Start -->
                                     <div class="tab-pane fade" id="payment-method" role="tabpanel">

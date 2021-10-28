@@ -28,7 +28,28 @@
     <link rel="stylesheet" href="assets/css/plugins/aos.min.css" />
     <link rel="stylesheet" href="assets/css/plugins/nice-select.min.css" />
 
+<link rel="icon" href="logo.png" type="image/logo">
+<!-- VENDOR CSS -->
+<link rel="stylesheet" href="../light/assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../light/assets/vendor/font-awesome/css/font-awesome.min.css">
 
+<!-- MAIN CSS -->
+<link rel="stylesheet" href="light/assets/css/main.css">
+<link rel="stylesheet" href="light/assets/css/color_skins.css">
+
+
+<link rel="stylesheet" href="assets/css/main.css" />
+<link rel="stylesheet" href="../light/assets/vendor/summernote/dist/summernote.css"/>
+
+
+<script src="assets/bundles/libscripts.bundle.js"></script>    
+<script src="assets/bundles/vendorscripts.bundle.js"></script>
+
+<script src="assets/bundles/easypiechart.bundle.js"></script><!-- easypiechart Plugin Js -->
+<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js --> 
+
+<script src="assets/bundles/mainscripts.bundle.js"></script>
+<script src="assets/js/pages/ui/dialogs.js"></script>
 
     <!-- Main Style CSS -->
 
