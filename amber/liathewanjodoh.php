@@ -131,8 +131,6 @@
                         <p>Linca Dan Pinter</p>
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
                         <p>Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli
-
-                        <p>Melayani Pengiriman Dalam Kota</p>
                         <!-- Description End -->
 
                         <!-- Quantity Start -->

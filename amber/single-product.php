@@ -239,7 +239,8 @@
                     <div class="tab-content mb-text" id="myTabContent">
                         <div class="tab-pane fade show active" id="connect-1" role="tabpanel" aria-labelledby="home-tab">
                             <div class="desc-content">
-                                <p class="mb-3"><p>Kucing Persia Peaknose</p>
+                                <p><b>DESKRIPSI HEWAN :</b></p>
+                                <p>Kucing Persia Peaknose</p>
                                 <p>Jantan Dan Betina Ada</p>
                                 <p>Umur 3-4 Bulan</p>
                                 <p>No Kutu No Jamur</p>
