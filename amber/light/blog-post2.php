@@ -439,6 +439,9 @@
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Cara Menjaga Kesehatan Hewan Peliharaan" />
                             </div>
+                            
+                            
+                           
 
                             <div class="form-group">
                                 <select class="form-control show-tick">
@@ -449,15 +452,17 @@
                                     <option>Kesehatan Hewan</option>
                                     <option>Vaksinasi Hewan</option>
                                 </select>
-                    </div>
-                            <div class="card">
+</div>
+
+<div class="card">
                         <div class="header">
                             <h2>Gambar Sebelumnya <small>Bisa diganti gambar lainnya</small></h2>
                         </div>
                         <div class="body">
                             <input type="file" id="dropify-event" data-default-file="../assets/images/121.jpg">
                         </div>
-                    </div>     
+                    </div>   
+                    
                             <div class="summernote">
                           
                                 <h3 class="m-b-0">Halo dengan Admin,</h3>
@@ -467,7 +472,9 @@
                             <button type="button" class="btn btn-block btn-primary m-t-20">Edit</button>
                         </div>
                     </div>
-                </div>            
+                    </div>
+                           
+                          
             </div>
 
         </div>
@@ -479,9 +486,18 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
+<script src="assets/bundles/libscripts.bundle.js"></script>    
+<script src="assets/bundles/vendorscripts.bundle.js"></script>
+
+<script src="../assets/vendor/dropify/js/dropify.min.js"></script>
+
+<script src="assets/bundles/mainscripts.bundle.js"></script>
+<script src="assets/js/pages/forms/dropify.js"></script>
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="../assets/vendor/summernote/dist/summernote.js"></script>
+
+
 
 <script>
     jQuery(document).ready(function() {
@@ -508,12 +524,6 @@
         $(".click2edit").summernote('destroy');
     }
 </script>
-<script src="assets/bundles/libscripts.bundle.js"></script>    
-<script src="assets/bundles/vendorscripts.bundle.js"></script>
 
-<script src="../assets/vendor/dropify/js/dropify.min.js"></script>
-
-<script src="assets/bundles/mainscripts.bundle.js"></script>
-<script src="assets/js/pages/forms/dropify.js"></script>
 </body>
 </html>
