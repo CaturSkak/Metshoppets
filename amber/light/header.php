@@ -71,7 +71,7 @@
                             </a>
                              <ul class="dropdown-menu right_chat email">
                                 <li>
-                                    <a href="javascript:void(0);">
+                                    <a href="app-chat.php">
                                         <div class="media">
                                             <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
                                             <div class="media-body">
