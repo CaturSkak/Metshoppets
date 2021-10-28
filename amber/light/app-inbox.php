@@ -378,12 +378,23 @@
                     <li class="active"><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
-                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Traksaksi</span></a>
+                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
                         <ul>
                             <li><a href="table-basic.php">Pembelian</a></li>
                             <li><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
+                    <li>
+                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
+                        <ul>
+                            <li class="active"><a href="forms-basic.php">Tambah Produk</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
+                        <ul>
+                            <li><a href="blog-list.php">Artikel</a></li>
+                        </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
                     <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>

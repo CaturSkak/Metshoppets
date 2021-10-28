@@ -2,17 +2,24 @@
 <html lang="en">
 
 <head>
-<title>:: HexaBit :: Table Normal</title>
+<title>MetShop Pets -Selamat Datang di MetShop Pets</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta name="description" content="HexaBit Bootstrap 4x Admin Template">
 <meta name="author" content="WrapTheme, www.thememakker.com">
 
-<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="logo.png" type="image/logo">
 <!-- VENDOR CSS -->
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="../assets/vendor/charts-c3/plugin.css"/>
+<link rel="stylesheet" href="../assets/vendor/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist/css/chartist.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="../assets/vendor/toastr/toastr.min.css">
+
 
 <!-- MAIN CSS -->
 <link rel="stylesheet" href="assets/css/main.css">
@@ -23,8 +30,8 @@
 <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
-        <div class="m-t-30"><img src="../assets/images/icon-light.svg" width="48" height="48" alt="HexaBit"></div>
-        <p>Please wait...</p>        
+        <div class="m-t-30"><img src="../assets/images/kucing1.gif" width="150" height="125" alt="Neko"></div>
+        <p>Sedang Memuat...</p>        
     </div>
 </div>
 <!-- Overlay For Sidebars -->
@@ -48,13 +55,13 @@
                             <li>
                                 <a class="#">
                                     <i class="icon-envelope"></i>
-                                    <span>Inbox</span>
+                                    <span>Kotak Surat</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="#">
                                     <i class="icon-bubbles"></i>
-                                    <span>Chat</span>
+                                    <span>Pesan</span>
                                 </a>
                             </li>
                             <li>
@@ -78,7 +85,7 @@
             
             <div class="navbar-right">
                 <form id="navbar-search" class="navbar-form search-form">
-                    <input value="" class="form-control" placeholder="Search here..." type="text">
+                    <input value="" class="form-control" placeholder="Cari Disini..." type="text">
                     <button type="button" class="btn btn-default"><i class="icon-magnifier"></i></button>
                 </form>                
 
@@ -89,14 +96,14 @@
                                 <i class="icon-envelope"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                            <ul class="dropdown-menu right_chat email">
+                             <ul class="dropdown-menu right_chat email">
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/12.jpg" alt="">
                                             <div class="media-body">
-                                                <span class="name">James Wert <small class="float-right">Just now</small></span>
-                                                <span class="message">Lorem ipsum Veniam aliquip culpa laboris minim tempor</span>
+                                                <span class="name">Doni S. <small class="float-right">23 Juni</small></span>
+                                                <span class="message">pesanan anda sudah saya terima!</span>
                                             </div>
                                         </div>
                                     </a>
@@ -104,10 +111,10 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar1.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/wiskas.jpg" alt="">
                                             <div class="media-body">
-                                                <span class="name">Folisise Chosielie <small class="float-right">12min ago</small></span>
-                                                <span class="message">There are many variations of Lorem Ipsum available, but the majority</span>
+                                                <span class="name">Cs Whiskas <small class="float-right">25 Juni</small></span>
+                                                <span class="message">Mohon Maaf Bapak Kami dari pihak Whiskas ingin memberikan sponsorship..</span>
                                             </div>
                                         </div>
                                     </a>
@@ -115,10 +122,10 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar5.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/19.jpg" alt="">
                                             <div class="media-body">
-                                                <span class="name">Ava Alexander <small class="float-right">38min ago</small></span>
-                                                <span class="message">Many desktop publishing packages and web page editors</span>
+                                                <span class="name">Sonia Vita Sari <small class="float-right">27 Juni</small></span>
+                                                <span class="message">Ada Banya Pembelihan hewan yang sudah dibayar di Acc oleh Bapak/Ibu...</span>
                                             </div>
                                         </div>
                                     </a>
@@ -126,10 +133,10 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media mb-0">
-                                            <img class="media-object " src="../assets/images/xs/avatar2.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/bolt.png" alt="">
                                             <div class="media-body">
-                                                <span class="name">Debra Stewart <small class="float-right">2hr ago</small></span>
-                                                <span class="message">Contrary to popular belief, Lorem Ipsum is not simply random text</span>
+                                                <span class="name">Cs Bolt M.A. <small class="float-right">30 Juni</small></span>
+                                                <span class="message">KamI Menawarkan Produk Kami kepada Toko MetShopPet's yaitu Bolt</span>
                                             </div>
                                         </div>
                                     </a>
@@ -142,22 +149,22 @@
                                 <span class="notification-dot"></span>
                             </a>
                             <ul class="dropdown-menu feeds_widget">
-                                <li class="header">You have 5 new Notifications</li>
+                                <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-thumbs-o-up text-success"></i></div>
                                         <div class="feeds-body">
-                                            <h4 class="title text-success">7 New Feedback <small class="float-right text-muted">Today</small></h4>
-                                            <small>It will give a smart finishing to your site</small>
+                                            <h4 class="title text-success">7 masukkan Baru <small class="float-right text-muted">Today</small></h4>
+                                            <small>Untuk Website nya sangat Bagus</small>
                                         </div>
-                                    </a>
+                                   </a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-user"></i></div>
                                         <div class="feeds-body">
-                                            <h4 class="title">New User <small class="float-right text-muted">10:45</small></h4>
-                                            <small>I feel great! Thanks team</small>
+                                            <h4 class="title">Pengguna Baru<small class="float-right text-muted">10:45</small></h4>
+                                            <small>Team Sportive dan inovatif</small>
                                         </div>
                                     </a>
                                 </li>
@@ -165,8 +172,8 @@
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-question-circle text-warning"></i></div>
                                         <div class="feeds-body">
-                                            <h4 class="title text-warning">Server Warning <small class="float-right text-muted">10:50</small></h4>
-                                            <small>Your connection is not private</small>
+                                            <h4 class="title text-warning">Peringatan Server <small class="float-right text-muted">10:50</small></h4>
+                                            <small>Database Tidak Sesuai</small>
                                         </div>
                                     </a>
                                 </li>
@@ -174,8 +181,8 @@
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-check text-danger"></i></div>
                                         <div class="feeds-body">
-                                            <h4 class="title text-danger">Issue Fixed <small class="float-right text-muted">11:05</small></h4>
-                                            <small>WE have fix all Design bug with Responsive</small>
+                                            <h4 class="title text-danger">Isu Terselesaikan <small class="float-right text-muted">11:05</small></h4>
+                                            <small>Kami Telah Memperbaiki Bug Di Bagian Shop</small>
                                         </div>
                                     </a>
                                 </li>
@@ -183,8 +190,8 @@
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-shopping-basket"></i></div>
                                         <div class="feeds-body">
-                                            <h4 class="title">7 New Orders <small class="float-right text-muted">11:35</small></h4>
-                                            <small>You received a new oder from Tina.</small>
+                                            <h4 class="title">7 Pesanan baru <small class="float-right text-muted">11:35</small></h4>
+                                            <small>Kamu Menerima Order dari Tina.</small>
                                         </div>
                                     </a>
                                 </li>
@@ -197,6 +204,7 @@
             </div>
         </div>
     </nav>
+
 
     <div id="rightbar" class="rightbar">
         <ul class="nav nav-tabs-new">
@@ -353,152 +361,60 @@
 
     <div id="left-sidebar" class="sidebar">
         <div class="navbar-brand">
-            <a href="index.php"><img src="../assets/images/icon-dark.svg" alt="HexaBit Logo" class="img-fluid logo"><span>HexaBit</span></a>
+            <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"><span>MetShop Pet's</span></a>
             <button type="button" class="btn-toggle-offcanvas btn btn-sm btn-default float-right"><i class="lnr lnr-menu fa fa-chevron-circle-left"></i></button>
         </div>
         <div class="sidebar-scroll">
             <div class="user-account">
                 <div class="user_div">
-                    <img src="../assets/images/user.png" class="user-photo" alt="User Profile Picture">
+                    <img src="../assets/images/admin.jpg" class="user-photo" alt="User Profile Picture">
                 </div>
                 <div class="dropdown">
-                    <span>Welcome,</span>
-                    <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Christy Wert</strong></a>
+                    <span>Selamat Datang,</span>
+                    <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
-                        <li><a href="page-profile.php"><i class="icon-user"></i>My Profile</a></li>
-                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Messages</a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-settings"></i>Settings</a></li>
+                        <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
+                        <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
-                        <li><a href="page-login.php"><i class="icon-power"></i>Logout</a></li>
+                        <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul id="main-menu" class="metismenu">
-                    <li><a href="index.php"><i class="icon-home"></i><span>Dashboard</span></a></li>
-                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Inbox</span></a></li>
-                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Chat</span></a></li>
-                    <li>
-                        <a href="#uiElements" class="has-arrow"><i class="icon-diamond"></i><span>UI Elements</span></a>
-                        <ul>
-                            <li><a href="ui-card.php">Card Layout</a></li>
-                            <li><a href="ui-helper-class.php">Helper Classes</a></li>
-                            <li><a href="ui-bootstrap.php">Bootstrap UI</a></li>
-                            <li><a href="ui-typography.php">Typography</a></li>
-                            <li><a href="ui-tabs.php">Tabs</a></li>
-                            <li><a href="ui-buttons.php">Buttons</a></li>                            
-                            <li><a href="ui-icons.php">Icons</a></li>
-                            <li><a href="ui-notifications.php">Notifications</a></li>
-                            <li><a href="ui-colors.php">Colors</a></li>
-                            <li><a href="ui-dialogs.php">Dialogs</a></li>                                    
-                            <li><a href="ui-list-group.php">List Group</a></li>
-                            <li><a href="ui-media-object.php">Media Object</a></li>
-                            <li><a href="ui-modals.php">Modals</a></li>
-                            <li><a href="ui-nestable.php">Nestable</a></li>
-                            <li><a href="ui-progressbars.php">Progress Bars</a></li>
-                            <li><a href="ui-range-sliders.php">Range Sliders</a></li>
-                            <li><a href="ui-treeview.php">Treeview</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Forms</span></a>
-                        <ul>
-                            <li><a href="forms-basic.php">Basic Elements</a></li>
-                            <li><a href="forms-advanced.php">Advanced Elements</a></li>
-                            <li><a href="forms-validation.php">Form Validation</a></li>
-                            <li><a href="forms-wizard.php">Form Wizard</a></li>
-                            <li><a href="forms-dragdropupload.php">Drag &amp; Drop Upload</a></li>
-                            <li><a href="forms-cropping.php">Image Cropping</a></li>
-                            <li><a href="forms-summernote.php">Summernote</a></li>
-                            <li><a href="forms-editors.php">CKEditor</a></li>
-                            <li><a href="forms-markdown.php">Markdown</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
+                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li class="active">
-                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tables</span></a>
+                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
                         <ul>
-                            <li><a href="table-basic.php">Tables Example</a></li>
-                            <li class="active"><a href="table-normal.php">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
-                            <li><a href="table-editable.php">Editable Tables</a></li>
-                            <li><a href="table-color.php">Tables Color</a></li>
-                            <li><a href="table-filter.php">Table Filter</a></li>
-                            <li><a href="table-dragger.php">Table dragger</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Taskboard</span></a></li>                    
-                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Calendar</span></a></li>
-                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Contact</span></a></li>
-                    <li>
-                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Blog</span></a>
-                        <ul>
-                            <li><a href="blog-dashboard.php">Dashboard</a></li>
-                            <li><a href="blog-post.php">New Post</a></li>
-                            <li><a href="blog-list.php">Blog List</a></li>
-                            <li><a href="blog-details.php">Blog Detail</a></li>
+                            <li><a href="table-basic.php">Pembelian</a></li>
+                            <li class="active"><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#charts" class="has-arrow"><i class="icon-bar-chart"></i><span>Charts</span></a>
+                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
                         <ul>
-                            <li><a href="chart-morris.php">Morris</a></li>
-                            <li><a href="chart-flot.php">Flot</a></li>
-                            <li><a href="chart-chartjs.php">ChartJS</a></li>
-                            <li><a href="chart-c3.php">C3 Charts</a></li>
-                            <li><a href="chart-jquery-knob.php">Jquery Knob</a></li>                            
-                            <li><a href="chart-sparkline.php">Sparkline Chart</a></li>
-                            <li><a href="chart-peity.php">Peity</a></li>                            
-                            <li><a href="chart-gauges.php">Gauges</a></li>
-                            <li><a href="chart-e.php">E Chart</a></li>
+                            <li><a href="blog-list.php">Artikel</a></li>
                         </ul>
-                    </li>                    
+                    </li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                  
+                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+                    <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
-                        <a href="#Widgets" class="has-arrow"><i class="icon-puzzle"></i><span>Widgets</span></a>
+                        <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
                         <ul>                                    
-                            <li><a href="widgets-statistics.php">Statistics</a></li>
-                            <li><a href="widgets-data.php">Data</a></li>
-                            <li><a href="widgets-chart.php">Chart</a></li>
-                            <li><a href="widgets-weather.php">Weather</a></li>
-                            <li><a href="widgets-social.php">Social</a></li>
-                            <li><a href="widgets-blog.php">Blog</a></li>
+                            <li><a href="page-login.php">Masuk</a></li>
+                            <li><a href="page-register.php">Daftar</a></li>
+                            <li><a href="page-lockscreen.php">Kunci Layar</a></li>
+                            <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Authentication</span></a>
-                        <ul>                                    
-                            <li><a href="page-login.php">Login</a></li>
-                            <li><a href="page-register.php">Register</a></li>
-                            <li><a href="page-lockscreen.php">Lockscreen</a></li>
-                            <li><a href="page-forgot-password.php">Forgot Password</a></li>
-                            <li><a href="page-404.php">Page 404</a></li>
-                            <li><a href="page-403.php">Page 403</a></li>
-                            <li><a href="page-500.php">Page 500</a></li>
-                            <li><a href="page-503.php">Page 503</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#Pages" class="has-arrow"><i class="icon-docs"></i><span>Pages</span></a>
+                        <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
-                            <li><a href="page-blank.php">Blank Page</a></li>
-                            <li><a href="page-search-results.php">Search Results</a></li>
-                            <li><a href="page-profile.php">Profile </a></li>
-                            <li><a href="page-invoices.php">Invoices </a></li>
-                            <li><a href="page-gallery.php">Image Gallery</a></li>
-                            <li><a href="page-gallery2.php">Image Gallery </a></li>
-                            <li><a href="page-timeline.php">Timeline</a></li>
-                            <li><a href="page-timeline-h.php">Horizontal Timeline</a></li>
-                            <li><a href="page-pricing.php">Pricing</a></li>                            
-                            <li><a href="page-maintenance.php">Maintenance</a></li>
-                            <li><a href="page-testimonials.php">Testimonials</a></li>
-                            <li><a href="page-faq.php">FAQ</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Maps</span></a>
-                        <ul>
-                            <li><a href="map-google.php">Google Map</a></li>
-                            <li><a href="map-jvectormap.php">jVector Map</a></li>
-                            <li><a href="map-yandex.php">Yandex Map</a></li>                            
+                            <li><a href="map-google.php">Peta Google</a></li>                         
                         </ul>
                     </li>
                 </ul>
@@ -510,15 +426,15 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Table Normal</h2>
+                    <h2>Info Perjodohan</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
-                        <li class="breadcrumb-item">Table</li>
-                        <li class="breadcrumb-item active">Table Normal</li>
+                        <li class="breadcrumb-item">Perjodohan</li>
+                        <li class="breadcrumb-item active">Info Perjodohan</li>
                     </ul>
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Create New</a>
+                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Buat Baru</a>
                 </div>
             </div>
         </div>
@@ -528,49 +444,97 @@
                 <div class="col-lg-12">
                     <div class="card">
                         <div class="header">
-                            <h2>Basic Table <small>Basic example without any additional modification classes</small></h2>                            
+                            <h2>Perjodohan MetShop Pet's <small>Silahkan Klik Konfirmasi Terima Pesanan atau Tolak Pesanan</small></h2> 
+                            <ul class="header-dropdown dropdown dropdown-animated scale-left">
+                                <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
+                                <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
+                                <li class="dropdown">
+                                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="javascript:void(0);">Tindakan</a></li>
+                                        <li><a href="javascript:void(0);">Tindakan Lainnya</a></li>
+                                        <li><a href="javascript:void(0);">Lain-nya</a></li>
+                                    </ul>
+                                </li>
+                            </ul>                           
                         </div>
                         <div class="body">
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
                                         <tr>
-                                            <th>#</th>
-                                            <th>FIRST NAME</th>
-                                            <th>LAST NAME</th>
-                                            <th>USERNAME</th>
+                                            <th>No</th>
+                                            <th>Nama</th>
+                                            <th>Alamat</th>
+                                            <th>Tanggal Pemesanan</th>
+                                            <th>Rincian</th>
+                                            <th>Jumlah Hari</th>
+                                            <th>Harga</th>
+                                            <th>Pembayaran</th>
+                                            <th>Bukti Pembayaran</th>
+                                            <th>Status</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <th scope="row">1</th>
-                                            <td>Mark</td>
-                                            <td>Otto</td>
-                                            <td>@mdo</td>
+                                            <td>1</td>
+                                            <td><span>Caturs</span></td>
+                                            <td><span class="text-info">Perum Permata regency Blok 17 nomor 17 Ngijo, malang</span></td>
+                                            <td>19 Oktober 2021</td>
+                                            <td>Kucing Persia Asli</td>
+                                            <td>7</td>
+                                            <td>Rp.245.000</td>
+                                            <td>BNI Virtual Account</td>
+                                            <td><div id="navbar-menu">
+                                                <ul class="nav navbar-nav">
+                                                <li class="dropdown dropdown-animated scale-left">
+                                                <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
+                                                <i class="icon-envelope"></i>
+                                                <span class="notification-dot"></span>
+                                                </a>
+                                                <ul class="dropdown-menu right_chat email">
+                                                <li>
+                                                <a href="javascript:void(0);">
+                                                    <div class="thumb">
+                                                        <a class="image">
+                                                        <img class="fit-image" width="300px" src="../assets/images/bni.png" alt="Product" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            </td>
+                                            <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-success">Diterima</span></td>
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">2</th>
-                                            <td>Jacob</td>
-                                            <td>Thornton</td>
-                                            <td>@fat</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Larry</td>
-                                            <td>the Bird</td>
-                                            <td>@twitter</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Larry</td>
-                                            <td>Jellybean</td>
-                                            <td>@lajelly</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Larry</td>
-                                            <td>Kikat</td>
-                                            <td>@lakitkat</td>
+                                            <td>2</td>
+                                            <td><span>Bagus</span></td>
+                                            <td><span class="text-info">Perum Permata regency Blok 20 nomor 17 Ngijo, malang</span></td>
+                                            <td>19 Oktober 2021</td>
+                                            <td>Kucing Anggora Asli</td>
+                                            <td>7</td>
+                                            <td>Rp.245.000</td>
+                                            <td>OVO</td>
+                                            <td><div id="navbar-menu">
+                                                <ul class="nav navbar-nav">
+                                                <li class="dropdown dropdown-animated scale-left">
+                                                <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
+                                                <i class="icon-envelope"></i>
+                                                <span class="notification-dot"></span>
+                                                </a>
+                                                <ul class="dropdown-menu right_chat email">
+                                                <li>
+                                                <a href="javascript:void(0);">
+                                                    <div class="thumb">
+                                                        <a class="image">
+                                                        <img class="fit-image" width="300px" src="../assets/images/ovo.png" alt="Product" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            </td>
+                                            <td><a href="javascript:void(0);" class="btn btn-sm btn-primary" title="">Terima</a>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-danger" title="">Tolak</a><span class="badge badge-danger">Ditolak</span></td>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -578,171 +542,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="card">
-                        <div class="header">
-                            <h2>Striped Rows <small>Use <code>.table-striped</code> to add zebra-striping to any table row within the <code>&lt;tbody&gt;</code></small></h2>
-                        </div>
-                        <div class="body">
-                            <div class="table-responsive">
-                                <table class="table table-striped">
-                                    <thead>
-                                        <tr>
-                                            <th>#</th>
-                                            <th>FIRST NAME</th>
-                                            <th>LAST NAME</th>
-                                            <th>USERNAME</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Mark</td>
-                                            <td>Otto</td>
-                                            <td>@mdo</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Jacob</td>
-                                            <td>Thornton</td>
-                                            <td>@fat</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Larry</td>
-                                            <td>the Bird</td>
-                                            <td>@twitter</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Larry</td>
-                                            <td>Jellybean</td>
-                                            <td>@lajelly</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Larry</td>
-                                            <td>Kikat</td>
-                                            <td>@lakitkat</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="card">
-                        <div class="header">
-                            <h2>Bordered Table <small>Add <code>.table-bordered</code> for borders on all sides of the table and cells.</small></h2>
-                        </div>
-                        <div class="body">
-                            <div class="table-responsive">
-                                <table class="table table-bordered">
-                                    <thead>
-                                        <tr>
-                                            <th>#</th>
-                                            <th>FIRST NAME</th>
-                                            <th>LAST NAME</th>
-                                            <th>USERNAME</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Mark</td>
-                                            <td>Otto</td>
-                                            <td>@mdo</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Jacob</td>
-                                            <td>Thornton</td>
-                                            <td>@fat</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Larry</td>
-                                            <td>the Bird</td>
-                                            <td>@twitter</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Larry</td>
-                                            <td>Jellybean</td>
-                                            <td>@lajelly</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Larry</td>
-                                            <td>Kikat</td>
-                                            <td>@lakitkat</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="card">
-                        <div class="header">
-                            <h2>Hover Rows <small>Add <code>.table-hover</code> to enable a hover state on table rows within a <code>&lt;tbody&gt;</code>.</small></h2>
-                        </div>
-                        <div class="body">
-                            <div class="table-responsive">
-                                <table class="table table-hover">
-                                    <thead>
-                                        <tr>
-                                            <th>#</th>
-                                            <th>FIRST NAME</th>
-                                            <th>LAST NAME</th>
-                                            <th>USERNAME</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Mark</td>
-                                            <td>Otto</td>
-                                            <td>@mdo</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Jacob</td>
-                                            <td>Thornton</td>
-                                            <td>@fat</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Larry</td>
-                                            <td>the Bird</td>
-                                            <td>@twitter</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">4</th>
-                                            <td>Larry</td>
-                                            <td>Jellybean</td>
-                                            <td>@lajelly</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">5</th>
-                                            <td>Larry</td>
-                                            <td>Kikat</td>
-                                            <td>@lakitkat</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    
-</div>
+                
 
 <!-- Javascript -->
 <script src="assets/bundles/libscripts.bundle.js"></script>    

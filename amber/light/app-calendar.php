@@ -387,6 +387,18 @@
                             <li><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
+                    <li>
+                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
+                        <ul>
+                            <li class="active"><a href="forms-basic.php">Tambah Produk</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
+                        <ul>
+                            <li><a href="blog-list.php">Artikel</a></li>
+                        </ul>
+                    </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
                     <li><li class="active"><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
                     <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
