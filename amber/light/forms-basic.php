@@ -395,6 +395,7 @@
                         <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
                         <ul>
                             <li class="active"><a href="forms-basic.php">Tambah Produk</a></li>
+                            <li class="active"><a href="forms-advanced.php">Daftar Produk</a></li>
                         </ul>
                     </li>
                     <li>
