@@ -414,7 +414,7 @@
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
                         <ul>
                             <li><a href="blog-list.php">Artikel</a></li>
-                            <li><a href="blog-post.php">Buat Baru</a></li>
+                            <li><a href="blog-post.php">Buat Artikel Baru</a></li>
                         </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
