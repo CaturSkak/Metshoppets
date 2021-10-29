@@ -1,5 +1,42 @@
 <!doctype html>
 <html lang="en">
+
+<head>
+<title>MetShop Pets -Selamat Datang di MetShop Pets</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="description" content="HexaBit Bootstrap 4x Admin Template">
+<meta name="author" content="WrapTheme, www.thememakker.com">
+
+<link rel="icon" href="logo.png" type="image/logo">
+<!-- VENDOR CSS -->
+<link rel="stylesheet" href="../assets/vendor/fullcalendar/fullcalendar.min.css">
+
+<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
+
+<link rel="stylesheet" href="../assets/vendor/nestable/jquery-nestable.css"/>
+<link rel="stylesheet" href="../assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css">
+
+<link rel="stylesheet" href="../assets/vendor/summernote/dist/summernote.css"/>
+<link rel="stylesheet" href="../assets/vendor/dropify/css/dropify.min.css">
+
+<link rel="stylesheet" href="../assets/vendor/charts-c3/plugin.css"/>
+<link rel="stylesheet" href="../assets/vendor/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist/css/chartist.min.css">
+<link rel="stylesheet" href="../assets/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="../assets/vendor/toastr/toastr.min.css">
+
+
+<!-- MAIN CSS -->
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/inbox.css">
+<link rel="stylesheet" href="assets/css/blog.css">
+<link rel="stylesheet" href="assets/css/color_skins.css">
+</head>
+
 <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
@@ -12,12 +49,12 @@
 
 <div id="wrapper">
 
-    <nav class="navbar navbar-fixed-top">
+<nav class="navbar navbar-fixed-top">
         <div class="container-fluid">
 
             <div class="navbar-left">
                 <div class="navbar-btn">
-                    <a href="index.php"><img src="logo.png" alt="HexaBit Logo" class="img-fluid logo"></a>
+                    <a href="index.php"><img src="../assets/images/icon-light.svg" alt="HexaBit Logo" class="img-fluid logo"></a>
                     <button type="button" class="btn-toggle-offcanvas"><i class="lnr lnr-menu fa fa-bars"></i></button>
                 </div>
                 <a href="javascript:void(0);" class="icon-menu btn-toggle-fullwidth"><i class="fa fa-arrow-left"></i></a>
@@ -28,13 +65,13 @@
                             <li>
                                 <a class="#">
                                     <i class="icon-envelope"></i>
-                                    <span>Kotak Surat</span>
+                                    <span>Inbox</span>
                                 </a>
                             </li>
                             <li>
                                 <a class="#">
                                     <i class="icon-bubbles"></i>
-                                    <span>Pesan</span>
+                                    <span>Chat</span>
                                 </a>
                             </li>
                             <li>
@@ -69,11 +106,11 @@
                                 <i class="icon-envelope"></i>
                                 <span class="notification-dot"></span>
                             </a>
-                             <ul class="dropdown-menu right_chat email">
+                            <ul class="dropdown-menu right_chat email">
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar4.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/12.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Doni S. <small class="float-right">23 Juni</small></span>
                                                 <span class="message">pesanan anda sudah saya terima!</span>
@@ -84,7 +121,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar1.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/wiskas.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Cs Whiskas <small class="float-right">25 Juni</small></span>
                                                 <span class="message">Mohon Maaf Bapak Kami dari pihak Whiskas ingin memberikan sponsorship..</span>
@@ -95,7 +132,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media">
-                                            <img class="media-object " src="../assets/images/xs/avatar5.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/19.jpg" alt="">
                                             <div class="media-body">
                                                 <span class="name">Sonia Vita Sari <small class="float-right">27 Juni</small></span>
                                                 <span class="message">Ada Banya Pembelihan hewan yang sudah dibayar di Acc oleh Bapak/Ibu...</span>
@@ -106,7 +143,7 @@
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="media mb-0">
-                                            <img class="media-object " src="../assets/images/xs/avatar2.jpg" alt="">
+                                            <img class="media-object " src="../assets/images/bolt.png" alt="">
                                             <div class="media-body">
                                                 <span class="name">Cs Bolt M.A. <small class="float-right">30 Juni</small></span>
                                                 <span class="message">KamI Menawarkan Produk Kami kepada Toko MetShopPet's yaitu Bolt</span>
@@ -122,7 +159,7 @@
                                 <span class="notification-dot"></span>
                             </a>
                             <ul class="dropdown-menu feeds_widget">
-                                <li class="header">Kamu Memiliki 5 Notifikasi Baru</li>
+                                <li class="header">You have 5 new Notifications</li>
                                 <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-thumbs-o-up text-success"></i></div>
@@ -130,7 +167,7 @@
                                             <h4 class="title text-success">7 masukkan Baru <small class="float-right text-muted">Today</small></h4>
                                             <small>Untuk Website nya sangat Bagus</small>
                                         </div>
-                                   </a>
+                                    </a>
                                 </li>
                                 <li>
                                     <a href="javascript:void(0);">
@@ -141,7 +178,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li>
+                         <li>
                                     <a href="javascript:void(0);">
                                         <div class="feeds-left"><i class="fa fa-question-circle text-warning"></i></div>
                                         <div class="feeds-body">
@@ -354,24 +391,31 @@
                 </div>
             </div>  
             <nav id="left-sidebar-nav" class="sidebar-nav">
-                <ul id="main-menu" class="metismenu">
-                    <li class="active"><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak surat</span></a></li>
+                <ul  id="main-menu" class="metismenu">
+                    <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li ><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
-                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Tabel</span></a>
+                        <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
                         <ul>
-                            <li><a href="table-basic.php">Tables Example</a></li>
-                            <li><a href="table-normal.php">Normal Tables</a></li>
-                            <li><a href="table-jquery-datatable.php">Jquery Datatables</a></li>
-                            <li><a href="table-editable.php">Editable Tables</a></li>
-                            <li><a href="table-color.php">Tables Color</a></li>
-                            <li><a href="table-filter.php">Table Filter</a></li>
-                            <li><a href="table-dragger.php">Table dragger</a></li>
+                            <li><a href="table-basic.php">Pembelian</a></li>
+                            <li><a href="table-normal.php">Perjodohan</a></li>
                         </ul>
                     </li>
-                     </li>
-                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                  
+                    <li >
+                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
+                        <ul>
+                            <li ><a href="forms-basic.php">Tambah Produk</a></li>
+                            <li ><a href="forms-advanced.php">Daftar Produk</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
+                        <ul>
+                            <li><a href="blog-list.php">Artikel</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
                     <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
                     <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
@@ -387,11 +431,14 @@
                         <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
                         <ul>
                             <li><a href="map-google.php">Peta Google</a></li>                         
+                        </ul>                          
                         </ul>
                     </li>
                 </ul>
             </nav>     
         </div>
     </div>
+</div>
+
 </body>
     </html>
