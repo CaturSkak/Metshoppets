@@ -3,6 +3,7 @@
 <html lang="en">
 
 
+
 <body class="theme-orange">
 
 
@@ -33,7 +34,7 @@
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Tulis Judul Artikel" />
                             </div>
-
+                            
                             <div class="form-group">
                                 <select class="form-control show-tick">
                                     <option>Pilih Kategori Artikel</option>
@@ -44,6 +45,7 @@
                                     <option>Vaksinasi Hewan</option>
                                 </select>
                             </div>
+
                     <div class="card">
                         <div class="header">
                             <h2>Masukan Gambar <small>yang berhubungan dengan artikel</small></h2>
@@ -53,15 +55,17 @@
                         </div>
                     </div>   
 
+
                             <div class="summernote">
-                                <h3 class="m-b-0">Halo,</h3>
-                                <h4 class="m-t-0">Hewan Peliharaan itu</h4>
+                          
+                                <h3 class="m-b-0">Halo dengan Admin,</h3>
+                                <h4 class="m-t-0">Hewan Peliharaan itu.</h4>
                                 <p></p>
                             </div>
                             <button type="button" class="btn btn-block btn-primary m-t-20">Posting</button>
                         </div>
                     </div>
-                </div>            
+                    </div>   
             </div>
 
         </div>
@@ -83,6 +87,8 @@
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="../assets/vendor/summernote/dist/summernote.js"></script>
+
+
 
 <script>
     jQuery(document).ready(function() {
@@ -109,5 +115,6 @@
         $(".click2edit").summernote('destroy');
     }
 </script>
+
 </body>
 </html>
