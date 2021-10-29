@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Pesan</h2>
+                        <h2 class="breadcrumb-title">Checkout Perjodohan</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Checkout</li>
@@ -112,20 +112,12 @@
                                         <input placeholder="Isi Jenis Hewanmu yang akan dijodohkan" type="text">    
                                        
                                     </div>
-                                </div>
-                                <!-- Select Country Name End -->
-
-                                <!-- Select Country Name Start -->
-                                <div class="col-md-12 mb-6">
-                                    <div class="country-select">
-                                        <label>Provinsi <span class="required">*</span></label>
-                                        <select class="myniceselect nice-select wide rounded-0">
-                                            <option data-display="Bangladesh">Jawa Timur</option>
-                                            <option value="uk">Jawa Tengah</option>
-                                            <option value="rou">Jawa Barat</option>
-                                        </select>
+                                     <div class="form-group">
+                                        <label for="">Kirim Foto Hewanmu disini :</label>
+                                        <input type="file" class="form-control" >
                                     </div>
                                 </div>
+                                <!-- Select Country Name End -->
                                 <!-- Select Country Name End -->
 
                                 <!-- First Name Input Start -->
@@ -359,6 +351,7 @@
                                         <textarea id="checkout-mess" cols="30" rows="10" placeholder="Catatan Pesanananmu."></textarea>
                                     </div>
                                 </div>
+                                <br>
                                 <!-- Order Notes Textarea End -->
 
                             </div>
@@ -394,12 +387,12 @@
                                 <!-- Table Body Start -->
                                 <tbody>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.6.000.000</span></td>
+                                        <td class="cart-product-name text-start ps-0"> Anjing Shiba Inu<strong class="product-quantity"> × 6</strong></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.630.000</span></td>
                                     </tr>
                                     <tr class="cart_item">
-                                        <td class="cart-product-name text-start ps-0"> Kucing Anggora Asli<strong class="product-quantity"> × 1</strong></td>
-                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.5.740.000</span></td>
+                                        <td class="cart-product-name text-start ps-0"> Kucing Persia Asli<strong class="product-quantity"> × 6</strong></td>
+                                        <td class="cart-product-total text-end pe-0"><span class="amount">Rp.270.000</span></td>
                                     </tr>
                                 </tbody>
                                 <!-- Table Body End -->
@@ -408,11 +401,11 @@
                                 <tfoot>
                                     <tr class="cart-subtotal">
                                         <th class="text-start ps-0">Subtotal</th>
-                                        <td class="text-end pe-0"><span class="amount">Rp.11.740.000</span></td>
+                                        <td class="text-end pe-0"><span class="amount">Rp.900.000</span></td>
                                     </tr>
                                     <tr class="order-total">
                                         <th class="text-start ps-0">Order Total</th>
-                                        <td class="text-end pe-0"><strong><span class="amount">Rp.11.740.000</span></strong></td>
+                                        <td class="text-end pe-0"><strong><span class="amount">Rp.900.000</span></strong></td>
                                     </tr>
                                 </tfoot>
                                 <!-- Table Footer End -->

@@ -12,13 +12,13 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Penambahan Produk / Hewan</h2>
+                    <h2>Daftar Produk / Hewan</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
                         <li class="breadcrumb-item">Produk</li>
-                        <li class="breadcrumb-item active">Penambahan Produk/Hewan</li>
+                        <li class="breadcrumb-item active">Daftar Produk/Hewan</li>
                     </ul>
                 </div>
             </div>
@@ -68,7 +68,9 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                 <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -82,7 +84,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -96,7 +98,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -110,7 +112,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -124,7 +126,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -138,7 +140,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -152,7 +154,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>

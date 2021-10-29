@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="breadcrumb-wrapper">
-                        <h2 class="breadcrumb-title">Pesan</h2>
+                        <h2 class="breadcrumb-title">Checkout Pembelian</h2>
                         <ul>
                             <li><a href="index.php">Beranda</a></li>
                             <li>Checkout</li>
@@ -349,6 +349,7 @@
                                         <textarea id="checkout-mess" cols="30" rows="10" placeholder="Catatan Pesanananmu."></textarea>
                                     </div>
                                 </div>
+                                <br>
                                 <!-- Order Notes Textarea End -->
 
                             </div>

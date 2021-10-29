@@ -12,7 +12,7 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Penambahan Produk / Hewan</h2>
+                    <h2>Daftar Perjodohan</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
@@ -68,8 +68,8 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
                                         <tr>
@@ -82,10 +82,10 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                        
+                                        </tr>
                                         <tr>
                                             <td>Hewan Peliharaan</td>
                                             <td>
@@ -96,7 +96,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -110,7 +110,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -124,7 +124,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -138,7 +138,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -152,7 +152,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
@@ -167,7 +167,7 @@
                                     <li class="page-item"><a class="page-link" href="javascript:void(0);">2</a></li>
                                     <li class="page-item"><a class="page-link" href="javascript:void(0);">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="javascript:void(0);" aria-label="Next">
+                                        <a class="page-link rounded-0" href="shop-left-sidebar2.pph" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
                                     </li>
@@ -183,6 +183,8 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
+<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js -->
+
 <script src="../assets/vendor/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script><!-- Bootstrap Colorpicker Js --> 
 <script src="../assets/vendor/jquery-inputmask/jquery.inputmask.bundle.js"></script><!-- Input Mask Plugin Js --> 
 <script src="../assets/vendor/jquery.maskedinput/jquery.maskedinput.min.js"></script>
@@ -192,8 +194,10 @@
 <script src="../assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.js"></script><!-- Bootstrap Tags Input Plugin Js --> 
 <script src="../assets/vendor/nouislider/nouislider.js"></script><!-- noUISlider Plugin Js --> 
     
+
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="assets/js/pages/forms/advanced-form-elements.js"></script>
+<script src="assets/js/pages/ui/dialogs.js"></script>
 </body>
 </html>
 
