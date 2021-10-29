@@ -108,7 +108,7 @@
                             </a>
                             <ul class="dropdown-menu right_chat email">
                                 <li>
-                                    <a href="javascript:void(0);">
+                                    <a href="app-chat.php">
                                         <div class="media">
                                             <img class="media-object " src="../assets/images/12.jpg" alt="">
                                             <div class="media-body">
@@ -405,8 +405,9 @@
                     <li >
                         <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
                         <ul>
-                            <li ><a href="forms-basic.php">Tambah Produk</a></li>
-                            <li ><a href="forms-advanced.php">Daftar Produk</a></li>
+                            <li ><a href="forms-basic.php">Tambah Produk / Hewan / Perjodohan</a></li>
+                            <li ><a href="forms-advanced.php">Daftar Produk / Hewan</a></li>
+                            <li ><a href="forms-validation.php">Daftar Perjodohan</a></li>
                         </ul>
                     </li>
                     <li>

@@ -103,8 +103,8 @@
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.135.000</span><strong>/Hari</strong>
-                             <span class="old-price"><del>Rp.145.000 / Hari</span>
+                            <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
+                             <span class="old-price"><del>Rp.45.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
 
@@ -124,16 +124,13 @@
                         <!-- Description Start -->
                         <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
                         <p>Jantan</p>
-                        <p>Umur 2-3 Tahun</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
+                        <p>Umur 6-10 Bulan</p>
+                        <p>Tidak ada Kutu dan Jamur</p>
+                        <p>Tidak Cacat</p>
                         <p>Obat Cacing Rutin</p>
                         <p>Linca Dan Pinter</p>
                         <p>Di Jamin Sehat, Sudah Vaksin</p>
-                        <p>Di Butuhkan Betina Jenis Kucing Persia Peaknose
-
-
-                        <p>Melayani Pengiriman Dalam Kota</p>
+                        <p>Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli
                         <!-- Description End -->
 
                         <!-- Quantity Start -->
@@ -163,9 +160,7 @@
                             <div class="widget-social justify-content-start mb-6">
                                 <a title="Twitter" href="#/"><i class="icon-social-twitter"></i></a>
                                 <a title="Instagram" href="#/"><i class="icon-social-instagram"></i></a>
-                                <a title="Linkedin" href="#/"><i class="icon-social-linkedin"></i></a>
-                                <a title="Skype" href="#/"><i class="icon-social-skype"></i></a>
-                                <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=6282264144712&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
+                                <a title="Whatsapps" href="https://api.whatsapp.com/send?phone=6282229434533&text=Saya%20berminat%20memesan%20Apakah%20produk%20tersedia?"><i class="fa fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <!-- Social Shear End -->
@@ -198,7 +193,7 @@
                 <div class="col-lg-12 single-product-tab">
                     <ul class="nav nav-tabs mb-n3" id="myTab" role="tablist">
                         <li class="nav-item mb-3">
-                            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#connect-1" role="tab" aria-selected="true">Deskripsi</a>
+                            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#connect-1" role="tab" aria-selected="true">Deskripsi & Syarat Jodoh</a>
                         </li>
                         <li class="nav-item mb-3">
                             <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#connect-2" role="tab" aria-selected="false">Ulasan</a>
@@ -212,18 +207,27 @@
                     <div class="tab-content mb-text" id="myTabContent">
                         <div class="tab-pane fade show active" id="connect-1" role="tabpanel" aria-labelledby="home-tab">
                             <div class="desc-content">
-                                <p class="mb-3"><p>Kucing Persia Peaknose</p>
-                                <p>Jantan Dan Betina Ada</p>
-                                <p>Umur 3-4 Bulan</p>
-                                <p>No Kutu No Jamur</p>
-                                <p>No Cacat</p>
+                                <p><B>DESKRIPSI HEWAN :</B></p>
+                                <p>Kucing Persia Peaknose</p>
+                                <p>Jantan</p>
+                                <p>Umur 6-10 Bulan</p>
+                                <p>Tidak ada Kutu dan Jamur</p>
+                                <p>Tidak Cacat</p>
                                 <p>Obat Cacing Rutin</p>
                                 <p>Linca Dan Pinter</p>
                                 <p>Di Jamin Sehat, Sudah Vaksin</p>
-
                                 <p>Untuk melihat video bisa chat via WhatsApp 0852-1411-4448</p>
-
                                 <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                                <br>
+
+                                <p><B>SYARAT JODOH :</B></p>
+                                <p>Kucing Anggora/Persia Asli/Persia Peaknose</p>
+                                <p>Betina</p>
+                                <p>Umur 6-10 Bulan</p>
+                                <p>Sudah Masa Birahi</p>
+                                <p>Bersih sehat</p>
+                                <p>Tidak Cacat</p>
+                                <p>Sudah Vaksin</p>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="connect-2" role="tabpanel" aria-labelledby="profile-tab">
