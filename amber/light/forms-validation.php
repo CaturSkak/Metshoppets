@@ -12,13 +12,13 @@
         <div class="block-header">
             <div class="row clearfix">
                 <div class="col-md-6 col-sm-12">
-                    <h2>Penambahan Produk / Hewan</h2>
+                    <h2>Daftar Perjodohan</h2>
                 </div>            
                 <div class="col-md-6 col-sm-12 text-right">
                     <ul class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
                         <li class="breadcrumb-item">Produk</li>
-                        <li class="breadcrumb-item active">Penambahan Produk/Hewan</li>
+                        <li class="breadcrumb-item active">Daftar Perjodohan</li>
                     </ul>
                 </div>
             </div>
@@ -27,7 +27,7 @@
             <div class="col-lg-16 col-md-16 col-sm-15">
                     <div class="card">
                         <div class="header">
-                            <h2>Daftar Produk / Hewan</h2>
+                            <h2>Daftar Perjodohan</h2>
                             <ul class="header-dropdown dropdown dropdown-animated scale-left">
                             <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
                             <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
@@ -42,7 +42,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <li><a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Produk / Hewan</a></li>
+                        <li><a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Perjodohan</a></li>
                         <div class="body">
                             <div class="table-responsive">
                                 <table class="table table-hover js-basic-example dataTable table-custom mb-0">
