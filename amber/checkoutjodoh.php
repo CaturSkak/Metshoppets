@@ -107,6 +107,16 @@
 
                                 <!-- Select Country Name Start -->
                                 <div class="col-md-12 mb-6">
+                                    <div class="checkout-form-list">
+                                        <label>Jenis Hewanmu <span class="required">*</span></label>
+                                        <input placeholder="Isi Jenis Hewanmu yang akan dijodohkan" type="text">    
+                                       
+                                    </div>
+                                </div>
+                                <!-- Select Country Name End -->
+
+                                <!-- Select Country Name Start -->
+                                <div class="col-md-12 mb-6">
                                     <div class="country-select">
                                         <label>Provinsi <span class="required">*</span></label>
                                         <select class="myniceselect nice-select wide rounded-0">
