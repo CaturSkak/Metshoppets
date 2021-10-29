@@ -403,10 +403,10 @@
                         </ul>
                     </li>
                     <li >
-                        <a href="#forms" class="has-arrow"><i class="icon-pencil"></i><span>Produk</span></a>
+                        <a href="#forms" class="has-arrow"><i class="icon-list"></i><span>Hewan</span></a>
                         <ul>
-                            <li ><a href="forms-basic.php">Tambah Produk / Hewan / Perjodohan</a></li>
-                            <li ><a href="forms-advanced.php">Daftar Produk / Hewan</a></li>
+                            <li ><a href="forms-basic.php">Tambah Hewan</a></li>
+                            <li ><a href="forms-advanced.php">Daftar Hewan</a></li>
                             <li ><a href="forms-validation.php">Daftar Perjodohan</a></li>
                         </ul>
                     </li>

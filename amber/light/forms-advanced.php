@@ -68,7 +68,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
-                                                <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
+                                                 <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
