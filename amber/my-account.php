@@ -219,7 +219,7 @@
                                                 <a href="liathewanjodoh.php">Kucing Anggora Asli</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.35.000/Hari</span>
+                                                    <span class="new" >Rp.350.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -246,7 +246,7 @@
                                                 <a href="liathewanjodoh.php">Anjing Shiba Inu</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.105.000/Hari</span>
+                                                    <span class="new">Rp.6.150.000</span>
                                             </span>
                                         </div>
                                         <!-- Product List Content End -->
@@ -272,7 +272,7 @@
                                                 <a href="liathewanjodoh.php">Kucing Mainecoon</a>
                                             </h6>
                                             <span class="price">
-                                                    <span class="new">Rp.55.000/Hari</span>
+                                                    <span class="new">Rp.550.000</span>
                                             
                                             </span>
                                         </div>
@@ -728,6 +728,7 @@
     <!-- Mobile Menu End -->
 
     <!-- Global Vendor, plugins JS -->
+    
 
     <!-- Vendor JS -->
 

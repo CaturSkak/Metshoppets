@@ -393,7 +393,7 @@
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul  id="main-menu" class="metismenu">
                     <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
-                    <li ><a href="app-inbox.php"><i class="icon-envelope"></i><span>Kotak Surat</span></a></li>
+                   
                     <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-tag"></i><span>Transaksi</span></a>
@@ -413,10 +413,11 @@
                         <a href="#Blog" class="has-arrow"><i class="icon-globe"></i><span>Halaman</span></a>
                         <ul>
                             <li><a href="blog-list.php">Artikel</a></li>
+                            <li><a href="blog-post.php">Buat Baru</a></li>
                         </ul>
                     </li>
                     <li><a href="app-taskboard.php"><i class="icon-list"></i><span>Papan tugas</span></a></li>                    
-                    <li><a href="app-calendar.php"><i class="icon-calendar"></i><span>Kalender</span></a></li>
+   
                     <li><a href="app-contact.php"><i class="icon-book-open"></i><span>Kontak</span></a></li>              
                     <li>
                         <a href="#Authentication" class="has-arrow"><i class="icon-lock"></i><span>Auntentifikasi</span></a>
@@ -427,13 +428,7 @@
                             <li><a href="page-forgot-password.php">Lupa Kata Sandi</a></li>
                         </ul>
                     </li>
-                    <li>
-                        <a href="#Maps" class="has-arrow"><i class="icon-map"></i><span>Peta</span></a>
-                        <ul>
-                            <li><a href="map-google.php">Peta Google</a></li>                         
-                        </ul>                          
-                        </ul>
-                    </li>
+                    
                 </ul>
             </nav>     
         </div>
