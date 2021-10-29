@@ -18,7 +18,7 @@
                     <ul class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.html"><i class="icon-home"></i></a></li>
                         <li class="breadcrumb-item">Produk</li>
-                        <li class="breadcrumb-item active">Daftar Perjodohan</li>
+                        <li class="breadcrumb-item active">Penambahan Produk/Hewan</li>
                     </ul>
                 </div>
             </div>
@@ -27,7 +27,7 @@
             <div class="col-lg-16 col-md-16 col-sm-15">
                     <div class="card">
                         <div class="header">
-                            <h2>Daftar Perjodohan</h2>
+                            <h2>Daftar Produk / Hewan</h2>
                             <ul class="header-dropdown dropdown dropdown-animated scale-left">
                             <li> <a href="javascript:void(0);" data-toggle="cardloading" data-loading-effect="pulse"><i class="icon-refresh"></i></a></li>
                             <li><a href="javascript:void(0);" class="full-screen"><i class="icon-size-fullscreen"></i></a></li>
@@ -42,7 +42,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <li><a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Perjodohan</a></li>
+                        <li><a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Produk / Hewan</a></li>
                         <div class="body">
                             <div class="table-responsive">
                                 <table class="table table-hover js-basic-example dataTable table-custom mb-0">
@@ -69,7 +69,7 @@
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>                                            
                                                 <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
                                         <tr>
@@ -85,7 +85,7 @@
                                                 <button type="button" class="btn btn-info" title="Edit"><i class="fa fa-edit"></i></button>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                        
+                                        </tr>
                                         <tr>
                                             <td>Hewan Peliharaan</td>
                                             <td>
@@ -167,7 +167,7 @@
                                     <li class="page-item"><a class="page-link" href="javascript:void(0);">2</a></li>
                                     <li class="page-item"><a class="page-link" href="javascript:void(0);">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link rounded-0" href="javascript:void(0);" aria-label="Next">
+                                        <a class="page-link rounded-0" href="shop-left-sidebar2.pph" aria-label="Next">
                                             <span aria-hidden="true">&raquo;</span>
                                         </a>
                                     </li>
@@ -183,6 +183,8 @@
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
 
+<script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js -->
+
 <script src="../assets/vendor/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script><!-- Bootstrap Colorpicker Js --> 
 <script src="../assets/vendor/jquery-inputmask/jquery.inputmask.bundle.js"></script><!-- Input Mask Plugin Js --> 
 <script src="../assets/vendor/jquery.maskedinput/jquery.maskedinput.min.js"></script>
@@ -192,8 +194,10 @@
 <script src="../assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.js"></script><!-- Bootstrap Tags Input Plugin Js --> 
 <script src="../assets/vendor/nouislider/nouislider.js"></script><!-- noUISlider Plugin Js --> 
     
+
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="assets/js/pages/forms/advanced-form-elements.js"></script>
+<script src="assets/js/pages/ui/dialogs.js"></script>
 </body>
 </html>
 
