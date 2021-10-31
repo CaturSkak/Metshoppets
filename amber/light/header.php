@@ -403,7 +403,7 @@
                         </ul>
                     </li>
                     <li >
-                        <a href="#forms" class="has-arrow"><i class="icon-list"></i><span>Hewan</span></a>
+                        <a href="#forms" class="has-arrow"><i class="fa fa-github-alt"></i><span>Hewan</span></a>
                         <ul>
                             <li ><a href="forms-basic.php">Tambah Hewan</a></li>
                             <li ><a href="forms-advanced.php">Daftar Hewan</a></li>
