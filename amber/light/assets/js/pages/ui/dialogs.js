@@ -36,11 +36,11 @@ $(function () {
 
 //These codes takes from http://t4t5.github.io/sweetalert/
 function showBasicMessage() {
-    swal("Here's a message!");
+    swal("Deskripsi!");
 }
 
 function showWithTitleMessage() {
-    swal("Here's a message!", "It's pretty, isn't it?");
+    swal("Deskripsi!", "It's pretty, isn't it?");
 }
 
 function showSuccessMessage() {
