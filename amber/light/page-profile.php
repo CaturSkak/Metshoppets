@@ -81,7 +81,7 @@
             
             <div class="navbar-right">
                 <form id="navbar-search" class="navbar-form search-form">
-                    <input value="" class="form-control" placeholder="Search here..." type="text">
+                    <input value="" class="form-control" placeholder="Cari Disini..." type="text">
                     <button type="button" class="btn btn-default"><i class="icon-magnifier"></i></button>
                 </form>                
 
@@ -549,9 +549,9 @@
                                         <li class="dropdown">
                                             <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="javascript:void(0);">Action</a></li>
-                                                <li><a href="javascript:void(0);">Another Action</a></li>
-                                                <li><a href="javascript:void(0);">Something else</a></li>
+                                                <li><a href="javascript:void(0);">Tindakan</a></li>
+                                                <li><a href="javascript:void(0);">Tindakan Lainnya</a></li>
+                                                <li><a href="javascript:void(0);">Lain-nya</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -560,12 +560,12 @@
                                     <div class="row clearfix">
                                         <div class="col-lg-6 col-md-12">
                                             <div class="form-group">                                                
-                                                <input type="text" class="form-control" placeholder="Nama Depan">
+                                                <input type="text" class="form-control" placeholder="Abdul">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">
                                             <div class="form-group">                                                
-                                                <input type="text" class="form-control" placeholder="Nama Belakang">
+                                                <input type="text" class="form-control" placeholder="Muhaimin">
                                             </div>
                                         </div>
                                         <div class="col-lg-12 col-md-12">
@@ -622,9 +622,9 @@
                                         <li class="dropdown">
                                             <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="javascript:void(0);">Action</a></li>
-                                                <li><a href="javascript:void(0);">Another Action</a></li>
-                                                <li><a href="javascript:void(0);">Something else</a></li>
+                                                <li><a href="javascript:void(0);">Tindakan</a></li>
+                                                <li><a href="javascript:void(0);">Tindakan Lainnya</a></li>
+                                                <li><a href="javascript:void(0);">Lain-nya</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -633,12 +633,12 @@
                                     <div class="row clearfix">
                                         <div class="col-lg-12 col-md-12">                                            
                                             <div class="form-group">                                                
-                                                <input type="text" class="form-control" value="alizeethomas" disabled placeholder="Nama Pengguna">
+                                                <input type="text" class="form-control" value="abdulmuhaimin" disabled placeholder="Nama Pengguna">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">
                                             <div class="form-group">
-                                                <input type="email" class="form-control" value="alizee.info@yourdomain.com" placeholder="Email">
+                                                <input type="email" class="form-control" value="abdulmuhaimin@gmail.com" placeholder="Email">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12">

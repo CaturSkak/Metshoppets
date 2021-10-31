@@ -384,7 +384,7 @@
                     <ul class="dropdown-menu dropdown-menu-right account">
                         <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
                         <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
-                        <li><a href="javascript:void(0);"><i class="icon-settings"></i>Pengaturan</a></li>
+                        <li><a href="page-profile.php"><i class="icon-settings"></i>Pengaturan</a></li>
                         <li class="divider"></li>
                         <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
