@@ -69,7 +69,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -88,7 +88,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -107,7 +107,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -126,7 +126,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -145,7 +145,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -164,7 +164,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -184,7 +184,7 @@
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <a href="#/" class="btn btn-info action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" button type="button" class="btn btn-info"  title="Quickview"><i class="icon icon-info"></i></button></a>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
                                             </td>
                                             <td>                                            
 
@@ -217,66 +217,6 @@
             </div>
         </div>
 
-           <!-- Modal Start  -->
-   <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <button class="btn close" data-bs-dismiss="modal">×</button>
-                <div class="col-lg-12 col-md-12">
-                    <div class="card">
-                        
-                        <div class="body">
-                           
-
-                            <h6>Deskripsi</h6>
-                            <blockquote >
-                                 <!-- SKU Start -->
-                            <div class="sku mb-3">
-                            <span>Kategori</span>
-                                <span>Hewan Peliharaan</span>
-                            </div>
-                            <!-- SKU End -->
-
-                            <!-- Product Inventory Start -->
-                        <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
-                     
-                        <!-- Product Inventory End -->
-
-                        <!-- Description Start -->
-                        <p ><p>Kucing Persia Peaknose</p>
-                        <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-                        <p>
-
-Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli</p>
-
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
-                        <!-- Description End -->
-
-                    </div>
-                               
-                    </blockquote>
-                            
-                            
-                           
-                       
-                </div>
-               
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Modal End  -->
 <!-- Javascript -->
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
@@ -292,8 +232,6 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
 <script src="../assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.js"></script><!-- Bootstrap Tags Input Plugin Js --> 
 <script src="../assets/vendor/nouislider/nouislider.js"></script><!-- noUISlider Plugin Js --> 
     
-<script src="assets/js/vendor/bootstrap.min.js"></script>
-<script src="assets/js/main.js"></script>
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="assets/js/pages/forms/advanced-form-elements.js"></script>

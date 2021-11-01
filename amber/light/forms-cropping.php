@@ -20,7 +20,7 @@
                     <div class="col-md-6 col-sm-12 text-right">
                         <ul class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
-                            <li class="breadcrumb-item active"><a href="forms-wizard.php">Edit Daftar Hewan</li></a>
+                            <li class="breadcrumb-item active"><a href="forms-wizard.php">Edit Perjodohan</li></a>
                         </ul>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
                         </div>   
 
                                     <textarea class="form-control" placeholder="Deskripsi" rows="5" cols="30" required></textarea>
-                                <a href="forms-advanced.php" button type="button"class="btn btn-block btn-primary m-t-20">Selesai</button></a>
+                                <a href="forms-validation.php" button type="button"class="btn btn-block btn-primary m-t-20">Selesai</button></a>
                             </div>
                         </div>
                         </div>   
