@@ -94,7 +94,7 @@
                                                 <ul class="nav navbar-nav">
                                                 <li class="dropdown dropdown-animated scale-left">
                                                 <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
-                                                <i class="icon-picture"></i>
+                                                <i class="icon-wallet"></i>
                                                 <span class="notification-dot"></span>
                                                 </a>
                                                 <ul class="dropdown-menu right_chat email">
@@ -142,7 +142,7 @@
                                                 <ul class="nav navbar-nav">
                                                 <li class="dropdown dropdown-animated scale-left">
                                                 <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown">
-                                                <i class="icon-picture"></i>
+                                                <i class="icon-wallet"></i>
                                                 <span class="notification-dot"></span>
                                                 </a>
                                                 <ul class="dropdown-menu right_chat email">
