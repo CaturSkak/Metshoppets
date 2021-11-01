@@ -70,7 +70,7 @@
                                 <input type="file" id="dropify-event" >
                             </div>
                         </div>   
-                                <button type="button" class="btn btn-block btn-primary m-t-20">Selesai</button>
+                                <a href="forms-wizard.php" button type="button"class="btn btn-block btn-primary m-t-20">Selesai</button></a>
                             </div>
                         </div>
                         </div>   
