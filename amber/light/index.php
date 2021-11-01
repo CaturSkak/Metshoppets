@@ -190,7 +190,7 @@
                                             <td>7</td>
                                             <td>Rp.245.000</td>
                                             <td>
-                                                    <button class="btn btn-sm round btn-outline-success">Diterima</button>
+                                                    <button class="btn btn-sm round btn-outline-warning">Menunggu</button>
                                             </td>
                                         </tr>
                                         <tr>
@@ -204,7 +204,7 @@
                                             <td>7</td>
                                             <td>Rp.245.000</td>
                                             <td>
-                                                    <button class="btn btn-sm round btn-outline-danger">Ditolak</button>
+                                                    <button class="btn btn-sm round btn-outline-success">Diterima</button>
                                             </td>
                                         </tr>
                                         <tr>

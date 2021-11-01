@@ -103,7 +103,7 @@
 
                         <!-- Price Box Start -->
                         <div class="price-box mb-2">
-                            <span class="regular-price">Rp.35.000</span><strong>/Hari</strong>
+                            <span class="regular-price">Rp.45.000</span><strong>/Hari</strong>
                              <span class="old-price"><del>Rp.45.000 / Hari</span>
                         </div>
                         <!-- Price Box End -->
@@ -122,7 +122,7 @@
                         <!-- Product Inventory End -->
 
                         <!-- Description Start -->
-                        <p class="desc-content mb-5"><p>Kucing Persia Peaknose</p>
+                        <p class="desc-content mb-5"><p>Kucing Persia Asli</p>
                         <p>Jantan</p>
                         <p>Umur 6-10 Bulan</p>
                         <p>Tidak ada Kutu dan Jamur</p>
