@@ -54,6 +54,7 @@
                                             <th>Harga</th>
                                             <th>Jumlah</th>
                                             <th>Gambar</th>
+                                            <th>Deskripsi</th>
                                             <th>Tindakan</th>
                                         </tr>
                                     </thead>
@@ -67,6 +68,9 @@
                                             <td>Rp.5.740.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
                                             <td>                                            
 
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
@@ -83,6 +87,15 @@
                                             <td>Rp.4.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
+                                            <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
                                             <td>                                            
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
@@ -97,6 +110,15 @@
                                             <td>Rp.5.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
+                                            <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
                                             <td>                                            
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
@@ -111,6 +133,15 @@
                                             <td>Rp.18.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
+                                            <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
                                             <td>                                            
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
@@ -125,7 +156,17 @@
                                             <td>Rp.16.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
                                             <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
+                                            <td> 
+
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
@@ -139,6 +180,15 @@
                                             <td>Rp.6.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
+                                            <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
                                             <td>                                            
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
@@ -153,6 +203,15 @@
                                             <td>Rp.15.000.000</td>
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
+                                            <td>
+                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                            </td>
+                                            <td>                                            
+
+                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
+
+                                                <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
+                                            </td>
                                             <td>                                            
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
                                                 <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
