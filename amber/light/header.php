@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="../assets/vendor/fullcalendar/fullcalendar.min.css">
 
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
 
@@ -35,6 +36,8 @@
 <link rel="stylesheet" href="assets/css/inbox.css">
 <link rel="stylesheet" href="assets/css/blog.css">
 <link rel="stylesheet" href="assets/css/color_skins.css">
+
+
 </head>
 
 <!-- Page Loader -->
@@ -383,8 +386,8 @@
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
                         <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
-                        <li><a href="page-profile.php"><i class="icon-settings"></i>Pengaturan</a></li>
+                        <li><a href="app-chat.php"><i class="icon-envelope-open"></i>Pesan</a></li>
+                       
                         <li class="divider"></li>
                         <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
                     </ul>
