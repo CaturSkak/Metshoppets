@@ -665,9 +665,66 @@
     
 </div>
 
+
+<div id="add_data_Modal" class="modal fade">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-header">
+       <button type="button" class="close" data-dismiss="modal">&times;</button>
+       <h4 class="modal-title">Input Data Dengan Menggunakan Modal Bootstrap</h4>
+      </div>
+      <div class="modal-body">
+       <form method="post" id="insert_form">
+        <label>Nama Karyawan</label>
+        <input type="text" name="nama" id="nama" class="form-control" />
+        <br />
+        <label>Alamat Karyawan</label>
+        <textarea name="alamat" id="alamat" class="form-control"></textarea>
+        <br />
+        <label>Jenis Kelamin</label>
+        <select name="gender" id="gender" class="form-control">
+         <option value="Laki-laki">Laki-laki</option>  
+         <option value="Perempuan">Perempuan</option>
+        </select>
+        <br />  
+        <label>Umur</label>
+        <input type="text" name="umur" id="umur" class="form-control" />
+        <br />
+        <input type="submit" name="insert" id="insert" value="Insert" class="btn btn-success" />
+    
+       </form>
+      </div>
+      <div class="modal-footer">
+       <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+     </div>
+    </div>
+   </div>
+    
+   <div id="dataModal" class="modal fade">
+    <div class="modal-dialog">
+     <div class="modal-content">
+      <div class="modal-header">
+       <button type="button" class="close" data-dismiss="modal">&times;</button>
+       <h4 class="modal-title">Detail Data Karyawan</h4>
+      </div>
+      <div class="modal-body" id="detail_karyawan">
+        
+      </div>
+      <div class="modal-footer">
+       <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+     </div>
+    </div>
+   </div>
+
+
 <!-- Javascript -->
 <script src="assets/bundles/libscripts.bundle.js"></script>    
 <script src="assets/bundles/vendorscripts.bundle.js"></script>
+
+
+
 
 <script src="../assets/vendor/bootstrap-multiselect/bootstrap-multiselect.js"></script>
 <script src="../assets/vendor/parsleyjs/js/parsley.min.js"></script>

@@ -14,6 +14,8 @@
 <link rel="stylesheet" href="../assets/vendor/fullcalendar/fullcalendar.min.css">
 
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+
 
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="../assets/vendor/sweetalert/sweetalert.css"/>
@@ -36,6 +38,7 @@
 <link rel="stylesheet" href="assets/css/inbox.css">
 <link rel="stylesheet" href="assets/css/blog.css">
 <link rel="stylesheet" href="assets/css/color_skins.css">
+
 
 
 </head>
