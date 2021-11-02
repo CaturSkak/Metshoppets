@@ -15,7 +15,7 @@
             <div class="block-header">
                 <div class="row clearfix">
                     <div class="col-md-6 col-sm-12">
-                        <h2>Buat Artikel Baru</h2>
+                        <h2>Edit Daftar </h2>
                     </div>            
                     <div class="col-md-6 col-sm-12 text-right">
                         <ul class="breadcrumb">
@@ -64,12 +64,14 @@
     
                         <div class="card">
                             <div class="header">
-                                <h2>Masukan Gambar <small>yang berhubungan dengan artikel</small></h2>
+                                <h2>Masukan Gambar <small>yang berhubungan dengan Hewan</small></h2>
                             </div>
                             <div class="body">
                                 <input type="file" id="dropify-event" >
                             </div>
                         </div>   
+
+                                    <textarea class="form-control" placeholder="Deskripsi" rows="5" cols="30" required></textarea>
                                 <a href="forms-wizard.php" button type="button"class="btn btn-block btn-primary m-t-20">Selesai</button></a>
                             </div>
                         </div>
