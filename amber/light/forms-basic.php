@@ -69,7 +69,7 @@
                                     <textarea class="form-control" placeholder="Deskripsi Produk / Hewan" aria-label="With textarea"></textarea>
                                 </div>
                               
-                                <li>
+                                <p>
                                 <div class="card">
                                 <div class="header">
                                     <h2>Masukan Gambar <small>Sesuai Produk / Hewan</small></h2>
@@ -78,7 +78,7 @@
                                     <input type="file" id="dropify-event" >
                                 </div>
                                 </div>
-                                        </li>
+                            </p>
                                     <div class="mail-left">
                                     <div class="mail-compose m-b-20">
                                             <a href="forms-advanced.php" class="btn btn-danger btn-block"> Tambah</a>
@@ -146,7 +146,7 @@
                                     </div>
                                     <textarea class="form-control" placeholder="Deskripsi Hewan" aria-label="With textarea"></textarea>
                                 </div>
-                                <li>
+                                <p>
                                     <div class="card">
                                     <div class="header">
                                         <h2>Masukan Gambar <small>Sesuai  hewan yang akan dijodohkan</small></h2>
@@ -155,7 +155,7 @@
                                         <input type="file" id="dropify-event" >
                                     </div>
                                     </div>
-                                            </li>
+                                </p>
                                     <div class="mail-left">
                                     <div class="mail-compose m-b-20">
                                             <a href="forms-advanced.php" class="btn btn-danger btn-block"> Tambah</a>

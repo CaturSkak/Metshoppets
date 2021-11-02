@@ -44,7 +44,7 @@
                                     <option>Kijang 2</option>
                                 </select>
                             </div>
-                            <li>
+                            <p>
                     <div class="col-12">
                         <label>Tanggal</label>
                         <div class="input-daterange input-group" data-provide="datepicker">
@@ -54,8 +54,8 @@
                             <input type="text" class="form-control" name="end">
                         </div>
                     </div>
-                            </li>
-                            <li>
+                </p>
+                            <p>
                             <div class="summernote">
                           
                                 <h3 class="m-b-0">Halo dengan Admin,</h3>
@@ -63,7 +63,7 @@
                                 <p></p>
                             </div>
                             <button type="button" class="btn btn-block btn-primary m-t-20">Edit</button>
-                        </li>
+                        </p>
                         </div>
                     </div>
                     </div>
