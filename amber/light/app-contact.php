@@ -24,7 +24,7 @@
                     </ul>
                     <a href="app-contact.php" class="btn btn-sm btn-success" title=""><i class="fa fa-list"></i></a>
                     <a href="app-contact-grid.php" class="btn btn-sm btn-outline-success" title=""><i class="fa fa-th-large"></i></a>                    
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addcontact">Buat Baru</a>
+                    <a href="buat_kontak_baru.php" class="btn btn-sm btn-primary">Buat Baru</a>
                 </div>
             </div>
         </div>
