@@ -62,7 +62,7 @@
                                 <h4 class="m-t-0">Tulis Diskripsi pengerjaan nya.</h4>
                                 <p></p>
                             </div>
-                            <button type="button" class="btn btn-block btn-primary m-t-20">Edit</button>
+                            <button type="button" class="btn btn-block btn-primary m-t-20">Tambah</button>
                         </p>
                         </div>
                     </div>
