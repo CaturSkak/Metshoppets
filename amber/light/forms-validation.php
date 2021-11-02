@@ -2,89 +2,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <style>
-        
-        </style>
-
-<style>
-body{
-	font-family: arial, verdana, sans-serif;
-}
-/* jwpopup box style */
-.jwpopup {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    padding-top: 110px;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgb(0,0,0);
-    background-color: rgba(0,0,0,0.7);
-}
-.jwpopup-content {
-    position: relative;
-    background-color: #fefefe;
-    margin: auto;
-    padding: 0;
-    max-width: 500px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
-    -webkit-animation-name: animatetop;
-    -webkit-animation-duration: 0.4s;
-    animation-name: animatetop;
-    animation-duration: 0.4s
-}
-
-.jwpopup-head {
-	font-size: 11px;
-    padding: 1px 16px;
-    color: white;
-    background: #006faa; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#006faa, #002c44); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#006faa, #002c44); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#006faa, #002c44); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#006faa, #002c44); /* Standard syntax */
-}
-.jwpopup-main {padding: 5px 16px;}
-.jwpopup-foot {
-	font-size: 12px;
-    padding: .5px 16px;
-    color: #ffffff;
-    background: #006faa; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#006faa, #002c44); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#006faa, #002c44); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#006faa, #002c44); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#006faa, #002c44); /* Standard syntax */
-}
-
-/* tambahkan efek animasi */
-@-webkit-keyframes animatetop {
-    from {top:-300px; opacity:0}
-    to {top:0; opacity:1}
-}
-
-@keyframes animatetop {
-    from {top:-300px; opacity:0}
-    to {top:0; opacity:1}
-}
-
-/* style untuk tombol close */
-.close {
-	margin-top: 7px;
-    color: white;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
-.close:hover, .close:focus {
-    color: #999999;
-    text-decoration: none;
-    cursor: pointer;
-}
-</style>
-
+    <!-- Plugins CSS (All Plugins Files) -->
+    <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css" />
+<!-- Main Style CSS -->
+<link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body class="theme-orange">
 
@@ -126,8 +47,10 @@ body{
                                 </li>
                             </ul>
                         </div>
-                        <li><a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Perjodohan</a></li>
                         <div class="body">
+                       <a href="forms-basic.php" class="btn btn-sm btn-primary" title="">Tambah Perjodohan</a>
+                        </div>
+                       <div class="body">
                             <div class="table-responsive">
                                 <table class="table table-hover js-basic-example dataTable table-custom mb-0">
                                     <thead class="thead-dark">
@@ -153,65 +76,7 @@ body{
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                          <!-- trigger the jwpopup -->
-<a href="javascript:void(0);" id="jwpopupLink" class="btn btn-primary" ><i class="icon icon-info"></i></a>
-<!-- jwpopup box -->
-<div id="jwpopupBox" class="jwpopup">
-	<!-- jwpopup content -->
-	<div class="jwpopup-content">
-		<div class="jwpopup-head">
-			<span class="close">×</span>
-			<h2>Deskripsi</h2>
-		</div>
-		<div class="card">
-                        
-                        <div class="body">
-                           
-
-                            <h6>Deskripsi</h6>
-                            <blockquote >
-                                 <!-- SKU Start -->
-                            <div class="sku mb-3">
-                            <span>Kategori</span>
-                                <span>Hewan Peliharaan</span>
-                            </div>
-                            <!-- SKU End -->
-
-                            <!-- Product Inventory Start -->
-                        <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
-                     
-                        <!-- Product Inventory End -->
-
-                        <!-- Description Start -->
-                        <p ><p>Kucing Persia Peaknose</p>
-                        <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-                        <p>
-
-Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli</p>
-
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
-                        <!-- Description End -->
-
-                    </div>
-                               
-                    </blockquote>
-                            
-                            
-                           
-                       
-                </div>
-		
-	</div>
-</div>
+                                            <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -230,66 +95,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <!-- trigger the jwpopup -->
-<a href="javascript:void(0);" id="jwpopupLink" class="btn btn-primary" ><i class="icon icon-info"></i></a>
-<!-- jwpopup box -->
-<div id="jwpopupBox" class="jwpopup">
-	<!-- jwpopup content -->
-	<div class="jwpopup-content">
-		<div class="jwpopup-head">
-			<span class="close">×</span>
-			<h2>Deskripsi</h2>
-		</div>
-		<div class="card">
-                        
-                        <div class="body">
-                           
-
-                            <h6>Deskripsi</h6>
-                            <blockquote >
-                                 <!-- SKU Start -->
-                            <div class="sku mb-3">
-                            <span>Kategori</span>
-                                <span>Hewan Peliharaan</span>
-                            </div>
-                            <!-- SKU End -->
-
-                            <!-- Product Inventory Start -->
-                        <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
-                     
-                        <!-- Product Inventory End -->
-
-                        <!-- Description Start -->
-                        <p ><p>Kucing Persia Peaknose</p>
-                        <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-                        <p>
-
-Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli</p>
-
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
-                        <!-- Description End -->
-
-                    </div>
-                               
-                    </blockquote>
-                            
-                            
-                           
-                       
-                </div>
-		
-	</div>
-</div>
-
+                                            <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -308,66 +114,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                             <!-- trigger the jwpopup -->
-                                            <a href="javascript:void(0);" id="jwpopupLink" class="btn btn-primary" ><i class="icon icon-info"></i>fa</a>
-                                         
-<!-- jwpopup box -->
-<div id="jwpopupBox" class="jwpopup">
-	<!-- jwpopup content -->
-	<div class="jwpopup-content">
-		<div class="jwpopup-head">
-			<span class="close">×</span>
-			<h2>Deskripsi</h2>
-		</div>
-		<div class="card">
-                        
-                        <div class="body">
-                           
-
-                            <h6>Deskripsi</h6>
-                            <blockquote >
-                                 <!-- SKU Start -->
-                            <div class="sku mb-3">
-                            <span>Kategori</span>
-                                <span>Hewan Peliharaan</span>
-                            </div>
-                            <!-- SKU End -->
-
-                            <!-- Product Inventory Start -->
-                        <div class="product-inventroy mb-3">
-                            <span class="inventroy-title"> <strong>Info :</strong></span>
-                            <span class="inventory-varient">Tersedia</span>
-                     
-                        <!-- Product Inventory End -->
-
-                        <!-- Description Start -->
-                        <p ><p>Kucing Persia Peaknose</p>
-                        <p>Jantan</p>
-                        <p>Umur 3-4 Bulan</p>
-                        <p>No Kutu No Jamur</p>
-                        <p>No Cacat</p>
-                        <p>Obat Cacing Rutin</p>
-                        <p>Linca Dan Pinter</p>
-                        <p>Di Jamin Sehat, Sudah Vaksin</p>
-                        <p>
-
-Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli</p>
-
-
-                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
-                        <!-- Description End -->
-
-                    </div>
-                               
-                    </blockquote>
-                            
-                            
-                           
-                       
-                </div>
-		
-	</div>
-</div>
+                                            <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -386,7 +133,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                        <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -405,7 +152,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                        <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -424,7 +171,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                        <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -443,7 +190,7 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
                                             <td>1</td>
                                             <td><img class="fit-image" src="../assets/images/products/small-product/kucing.png" alt="Product" /></td>
                                             <td>
-                                            <button class="btn btn-primary js-sweetalert" data-type="with-title">CLICK ME</button>
+                                        <a  href="#/" class="action quickview" data-bs-toggle="modal" data-bs-target="#quick-view" title="Quickview" class="btn btn-primary"><button class="btn btn-primary " ><i class="icon icon-info"></i></button></a>
                                             </td>
                                             <td>                                            
 
@@ -477,6 +224,110 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
 
 
 
+   <!-- Modal Start  -->
+   <div class="modalquickview modal fade" id="quick-view" tabindex="-1" aria-labelledby="quick-view" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+               
+                <div class="row">
+                    <div class="col-md-6 col-12">
+
+                        <!-- Product Details Image Start -->
+                        <div class="modal-product-carousel">
+
+                            <!-- Single Product Image Start -->
+                            <div class="swiper-container">
+                                <div class="swiper-wrapper">
+                                    
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/persia.png">
+                                    <img class="w-100" src="assets/images/products/medium-product/persia.png" alt="Product">
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/kucing_persia_putih_jantan.jpg" alt="Product">
+                                </a>
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/735_5.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/735_5.jpg" alt="Product">
+                                </a>
+                                <a class="swiper-slide w-100" href="assets/images/products/medium-product/putih.jpg">
+                                    <img class="w-100" src="assets/images/products/medium-product/putih.jpg" alt="Product">
+                                </a>
+
+                                
+                                </div>
+
+                                <!-- Swiper Pagination Start -->
+                                <!-- <div class="swiper-pagination d-md-none"></div> -->
+                                <!-- Swiper Pagination End -->
+
+                                <!-- Next Previous Button Start -->
+                                <div class="swiper-product-button-next swiper-button-next"><i class="ti-arrow-right"></i></div>
+                                <div class="swiper-product-button-prev swiper-button-prev"><i class="ti-arrow-left"></i></div>
+                                <!-- Next Previous Button End -->
+                            </div>
+                            <!-- Single Product Image End -->
+
+                        </div>
+                        <!-- Product Details Image End -->
+
+                    </div>
+                    <div class="col-md-6 col-12 overflow-hidden position-relative">
+
+                        <!-- Product Summery Start -->
+                        <div class="product-summery position-relative">
+
+                            <!-- Product Head Start -->
+                            <div class="product-head mb-3">
+                                <h2 class="product-title">Kucing Persia Peaknose</h2>
+                            </div>
+                            <!-- Product Head End -->
+
+                            
+
+                            <!-- Price Box Start -->
+                            <div class="sku mb-3">
+                            <span>Kategori</span>
+                                <span>Hewan Peliharaan</span>
+                            </div>
+                            <!-- SKU End -->
+
+                            <!-- Product Inventory Start -->
+                        <div class="product-inventroy mb-3">
+                            <span class="inventroy-title"> <strong>Info :</strong></span>
+                            <span class="inventory-varient">Tersedia</span>
+                     
+                        <!-- Product Inventory End -->
+
+                        <!-- Description Start -->
+                        <p ><p>Kucing Persia Peaknose</p>
+                        <p>Jantan</p>
+                        <p>Umur 3-4 Bulan</p>
+                        <p>No Kutu No Jamur</p>
+                        <p>No Cacat</p>
+                        <p>Obat Cacing Rutin</p>
+                        <p>Linca Dan Pinter</p>
+                        <p>Di Jamin Sehat, Sudah Vaksin</p>
+                        <p>
+
+                        Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asli</p>
+
+
+                        <p>Melayani Pengiriman Luar Kota Dan Dalam Kota</p>
+                        <!-- Description End -->
+
+                    </div>
+                  
+
+                       
+
+                        </div>
+                        <!-- Product Summery End -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal End  -->
+
 
 
 <!-- Javascript -->
@@ -485,50 +336,22 @@ Di Butuhkan Betina Jenis Kucing Persia Peaknose/Kucing Anggora/Kucing Persia Asl
 
 <script src="../assets/vendor/sweetalert/sweetalert.min.js"></script><!-- SweetAlert Plugin Js -->
 
-<script src="../assets/vendor/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script><!-- Bootstrap Colorpicker Js --> 
-<script src="../assets/vendor/jquery-inputmask/jquery.inputmask.bundle.js"></script><!-- Input Mask Plugin Js --> 
-<script src="../assets/vendor/jquery.maskedinput/jquery.maskedinput.min.js"></script>
-<script src="../assets/vendor/multi-select/js/jquery.multi-select.js"></script><!-- Multi Select Plugin Js -->
-<script src="../assets/vendor/bootstrap-multiselect/bootstrap-multiselect.js"></script>
-<script src="../assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-<script src="../assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.js"></script><!-- Bootstrap Tags Input Plugin Js --> 
-<script src="../assets/vendor/nouislider/nouislider.js"></script><!-- noUISlider Plugin Js --> 
     
+<!-- Plugins JS -->
+<script src="assets/js/plugins/swiper-bundle.min.js"></script>
+
+<!-- Vendor JS -->
+
+<script src="assets/js/vendor/bootstrap.min.js"></script>
+ <!--Main JS-->
+ <script src="assets/js/main.js"></script>
 
 <script src="assets/bundles/mainscripts.bundle.js"></script>
 <script src="assets/js/pages/forms/advanced-form-elements.js"></script>
 <script src="assets/js/pages/ui/dialogs.js"></script>
 
 
- <script>
-	
-    // untuk mendapatkan jwpopup
-    var jwpopup = document.getElementById('jwpopupBox');
-    
-    // untuk mendapatkan link untuk membuka jwpopup
-    var mpLink = document.getElementById("jwpopupLink");
-    
-    // untuk mendapatkan aksi elemen close
-    var close = document.getElementsByClassName("close")[0];
-    
-    // membuka jwpopup ketika link di klik
-    mpLink.onclick = function() {
-        jwpopup.style.display = "block";
-    }
-    
-    // membuka jwpopup ketika elemen di klik
-    close.onclick = function() {
-        jwpopup.style.display = "none";
-    }
-    
-    // membuka jwpopup ketika user melakukan klik diluar area popup
-    window.onclick = function(event) {
-        if (event.target == jwpopup) {
-            jwpopup.style.display = "none";
-        }
-    }
-    
-    </script>
+ 
 </body>
 </html>
 

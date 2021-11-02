@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="../assets/vendor/fullcalendar/fullcalendar.min.css">
 
 <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
+
 
 
 <link rel="stylesheet" href="../assets/vendor/font-awesome/css/font-awesome.min.css">
@@ -69,32 +69,32 @@
                         <a href="javascript:void(0);" class="dropdown-toggle icon-menu" data-toggle="dropdown"><i class="icon-grid"></i></a>
                         <ul class="dropdown-menu menu-icon app_menu">
                             <li>
-                                <a class="#">
-                                    <i class="icon-envelope"></i>
-                                    <span>Inbox</span>
+                                <a href="forms-advanced.php">
+                                    <i class="fa fa-github-alt"></i>
+                                    <span>Hewan</span>
                                 </a>
                             </li>
                             <li>
-                                <a class="#">
+                                <a href="app-chat.php">
                                     <i class="icon-bubbles"></i>
                                     <span>Chat</span>
                                 </a>
                             </li>
                             <li>
-                                <a class="#">
+                                <a href="app-taskboard.php">
                                     <i class="icon-list"></i>
                                     <span>Task</span>
                                 </a>
                             </li>
                             <li>
-                                <a class="#">
+                                <a href="blog-list.php">
                                     <i class="icon-globe"></i>
                                     <span>Blog</span>
                                 </a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="app-calendar.php" class="icon-menu d-none d-sm-block d-md-none d-lg-block"><i class="icon-calendar"></i></a></li>
+                    
                     <li><a href="app-chat.php" class="icon-menu d-none d-sm-block"><i class="icon-bubbles"></i></a></li>                    
                 </ul>
             </div>

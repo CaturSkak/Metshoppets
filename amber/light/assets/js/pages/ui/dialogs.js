@@ -40,7 +40,7 @@ function showBasicMessage() {
 }
 
 function showWithTitleMessage() {
-    swal("Deskripsi!", "It's pretty, isn't it?");
+    swal("Deskripsi!", "It's pretty");
 }
 
 function showSuccessMessage() {
