@@ -81,7 +81,7 @@
                                         </li>
                                     <div class="mail-left">
                                     <div class="mail-compose m-b-20">
-                                            <a href="app-compose.php" class="btn btn-danger btn-block"> Tambah</a>
+                                            <a href="forms-advanced.php" class="btn btn-danger btn-block"> Tambah</a>
                                     </div>		
                                 </div>
                             </div>
@@ -158,7 +158,7 @@
                                             </li>
                                     <div class="mail-left">
                                     <div class="mail-compose m-b-20">
-                                            <a href="app-compose.php" class="btn btn-danger btn-block"> Tambah</a>
+                                            <a href="forms-advanced.php" class="btn btn-danger btn-block"> Tambah</a>
                                             </right>
                                     </div>		
                                 </div>

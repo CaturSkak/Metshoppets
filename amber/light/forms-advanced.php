@@ -96,10 +96,6 @@
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                            <td>                                            
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
                                         </tr>
                                         <tr>
                                             <td>Hewan Peliharaan</td>
@@ -118,10 +114,6 @@
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                            <td>                                            
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
                                         <tr>
@@ -142,10 +134,6 @@
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                            <td>                                            
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
                                         </tr>
                                         <tr>
                                             <td>Hewan Peliharaan</td>
@@ -164,11 +152,6 @@
                                                 <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
-                                            <td> 
-
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
                                         </tr>
                                         <tr>
@@ -189,10 +172,7 @@
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                            <td>                                            
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
+                                            
                                         </tr>
                                         <tr>
                                             <td>Hewan Peliharaan</td>
@@ -212,10 +192,7 @@
 
                                                 <button type="button"  class="btn btn-danger js-sweetalert" data-type="confirm" title="Delete"><i class="fa fa-trash-o"></i></button>
                                             </td>
-                                            <td>                                            
-                                                <a href="forms-wizard.php" button type="button" class="btn btn-info"  title="Edit"><i class="fa fa-edit"></i></button></a>
-                                                <button type="button" data-type="confirm" class="btn btn-danger js-sweetalert" title="Delete"><i class="fa fa-trash-o"></i></button>
-                                            </td>
+                                        
                                         </tr>
                                     </tbody>
                                 </table>
