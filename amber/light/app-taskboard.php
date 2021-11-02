@@ -20,7 +20,7 @@
                         <li class="breadcrumb-item"><a href="index.php"><i class="icon-home"></i></a></li>
                         <li class="breadcrumb-item active">Papan Tugas</li>
                     </ul>
-                    <a href="javascript:void(0);" class="btn btn-sm btn-primary" title="" data-toggle="modal" data-target="#addcontact">Buat Baru</a>
+                    <a href="Buat_Papan_Tugas_Baru.php" class="btn btn-sm btn-primary" title="">Buat Baru</a>
                 </div>
             </div>
         </div>

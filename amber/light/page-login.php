@@ -40,8 +40,8 @@
                             <div id="carouselExampleControls" class="carousel vert slide" data-ride="carousel" data-interval="1500">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">Hewan Peliharaan</div>
-                                    <div class="carousel-item">Makanan Hewan</div>
                                     <div class="carousel-item">Perjodohan Hewan</div>
+                                    <div class="carousel-item">Maeman Hewan</div>
                                     <div class="carousel-item">Tempat Tinggal Hewan</div>
                                 </div>
                             </div>

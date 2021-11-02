@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Showing 1–12 of 39 results</span>
+                                <span>Menampilkan 1–12 dari 36 Hasil</span>
                             </div>
 
                         </div>
@@ -49,16 +49,15 @@
                         <!-- Shopt Top Bar Right Start -->
                         <div class="shop-top-bar-right">
 
-                            <h4 class="title me-2">Short By: </h4>
+                            <h4 class="title me-2">Di Urutkan Berdasarkan: </h4>
 
                             <div class="shop-short-by">
                                 <select class="nice-select" aria-label=".form-select-sm example">
-                                    <option selected>Short by Default</option>
-                                    <option value="1">Short by Popularity</option>
-                                    <option value="2">Short by Rated</option>
-                                    <option value="3">Short by Latest</option>
-                                    <option value="3">Short by Price</option>
-                                    <option value="3">Short by Price</option>
+                                    <option selected>Di Urutkan Berdasarkan Standar</option>
+                                    <option value="1">Di Urutkan Berdasarkan Popularitas</option>
+                                    <option value="2">Di Urutkan Berdasarkan Rating</option>
+                                    <option value="3">Di Urutkan Berdasarkan Terbaru</option>
+                                    <option value="3">Di Urutkan Berdasarkan Harga</option>
                                 </select>
                             </div>
                         </div>
@@ -325,7 +324,7 @@
                                             <i class="fa fa-star"></i>
                                         </span>
                                     <span class="price">
-                                            <span class="new">$78.50</span>
+                                            <span class="new">Rp.6.000.000</span>
                                     </span>
                                     <p>As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for...</p>
                                     <!-- Cart Button Start -->
