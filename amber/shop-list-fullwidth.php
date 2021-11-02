@@ -40,7 +40,7 @@
                                 <button data-role="grid_list" type="button" class="btn-list" title="List"><i class="ti-align-justify"></i></button>
                             </div>
                             <div class="shop-top-show">
-                                <span>Terlihat 1–12 of 36 Hasil</span>
+                                <span>Menampilkan 1-12 dari 36 Hasil</span>
                             </div>
 
                         </div>
