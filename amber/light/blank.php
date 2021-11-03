@@ -3,14 +3,10 @@
 <html lang="en">
 
 <head>
-    <!-- Plugins CSS (All Plugins Files) -->
-
-
-
+<!-- Plugins CSS (All Plugins Files) -->
     <link rel="stylesheet" href="assets/css/plugins/swiper-bundle.min.css" />
+    
 <!-- Main Style CSS -->
-
-
 <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body class="theme-cyan">
