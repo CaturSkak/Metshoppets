@@ -400,7 +400,7 @@
                 <ul  id="main-menu" class="metismenu">
                     <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
                    
-                    <li><a href="app-chat.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
+                    <li><a href="app-pesan.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-basket"></i><span>Transaksi</span></a>
                         <ul>
