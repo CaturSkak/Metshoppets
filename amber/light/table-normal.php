@@ -53,8 +53,9 @@
                                             <th>Alamat</th>
                                             <th>Tanggal Pemesanan</th>
                                             <th>Tipe</th>
-                                            <th>Rincian pemesanan</th>
-                                            <th>Foto Hewan Perjodohan Milik Customer</th>
+                                            <th>Jenis Hewan Pemesanan</th>
+                                            <th>Jenis Hewan Customer</th>
+                                            <th>Foto Hewan Customer</th>
                                             <th>Jumlah Hari</th>
                                             <th>Harga</th>
                                             <th>Pembayaran</th>
@@ -70,6 +71,7 @@
                                             <td>19 Oktober 2021</td>
                                             <td>Jodoh</td>
                                             <td>Kucing Persia Asli</td>
+                                            <td>Kucing Anggora</td>
                                              <td><div id="navbar-menu">
                                                 <ul class="nav navbar-nav">
                                                 <li class="dropdown dropdown-animated scale-left">
@@ -118,6 +120,7 @@
                                             <td>19 Oktober 2021</td>
                                             <td>Jodoh</td>
                                             <td>Kucing Anggora Asli</td>
+                                            <td>Kucing Persia </td>
                                              <td><div id="navbar-menu">
                                                 <ul class="nav navbar-nav">
                                                 <li class="dropdown dropdown-animated scale-left">

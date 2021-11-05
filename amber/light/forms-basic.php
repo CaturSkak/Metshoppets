@@ -147,14 +147,17 @@
                                     <textarea class="form-control" placeholder="Deskripsi Hewan" aria-label="With textarea"></textarea>
                                 </div>
                                 <p>
-                                    <div class="card">
+                                
+                                <div class="card">
                                     <div class="header">
-                                        <h2>Masukan Gambar <small>Sesuai  hewan yang akan dijodohkan</small></h2>
+                                        <h2>Masukan Gambar <small>Sesuai Hewan Perjodohan</small></h2>
                                     </div>
                                     <div class="body">
-                                        <input type="file" id="dropify-event" >
+                                        <input type="file" class="dropify" >
                                     </div>
-                                    </div>
+                                </div>
+                                
+                            </div>
                                 </p>
                                     <div class="mail-left">
                                     <div class="mail-compose m-b-20">
