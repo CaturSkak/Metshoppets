@@ -389,7 +389,8 @@
                     <a href="javascript:void(0);" class="dropdown-toggle user-name" data-toggle="dropdown"><strong>Mimin</strong></a>
                     <ul class="dropdown-menu dropdown-menu-right account">
                         <li><a href="page-profile.php"><i class="icon-user"></i>Profil Saya</a></li>
-                        <li><a href="app-chat.php"><i class="icon-envelope-open"></i>Pesan</a></li>
+                       
+                        <li><a href="app-inbox.php"><i class="icon-envelope-open"></i>Pesan</a></li>
                        
                         <li class="divider"></li>
                         <li><a href="page-login.php"><i class="icon-power"></i>Keluar</a></li>
@@ -399,8 +400,8 @@
             <nav id="left-sidebar-nav" class="sidebar-nav">
                 <ul  id="main-menu" class="metismenu">
                     <li><a href="index.php"><i class="icon-home"></i><span>Beranda</span></a></li>
+                    <li><a href="app-inbox.php"><i class="icon-bubbles"></i><span>Kotak Masuk</span></a></li>
                    
-                    <li><a href="app-pesan.php"><i class="icon-bubbles"></i><span>Pesan</span></a></li>
                     <li>
                         <a href="#Tables" class="has-arrow"><i class="icon-basket"></i><span>Transaksi</span></a>
                         <ul>

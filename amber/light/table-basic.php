@@ -50,8 +50,8 @@
                         </div>
                         <div class="body">
                             <div class="table-responsive">
-                                <table class="table m-b-0">
-                                    <thead>
+                                <table class="table table-hover js-basic-example dataTable table-custom mb-0">
+                                    <thead  class="table-dark">
                                         <tr>
                                             <th>No</th>
                                             <th>Nama</th>
